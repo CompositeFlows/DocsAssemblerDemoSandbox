@@ -1,0 +1,60 @@
+{
+    "key": "yFpALn00Kr  ",
+    "token": "Nanokalebluefin",
+    "name": "NanoKaleBlueFin",
+    "created": "2025-10-31T21:50:09.480Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/LeafyGreens/Ξ NanoKaleBlueFin/NanoKaleBlueFin.tspod",
+    "isPod": true,
+    "iText": "Link to 'NanoKaleBlueFin'",
+    "___rΩΩt___": {
+        "key": "yFpCnx02UT",
+        "nodes": [
+            {
+                "key": "yFpH1o01N0",
+                "order": 1,
+                "option": "BlueFin - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yFpPcg02Hq",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yFpT7Z00gv",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yFpCnx02UT",
+            "relativePath": "./δ steps/δ-yFpCnx02UT.tsstp"
+        },
+        {
+            "key": "δ-yFpH1o01N0",
+            "relativePath": "./δ steps/δ-yFpH1o01N0.tsstp"
+        },
+        {
+            "key": "δ-yFpPcg02Hq",
+            "relativePath": "./δ steps/δ-yFpPcg02Hq.tsstp"
+        },
+        {
+            "key": "δ-yFpT7Z00gv",
+            "relativePath": "./δ steps/δ-yFpT7Z00gv.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yFpYOd01EI",
+        "editorID": "car_31eab9a10b524e13bce9af00f448382e",
+        "ticks": 1761947501911
+    }
+}

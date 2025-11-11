@@ -1,0 +1,390 @@
+{
+    "key": "s7SMQM0ki   ",
+    "token": "Producttypes1000",
+    "name": "ProductTypes1000",
+    "created": "2025-08-04T16:07:48.683Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Ξ ProductTypes1000/ProductTypes1000.tsmap",
+    "iText": "Linkto 'ProduceTypes1000'",
+    "iExits": [
+        {
+            "key": "s7SMQM2ZQ",
+            "text": "Next",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "s7SMQM0M7",
+        "sharedAssetKey": "t8lv4J00wl",
+        "nodes": [
+            {
+                "key": "s7SMQM2PJ",
+                "order": 1,
+                "sharedAssetKey": "t8m0aV01gd",
+                "nodes": [
+                    {
+                        "key": "sAqzon02MS",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "s7SMQM1NM",
+                                "order": 1,
+                                "sharedAssetKey": "t92L4n00sb",
+                                "variable": "cropCategory",
+                                "nodes": [
+                                    {
+                                        "key": "s7SMQM1RC",
+                                        "order": 1,
+                                        "option": "Aromatic herbs",
+                                        "sharedAssetKey": "t8o8si01je",
+                                        "nodes": [
+                                            {
+                                                "key": "s7SMQM0rE",
+                                                "order": 1,
+                                                "iKey": "wqN5QP02Zh",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wqRle500YD",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wqOwpY00zX",
+                                                        "exitKey": "s7SMQM2ZQ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "s7SMQM2WR",
+                                        "order": 2,
+                                        "option": "Leafy greens",
+                                        "sharedAssetKey": "wtGYN101WD",
+                                        "nodes": [
+                                            {
+                                                "key": "wssnmm00Wb",
+                                                "order": 1,
+                                                "iKey": "wsqXK702Nl",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wst6Bn00rp",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wss8h901vX",
+                                                        "exitKey": "s7SMQM2ZQ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "s7SMQM1ja",
+                                        "order": 3,
+                                        "option": "Fruiting veg",
+                                        "sharedAssetKey": "wtJkJD00Cp",
+                                        "nodes": [
+                                            {
+                                                "key": "wtJjja017y",
+                                                "order": 1,
+                                                "iKey": "wtF0Ww02Ne",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wuhtux01o9",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wtJUdC01Gg",
+                                                        "exitKey": "s7SMQM2ZQ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "s7SMQM1LJ",
+                                        "order": 4,
+                                        "option": "Roots & stems",
+                                        "sharedAssetKey": "wtU5TC02PT",
+                                        "nodes": [
+                                            {
+                                                "key": "wtU59001iO",
+                                                "order": 1,
+                                                "iKey": "wtZF260ir",
+                                                "nodes": [
+                                                    {
+                                                        "key": "xAssJ600BR",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wtZF260zS",
+                                                        "exitKey": "s7SMQM2ZQ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "s7SMQM2Xm",
+                                        "order": 5,
+                                        "option": "Edible flowers & specialty greens",
+                                        "sharedAssetKey": "wtgbiP02I3",
+                                        "nodes": [
+                                            {
+                                                "key": "wtgbHd01cf",
+                                                "order": 1,
+                                                "iKey": "wtfKcq013p",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wth16H0056",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wtgm5X00HJ",
+                                                        "exitKey": "s7SMQM2ZQ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "s7SMQM0Jy",
+                                        "order": 6,
+                                        "option": "Aquatic plants & algae",
+                                        "sharedAssetKey": "wu17y300ov",
+                                        "nodes": [
+                                            {
+                                                "key": "wu16xI00hf",
+                                                "order": 1,
+                                                "iKey": "wtiaC602KY",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wu1FVt00BG",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wtu3Kb02LO",
+                                                        "exitKey": "s7SMQM2ZQ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "s7SMQM091",
+                                        "order": 7,
+                                        "option": "Mushrooms and fungi",
+                                        "sharedAssetKey": "wuHaL200R8",
+                                        "nodes": [
+                                            {
+                                                "key": "wuHZs001Go",
+                                                "order": 1,
+                                                "iKey": "wuNsj11BZ",
+                                                "nodes": [
+                                                    {
+                                                        "key": "xAt7Ll00uu",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wuNsj120p",
+                                                        "exitKey": "s7SMQM2ZQ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "s7SMQM1EN",
+                                        "order": 8,
+                                        "option": "Fish",
+                                        "sharedAssetKey": "wuUxKq00X7",
+                                        "nodes": [
+                                            {
+                                                "key": "wuUwd401f0",
+                                                "order": 1,
+                                                "iKey": "wuUGN800Oz",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wuV8c000ev",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wuUkWq01SA",
+                                                        "exitKey": "s7SMQM2ZQ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "s7SMQM00Z",
+                                        "order": 9,
+                                        "option": "Crustaceans",
+                                        "sharedAssetKey": "wuX8qb01vQ",
+                                        "nodes": [
+                                            {
+                                                "key": "wuX8PH00n2",
+                                                "order": 1,
+                                                "iKey": "wuWApl01TF",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wuXHtl00hN",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wuWb8O01KK",
+                                                        "exitKey": "s7SMQM2ZQ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "s7SMQM1wk",
+                                        "order": 10,
+                                        "option": "Molluscs",
+                                        "sharedAssetKey": "wuZX1D0125",
+                                        "nodes": [
+                                            {
+                                                "key": "wuZWiy00wP",
+                                                "order": 1,
+                                                "iKey": "wuYugT00Mx",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wuZjkv00TX",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wuZNti02E2",
+                                                        "exitKey": "s7SMQM2ZQ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "sArAE700Cz",
+                                "order": 2,
+                                "option": "GMO",
+                                "isLeaf": true,
+                                "isAncillary": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "t8lv4J00wl",
+            "relativePath": "../_shared/CropOptions.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "t8m0aV01gd",
+            "relativePath": "../_shared/FloraCategories.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "t8o8si01je",
+            "relativePath": "../_shared/AromaticHerbs.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-s7SMQM0rE",
+            "relativePath": "./δ steps/δ-s7SMQM0rE.tsstp"
+        },
+        {
+            "key": "δ-sArAE700Cz",
+            "relativePath": "./δ steps/δ-sArAE700Cz.tsstp"
+        },
+        {
+            "key": "δ-sAqzon02MS",
+            "relativePath": "./δ steps/δ-sAqzon02MS.tsstp"
+        },
+        {
+            "key": "t92L4n00sb",
+            "relativePath": "../_shared/SelectCropCategory.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "wtGYN101WD",
+            "relativePath": "../_shared/LeafyGreens.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wssnmm00Wb",
+            "relativePath": "./δ steps/δ-wssnmm00Wb.tsstp"
+        },
+        {
+            "key": "wtJkJD00Cp",
+            "relativePath": "../_shared/FruitingVegetables.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtJjja017y",
+            "relativePath": "./δ steps/δ-wtJjja017y.tsstp"
+        },
+        {
+            "key": "wtU5TC02PT",
+            "relativePath": "../_shared/RootsAndStems.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtU59001iO",
+            "relativePath": "./δ steps/δ-wtU59001iO.tsstp"
+        },
+        {
+            "key": "wtgbiP02I3",
+            "relativePath": "../_shared/EdibleFlowers.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtgbHd01cf",
+            "relativePath": "./δ steps/δ-wtgbHd01cf.tsstp"
+        },
+        {
+            "key": "wu17y300ov",
+            "relativePath": "../_shared/AquaticPlants.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wu16xI00hf",
+            "relativePath": "./δ steps/δ-wu16xI00hf.tsstp"
+        },
+        {
+            "key": "wuHaL200R8",
+            "relativePath": "../_shared/Mushrooms.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuHZs001Go",
+            "relativePath": "./δ steps/δ-wuHZs001Go.tsstp"
+        },
+        {
+            "key": "wuUxKq00X7",
+            "relativePath": "../_shared/Fish.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuUwd401f0",
+            "relativePath": "./δ steps/δ-wuUwd401f0.tsstp"
+        },
+        {
+            "key": "wuX8qb01vQ",
+            "relativePath": "../_shared/Crustaceans.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuX8PH00n2",
+            "relativePath": "./δ steps/δ-wuX8PH00n2.tsstp"
+        },
+        {
+            "key": "wuZX1D0125",
+            "relativePath": "../_shared/Molluscs.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuZWiy00wP",
+            "relativePath": "./δ steps/δ-wuZWiy00wP.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xBoiwm006M",
+        "editorID": "car_a5346fc594824dfba5f8b9fe26797dc6",
+        "ticks": 1760972065964
+    }
+}

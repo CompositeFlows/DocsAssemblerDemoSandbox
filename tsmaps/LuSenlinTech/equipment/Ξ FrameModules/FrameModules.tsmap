@@ -1,0 +1,50 @@
+{
+    "key": "s7LPpx1UH   ",
+    "token": "Framemodules",
+    "name": "FrameModules",
+    "created": "2025-08-06T12:13:11.880Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/equipment/Ξ FrameModules/FrameModules.tsmap",
+    "iText": "Link to 'FrameModules'",
+    "iExits": [
+        {
+            "key": "s7LPpx0rd",
+            "text": "Solo module",
+            "order": 1
+        },
+        {
+            "key": "s7LPpx09N",
+            "text": "Twin modules",
+            "order": 2
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "s7LPpx2Ln",
+        "variable": "moduleType",
+        "nodes": [
+            {
+                "key": "s7LPpx1Hw",
+                "order": 1,
+                "option": "Solo module",
+                "exitKey": "s7LPpx0rd"
+            },
+            {
+                "key": "s7LPpx1Fx",
+                "order": 2,
+                "option": "Twin modules",
+                "exitKey": "s7LPpx09N"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7LPpx2Ln",
+            "relativePath": "./δ steps/δ-q6coXJ01le.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xAod7f02OM",
+        "editorID": "car_8e8a04cb44c84d0cbedcaad969882026",
+        "ticks": 1760957267239
+    }
+}

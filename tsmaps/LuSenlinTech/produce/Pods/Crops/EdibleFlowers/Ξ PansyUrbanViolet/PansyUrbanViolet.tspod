@@ -1,0 +1,60 @@
+{
+    "key": "yQ8m8700Om  ",
+    "token": "Pansyurbanviolet",
+    "name": "PansyUrbanViolet",
+    "created": "2025-11-02T16:10:46.295Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ PansyUrbanViolet/PansyUrbanViolet.tspod",
+    "isPod": true,
+    "iText": "Link to 'PansyUrbanViolet'",
+    "___rΩΩt___": {
+        "key": "yQ8o7f003b",
+        "nodes": [
+            {
+                "key": "yQ8rRI00vG",
+                "order": 1,
+                "option": "Urban-Violet - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQ8yKX01Be",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQ91z700GS",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQ8o7f003b",
+            "relativePath": "./δ steps/δ-yQ8o7f003b.tsstp"
+        },
+        {
+            "key": "δ-yQ8rRI00vG",
+            "relativePath": "./δ steps/δ-yQ8rRI00vG.tsstp"
+        },
+        {
+            "key": "δ-yQ8yKX01Be",
+            "relativePath": "./δ steps/δ-yQ8yKX01Be.tsstp"
+        },
+        {
+            "key": "δ-yQ91z700GS",
+            "relativePath": "./δ steps/δ-yQ91z700GS.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQ97yc02Sl",
+        "editorID": "car_3dcb4562b6f74ca389938b30e3bdd0ca",
+        "ticks": 1762099930274
+    }
+}

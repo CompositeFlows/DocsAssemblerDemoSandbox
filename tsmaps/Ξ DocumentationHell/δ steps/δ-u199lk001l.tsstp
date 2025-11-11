@@ -1,0 +1,18 @@
+¬import el from "../../shared/externalLinks"
+
+
+### Choose Your Path to Learn More
+
+The best way to understand {{el.docsAssemblerExtension_link}} depends on your role. You can see it as a high-level solution or dive into the technical details.
+
+#### **Path 1: See the Big Picture & Results**
+*(For non-developers, managers, and anyone who wants to see the "what" before the "how")*
+*   [**What is the ultimate aim?**](#what-is-the-ultimate-aim) → See the vision for decision intelligence and large-scale knowledge management.
+*   [**This Website is *One* Guide**](#this-website-is-one-guide) → See a live demo of the system in action.
+*   [**See It in Action: A Complex Product Demo**](#see-it-in-action-a-complex-product-demo) → Interact with a practical example.
+
+#### **Path 2: For Developers & Technical Architects**
+*(For those who want to understand the technical philosophy and mechanics)*
+*   [**Designed for Developers, by Developers**](#designed-for-developers-by-developers) → Understand the core principles of ownership, familiarity, and zero lock-in.
+*   [**How It Works: The Building Blocks**](#how-it-works-the-building-blocks) → A detailed look at Maps, Variables, and the compilation process.
+

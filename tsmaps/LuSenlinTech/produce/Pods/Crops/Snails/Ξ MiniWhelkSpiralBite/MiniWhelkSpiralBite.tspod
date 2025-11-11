@@ -1,0 +1,60 @@
+{
+    "key": "yV3D070056  ",
+    "token": "Miniwhelkspiralbite",
+    "name": "MiniWhelkSpiralBite",
+    "created": "2025-11-03T12:20:01.299Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Snails/Ξ MiniWhelkSpiralBite/MiniWhelkSpiralBite.tspod",
+    "isPod": true,
+    "iText": "Link to 'MiniWhelkSpiralBite'",
+    "___rΩΩt___": {
+        "key": "yV3FFk00yU",
+        "nodes": [
+            {
+                "key": "yV3GlF002Y",
+                "order": 1,
+                "option": "Spiral Bite - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yV3SB201ct",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yV3V8n01Zl",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yV3FFk00yU",
+            "relativePath": "./δ steps/δ-yV3FFk00yU.tsstp"
+        },
+        {
+            "key": "δ-yV3GlF002Y",
+            "relativePath": "./δ steps/δ-yV3GlF002Y.tsstp"
+        },
+        {
+            "key": "δ-yV3SB201ct",
+            "relativePath": "./δ steps/δ-yV3SB201ct.tsstp"
+        },
+        {
+            "key": "δ-yV3V8n01Zl",
+            "relativePath": "./δ steps/δ-yV3V8n01Zl.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV3Z2V01gA",
+        "editorID": "car_0e62b113dc3442518c1220374c35b14b",
+        "ticks": 1762172486015
+    }
+}

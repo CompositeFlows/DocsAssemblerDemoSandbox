@@ -1,0 +1,60 @@
+{
+    "key": "yKWUn00188  ",
+    "token": "Waterspinachstemwslite",
+    "name": "WaterSpinachStemWSLite",
+    "created": "2025-11-01T17:07:21.494Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/RootsAndStems/Ξ WaterSpinachStemWSLite/WaterSpinachStemWSLite.tspod",
+    "isPod": true,
+    "iText": "Link to 'WaterSpinachStemWSLite'",
+    "___rΩΩt___": {
+        "key": "yKWXbZ01gd",
+        "nodes": [
+            {
+                "key": "yKWZLD00J8",
+                "order": 1,
+                "option": "WS-Lite - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKWf3n0151",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKWhvU00TY",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKWXbZ01gd",
+            "relativePath": "./δ steps/δ-yKWXbZ01gd.tsstp"
+        },
+        {
+            "key": "δ-yKWZLD00J8",
+            "relativePath": "./δ steps/δ-yKWZLD00J8.tsstp"
+        },
+        {
+            "key": "δ-yKWf3n0151",
+            "relativePath": "./δ steps/δ-yKWf3n0151.tsstp"
+        },
+        {
+            "key": "δ-yKWhvU00TY",
+            "relativePath": "./δ steps/δ-yKWhvU00TY.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKWnF90002",
+        "editorID": "car_16c39717d49142449fd8556bd0894f3c",
+        "ticks": 1762016912431
+    }
+}

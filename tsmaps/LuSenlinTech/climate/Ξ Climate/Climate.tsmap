@@ -1,0 +1,149 @@
+{
+    "key": "s7LPr60IG   ",
+    "token": "ClimateRNK574aX",
+    "name": "Climate",
+    "created": "2025-08-06T22:11:13.345Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/climate/Ξ Climate/Climate.tsmap",
+    "iText": "Link to 'Climate'",
+    "iExits": [
+        {
+            "key": "s7LPr60ZH",
+            "text": "Next",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "ynQOzj01da",
+        "nodes": [
+            {
+                "key": "s7LPr62Sr",
+                "order": 1,
+                "variable": "maxtemp",
+                "nodes": [
+                    {
+                        "key": "s7LPr62N4",
+                        "order": 1,
+                        "option": "10°C",
+                        "iKey": "s7LPkr2IB",
+                        "nodes": [
+                            {
+                                "key": "s7LPr61rb",
+                                "order": 1,
+                                "option": "Exit",
+                                "iExitKey": "s7LPkr1rO",
+                                "exitKey": "s7LPr60ZH"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "s7LPr629C",
+                        "order": 2,
+                        "option": "20°C",
+                        "iKey": "s7LPkr2IB",
+                        "nodes": [
+                            {
+                                "key": "s7LPr61cY",
+                                "order": 1,
+                                "option": "Exit",
+                                "iExitKey": "s7LPkr1rO",
+                                "exitKey": "s7LPr60ZH"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "s7LPr62Ye",
+                        "order": 3,
+                        "option": "30°C",
+                        "iKey": "s7LPkr2IB",
+                        "nodes": [
+                            {
+                                "key": "s7LPr60Xt",
+                                "order": 1,
+                                "option": "Exit",
+                                "iExitKey": "s7LPkr1rO",
+                                "exitKey": "s7LPr60ZH"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "s7LPr61b5",
+                        "order": 4,
+                        "option": "40°C",
+                        "iKey": "s7LPkr2IB",
+                        "nodes": [
+                            {
+                                "key": "s7LPr61v2",
+                                "order": 1,
+                                "option": "Exit",
+                                "iExitKey": "s7LPkr1rO",
+                                "exitKey": "s7LPr60ZH"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "s7LPr60xE",
+                        "order": 5,
+                        "option": "50°C",
+                        "iKey": "s7LPkr2IB",
+                        "nodes": [
+                            {
+                                "key": "s7LPr60O2",
+                                "order": 1,
+                                "option": "Exit",
+                                "iExitKey": "s7LPkr1rO",
+                                "exitKey": "s7LPr60ZH"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ynWh6n00th",
+                "order": 2,
+                "option": "Quick Reference",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7LPr62Sr",
+            "relativePath": "./δ steps/δ-q93IOD0G4.tsstp"
+        },
+        {
+            "key": "δ-s7LPr62N4",
+            "relativePath": "./δ steps/δ-q93Lp201zk.tsstp"
+        },
+        {
+            "key": "δ-s7LPr629C",
+            "relativePath": "./δ steps/δ-q93PhJ0010.tsstp"
+        },
+        {
+            "key": "δ-s7LPr62Ye",
+            "relativePath": "./δ steps/δ-q93R9J00kH.tsstp"
+        },
+        {
+            "key": "δ-s7LPr61b5",
+            "relativePath": "./δ steps/δ-q93SXP01vh.tsstp"
+        },
+        {
+            "key": "δ-s7LPr60xE",
+            "relativePath": "./δ steps/δ-q93TqM00Uw.tsstp"
+        },
+        {
+            "key": "δ-ynQOzj01da",
+            "relativePath": "./δ steps/δ-ynQOzj01da.tsstp"
+        },
+        {
+            "key": "δ-ynWh6n00th",
+            "relativePath": "./δ steps/δ-ynWh6n00th.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "ynXGh802Nm",
+        "editorID": "car_4b01f60f4b7f46808fce1a48e40d48ca",
+        "ticks": 1762445539386
+    }
+}

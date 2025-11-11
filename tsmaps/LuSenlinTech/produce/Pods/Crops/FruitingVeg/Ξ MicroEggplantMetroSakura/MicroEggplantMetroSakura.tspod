@@ -1,0 +1,60 @@
+{
+    "key": "yKO54I016p  ",
+    "token": "Microeggplantmetrosakura",
+    "name": "MicroEggplantMetroSakura",
+    "created": "2025-11-01T16:33:55.998Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ MicroEggplantMetroSakura/MicroEggplantMetroSakura.tspod",
+    "isPod": true,
+    "iText": "Link to 'MicroEggplantMetroSakura'",
+    "___rΩΩt___": {
+        "key": "yKO7wa01NL",
+        "nodes": [
+            {
+                "key": "yKOAxA0143",
+                "order": 1,
+                "option": "Metro-Sakura - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKOGyn013G",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKOKOF01cX",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKO7wa01NL",
+            "relativePath": "./δ steps/δ-yKO7wa01NL.tsstp"
+        },
+        {
+            "key": "δ-yKOAxA0143",
+            "relativePath": "./δ steps/δ-yKOAxA0143.tsstp"
+        },
+        {
+            "key": "δ-yKOGyn013G",
+            "relativePath": "./δ steps/δ-yKOGyn013G.tsstp"
+        },
+        {
+            "key": "δ-yKOKOF01cX",
+            "relativePath": "./δ steps/δ-yKOKOF01cX.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKOSLu01Rs",
+        "editorID": "car_e7a934e94c014529b7aa7723d6d8f14e",
+        "ticks": 1762014925502
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "key": "yUkaZk00wD  ",
+    "token": "Freshwaterprawnpearlking",
+    "name": "FreshwaterPrawnPearlKing",
+    "created": "2025-11-03T11:06:03.689Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Crustaceans/Ξ FreshwaterPrawnPearlKing/FreshwaterPrawnPearlKing.tspod",
+    "isPod": true,
+    "iText": "Link to 'FreshwaterPrawnPearlKing'",
+    "___rΩΩt___": {
+        "key": "yUkeOO00XX",
+        "nodes": [
+            {
+                "key": "yUkgcO02GU",
+                "order": 1,
+                "option": "Pearl-King - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUklUo01AH",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUkoQV01rc",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUkeOO00XX",
+            "relativePath": "./δ steps/δ-yUkeOO00XX.tsstp"
+        },
+        {
+            "key": "δ-yUkgcO02GU",
+            "relativePath": "./δ steps/δ-yUkgcO02GU.tsstp"
+        },
+        {
+            "key": "δ-yUklUo01AH",
+            "relativePath": "./δ steps/δ-yUklUo01AH.tsstp"
+        },
+        {
+            "key": "δ-yUkoQV01rc",
+            "relativePath": "./δ steps/δ-yUkoQV01rc.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUksin01oK",
+        "editorID": "car_a37e54e0caa140ab89176c87522368d8",
+        "ticks": 1762168033441
+    }
+}

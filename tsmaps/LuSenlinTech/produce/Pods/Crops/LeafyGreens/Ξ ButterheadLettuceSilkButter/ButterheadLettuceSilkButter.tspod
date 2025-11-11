@@ -1,0 +1,60 @@
+{
+    "key": "yG2sCb01tN  ",
+    "token": "Butterheadlettucesilkbutter",
+    "name": "ButterheadLettuceSilkButter",
+    "created": "2025-10-31T22:44:36.310Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/LeafyGreens/Ξ ButterheadLettuceSilkButter/ButterheadLettuceSilkButter.tspod",
+    "isPod": true,
+    "iText": "Link to 'ButterheadLettuceSilkButter'",
+    "___rΩΩt___": {
+        "key": "yG2vHl00C9",
+        "nodes": [
+            {
+                "key": "yG2yPd01S5",
+                "order": 1,
+                "option": "Silk-Butter - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yG35g102A0",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yG38H901II",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yG2vHl00C9",
+            "relativePath": "./δ steps/δ-yG2vHl00C9.tsstp"
+        },
+        {
+            "key": "δ-yG2yPd01S5",
+            "relativePath": "./δ steps/δ-yG2yPd01S5.tsstp"
+        },
+        {
+            "key": "δ-yG35g102A0",
+            "relativePath": "./δ steps/δ-yG35g102A0.tsstp"
+        },
+        {
+            "key": "δ-yG38H901II",
+            "relativePath": "./δ steps/δ-yG38H901II.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yG3D8x01Yt",
+        "editorID": "car_2bade9956f334774b34e9ad4676631a3",
+        "ticks": 1761950756807
+    }
+}

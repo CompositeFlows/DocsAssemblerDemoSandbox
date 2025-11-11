@@ -1,0 +1,39 @@
+¬import il from "../../shared/imageLinks"
+¬import el from "../../shared/externalLinks"
+
+
+### Full Diagnostics and Intellisense
+
+{{el.docsAssemblerExtension_link}} provides full language support:
+
+##### Validation
+
+- **Import statements** - checks that the statement is well formed and the file path points to an existing file and the file is free of errors.
+- **Variable references** - checks that it is well formed and the alias points to a valid import statement, and the variable exists within that imported file.
+- **Variable definitions** - checks it is well-formed and if it is relative url is checks the file exists (and on publish moves the file to the publish folder).
+
+##### Intellisense
+
+As you type, you get code completion help to build both the import statement and the variable references correctly, dramatically reducing typos and errors.
+
+You can easily navigate and understand your entire system. Right-clicking on any variable and selecting **'Go to Definition'** takes you directly to its source.
+
+{{il.goToVariableDefinition_image}}
+
+Here is the *imageLinks.tsvar* variable file itself. Notice how you can even reference variables *within* other variable definitions, creating a powerful, reusable hierarchy of content.
+
+{{il.imageLinksFile_image}}
+
+##### Diagnostics
+
+The system actively monitors for errors in real-time. If you reference a variable that doesn't exist, or a local url doesn't point to an existing file, {{el.docsAssemblerExtension_link}} immediately flags it with a clear diagnostic warning, preventing publication and guiding you to fix the issue.
+
+###### Example:
+
+The element below tries to reference the 'il.variable-does-not-exist'. Since this variable is not defined in the *imageLinks.tsvar* file, the system generates a precise error, ensuring content remains accurate and build processes aren't broken by missing references.
+
+{{il.fullDiagnosticsAndIntellisense_image}}
+
+This is a simple but powerful example of how {{el.docsAssemblerExtension_link}} applies software engineering principles - like encapsulation, single source of truth, and robust tooling - to documentation.
+
+It brings true software tooling to docs, with IntelliSense for variables, full validation before publish, and automatic handling of relative URLs that are defined as variables. This ensures any local files referenced by these URL variables are automatically discovered and copied to the publish folder, preventing broken links and ensuring robustness.

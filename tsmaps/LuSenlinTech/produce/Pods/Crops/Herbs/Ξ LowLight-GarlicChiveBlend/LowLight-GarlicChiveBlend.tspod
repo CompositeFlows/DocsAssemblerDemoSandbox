@@ -1,0 +1,60 @@
+{
+    "key": "yARTTc01RW  ",
+    "token": "Lowlightgarlicchiveblend",
+    "name": "LowLight-GarlicChiveBlend",
+    "created": "2025-10-30T23:44:41.448Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ LowLight-GarlicChiveBlend/LowLight-GarlicChiveBlend.tspod",
+    "isPod": true,
+    "iText": "Link to 'LowLight-GarlicChiveBlend'",
+    "___rΩΩt___": {
+        "key": "yARhu20039",
+        "nodes": [
+            {
+                "key": "yARkhH01NV",
+                "order": 1,
+                "option": "Chive Blend - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yARuM301Cp",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yARytP00du",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yARhu20039",
+            "relativePath": "./δ steps/δ-yARhu20039.tsstp"
+        },
+        {
+            "key": "δ-yARkhH01NV",
+            "relativePath": "./δ steps/δ-yARkhH01NV.tsstp"
+        },
+        {
+            "key": "δ-yARuM301Cp",
+            "relativePath": "./δ steps/δ-yARuM301Cp.tsstp"
+        },
+        {
+            "key": "δ-yARytP00du",
+            "relativePath": "./δ steps/δ-yARytP00du.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAS4QB012J",
+        "editorID": "car_7047ea73f4444708b5879fb278716c5b",
+        "ticks": 1761868023463
+    }
+}

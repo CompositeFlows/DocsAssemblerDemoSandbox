@@ -1,0 +1,60 @@
+{
+    "key": "yUfTx201yv  ",
+    "token": "Goldenbarbedible3",
+    "name": "GoldenBarbEdible3",
+    "created": "2025-11-03T10:45:46.585Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fish/Ξ GoldenBarbEdible3/GoldenBarbEdible3.tspod",
+    "isPod": true,
+    "iText": "Link to 'GoldenBarbEdible3'",
+    "___rΩΩt___": {
+        "key": "yUfX0m00nB",
+        "nodes": [
+            {
+                "key": "yUfYe901c5",
+                "order": 1,
+                "option": "Edible-3 - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUfgbZ00sZ",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUfjYF007r",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUfX0m00nB",
+            "relativePath": "./δ steps/δ-yUfX0m00nB.tsstp"
+        },
+        {
+            "key": "δ-yUfYe901c5",
+            "relativePath": "./δ steps/δ-yUfYe901c5.tsstp"
+        },
+        {
+            "key": "δ-yUfgbZ00sZ",
+            "relativePath": "./δ steps/δ-yUfgbZ00sZ.tsstp"
+        },
+        {
+            "key": "δ-yUfjYF007r",
+            "relativePath": "./δ steps/δ-yUfjYF007r.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUfnfV02aK",
+        "editorID": "car_5666b11668644031b1e3f6c3e7cda314",
+        "ticks": 1762166822377
+    }
+}

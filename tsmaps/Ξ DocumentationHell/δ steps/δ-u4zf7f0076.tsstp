@@ -1,0 +1,49 @@
+¬import il from "../../shared/imageLinks"
+¬import el from "../../shared/externalLinks"
+
+
+### Using Variables
+
+Variables in {{el.docsAssemblerExtension_link}} allow you to define reusable pieces of text or markdown in one place and reference them throughout your documentation.
+
+##### Defining a Variable
+
+Variables are defined in special variable files, which use the *.tsvar* file extension. When the {{el.docsAssemblerExtension_link}} extension is installed, {{el.vscode_link}} will recognize these files and provide syntax highlighting and IntelliSense as if they were standard Markdown.
+
+The syntax for defining a variable is straightforward. For a single line:
+
+{{il.inlineVariableDefinition_image}}
+
+e.g. 
+{{il.garden_image}}
+
+For a multi-line variable, such as a detailed note, you encapsulate the content:
+
+{{il.multlineVariableDefinition_image}}
+
+e.g. 
+{{il.safetyNode_image}}
+
+##### Using a Variable
+
+To use a variable, you must first import the file it is defined in. You can assign any convenient alias to the file during import.
+
+###### 1. Import the variable file
+At the very top of your map or step file. 
+Use the syntax:
+
+{{il.importFileAlias_image}}
+
+e.g.
+{{il.importStatements_image}}
+
+###### 2. Reference any variable
+From the imported file wherever you want the content to appear, using the syntax:
+
+{{il.fileAlias_image}}
+
+e.g.
+{{il.installationDiagram_image}}
+
+During the publish process, {{el.docsAssemblerExtension_link}} will automatically replace every {% raw %}{<{file_alias.variable_name}>}{% endraw %} reference with the value defined in the variable file.
+

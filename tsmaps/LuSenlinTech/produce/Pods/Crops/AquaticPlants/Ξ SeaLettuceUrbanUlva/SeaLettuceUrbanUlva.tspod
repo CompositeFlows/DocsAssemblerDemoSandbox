@@ -1,0 +1,60 @@
+{
+    "key": "y4dj0u00y6  ",
+    "token": "Sealettuceurbanulva",
+    "name": "SeaLettuceUrbanUlva",
+    "created": "2025-10-29T23:55:43.092Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Ξ SeaLettuceUrbanUlva/SeaLettuceUrbanUlva.tspod",
+    "isPod": true,
+    "iText": "Link to 'SeaLettuceUrbanUlva'",
+    "___rΩΩt___": {
+        "key": "y4dmID008y",
+        "nodes": [
+            {
+                "key": "y4dsNX00HO",
+                "order": 1,
+                "option": "Hydro-Pepper - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y4dumP01IN",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y4e2d400WX",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y4dmID008y",
+            "relativePath": "./δ steps/δ-y4dmID008y.tsstp"
+        },
+        {
+            "key": "δ-y4dsNX00HO",
+            "relativePath": "./δ steps/δ-y4dsNX00HO.tsstp"
+        },
+        {
+            "key": "δ-y4dumP01IN",
+            "relativePath": "./δ steps/δ-y4dumP01IN.tsstp"
+        },
+        {
+            "key": "δ-y4e2d400WX",
+            "relativePath": "./δ steps/δ-y4e2d400WX.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y4eAS5021g",
+        "editorID": "car_698b9575e90a4fb8bf77189089598c92",
+        "ticks": 1761782248565
+    }
+}

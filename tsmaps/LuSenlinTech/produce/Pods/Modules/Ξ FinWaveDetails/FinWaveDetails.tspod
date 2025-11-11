@@ -1,0 +1,59 @@
+{
+    "key": "xrYo9a02GN  ",
+    "token": "Finwavedetails",
+    "name": "FinWaveDetails",
+    "created": "2025-10-27T18:14:38.843Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ FinWaveDetails/FinWaveDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'FinWaveDetails'",
+    "___rΩΩt___": {
+        "key": "xrYqLV01AE",
+        "nodes": [
+            {
+                "key": "xrYxGC00Hi",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy2Egp00hF",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy2GcK02IW",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xrYqLV01AE",
+            "relativePath": "./δ steps/δ-xrYqLV01AE.tsstp"
+        },
+        {
+            "key": "δ-xrYxGC00Hi",
+            "relativePath": "./δ steps/δ-xrYxGC00Hi.tsstp"
+        },
+        {
+            "key": "δ-xy2Egp00hF",
+            "relativePath": "./δ steps/δ-xy2Egp00hF.tsstp"
+        },
+        {
+            "key": "δ-xy2GcK02IW",
+            "relativePath": "./δ steps/δ-xy2GcK02IW.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xy2Oeh01Ve",
+        "editorID": "car_13a42cdb8f454f9685066d58f4b9124d",
+        "ticks": 1761684588683
+    }
+}

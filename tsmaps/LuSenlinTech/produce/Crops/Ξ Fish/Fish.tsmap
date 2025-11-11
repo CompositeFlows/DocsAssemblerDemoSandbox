@@ -1,0 +1,113 @@
+{
+    "key": "wuUGN800Oz  ",
+    "token": "Fish",
+    "name": "Fish",
+    "created": "2025-10-17T15:46:31.850Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ Fish/Fish.tsmap",
+    "iText": "Link to 'Fish'",
+    "iExits": [
+        {
+            "key": "wuUkWq01SA",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wuUHRF00JV",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wuUNQF01k4",
+                "order": 1,
+                "option": "Nano-Tilapia ‘T-Civic’",
+                "exitKey": "wuUkWq01SA",
+                "podKey": "yUcP2N02Co",
+                "podText": "Link to 'NanoTilapiaTCivic'"
+            },
+            {
+                "key": "wuUYHd029B",
+                "order": 2,
+                "option": "Blue Nile Tilapia ‘BlueBite’",
+                "exitKey": "wuUkWq01SA",
+                "podKey": "yUdPEL01nr",
+                "podText": "Link to 'BlueNileTilapiaBlueBite'"
+            },
+            {
+                "key": "wuUZTf00X1",
+                "order": 3,
+                "option": "City Catfish ‘Air-Breather Mini’",
+                "exitKey": "wuUkWq01SA",
+                "podKey": "yUdw0W02B1",
+                "podText": "Link to 'CityCatfishAirBreatherMini'"
+            },
+            {
+                "key": "wuUaiy015Y",
+                "order": 4,
+                "option": "Mini Channel Catfish ‘Pocket Stripe’",
+                "exitKey": "wuUkWq01SA",
+                "podKey": "yUeRBW00SQ",
+                "podText": "Link to 'MiniChannelCatfishPocketStripe'"
+            },
+            {
+                "key": "wuUblJ00aQ",
+                "order": 5,
+                "option": "Herbivore Goldfish ‘FoodFin’",
+                "exitKey": "wuUkWq01SA",
+                "podKey": "yUf00k00UK",
+                "podText": "Link to 'HerbivoreGoldfishFoodFin'"
+            },
+            {
+                "key": "wuUcmj02Iq",
+                "order": 6,
+                "option": "Golden Barb ‘Edible-3’",
+                "exitKey": "wuUkWq01SA",
+                "podKey": "yUfTx201yv",
+                "podText": "Link to 'GoldenBarbEdible3'"
+            },
+            {
+                "key": "wuUeWD004F",
+                "order": 7,
+                "option": "Urban Koi ‘Quick-Koi’",
+                "exitKey": "wuUkWq01SA",
+                "podKey": "yUfz7p003B",
+                "podText": "Link to 'UrbanKoiQuickKoi'"
+            },
+            {
+                "key": "wuUfsv01uE",
+                "order": 8,
+                "option": "Dwarf Rainbow Trout ‘CoolStream’",
+                "exitKey": "wuUkWq01SA",
+                "podKey": "yUggLn00wA",
+                "podText": "Link to 'DwarfRainbowTroutCoolStream'"
+            },
+            {
+                "key": "wuUgzG00w2",
+                "order": 9,
+                "option": "Nano Carp ‘Silver Byte’",
+                "exitKey": "wuUkWq01SA",
+                "podKey": "yUh9xO018b",
+                "podText": "Link to 'NanoCarpSilverByte'"
+            },
+            {
+                "key": "wuUhxs02LT",
+                "order": 10,
+                "option": "Micro Gourami ‘Protein Pearl’",
+                "exitKey": "wuUkWq01SA",
+                "podKey": "yUhggN02Eg",
+                "podText": "Link to 'MicroGouramiProteinPearl'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wuUHRF00JV",
+            "relativePath": "./δ steps/δ-wuUHRF00JV.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUiFoq00nl",
+        "editorID": "car_6da04de90bd54a488bd5b786719be3d9",
+        "ticks": 1762167407244
+    }
+}

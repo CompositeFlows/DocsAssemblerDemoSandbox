@@ -1,0 +1,60 @@
+{
+    "key": "y4gBZo01jG  ",
+    "token": "Salicorniaminimarsh",
+    "name": "SalicorniaMiniMarsh",
+    "created": "2025-10-30T00:05:29.545Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Ξ SalicorniaMiniMarsh/SalicorniaMiniMarsh.tspod",
+    "isPod": true,
+    "iText": "Link to 'SalicorniaMiniMarsh'",
+    "___rΩΩt___": {
+        "key": "y4gE8R01FS",
+        "nodes": [
+            {
+                "key": "y4gKcm00Mj",
+                "order": 1,
+                "option": "Mini-Marsh - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y4gOMq01kF",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y4gd3F01C1",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y4gE8R01FS",
+            "relativePath": "./δ steps/δ-y4gE8R01FS.tsstp"
+        },
+        {
+            "key": "δ-y4gKcm00Mj",
+            "relativePath": "./δ steps/δ-y4gKcm00Mj.tsstp"
+        },
+        {
+            "key": "δ-y4gOMq01kF",
+            "relativePath": "./δ steps/δ-y4gOMq01kF.tsstp"
+        },
+        {
+            "key": "δ-y4gd3F01C1",
+            "relativePath": "./δ steps/δ-y4gd3F01C1.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y4gyf402AV",
+        "editorID": "car_5e77ce6b3de24df79e351543b3757b13",
+        "ticks": 1761782918226
+    }
+}

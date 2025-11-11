@@ -1,0 +1,23 @@
+
+¬halRobtics_url: https://hal-robotics.com
+¬halRobotics_link: [HAL Robotics]({{halRobtics_url}})
+
+¬luSenLinName: Lǜ Sēnlín
+¬luSenLinNameTech: {{luSenLinName}} Technologies
+¬docsAssemblerName: Docs Assembler
+¬docsAssemblerExtension_url: https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler
+¬docsAssemblerExtension_link: [{{docsAssemblerName}}]({{docsAssemblerExtension_url}})
+¬docsAssemblerPossessiveExtension_link: [{{docsAssemblerName}}'s]({{docsAssemblerExtension_url}})
+
+¬docsAssemblerDemoRepo_url: https://github.com/CompositeFlows/DocsAssemblerDemo
+¬docsAssemblerDemoRepo_link: [Docs Assembler Demo repo]({{docsAssemblerDemoRepo_url}})
+
+¬docsAssemblerDemoSandboxRepo_url: https://github.com/CompositeFlows/DocsAssemblerDemoSandbox
+¬docsAssemblerDemoSandboxRepo_link: [Docs Assembler Demo Sandbox repo]({{docsAssemblerDemoSandboxRepo_url}})
+
+¬githubPages_url: https://docs.github.com/en/pages
+¬githubPages_link: [GitHub Pages]({{githubPages_url}})
+
+¬vscode_url: https://code.visualstudio.com/
+¬vscode_link: [Visual Studio Code]({{vscode_url}})
+

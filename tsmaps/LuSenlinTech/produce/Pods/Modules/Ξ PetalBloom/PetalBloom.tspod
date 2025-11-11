@@ -1,0 +1,40 @@
+{
+    "key": "wkKS2O015j  ",
+    "token": "Petalbloom",
+    "name": "PetalBloom",
+    "created": "2025-10-15T22:04:50.052Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ PetalBloom/PetalBloom.tspod",
+    "isPod": true,
+    "iText": "Link to 'PetalBloom'",
+    "___rΩΩt___": {
+        "key": "wkKTNg022T",
+        "sharedAssetKey": "x4aen401tc",
+        "nodes": [
+            {
+                "key": "wkKv6P00CM",
+                "order": 1,
+                "option": "PetalBloom details",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "xrdmsU01vl"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4aen401tc",
+            "relativePath": "../../../_shared/CategoryTables/PetalBloomTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wkKv6P00CM",
+            "relativePath": "./δ steps/δ-wkKv6P00CM.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2qttT02JW",
+        "editorID": "me_0bb200da5ddd4b5792eaafd0c0a83f05",
+        "ticks": 1761755730507
+    }
+}

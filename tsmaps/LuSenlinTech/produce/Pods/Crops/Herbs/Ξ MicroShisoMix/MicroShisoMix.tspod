@@ -1,0 +1,60 @@
+{
+    "key": "yAPygj01Uf  ",
+    "token": "Microshisomix",
+    "name": "MicroShisoMix",
+    "created": "2025-10-30T23:38:44.769Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ MicroShisoMix/MicroShisoMix.tspod",
+    "isPod": true,
+    "iText": "Link to 'MicroShisoMix'",
+    "___rΩΩt___": {
+        "key": "yAQ0Xg01RX",
+        "nodes": [
+            {
+                "key": "yAQ2h701t2",
+                "order": 1,
+                "option": "Micro-Shiso Mix - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yAQCUs01fs",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yAQFh8014P",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yAQ0Xg01RX",
+            "relativePath": "./δ steps/δ-yAQ0Xg01RX.tsstp"
+        },
+        {
+            "key": "δ-yAQ2h701t2",
+            "relativePath": "./δ steps/δ-yAQ2h701t2.tsstp"
+        },
+        {
+            "key": "δ-yAQCUs01fs",
+            "relativePath": "./δ steps/δ-yAQCUs01fs.tsstp"
+        },
+        {
+            "key": "δ-yAQFh8014P",
+            "relativePath": "./δ steps/δ-yAQFh8014P.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAQKsP01rv",
+        "editorID": "car_cdd02f64475744a5affa26c6560c4def",
+        "ticks": 1761867610061
+    }
+}

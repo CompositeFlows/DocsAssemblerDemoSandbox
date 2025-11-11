@@ -1,0 +1,60 @@
+{
+    "key": "yUloHg01SO  ",
+    "token": "Amanoshrimpcleansweepurban",
+    "name": "AmanoShrimpCleanSweepUrban",
+    "created": "2025-11-03T11:10:54.712Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Crustaceans/Ξ AmanoShrimpCleanSweepUrban/AmanoShrimpCleanSweepUrban.tspod",
+    "isPod": true,
+    "iText": "Link to 'AmanoShrimpCleanSweepUrban'",
+    "___rΩΩt___": {
+        "key": "yUlrSK00ZD",
+        "nodes": [
+            {
+                "key": "yUltJi001H",
+                "order": 1,
+                "option": "CleanSweep Urban - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUm0wL00s8",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUm3VR00HH",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUlrSK00ZD",
+            "relativePath": "./δ steps/δ-yUlrSK00ZD.tsstp"
+        },
+        {
+            "key": "δ-yUltJi001H",
+            "relativePath": "./δ steps/δ-yUltJi001H.tsstp"
+        },
+        {
+            "key": "δ-yUm0wL00s8",
+            "relativePath": "./δ steps/δ-yUm0wL00s8.tsstp"
+        },
+        {
+            "key": "δ-yUm3VR00HH",
+            "relativePath": "./δ steps/δ-yUm3VR00HH.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUm7K700qL",
+        "editorID": "car_78a8577c8fe344b49a85b0d88a873a4b",
+        "ticks": 1762168327899
+    }
+}

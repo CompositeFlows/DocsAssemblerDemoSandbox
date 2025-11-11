@@ -1,0 +1,53 @@
+---
+layout: null
+permalink: /DocumentationHell_frags/zFvFgD1Ez.html
+---
+
+
+<!-- tsFragmentRenderComment {"id":"zFvFgD1Ez","topLevelMapKey":"sIhxfx02EB","mapKeyChain":"sIhxfx02EB","guideID":"zFvFbi2I9","parentFragmentID":"zFvFff26K","chartKey":"sIhxfx02EB","isLeaf":true,"options":[]} -->
+
+### Using Variables
+
+Variables in [Docs Assembler](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler) allow you to define reusable pieces of text or markdown in one place and reference them throughout your documentation.
+
+##### Defining a Variable
+
+Variables are defined in special variable files, which use the *.tsvar* file extension. When the [Docs Assembler](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler) extension is installed, [Visual Studio Code](https://code.visualstudio.com/) will recognize these files and provide syntax highlighting and IntelliSense as if they were standard Markdown.
+
+The syntax for defining a variable is straightforward. For a single line:
+
+[<img class="nt-fr-small-image" src="/assets/images/VariableDefinitionInline.png">](/assets/images/VariableDefinitionInline.png)
+
+e.g. 
+[<img class="nt-fr-small-image" src="/assets/images/GardenLink.png">](/assets/images/GardenLink.png)
+
+For a multi-line variable, such as a detailed note, you encapsulate the content:
+
+[<img class="nt-fr-small-image" src="/assets/images/VariableDefinitionMultline.png">](/assets/images/VariableDefinitionMultline.png)
+
+e.g. 
+[<img class="nt-fr-small-image" src="/assets/images/SafetyNode.png">](/assets/images/SafetyNode.png)
+
+##### Using a Variable
+
+To use a variable, you must first import the file it is defined in. You can assign any convenient alias to the file during import.
+
+###### 1. Import the variable file
+At the very top of your map or step file. 
+Use the syntax:
+
+[<img class="nt-fr-small-image" src="/assets/images/ImportFileAlias.png">](/assets/images/ImportFileAlias.png)
+
+e.g.
+[<img class="nt-fr-small-image" src="/assets/images/ImportStatements.png">](/assets/images/ImportStatements.png)
+
+###### 2. Reference any variable
+From the imported file wherever you want the content to appear, using the syntax:
+
+[<img class="nt-fr-small-image" src="/assets/images/FileAlias.png">](/assets/images/FileAlias.png)
+
+e.g.
+[<img class="nt-fr-small-image" src="/assets/images/InstallationDiagram.png">](/assets/images/InstallationDiagram.png)
+
+During the publish process, [Docs Assembler](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler) will automatically replace every {% raw %}{{file_alias.variable_name}}{% endraw %} reference with the value defined in the variable file.
+

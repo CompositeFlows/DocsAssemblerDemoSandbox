@@ -1,0 +1,59 @@
+{
+    "key": "xrZvS001KG  ",
+    "token": "Fruitforgedetails",
+    "name": "FruitForgeDetails",
+    "created": "2025-10-27T18:19:05.221Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ FruitForgeDetails/FruitForgeDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'FruitForgeDetails'",
+    "___rΩΩt___": {
+        "key": "xrZwvp00VM",
+        "nodes": [
+            {
+                "key": "xra2eU01r9",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy2TLI00ND",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy2Uav02X1",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xrZwvp00VM",
+            "relativePath": "./δ steps/δ-xrZwvp00VM.tsstp"
+        },
+        {
+            "key": "δ-xra2eU01r9",
+            "relativePath": "./δ steps/δ-xra2eU01r9.tsstp"
+        },
+        {
+            "key": "δ-xy2TLI00ND",
+            "relativePath": "./δ steps/δ-xy2TLI00ND.tsstp"
+        },
+        {
+            "key": "δ-xy2Uav02X1",
+            "relativePath": "./δ steps/δ-xy2Uav02X1.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2priO04Q",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1761755483804
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "key": "yQlXic02A8  ",
+    "token": "Maitakefractalfeathers",
+    "name": "MaitakeFractalFeathers",
+    "created": "2025-11-02T18:44:45.690Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ MaitakeFractalFeathers/MaitakeFractalFeathers.tspod",
+    "isPod": true,
+    "iText": "Link to 'MaitakeFractalFeathers'",
+    "___rΩΩt___": {
+        "key": "yQlZqL019A",
+        "nodes": [
+            {
+                "key": "yQlcbk023E",
+                "order": 1,
+                "option": "Fractal Feathers - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQljUA02Cu",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQlmRu019G",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQlZqL019A",
+            "relativePath": "./δ steps/δ-yQlZqL019A.tsstp"
+        },
+        {
+            "key": "δ-yQlcbk023E",
+            "relativePath": "./δ steps/δ-yQlcbk023E.tsstp"
+        },
+        {
+            "key": "δ-yQljUA02Cu",
+            "relativePath": "./δ steps/δ-yQljUA02Cu.tsstp"
+        },
+        {
+            "key": "δ-yQlmRu019G",
+            "relativePath": "./δ steps/δ-yQlmRu019G.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQlqLU001m",
+        "editorID": "car_2ba20c360c7e4888a1adb389e1b63163",
+        "ticks": 1762109157292
+    }
+}

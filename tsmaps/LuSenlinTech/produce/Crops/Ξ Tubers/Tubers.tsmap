@@ -1,0 +1,65 @@
+{
+    "key": "wtRvcU00Xt  ",
+    "token": "Tubers",
+    "name": "Tubers",
+    "created": "2025-10-17T11:30:59.086Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ Tubers/Tubers.tsmap",
+    "iText": "Link to 'Tubers'",
+    "iExits": [
+        {
+            "key": "wtTsxD00hr",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wtS1WU029T",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wtSOzr01VF",
+                "order": 1,
+                "option": "Baby Sweet Potato ‘Pocket Yama’",
+                "exitKey": "wtTsxD00hr",
+                "podKey": "yKVysx01sK",
+                "podText": "Link to 'BabySweetPotatoPocketYama'"
+            },
+            {
+                "key": "wtSS5y00HQ",
+                "order": 2,
+                "option": "Baby Ginger ‘Zingy Core’",
+                "exitKey": "wtTsxD00hr",
+                "podKey": "yKWya700Ch",
+                "podText": "Link to 'BabyGingerZingyCore'"
+            },
+            {
+                "key": "wtSTh501sL",
+                "order": 3,
+                "option": "Young Lotus Root ‘Urban Lotus’",
+                "exitKey": "wtTsxD00hr",
+                "podKey": "yKXNWc00FO",
+                "podText": "Link to 'YoungLotusRootUrbanLotus'"
+            },
+            {
+                "key": "wtSVLH01Ke",
+                "order": 4,
+                "option": "Dwarf Taro ‘Taro-Tiny’",
+                "exitKey": "wtTsxD00hr",
+                "podKey": "yKXx2c01Le",
+                "podText": "Link to 'DwarfTaroTaroTiny'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wtS1WU029T",
+            "relativePath": "./δ steps/δ-wtS1WU029T.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV5LP4016q",
+        "editorID": "car_00009a1a71514149b7e6cde27cc55662",
+        "ticks": 1762172910254
+    }
+}

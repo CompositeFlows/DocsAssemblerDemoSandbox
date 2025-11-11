@@ -1,0 +1,60 @@
+{
+    "key": "yG5OYS02Ty  ",
+    "token": "Rainbowswisschardpixelstem",
+    "name": "RainbowSwissChardPixelStem",
+    "created": "2025-10-31T22:54:37.329Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/LeafyGreens/Ξ RainbowSwissChardPixelStem/RainbowSwissChardPixelStem.tspod",
+    "isPod": true,
+    "iText": "Link to 'RainbowSwissChardPixelStem'",
+    "___rΩΩt___": {
+        "key": "yG5SoB004S",
+        "nodes": [
+            {
+                "key": "yG5iTz012E",
+                "order": 1,
+                "option": "Pixel-Stem - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yG5pwg023v",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yG5tAW017W",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yG5SoB004S",
+            "relativePath": "./δ steps/δ-yG5SoB004S.tsstp"
+        },
+        {
+            "key": "δ-yG5iTz012E",
+            "relativePath": "./δ steps/δ-yG5iTz012E.tsstp"
+        },
+        {
+            "key": "δ-yG5pwg023v",
+            "relativePath": "./δ steps/δ-yG5pwg023v.tsstp"
+        },
+        {
+            "key": "δ-yG5tAW017W",
+            "relativePath": "./δ steps/δ-yG5tAW017W.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yG5y2W00ii",
+        "editorID": "car_6c3fc65b0cc6432c995ac5569f2d2568",
+        "ticks": 1761951413732
+    }
+}

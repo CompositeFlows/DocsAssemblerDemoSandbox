@@ -1,0 +1,60 @@
+{
+    "key": "yQCOvW00N0  ",
+    "token": "Sorrellemonarrow",
+    "name": "SorrelLemonArrow",
+    "created": "2025-11-02T16:25:10.414Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ SorrelLemonArrow/SorrelLemonArrow.tspod",
+    "isPod": true,
+    "iText": "Link to 'SorrelLemonArrow'",
+    "___rΩΩt___": {
+        "key": "yQCQyG00J1",
+        "nodes": [
+            {
+                "key": "yQCTDa02bD",
+                "order": 1,
+                "option": "Lemon Arrow - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQCa1A01HE",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQCdGR00KJ",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQCQyG00J1",
+            "relativePath": "./δ steps/δ-yQCQyG00J1.tsstp"
+        },
+        {
+            "key": "δ-yQCTDa02bD",
+            "relativePath": "./δ steps/δ-yQCTDa02bD.tsstp"
+        },
+        {
+            "key": "δ-yQCa1A01HE",
+            "relativePath": "./δ steps/δ-yQCa1A01HE.tsstp"
+        },
+        {
+            "key": "δ-yQCdGR00KJ",
+            "relativePath": "./δ steps/δ-yQCdGR00KJ.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQCi7q00Dv",
+        "editorID": "car_de55498613994cb98b56cfaf4a03cab1",
+        "ticks": 1762100784214
+    }
+}

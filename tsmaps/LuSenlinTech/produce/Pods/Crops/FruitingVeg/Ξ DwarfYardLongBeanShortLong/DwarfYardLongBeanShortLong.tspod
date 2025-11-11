@@ -1,0 +1,60 @@
+{
+    "key": "yKQtdo01ol  ",
+    "token": "Dwarfyardlongbeanshortlong",
+    "name": "DwarfYardLongBeanShortLong",
+    "created": "2025-11-01T16:45:07.056Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ DwarfYardLongBeanShortLong/DwarfYardLongBeanShortLong.tspod",
+    "isPod": true,
+    "iText": "Link to 'DwarfYardLongBeanShortLong'",
+    "___rΩΩt___": {
+        "key": "yKQxRi01MF",
+        "nodes": [
+            {
+                "key": "yKQzhS01Hq",
+                "order": 1,
+                "option": "Short-Long - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKR3wQ00CP",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKR6U3023n",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKQxRi01MF",
+            "relativePath": "./δ steps/δ-yKQxRi01MF.tsstp"
+        },
+        {
+            "key": "δ-yKQzhS01Hq",
+            "relativePath": "./δ steps/δ-yKQzhS01Hq.tsstp"
+        },
+        {
+            "key": "δ-yKR3wQ00CP",
+            "relativePath": "./δ steps/δ-yKR3wQ00CP.tsstp"
+        },
+        {
+            "key": "δ-yKR6U3023n",
+            "relativePath": "./δ steps/δ-yKR6U3023n.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKRBGK00dh",
+        "editorID": "car_43c6ca0db11040baaf55d577bd5649bf",
+        "ticks": 1762015574792
+    }
+}

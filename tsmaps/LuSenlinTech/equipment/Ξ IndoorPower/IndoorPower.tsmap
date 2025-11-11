@@ -1,0 +1,75 @@
+{
+    "key": "ytJKIf021t  ",
+    "token": "Indoorpower",
+    "name": "IndoorPower",
+    "created": "2025-11-07T15:54:34.669Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/equipment/Ξ IndoorPower/IndoorPower.tsmap",
+    "iText": "Link to 'IndoorPower'",
+    "iExits": [
+        {
+            "key": "ytLNSq01qu",
+            "text": "Has power supply",
+            "order": 1
+        },
+        {
+            "key": "ytLP1Q00bO",
+            "text": "No power supply",
+            "order": 2
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "ytJMaY001o",
+        "sharedAssetKey": "ytKL1902Qo",
+        "nodes": [
+            {
+                "key": "ytJTtl00go",
+                "order": 1,
+                "sharedAssetKey": "ytL7tc02ZU",
+                "variable": "powerSupply",
+                "nodes": [
+                    {
+                        "key": "ytL544007t",
+                        "order": 1,
+                        "option": "Yes",
+                        "exitKey": "ytLNSq01qu"
+                    },
+                    {
+                        "key": "ytLBcR02Kr",
+                        "order": 2,
+                        "option": "No",
+                        "exitKey": "ytLP1Q00bO"
+                    }
+                ]
+            },
+            {
+                "key": "ytKcxS005o",
+                "order": 2,
+                "option": "SolisCell™",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "ytKL1902Qo",
+            "relativePath": "../_shared/PowerIntro.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "ytL7tc02ZU",
+            "relativePath": "../_shared/PowerQuestion.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-ytKcxS005o",
+            "relativePath": "./δ steps/δ-ytKcxS005o.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "z0eKbI00Zc",
+        "editorID": "me_1d6ba2503e8d4e5ebb5ebbdb4dc077cb",
+        "ticks": 1762639315064
+    }
+}

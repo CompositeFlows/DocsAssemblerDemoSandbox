@@ -1,0 +1,60 @@
+{
+    "key": "yKSOs401hY  ",
+    "token": "Fingercarrotneon5",
+    "name": "FingerCarrotNeon5",
+    "created": "2025-11-01T16:51:05.433Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/RootsAndStems/Ξ FingerCarrotNeon5/FingerCarrotNeon5.tspod",
+    "isPod": true,
+    "iText": "Link to 'FingerCarrotNeon5'",
+    "___rΩΩt___": {
+        "key": "yKSRic01v4",
+        "nodes": [
+            {
+                "key": "yKSUPQ01gu",
+                "order": 1,
+                "option": "Neon 5 - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKSYHt00Kq",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKScwF00jA",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKSRic01v4",
+            "relativePath": "./δ steps/δ-yKSRic01v4.tsstp"
+        },
+        {
+            "key": "δ-yKSUPQ01gu",
+            "relativePath": "./δ steps/δ-yKSUPQ01gu.tsstp"
+        },
+        {
+            "key": "δ-yKSYHt00Kq",
+            "relativePath": "./δ steps/δ-yKSYHt00Kq.tsstp"
+        },
+        {
+            "key": "δ-yKScwF00jA",
+            "relativePath": "./δ steps/δ-yKScwF00jA.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKShBV02aU",
+        "editorID": "car_c970dfd8346c41a3af6bd81d4303855e",
+        "ticks": 1762015935829
+    }
+}

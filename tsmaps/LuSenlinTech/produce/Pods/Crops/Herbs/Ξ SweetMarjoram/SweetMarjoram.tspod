@@ -1,0 +1,60 @@
+{
+    "key": "yAUiRr01z4  ",
+    "token": "Sweetmarjoram",
+    "name": "SweetMarjoram",
+    "created": "2025-10-30T23:57:33.984Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ SweetMarjoram/SweetMarjoram.tspod",
+    "isPod": true,
+    "iText": "Link to 'SweetMarjoram'",
+    "___rΩΩt___": {
+        "key": "yAUkDf00aS",
+        "nodes": [
+            {
+                "key": "yAUmYC01if",
+                "order": 1,
+                "option": "Marj-Mini - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yAUu3Q01FO",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yAUwwE01Kx",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yAUkDf00aS",
+            "relativePath": "./δ steps/δ-yAUkDf00aS.tsstp"
+        },
+        {
+            "key": "δ-yAUmYC01if",
+            "relativePath": "./δ steps/δ-yAUmYC01if.tsstp"
+        },
+        {
+            "key": "δ-yAUu3Q01FO",
+            "relativePath": "./δ steps/δ-yAUu3Q01FO.tsstp"
+        },
+        {
+            "key": "δ-yAUwwE01Kx",
+            "relativePath": "./δ steps/δ-yAUwwE01Kx.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAV1vM01PQ",
+        "editorID": "car_2919c010f94c4a65a60130a64c1c630f",
+        "ticks": 1761868728848
+    }
+}

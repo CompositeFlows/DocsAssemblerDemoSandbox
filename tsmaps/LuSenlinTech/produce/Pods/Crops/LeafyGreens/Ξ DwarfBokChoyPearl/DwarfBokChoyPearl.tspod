@@ -1,0 +1,60 @@
+{
+    "key": "yG1Lpk01R5  ",
+    "token": "Dwarfbokchoypearl",
+    "name": "DwarfBokChoyPearl",
+    "created": "2025-10-31T22:38:33.556Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/LeafyGreens/Ξ DwarfBokChoyPearl/DwarfBokChoyPearl.tspod",
+    "isPod": true,
+    "iText": "Link to 'DwarfBokChoyPearl'",
+    "___rΩΩt___": {
+        "key": "yG1Pdn024k",
+        "nodes": [
+            {
+                "key": "yG1SJu00Oi",
+                "order": 1,
+                "option": "Pearl - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yG1dDd01W9",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yG1fkW01Jh",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yG1Pdn024k",
+            "relativePath": "./δ steps/δ-yG1Pdn024k.tsstp"
+        },
+        {
+            "key": "δ-yG1SJu00Oi",
+            "relativePath": "./δ steps/δ-yG1SJu00Oi.tsstp"
+        },
+        {
+            "key": "δ-yG1dDd01W9",
+            "relativePath": "./δ steps/δ-yG1dDd01W9.tsstp"
+        },
+        {
+            "key": "δ-yG1fkW01Jh",
+            "relativePath": "./δ steps/δ-yG1fkW01Jh.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yG1nCS00bt",
+        "editorID": "car_23102edebeae43b8a99fc3600c06aa15",
+        "ticks": 1761950418752
+    }
+}

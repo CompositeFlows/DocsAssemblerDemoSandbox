@@ -1,0 +1,129 @@
+{
+    "key": "wtF0Ww02Ne  ",
+    "token": "Fruitingveg",
+    "name": "FruitingVeg",
+    "created": "2025-10-17T10:39:39.698Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ FruitingVeg/FruitingVeg.tsmap",
+    "iText": "Link to 'FruitingVeg'",
+    "iExits": [
+        {
+            "key": "wtJUdC01Gg",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wtF2ho00GM",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wtF9Hp01Js",
+                "order": 1,
+                "option": "Patio Cherry Tomato ‘Sun-Dot’",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yIgWL3005J",
+                "podText": "Link to 'PatioCherryTomatoSunDot'"
+            },
+            {
+                "key": "wtJExk00Ey",
+                "order": 2,
+                "option": "Micro Roma Tomato ‘Pixel-Plum’",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yIhbjb01U8",
+                "podText": "Link to 'MicroRomaTomatoPixelPlum'"
+            },
+            {
+                "key": "wtJG6n01TO",
+                "order": 3,
+                "option": "Snack Pepper ‘Metro-Sweet’",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yIiYh601iC",
+                "podText": "Link to 'SnackPepperMetroSweet'"
+            },
+            {
+                "key": "wtJI4e01I5",
+                "order": 4,
+                "option": "City Chili ‘FireDot’ - compact hot pepper",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yIjVPO00TV",
+                "podText": "Link to 'CityChiliFireDot'"
+            },
+            {
+                "key": "wtJJIU00Cd",
+                "order": 5,
+                "option": "Mini Cucumber ‘Rail-Runner’",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yIk5Yi022q",
+                "podText": "Link to 'MiniCucumberRailRunner'"
+            },
+            {
+                "key": "wtJKfR02Pn",
+                "order": 6,
+                "option": "Dwarf Zucchini ‘City-Zuke’",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yIkgMi01lX",
+                "podText": "Link to 'DwarfZucchiniCityZuke'"
+            },
+            {
+                "key": "wtJLqA01Mo",
+                "order": 7,
+                "option": "Micro Eggplant ‘Metro-Sakura’",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yKO54I016p",
+                "podText": "Link to 'MicroEggplantMetroSakura'"
+            },
+            {
+                "key": "wtJN5P0196",
+                "order": 8,
+                "option": "Alpine Strawberry ‘EverPink’",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yKPBrN00kI",
+                "podText": "Link to 'AlpineStrawberryEverPink'"
+            },
+            {
+                "key": "wtJOZl01gv",
+                "order": 9,
+                "option": "Balcony Melon ‘Honey-Drop’ - mini honeydew",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yKPtNP00Wu",
+                "podText": "Link to 'BalconyMelonHoneyDrop'"
+            },
+            {
+                "key": "wtJPs102aA",
+                "order": 10,
+                "option": "Snap Pea ‘Skyline Sugar’",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yKQOYK01Ko",
+                "podText": "Link to 'SnapPeaSkylineSugar'"
+            },
+            {
+                "key": "wtJRHY01i2",
+                "order": 11,
+                "option": "Dwarf Yard-Long Bean ‘Short-Long’",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yKQtdo01ol",
+                "podText": "Link to 'DwarfYardLongBeanShortLong'"
+            },
+            {
+                "key": "wtJSUs022h",
+                "order": 12,
+                "option": "Ground Cherry ‘Urban Lantern’",
+                "exitKey": "wtJUdC01Gg",
+                "podKey": "yKRO5I01oS",
+                "podText": "Link to 'GroundCherryUrbanLantern'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wtF2ho00GM",
+            "relativePath": "./δ steps/δ-wtF2ho00GM.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKRmhH01kz",
+        "editorID": "car_3f2fda7f4d604c3bb871052830f25f33",
+        "ticks": 1762015718691
+    }
+}

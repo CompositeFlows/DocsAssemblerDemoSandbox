@@ -1,0 +1,70 @@
+{
+    "key": "s7SMNu079   ",
+    "token": "Windowlessroom",
+    "name": "WindowlessRoom",
+    "created": "2025-07-30T11:55:22.901Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/space/Ξ WindowlessRoom/WindowlessRoom.tsmap",
+    "iText": "Link to 'WindowlessRoom'",
+    "___rΩΩt___": {
+        "key": "s7SMNu0ct",
+        "nodes": [
+            {
+                "key": "ytDo8F027h",
+                "order": 1,
+                "iKey": "ytJKIf021t",
+                "nodes": [
+                    {
+                        "key": "ytOX7H00H0",
+                        "order": 1,
+                        "option": "Has power supply",
+                        "isLeaf": true,
+                        "iKey": "yjFhSI02KP",
+                        "iExitKey": "ytLNSq01qu"
+                    },
+                    {
+                        "key": "ytOX7H01EL",
+                        "order": 2,
+                        "option": "No power supply",
+                        "iExitKey": "ytLP1Q00bO",
+                        "nodes": [
+                            {
+                                "key": "ytT6AX023T",
+                                "order": 1,
+                                "isLeaf": true,
+                                "iKey": "yjFhSI02KP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7SMNu0ct",
+            "relativePath": "./δ steps/δ-pRcaWg02DR.tsstp"
+        },
+        {
+            "key": "δ-ytDo8F027h",
+            "relativePath": "./δ steps/δ-ytDo8F027h.tsstp"
+        },
+        {
+            "key": "δ-ytOX7H00H0",
+            "relativePath": "./δ steps/δ-ytOX7H00H0.tsstp"
+        },
+        {
+            "key": "δ-ytOX7H01EL",
+            "relativePath": "./δ steps/δ-ytOX7H01EL.tsstp"
+        },
+        {
+            "key": "δ-ytT6AX023T",
+            "relativePath": "./δ steps/δ-ytT6AX023T.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "ytTAbW01iN",
+        "editorID": "car_f25f95109dd8498880e19ffd2e0d8465",
+        "ticks": 1762533220678
+    }
+}

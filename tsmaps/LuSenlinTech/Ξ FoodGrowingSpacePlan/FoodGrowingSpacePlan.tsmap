@@ -1,0 +1,102 @@
+{
+    "key": "s7SMNM05c   ",
+    "token": "Foodgrowingspaceplan",
+    "name": "FoodGrowingSpacePlan",
+    "created": "2025-07-29T12:08:09.423Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/Ξ FoodGrowingSpacePlan/FoodGrowingSpacePlan.tsmap",
+    "iText": "Link to 'FoodGrowingSpacePlan'",
+    "___rΩΩt___": {
+        "key": "s7SMNM0Om",
+        "nodes": [
+            {
+                "key": "s7SMNM1VG",
+                "order": 1,
+                "variable": "towerLocation",
+                "nodes": [
+                    {
+                        "key": "s7SMNM0ZL",
+                        "order": 1,
+                        "option": "Tiny patio or balcony",
+                        "isLeaf": true,
+                        "iKey": "s7LPkv1Gh"
+                    },
+                    {
+                        "key": "s7SMNM2ZU",
+                        "order": 2,
+                        "option": "Garden or small outdoor plot",
+                        "isLeaf": true,
+                        "iKey": "s7LPlH16Y"
+                    },
+                    {
+                        "key": "s7SMNM0bU",
+                        "order": 3,
+                        "option": "Windowless indoor space - large cupboard or cellar",
+                        "isLeaf": true,
+                        "iKey": "s7SMNu079"
+                    },
+                    {
+                        "key": "s7SMNM012",
+                        "order": 4,
+                        "option": "Sunlit room with large windows",
+                        "isLeaf": true,
+                        "iKey": "s7LPoI1Jr"
+                    },
+                    {
+                        "key": "s7SMNM04k",
+                        "order": 5,
+                        "option": "Field or small farm",
+                        "isLeaf": true,
+                        "iKey": "s7LPnd2Oy"
+                    }
+                ]
+            },
+            {
+                "key": "s7SMNM0bC",
+                "order": 2,
+                "option": "About Lǜ Sēnlín technologies",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7SMNM0Om",
+            "relativePath": "./δ steps/δ-peUNfW024J.tsstp"
+        },
+        {
+            "key": "δ-s7SMNM1VG",
+            "relativePath": "./δ steps/δ-pLpL1601oU.tsstp"
+        },
+        {
+            "key": "δ-s7SMNM0ZL",
+            "relativePath": "./δ steps/δ-pLpNrN01Ad.tsstp"
+        },
+        {
+            "key": "δ-s7SMNM2ZU",
+            "relativePath": "./δ steps/δ-pLpWxo01dG.tsstp"
+        },
+        {
+            "key": "δ-s7SMNM0bU",
+            "relativePath": "./δ steps/δ-pLpYRk02Jf.tsstp"
+        },
+        {
+            "key": "δ-s7SMNM012",
+            "relativePath": "./δ steps/δ-pLpaP30230.tsstp"
+        },
+        {
+            "key": "δ-s7SMNM0bC",
+            "relativePath": "./δ steps/δ-qkr2ET019d.tsstp"
+        },
+        {
+            "key": "δ-s7SMNM04k",
+            "relativePath": "./δ steps/δ-s7SMNM04k.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "tCrA0901QZ",
+        "editorID": "me_19f4d0d8e1094322a36f5ae77ffed9fb",
+        "ticks": 1757322891625
+    }
+}

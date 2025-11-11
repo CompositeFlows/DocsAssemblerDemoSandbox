@@ -1,0 +1,60 @@
+{
+    "key": "yG3UFL02Tu  ",
+    "token": "Tatsoisprint",
+    "name": "TatsoiSprint",
+    "created": "2025-10-31T22:47:02.552Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/LeafyGreens/Ξ TatsoiSprint/TatsoiSprint.tspod",
+    "isPod": true,
+    "iText": "Link to 'TatsoiSprint'",
+    "___rΩΩt___": {
+        "key": "yG3Vm400iP",
+        "nodes": [
+            {
+                "key": "yG3YN400uS",
+                "order": 1,
+                "option": "Sprint - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yG3eRV00Tv",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yG3iZd00CY",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yG3Vm400iP",
+            "relativePath": "./δ steps/δ-yG3Vm400iP.tsstp"
+        },
+        {
+            "key": "δ-yG3YN400uS",
+            "relativePath": "./δ steps/δ-yG3YN400uS.tsstp"
+        },
+        {
+            "key": "δ-yG3eRV00Tv",
+            "relativePath": "./δ steps/δ-yG3eRV00Tv.tsstp"
+        },
+        {
+            "key": "δ-yG3iZd00CY",
+            "relativePath": "./δ steps/δ-yG3iZd00CY.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yG3nva01lq",
+        "editorID": "car_53b0eaa2e38a4e439ed6a232ab40a52b",
+        "ticks": 1761950898206
+    }
+}

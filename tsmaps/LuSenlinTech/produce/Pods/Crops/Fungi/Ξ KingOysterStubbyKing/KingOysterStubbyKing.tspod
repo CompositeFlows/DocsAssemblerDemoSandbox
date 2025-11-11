@@ -1,0 +1,60 @@
+{
+    "key": "yQnFd602Ji  ",
+    "token": "Kingoysterstubbyking",
+    "name": "KingOysterStubbyKing",
+    "created": "2025-11-02T18:51:32.812Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ KingOysterStubbyKing/KingOysterStubbyKing.tspod",
+    "isPod": true,
+    "iText": "Link to 'KingOysterStubbyKing'",
+    "___rΩΩt___": {
+        "key": "yQnILJ028O",
+        "nodes": [
+            {
+                "key": "yQnLdM01F1",
+                "order": 1,
+                "option": "Stubby-King - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQnPaR02Jr",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQnSCg025J",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQnILJ028O",
+            "relativePath": "./δ steps/δ-yQnILJ028O.tsstp"
+        },
+        {
+            "key": "δ-yQnLdM01F1",
+            "relativePath": "./δ steps/δ-yQnLdM01F1.tsstp"
+        },
+        {
+            "key": "δ-yQnPaR02Jr",
+            "relativePath": "./δ steps/δ-yQnPaR02Jr.tsstp"
+        },
+        {
+            "key": "δ-yQnSCg025J",
+            "relativePath": "./δ steps/δ-yQnSCg025J.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQnWDy018x",
+        "editorID": "car_c505fa22c7b74f95bf2009498ef64d11",
+        "ticks": 1762109556602
+    }
+}

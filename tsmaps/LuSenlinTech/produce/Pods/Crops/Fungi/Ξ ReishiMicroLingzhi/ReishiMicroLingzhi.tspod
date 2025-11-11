@@ -1,0 +1,60 @@
+{
+    "key": "yQl4gh01Nc  ",
+    "token": "Reishimicrolingzhi",
+    "name": "ReishiMicroLingzhi",
+    "created": "2025-11-02T18:42:54.095Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ ReishiMicroLingzhi/ReishiMicroLingzhi.tspod",
+    "isPod": true,
+    "iText": "Link to 'ReishiMicroLingzhi'",
+    "___rΩΩt___": {
+        "key": "yQl6si01GY",
+        "nodes": [
+            {
+                "key": "yQl8r1016H",
+                "order": 1,
+                "option": "Micro-Lingzhi - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQlF7C015J",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQlHQv02MH",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQl6si01GY",
+            "relativePath": "./δ steps/δ-yQl6si01GY.tsstp"
+        },
+        {
+            "key": "δ-yQl8r1016H",
+            "relativePath": "./δ steps/δ-yQl8r1016H.tsstp"
+        },
+        {
+            "key": "δ-yQlF7C015J",
+            "relativePath": "./δ steps/δ-yQlF7C015J.tsstp"
+        },
+        {
+            "key": "δ-yQlHQv02MH",
+            "relativePath": "./δ steps/δ-yQlHQv02MH.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQlLLm01IH",
+        "editorID": "car_eb387e7b241340b2aa5ba038cea3b5ec",
+        "ticks": 1762109038146
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "key": "yUr8Gl00cW  ",
+    "token": "Minimarronbluemarronette",
+    "name": "MiniMarronBlueMarronette",
+    "created": "2025-11-03T11:32:03.175Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Crustaceans/Ξ MiniMarronBlueMarronette/MiniMarronBlueMarronette.tspod",
+    "isPod": true,
+    "iText": "Link to 'MiniMarronBlueMarronette'",
+    "___rΩΩt___": {
+        "key": "yUrBo601K0",
+        "nodes": [
+            {
+                "key": "yUrDGg00WF",
+                "order": 1,
+                "option": "Blue Marronette - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUrJ2O01GP",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUrLdJ00nt",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUrBo601K0",
+            "relativePath": "./δ steps/δ-yUrBo601K0.tsstp"
+        },
+        {
+            "key": "δ-yUrDGg00WF",
+            "relativePath": "./δ steps/δ-yUrDGg00WF.tsstp"
+        },
+        {
+            "key": "δ-yUrJ2O01GP",
+            "relativePath": "./δ steps/δ-yUrJ2O01GP.tsstp"
+        },
+        {
+            "key": "δ-yUrLdJ00nt",
+            "relativePath": "./δ steps/δ-yUrLdJ00nt.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUrPz601sr",
+        "editorID": "car_a5d46a793c9641ddb1eba9c4883e1e6e",
+        "ticks": 1762169591272
+    }
+}

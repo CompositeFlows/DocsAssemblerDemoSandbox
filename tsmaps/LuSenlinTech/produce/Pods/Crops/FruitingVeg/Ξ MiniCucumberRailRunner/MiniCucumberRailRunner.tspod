@@ -1,0 +1,60 @@
+{
+    "key": "yIk5Yi022q  ",
+    "token": "Minicucumberrailrunner",
+    "name": "MiniCucumberRailRunner",
+    "created": "2025-11-01T09:48:48.428Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ MiniCucumberRailRunner/MiniCucumberRailRunner.tspod",
+    "isPod": true,
+    "iText": "Link to 'MiniCucumberRailRunner'",
+    "___rΩΩt___": {
+        "key": "yIk88Y01MS",
+        "nodes": [
+            {
+                "key": "yIkAjv01V4",
+                "order": 1,
+                "option": "Rail-Runner - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yIkISJ02LY",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yIkKxQ00Xu",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yIk88Y01MS",
+            "relativePath": "./δ steps/δ-yIk88Y01MS.tsstp"
+        },
+        {
+            "key": "δ-yIkAjv01V4",
+            "relativePath": "./δ steps/δ-yIkAjv01V4.tsstp"
+        },
+        {
+            "key": "δ-yIkISJ02LY",
+            "relativePath": "./δ steps/δ-yIkISJ02LY.tsstp"
+        },
+        {
+            "key": "δ-yIkKxQ00Xu",
+            "relativePath": "./δ steps/δ-yIkKxQ00Xu.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yIkQkd01PU",
+        "editorID": "car_64fc45bce79548ada11240f170397509",
+        "ticks": 1761990609891
+    }
+}

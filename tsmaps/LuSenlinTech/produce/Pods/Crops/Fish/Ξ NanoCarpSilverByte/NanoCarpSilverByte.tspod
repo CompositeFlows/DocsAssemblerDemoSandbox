@@ -1,0 +1,60 @@
+{
+    "key": "yUh9xO018b  ",
+    "token": "Nanocarpsilverbyte",
+    "name": "NanoCarpSilverByte",
+    "created": "2025-11-03T10:52:26.382Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fish/Ξ NanoCarpSilverByte/NanoCarpSilverByte.tspod",
+    "isPod": true,
+    "iText": "Link to 'NanoCarpSilverByte'",
+    "___rΩΩt___": {
+        "key": "yUhC4P01eg",
+        "nodes": [
+            {
+                "key": "yUhE4q00l0",
+                "order": 1,
+                "option": "Silver Byte - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUhKgh01w4",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUhMzR0110",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUhC4P01eg",
+            "relativePath": "./δ steps/δ-yUhC4P01eg.tsstp"
+        },
+        {
+            "key": "δ-yUhE4q00l0",
+            "relativePath": "./δ steps/δ-yUhE4q00l0.tsstp"
+        },
+        {
+            "key": "δ-yUhKgh01w4",
+            "relativePath": "./δ steps/δ-yUhKgh01w4.tsstp"
+        },
+        {
+            "key": "δ-yUhMzR0110",
+            "relativePath": "./δ steps/δ-yUhMzR0110.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUhQdG0035",
+        "editorID": "car_7fc16b26ca084736ae4e8415f5f282d2",
+        "ticks": 1762167210482
+    }
+}

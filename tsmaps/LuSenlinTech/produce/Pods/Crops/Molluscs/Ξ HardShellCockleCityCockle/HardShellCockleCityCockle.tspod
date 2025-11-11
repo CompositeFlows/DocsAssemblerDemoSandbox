@@ -1,0 +1,60 @@
+{
+    "key": "yUvgNl01Ux  ",
+    "token": "Hardshellcocklecitycockle",
+    "name": "HardShellCockleCityCockle",
+    "created": "2025-11-03T11:50:07.617Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Molluscs/Ξ HardShellCockleCityCockle/HardShellCockleCityCockle.tspod",
+    "isPod": true,
+    "iText": "Link to 'HardShellCockleCityCockle'",
+    "___rΩΩt___": {
+        "key": "yUvjMw00Lk",
+        "nodes": [
+            {
+                "key": "yUvl3R01DK",
+                "order": 1,
+                "option": "City Cockle - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUvs3L00pK",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUvuf5002X",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUvjMw00Lk",
+            "relativePath": "./δ steps/δ-yUvjMw00Lk.tsstp"
+        },
+        {
+            "key": "δ-yUvl3R01DK",
+            "relativePath": "./δ steps/δ-yUvl3R01DK.tsstp"
+        },
+        {
+            "key": "δ-yUvs3L00pK",
+            "relativePath": "./δ steps/δ-yUvs3L00pK.tsstp"
+        },
+        {
+            "key": "δ-yUvuf5002X",
+            "relativePath": "./δ steps/δ-yUvuf5002X.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUw0QK01IV",
+        "editorID": "car_67e89ef30ce74957b5044b74541cf896",
+        "ticks": 1762170684656
+    }
+}

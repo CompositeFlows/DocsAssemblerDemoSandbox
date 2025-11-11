@@ -1,0 +1,59 @@
+{
+    "key": "xscpTq02Oq  ",
+    "token": "Stemstackdetails",
+    "name": "StemStackDetails",
+    "created": "2025-10-27T22:36:53.591Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ StemStackDetails/StemStackDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'StemStackDetails'",
+    "___rΩΩt___": {
+        "key": "xscqmd01rr",
+        "nodes": [
+            {
+                "key": "xscwkl00AT",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xybLLg01dh",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xybMpU0192",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xscqmd01rr",
+            "relativePath": "./δ steps/δ-xscqmd01rr.tsstp"
+        },
+        {
+            "key": "δ-xscwkl00AT",
+            "relativePath": "./δ steps/δ-xscwkl00AT.tsstp"
+        },
+        {
+            "key": "δ-xybLLg01dh",
+            "relativePath": "./δ steps/δ-xybLLg01dh.tsstp"
+        },
+        {
+            "key": "δ-xybMpU0192",
+            "relativePath": "./δ steps/δ-xybMpU0192.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xybpXI01w4",
+        "editorID": "car_840da55cef23443ba3f529bd987a0f0c",
+        "ticks": 1761693033492
+    }
+}

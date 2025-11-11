@@ -1,0 +1,129 @@
+{
+    "key": "wtiaC602KY  ",
+    "token": "Aquaticplants",
+    "name": "AquaticPlants",
+    "created": "2025-10-17T12:37:08.303Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ AquaticPlants/AquaticPlants.tsmap",
+    "iText": "Link to 'AquaticPlants'",
+    "iExits": [
+        {
+            "key": "wtu3Kb02LO",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wtierp01az",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wtikV2011n",
+                "order": 1,
+                "option": "Dwarf Watercress ‘Hydro-Pepper’",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y2TGZ900vA",
+                "podText": "Link to 'DwarfWatercressHydroPepper'"
+            },
+            {
+                "key": "wttduL015L",
+                "order": 2,
+                "option": "Duckweed Protein Blend - Lemna × Wolffia hybrid mix",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y4XDXZ01Po",
+                "podText": "Link to 'DuckweedProteinBlend'"
+            },
+            {
+                "key": "wttfpZ02VF",
+                "order": 3,
+                "option": "Azolla ‘Nitro-Fern Nano’ - floating N-fixing fern",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y4a2qP01yM",
+                "podText": "Link to 'AzollaNitroFernNano'"
+            },
+            {
+                "key": "wtthzr01fo",
+                "order": 4,
+                "option": "Red Macro-Algae ‘Sachi-Nori’ - Porphyra sp. - mini nori sheets",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y4bDoP01hE",
+                "podText": "Link to 'RedMacroAlgaeSachiNori'"
+            },
+            {
+                "key": "wttjrb00Sd",
+                "order": 5,
+                "option": "Spirulina Mat ‘BlueCore’ - edible cyanobacteria",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y4d25L00ah",
+                "podText": "Link to 'SpirulinaMatBlueCore'"
+            },
+            {
+                "key": "wttlmS00mZ",
+                "order": 6,
+                "option": "Sea Lettuce ‘Urban Ulva’ - chlorophyte algae strips",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y4dj0u00y6",
+                "podText": "Link to 'SeaLettuceUrbanUlva'"
+            },
+            {
+                "key": "wttnG500fn",
+                "order": 7,
+                "option": "Micro-Kelp ‘Baby Kombu’ - Laminaria micro-cultivar",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y4erlw01XD",
+                "podText": "Link to 'MicroKelpBabyKombu'"
+            },
+            {
+                "key": "wttp4O00xh",
+                "order": 8,
+                "option": "Salicornia ‘Mini-Marsh’ - salt-tolerant “sea asparagus”",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y4gBZo01jG",
+                "podText": "Link to 'SalicorniaMiniMarsh'"
+            },
+            {
+                "key": "wttqjf01J9",
+                "order": 9,
+                "option": "Water Spinach ‘Aqua-Morning’",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y4i33301WZ",
+                "podText": "Link to 'WaterSpinachAquaMorning'"
+            },
+            {
+                "key": "wttsgK00oy",
+                "order": 10,
+                "option": "Frogbit ‘Tiny Shield’ - Limnobium dwarf",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y4j0Ha01TE",
+                "podText": "Link to 'FrogbitTinyShield'"
+            },
+            {
+                "key": "wttuKq00bM",
+                "order": 11,
+                "option": "Red Ogo ‘Metro-Ogo’ - Gracilaria cultivar for salads",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y4k9Gz00gu",
+                "podText": "Link to 'RedOgoMetroOgo'"
+            },
+            {
+                "key": "wttvvj02aV",
+                "order": 12,
+                "option": "Micro Lotus ‘Lilypad-8’ - edible shoots & decorative pads",
+                "exitKey": "wtu3Kb02LO",
+                "podKey": "y4kvun01iu",
+                "podText": "Link to 'MicroLotusLilypad8'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wtierp01az",
+            "relativePath": "./δ steps/δ-wtierp01az.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y4lPBu01KK",
+        "editorID": "car_c48c9faecd2641d9b88731c767fbc9a1",
+        "ticks": 1761783973518
+    }
+}

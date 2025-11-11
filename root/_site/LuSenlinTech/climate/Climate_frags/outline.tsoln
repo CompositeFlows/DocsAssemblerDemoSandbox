@@ -1,0 +1,94 @@
+{
+    "v": "1",
+    "r": {
+        "i": "zFvFyd0rs",
+        "n": "ynQOzj01da",
+        "o": [
+            {
+                "i": "zFvFyp1Yn",
+                "n": "s7LPr62Sr",
+                "o": [
+                    {
+                        "i": "zFvFzG13m",
+                        "n": "s7LPr62N4",
+                        "c": 0,
+                        "o": [
+                            {
+                                "i": "zFvFzG0X9",
+                                "n": "s7LPr61rb",
+                                "x": "s7LPkr1rO",
+                                "_x": "s7LPr60ZH"
+                            }
+                        ]
+                    },
+                    {
+                        "i": "zFvFzb0nX",
+                        "n": "s7LPr629C",
+                        "c": 0,
+                        "o": [
+                            {
+                                "i": "zFvFzb2R8",
+                                "n": "s7LPr61cY",
+                                "x": "s7LPkr1rO",
+                                "_x": "s7LPr60ZH"
+                            }
+                        ]
+                    },
+                    {
+                        "i": "zFvFzs1Q7",
+                        "n": "s7LPr62Ye",
+                        "c": 0,
+                        "o": [
+                            {
+                                "i": "zFvFzs05F",
+                                "n": "s7LPr60Xt",
+                                "x": "s7LPkr1rO",
+                                "_x": "s7LPr60ZH"
+                            }
+                        ]
+                    },
+                    {
+                        "i": "zFvG082BB",
+                        "n": "s7LPr61b5",
+                        "c": 0,
+                        "o": [
+                            {
+                                "i": "zFvG081j0",
+                                "n": "s7LPr61v2",
+                                "x": "s7LPkr1rO",
+                                "_x": "s7LPr60ZH"
+                            }
+                        ]
+                    },
+                    {
+                        "i": "zFvG0M0cZ",
+                        "n": "s7LPr60xE",
+                        "c": 0,
+                        "o": [
+                            {
+                                "i": "zFvG0M21G",
+                                "n": "s7LPr60O2",
+                                "x": "s7LPkr1rO",
+                                "_x": "s7LPr60ZH"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "i": "zFvG0h2FU",
+                "n": "ynWh6n00th"
+            }
+        ]
+    },
+    "c": [
+        {
+            "i": "s7LPkr2IB",
+            "p": "_site/LuSenlinTech/climate/WinterTemperatures_frags"
+        }
+    ],
+    "e": 1,
+    "mv": {
+        "spaceDisplayText": "in your vertical garden location"
+    }
+}

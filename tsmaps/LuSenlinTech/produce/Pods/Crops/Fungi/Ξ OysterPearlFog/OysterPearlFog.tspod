@@ -1,0 +1,60 @@
+{
+    "key": "yQII9e026J  ",
+    "token": "Oysterpearlfog",
+    "name": "OysterPearlFog",
+    "created": "2025-11-02T16:48:34.350Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ OysterPearlFog/OysterPearlFog.tspod",
+    "isPod": true,
+    "iText": "Link to 'OysterPearlFog'",
+    "___rΩΩt___": {
+        "key": "yQIKYu01aH",
+        "nodes": [
+            {
+                "key": "yQIPjb01Aw",
+                "order": 1,
+                "option": "Pearl-Fog - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQIVsH019a",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQIZBm00p9",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQIKYu01aH",
+            "relativePath": "./δ steps/δ-yQIKYu01aH.tsstp"
+        },
+        {
+            "key": "δ-yQIPjb01Aw",
+            "relativePath": "./δ steps/δ-yQIPjb01Aw.tsstp"
+        },
+        {
+            "key": "δ-yQIVsH019a",
+            "relativePath": "./δ steps/δ-yQIVsH019a.tsstp"
+        },
+        {
+            "key": "δ-yQIZBm00p9",
+            "relativePath": "./δ steps/δ-yQIZBm00p9.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQIeBM00Uq",
+        "editorID": "car_c541fe04b4e14aacb234a5e8d3a46d33",
+        "ticks": 1762102199024
+    }
+}

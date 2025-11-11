@@ -1,0 +1,280 @@
+{
+    "key": "s7SMOZ0AN   ",
+    "token": "Frametower",
+    "name": "FrameTower",
+    "created": "2025-08-04T12:59:50.543Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/equipment/Ξ FrameTower/FrameTower.tsmap",
+    "iText": "Link to 'FrameTower'",
+    "iExits": [
+        {
+            "key": "s7SMOZ0VN",
+            "text": "Next",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "s7SMOZ0WV",
+        "nodes": [
+            {
+                "key": "s7SMOZ04o",
+                "order": 1,
+                "variable": "frameCount ",
+                "nodes": [
+                    {
+                        "key": "s7SMOZ1be",
+                        "order": 1,
+                        "option": "One Frame Tower - great for beginners or testing",
+                        "sharedAssetKey": "uXc2cc00YU",
+                        "variable": "frame = 1",
+                        "nodes": [
+                            {
+                                "key": "s7SMOZ0CT",
+                                "order": 1,
+                                "iKey": "s7SMPh1IK",
+                                "nodes": [
+                                    {
+                                        "key": "s7SMOZ08O",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "iExitKey": "s7SMPh1IZ",
+                                        "exitKey": "s7SMOZ0VN"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "s7SMOZ0e6",
+                        "order": 2,
+                        "option": "Two Frame Tower - supports hybrid setups",
+                        "sharedAssetKey": "uXc4kW02GA",
+                        "nodes": [
+                            {
+                                "key": "s7SMOZ2Yf",
+                                "order": 1,
+                                "sharedAssetKey": "uXe2cT01VH",
+                                "variable": "frame = 1",
+                                "nodes": [
+                                    {
+                                        "key": "s7SMOZ047",
+                                        "order": 1,
+                                        "iKey": "s7SMPh1IK",
+                                        "nodes": [
+                                            {
+                                                "key": "s7SMOZ1EP",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "sharedAssetKey": "uXeNbI01iM",
+                                                "iExitKey": "s7SMPh1IZ",
+                                                "variable": "frame = 2",
+                                                "nodes": [
+                                                    {
+                                                        "key": "s7SMOZ2XE",
+                                                        "order": 1,
+                                                        "iKey": "s7SMPh1IK",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "s7SMOZ27C",
+                                                                "order": 1,
+                                                                "option": "Next",
+                                                                "iExitKey": "s7SMPh1IZ",
+                                                                "exitKey": "s7SMOZ0VN"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "s7SMOZ2KF",
+                        "order": 3,
+                        "option": "Four Frame Tower - maximum yield in minimal space",
+                        "sharedAssetKey": "uXc7Qv010a",
+                        "nodes": [
+                            {
+                                "key": "s7SMOZ0nF",
+                                "order": 1,
+                                "sharedAssetKey": "uXe8Jq00v4",
+                                "variable": "frame = 1",
+                                "nodes": [
+                                    {
+                                        "key": "s7SMOZ0y7",
+                                        "order": 1,
+                                        "iKey": "s7SMPh1IK",
+                                        "nodes": [
+                                            {
+                                                "key": "s7SMOZ0S7",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "sharedAssetKey": "uXeVzi00hj",
+                                                "iExitKey": "s7SMPh1IZ",
+                                                "variable": "frame = 2",
+                                                "nodes": [
+                                                    {
+                                                        "key": "s7SMOZ0uH",
+                                                        "order": 1,
+                                                        "iKey": "s7SMPh1IK",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "s7SMOZ0ZO",
+                                                                "order": 1,
+                                                                "option": "Next",
+                                                                "sharedAssetKey": "uXegLz00lQ",
+                                                                "iExitKey": "s7SMPh1IZ",
+                                                                "variable": "frame = 3",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "s7SMOZ0Js",
+                                                                        "order": 1,
+                                                                        "iKey": "s7SMPh1IK",
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "s7SMOZ1kQ",
+                                                                                "order": 1,
+                                                                                "option": "Next",
+                                                                                "sharedAssetKey": "uXfSxy01zd",
+                                                                                "iExitKey": "s7SMPh1IZ",
+                                                                                "variable": "frame = 4",
+                                                                                "nodes": [
+                                                                                    {
+                                                                                        "key": "s7SMOZ1TT",
+                                                                                        "order": 1,
+                                                                                        "iKey": "s7SMPh1IK",
+                                                                                        "nodes": [
+                                                                                            {
+                                                                                                "key": "s7SMOZ1VR",
+                                                                                                "order": 1,
+                                                                                                "option": "Next",
+                                                                                                "iExitKey": "s7SMPh1IZ",
+                                                                                                "exitKey": "s7SMOZ0VN"
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "s7SMOZ09D",
+                "order": 2,
+                "option": "more details...",
+                "sharedAssetKey": "xAo0uw02QK",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7SMOZ0WV",
+            "relativePath": "./δ steps/δ-pvaPOf01P0.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ04o",
+            "relativePath": "./δ steps/δ-pv7Tr400j0.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ0CT",
+            "relativePath": "./δ steps/δ-q6eQvr026U.tsstp"
+        },
+        {
+            "key": "uXc4kW02GA",
+            "relativePath": "../_shared/TwoFrameTowerIntroduction.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "uXe2cT01VH",
+            "relativePath": "../_shared/Frame1Title.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-s7SMOZ047",
+            "relativePath": "./δ steps/δ-q7Hysw01m9.tsstp"
+        },
+        {
+            "key": "uXeNbI01iM",
+            "relativePath": "../_shared/Frame2Title.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-s7SMOZ2XE",
+            "relativePath": "./δ steps/δ-q7NdL200Mc.tsstp"
+        },
+        {
+            "key": "uXc7Qv010a",
+            "relativePath": "../_shared/FourFrameTowerIntroduction.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "uXe8Jq00v4",
+            "relativePath": "../_shared/Frame1Title.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-s7SMOZ0y7",
+            "relativePath": "./δ steps/δ-q7NZCN020x.tsstp"
+        },
+        {
+            "key": "uXeVzi00hj",
+            "relativePath": "../_shared/Frame2Title.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-s7SMOZ0uH",
+            "relativePath": "./δ steps/δ-q7TKTu01lO.tsstp"
+        },
+        {
+            "key": "uXegLz00lQ",
+            "relativePath": "../_shared/Frame3Title.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-s7SMOZ0Js",
+            "relativePath": "./δ steps/δ-q7TkiR019Q.tsstp"
+        },
+        {
+            "key": "uXfSxy01zd",
+            "relativePath": "../_shared/Frame4Title.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-s7SMOZ1TT",
+            "relativePath": "./δ steps/δ-q7TwZn00F1.tsstp"
+        },
+        {
+            "key": "xAo0uw02QK",
+            "relativePath": "../_shared/FrameFeatures.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "uXc2cc00YU",
+            "relativePath": "../_shared/OneFrameTowerIntroduction.tsstp",
+            "isShared": true
+        }
+    ],
+    "___εdit___": {
+        "id": "yKrEGN02Bx",
+        "editorID": "me_f4b40a2a81bd45ae9831de2bd734251c",
+        "ticks": 1762021782855
+    }
+}

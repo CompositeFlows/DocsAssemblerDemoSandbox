@@ -1,0 +1,60 @@
+{
+    "key": "yV72Sl00NX  ",
+    "token": "Summertruffleharvestnugget",
+    "name": "SummerTruffleHarvestNugget",
+    "created": "2025-11-03T12:35:14.104Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ SummerTruffleHarvestNugget/SummerTruffleHarvestNugget.tspod",
+    "isPod": true,
+    "iText": "Link to 'SummerTruffleHarvestNugget'",
+    "___rΩΩt___": {
+        "key": "yV74fU01KE",
+        "nodes": [
+            {
+                "key": "yV76Ay01Bz",
+                "order": 1,
+                "option": "Harvest Nugget - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yV7EAL02WH",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yV7Gei01MI",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yV74fU01KE",
+            "relativePath": "./δ steps/δ-yV74fU01KE.tsstp"
+        },
+        {
+            "key": "δ-yV76Ay01Bz",
+            "relativePath": "./δ steps/δ-yV76Ay01Bz.tsstp"
+        },
+        {
+            "key": "δ-yV7EAL02WH",
+            "relativePath": "./δ steps/δ-yV7EAL02WH.tsstp"
+        },
+        {
+            "key": "δ-yV7Gei01MI",
+            "relativePath": "./δ steps/δ-yV7Gei01MI.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV7LTu001o",
+        "editorID": "car_dfd6dc91fd2e4a54a393858b4c36377b",
+        "ticks": 1762173387210
+    }
+}

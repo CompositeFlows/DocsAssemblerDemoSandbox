@@ -1,0 +1,23 @@
+¬import g from "../../../_shared/glossary"
+¬import c from "../../../equipment/_shared/common"
+¬import tm from "../CategoryTables/soloModulesTable"
+
+
+###### {{tm.mycoNestName}} Technologies  
+
+- {{g.darkCycleChamberO2Pulse}}
+- {{g.co2ScrubbingBioFilter}}
+- {{g.uvcOzoneSterilLoop}}
+- {{g.sterileUvCPulse}}
+- {{g.precisionHeat_short}}
+- {{g.precisionHeatWaterJacket}}
+- {{g.hydraRailFogNozzles}}
+- {{g.laminarAirflowCanopy}}
+
+###### Harvest Enhancements
+  
+- {{g.popOutGrowBlockSleeve}}
+- {{g.dehydrationMode}}  
+
+{{c.ModuleAvailability_all}}
+

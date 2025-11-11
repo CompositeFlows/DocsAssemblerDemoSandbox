@@ -1,0 +1,60 @@
+{
+    "key": "yIgWL3005J  ",
+    "token": "Patiocherrytomatosundot",
+    "name": "PatioCherryTomatoSunDot",
+    "created": "2025-11-01T09:34:38.057Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ PatioCherryTomatoSunDot/PatioCherryTomatoSunDot.tspod",
+    "isPod": true,
+    "iText": "Link to 'PatioCherryTomatoSunDot'",
+    "___rΩΩt___": {
+        "key": "yIgZxg00uC",
+        "nodes": [
+            {
+                "key": "yIglUD00sT",
+                "order": 1,
+                "option": "Sun-Dot - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yIgyS2006s",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yIh1Rq022b",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yIgZxg00uC",
+            "relativePath": "./δ steps/δ-yIgZxg00uC.tsstp"
+        },
+        {
+            "key": "δ-yIglUD00sT",
+            "relativePath": "./δ steps/δ-yIglUD00sT.tsstp"
+        },
+        {
+            "key": "δ-yIgyS2006s",
+            "relativePath": "./δ steps/δ-yIgyS2006s.tsstp"
+        },
+        {
+            "key": "δ-yIh1Rq022b",
+            "relativePath": "./δ steps/δ-yIh1Rq022b.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yIh64y02bF",
+        "editorID": "car_5e371546780b489cbccdcdf865950f82",
+        "ticks": 1761989815444
+    }
+}

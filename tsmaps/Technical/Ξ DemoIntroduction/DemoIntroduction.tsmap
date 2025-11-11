@@ -1,0 +1,36 @@
+{
+    "key": "u5gguY01On  ",
+    "token": "Demointroduction",
+    "name": "DemoIntroduction",
+    "created": "2025-09-17T18:18:15.002Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/Technical/Ξ DemoIntroduction/DemoIntroduction.tsmap",
+    "iText": "Link to 'DemoIntroduction'",
+    "___rΩΩt___": {
+        "key": "u5gkFx00HL",
+        "nodes": [
+            {
+                "key": "u5gpCU01mT",
+                "order": 1,
+                "option": "Start the demo",
+                "isLeaf": true,
+                "iKey": "s7SMNM05c"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-u5gkFx00HL",
+            "relativePath": "./δ steps/δ-u5gkFx00HL.tsstp"
+        },
+        {
+            "key": "δ-u5gpCU01mT",
+            "relativePath": "./δ steps/δ-u5gpCU01mT.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yS6XIF029U",
+        "editorID": "car_96ee792b95624eda92ce76e94db16c25",
+        "ticks": 1762128865279
+    }
+}

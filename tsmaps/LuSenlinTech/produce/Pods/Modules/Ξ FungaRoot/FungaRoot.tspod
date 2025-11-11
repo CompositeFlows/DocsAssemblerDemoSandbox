@@ -1,0 +1,40 @@
+{
+    "key": "wkMzSw001H  ",
+    "token": "Fungaroot",
+    "name": "FungaRoot",
+    "created": "2025-10-15T22:14:55.206Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ FungaRoot/FungaRoot.tspod",
+    "isPod": true,
+    "iText": "Link to 'FungaRoot'",
+    "___rΩΩt___": {
+        "key": "wkN0R6013Y",
+        "sharedAssetKey": "x4c4Bt02T4",
+        "nodes": [
+            {
+                "key": "wkN2cH02Ll",
+                "order": 1,
+                "option": "FungaRoot - a deeper look",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "y1FGAu02CF"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4c4Bt02T4",
+            "relativePath": "../../../_shared/CategoryTables/FungaRootTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wkN2cH02Ll",
+            "relativePath": "./δ steps/δ-wkN2cH02Ll.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2qaPX00hv",
+        "editorID": "me_a3b1dcbc6af344418ebe176de14f1333",
+        "ticks": 1761755655615
+    }
+}

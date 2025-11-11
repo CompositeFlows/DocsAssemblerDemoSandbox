@@ -1,0 +1,60 @@
+{
+    "key": "yG9DxP01bU  ",
+    "token": "Arugularocketflash",
+    "name": "ArugulaRocketFlash",
+    "created": "2025-10-31T23:09:49.903Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/LeafyGreens/Ξ ArugulaRocketFlash/ArugulaRocketFlash.tspod",
+    "isPod": true,
+    "iText": "Link to 'ArugulaRocketFlash'",
+    "___rΩΩt___": {
+        "key": "yG9G0w00yr",
+        "nodes": [
+            {
+                "key": "yG9Kj401WP",
+                "order": 1,
+                "option": "Rocket-Flash - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yG9SSa00aQ",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yG9VUL02OB",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yG9G0w00yr",
+            "relativePath": "./δ steps/δ-yG9G0w00yr.tsstp"
+        },
+        {
+            "key": "δ-yG9Kj401WP",
+            "relativePath": "./δ steps/δ-yG9Kj401WP.tsstp"
+        },
+        {
+            "key": "δ-yG9SSa00aQ",
+            "relativePath": "./δ steps/δ-yG9SSa00aQ.tsstp"
+        },
+        {
+            "key": "δ-yG9VUL02OB",
+            "relativePath": "./δ steps/δ-yG9VUL02OB.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yG9a5t02Ea",
+        "editorID": "car_0171ebada1a646c19c3893c11e4cb58f",
+        "ticks": 1761952274997
+    }
+}

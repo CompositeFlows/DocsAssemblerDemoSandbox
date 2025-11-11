@@ -1,0 +1,59 @@
+{
+    "key": "y1FGAu02CF  ",
+    "token": "Fungarootdetails",
+    "name": "FungaRootDetails",
+    "created": "2025-10-29T09:59:43.356Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ FungaRootDetails/FungaRootDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'FungaRootDetails'",
+    "___rΩΩt___": {
+        "key": "y1FID600np",
+        "nodes": [
+            {
+                "key": "y1FVcs02MG",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "y1FplU02QL",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "y1Fqy802UO",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y1FID600np",
+            "relativePath": "./δ steps/δ-y1FID600np.tsstp"
+        },
+        {
+            "key": "δ-y1FVcs02MG",
+            "relativePath": "./δ steps/δ-y1FVcs02MG.tsstp"
+        },
+        {
+            "key": "δ-y1FplU02QL",
+            "relativePath": "./δ steps/δ-y1FplU02QL.tsstp"
+        },
+        {
+            "key": "δ-y1Fqy802UO",
+            "relativePath": "./δ steps/δ-y1Fqy802UO.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y1Miyp01EB",
+        "editorID": "car_690c464b60864e5db89ec4832781d457",
+        "ticks": 1761733762379
+    }
+}

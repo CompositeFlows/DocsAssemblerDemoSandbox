@@ -1,0 +1,143 @@
+{
+    "key": "wqSrAG00n4  ",
+    "token": "Aromaticherbsselect4",
+    "name": "AromaticHerbsSelect4",
+    "created": "2025-10-16T23:15:51.280Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ AromaticHerbsSelect4/AromaticHerbsSelect4.tsmap",
+    "iText": "Link to 'AromaticHerbsSelect4'",
+    "iExits": [
+        {
+            "key": "wqTeGi01qL",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wtMWFT01Mi",
+        "sharedAssetKey": "wtMXsE01XK",
+        "nodes": [
+            {
+                "key": "wqSuAY01oE",
+                "order": 1,
+                "sharedAssetKey": "wtNDhM024u",
+                "variable": "herbBay = 1",
+                "nodes": [
+                    {
+                        "key": "wqT3cU00ob",
+                        "order": 1,
+                        "iKey": "s7LPsx1UQ",
+                        "nodes": [
+                            {
+                                "key": "wqTCK0001k",
+                                "order": 1,
+                                "option": "Next",
+                                "sharedAssetKey": "wtNJWq024p",
+                                "iExitKey": "s7LPsx14a",
+                                "variable": "herbBay = 2",
+                                "nodes": [
+                                    {
+                                        "key": "wqTDPt00bF",
+                                        "order": 1,
+                                        "iKey": "s7LPsx1UQ",
+                                        "nodes": [
+                                            {
+                                                "key": "wqTMwZ01QI",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "sharedAssetKey": "wtNMjt01fC",
+                                                "iExitKey": "s7LPsx14a",
+                                                "variable": "herbBay = 3",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wqTNtI01Di",
+                                                        "order": 1,
+                                                        "iKey": "s7LPsx1UQ",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "wqTVJE01Qw",
+                                                                "order": 1,
+                                                                "option": "Next",
+                                                                "sharedAssetKey": "wtNPd001vE",
+                                                                "iExitKey": "s7LPsx14a",
+                                                                "variable": "herbBay = 4",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "wqTWBw01Er",
+                                                                        "order": 1,
+                                                                        "iKey": "s7LPsx1UQ",
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "wqTcge02PX",
+                                                                                "order": 1,
+                                                                                "option": "Next",
+                                                                                "iExitKey": "s7LPsx14a",
+                                                                                "exitKey": "wqTeGi01qL"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wqT3cU00ob",
+            "relativePath": "./δ steps/δ-wqT3cU00ob.tsstp"
+        },
+        {
+            "key": "δ-wqTDPt00bF",
+            "relativePath": "./δ steps/δ-wqTDPt00bF.tsstp"
+        },
+        {
+            "key": "wtNMjt01fC",
+            "relativePath": "../../_shared/HerbBay3.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wqTNtI01Di",
+            "relativePath": "./δ steps/δ-wqTNtI01Di.tsstp"
+        },
+        {
+            "key": "wtNPd001vE",
+            "relativePath": "../../_shared/HerbBay4.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wqTWBw01Er",
+            "relativePath": "./δ steps/δ-wqTWBw01Er.tsstp"
+        },
+        {
+            "key": "wtMXsE01XK",
+            "relativePath": "../../_shared/AromaticHerbsIntro.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "wtNDhM024u",
+            "relativePath": "../../_shared/HerbBay1.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "wtNJWq024p",
+            "relativePath": "../../_shared/HerbBay2.tsstp",
+            "isShared": true
+        }
+    ],
+    "___εdit___": {
+        "id": "xBa69t02Gg",
+        "editorID": "car_f870b9f8580d49d9b5862bfa218ce9f9",
+        "ticks": 1760968580269
+    }
+}

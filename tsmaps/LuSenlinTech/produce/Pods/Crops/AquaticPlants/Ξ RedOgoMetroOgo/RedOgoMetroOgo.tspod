@@ -1,0 +1,60 @@
+{
+    "key": "y4k9Gz00gu  ",
+    "token": "Redogometroogo",
+    "name": "RedOgoMetroOgo",
+    "created": "2025-10-30T00:21:14.001Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Ξ RedOgoMetroOgo/RedOgoMetroOgo.tspod",
+    "isPod": true,
+    "iText": "Link to 'RedOgoMetroOgo'",
+    "___rΩΩt___": {
+        "key": "y4kBmR013N",
+        "nodes": [
+            {
+                "key": "y4kGI600eV",
+                "order": 1,
+                "option": "Metro-Ogo - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y4kMNr01Y9",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y4kVEa01uj",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y4kBmR013N",
+            "relativePath": "./δ steps/δ-y4kBmR013N.tsstp"
+        },
+        {
+            "key": "δ-y4kGI600eV",
+            "relativePath": "./δ steps/δ-y4kGI600eV.tsstp"
+        },
+        {
+            "key": "δ-y4kMNr01Y9",
+            "relativePath": "./δ steps/δ-y4kMNr01Y9.tsstp"
+        },
+        {
+            "key": "δ-y4kVEa01uj",
+            "relativePath": "./δ steps/δ-y4kVEa01uj.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y4kdXu00Du",
+        "editorID": "car_45f57a0f42a242a596629a370948e259",
+        "ticks": 1761783790370
+    }
+}

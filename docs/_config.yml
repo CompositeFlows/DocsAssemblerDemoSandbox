@@ -1,0 +1,19 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+title: Docs Assembler demo guides
+markdown_ext: markdown,tsfrg,md
+
+defaults:
+  - scope:
+      path: "" # Empty string for all files
+    values:
+      layout: "simple"
+      
+# Disable all caching
+disable_disk_cache: true
+
+# Or more specific cache controls
+full_rebuild: true
+

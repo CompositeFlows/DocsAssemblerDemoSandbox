@@ -1,0 +1,22 @@
+¬import tm from "../../../../../_shared/tradeMarks"
+¬import el from "../../../../../../shared/externalLinks"
+
+
+##### How It Works
+
+###### 1. The Pre-Grown Plug
+{{el.luSenLinName}}’s nursery supplies pre-grown plugs of each variety, their roots carefully rinsed and prepared for hydroponic transition. This specific selection is ideal because these greens thrive with constant root moisture and high oxygen levels, yet their varying growth rates and harvest methods create a continuous, staggered yield from the same system.
+
+###### 2. Hydroponic Precision in the Module
+Once the plugs are seated in the gullies, {{tm.harvestSageTM}} maintains the precise hydroponic environment:
+- A shallow, 1-2 mm film of nutrient-rich water flows constantly over the roots.
+- The **{{tm.variableSpeedLaminarPump}}** reduces flow by 30% at night, saving ~0.6 kWh day⁻¹ while preserving dissolved oxygen.
+- The enclosed environment beneath the {{tm.pureLightTM}} lid maintains a stable, humid microclimate, preventing moisture stress.
+These conditions allow roots to absorb nutrients instantly while the exposed upper roots access abundant oxygen, driving rapid, healthy growth without soil-borne disease.
+
+###### 3. The Continuous Harvest
+The LeafLift is designed for perpetual production.
+- **For Cut-and-Come-Again Greens:** The **{{tm.cutAndComeAgainOpticalMapping}}** system highlights outer leaves of **Tatsoi ‘Sprint’**, **Mizuna ‘Fringe’**, and **Arugula ‘Rocket-Flash’** that are safe to harvest, leaving the core to regrow.
+- **For Full-Head Harvest:** For varieties like **Skyline Romaine** and **Dwarf Bok-Choy ‘Pearl’**, the entire head is easily lifted from the gully when mature.
+- The system provides a **continuous yield of 180–250g of fresh greens per week from a standard module.**
+

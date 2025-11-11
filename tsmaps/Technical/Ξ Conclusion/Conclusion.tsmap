@@ -1,0 +1,64 @@
+{
+    "key": "yd9vwR005i  ",
+    "token": "Conclusion",
+    "name": "Conclusion",
+    "created": "2025-11-04T21:36:54.707Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/Technical/Ξ Conclusion/Conclusion.tsmap",
+    "iText": "Link to 'Conclusion'",
+    "___rΩΩt___": {
+        "key": "yoJ9qV00lx",
+        "isHeadless": true,
+        "variable": "demoEnd = true",
+        "nodes": [
+            {
+                "key": "yoK4TH01wR",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "yoK9FB00dS",
+                        "order": 1,
+                        "newFragment": true,
+                        "nodes": [
+                            {
+                                "key": "z5kz4A01RX",
+                                "order": 1,
+                                "newFragment": true,
+                                "nodes": [
+                                    {
+                                        "key": "z5PrhD00aV",
+                                        "order": 1,
+                                        "isLeaf": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yoK9FB00dS",
+            "relativePath": "./δ steps/δ-yoK9FB00dS.tsstp"
+        },
+        {
+            "key": "δ-z5PrhD00aV",
+            "relativePath": "./δ steps/δ-z5PrhD00aV.tsstp"
+        },
+        {
+            "key": "δ-z5kz4A01RX",
+            "relativePath": "./δ steps/δ-z5kz4A01RX.tsstp"
+        },
+        {
+            "key": "δ-yoK4TH01wR",
+            "relativePath": "./δ steps/δ-yoK4TH01wR.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "z6zFr102Km",
+        "editorID": "car_f283eb38ea17459b8f161e377e6614d9",
+        "ticks": 1762732959723
+    }
+}

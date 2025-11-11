@@ -1,0 +1,40 @@
+{
+    "key": "wekUww017C  ",
+    "token": "Fruitforge",
+    "name": "FruitForge",
+    "created": "2025-10-14T23:10:39.758Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ FruitForge/FruitForge.tspod",
+    "isPod": true,
+    "iText": "Link to 'FruitForge'",
+    "___rΩΩt___": {
+        "key": "wekWOJ01Nh",
+        "sharedAssetKey": "x4YGog02ae",
+        "nodes": [
+            {
+                "key": "wekeVE02aI",
+                "order": 1,
+                "option": "FruitForge details",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "xrZvS001KG"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4YGog02ae",
+            "relativePath": "../../../_shared/CategoryTables/FruitForgeTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wekeVE02aI",
+            "relativePath": "./δ steps/δ-wekeVE02aI.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2r71d0188",
+        "editorID": "me_feb3f8432fc742098aa85bd06fea3f9c",
+        "ticks": 1761755780985
+    }
+}

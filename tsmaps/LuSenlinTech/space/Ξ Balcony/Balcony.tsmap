@@ -1,0 +1,60 @@
+{
+    "key": "s7LPkv1Gh   ",
+    "token": "Balcony",
+    "name": "Balcony",
+    "created": "2025-07-30T11:54:19.553Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/space/Ξ Balcony/Balcony.tsmap",
+    "iText": "Link to 'Balcony'",
+    "___rΩΩt___": {
+        "key": "yhJqMu02OH",
+        "nodes": [
+            {
+                "key": "yhPSyA00ua",
+                "order": 1,
+                "iKey": "s7SMXt0ol",
+                "nodes": [
+                    {
+                        "key": "s7LPkv17x",
+                        "order": 1,
+                        "option": "Has power supply",
+                        "isLeaf": true,
+                        "iKey": "yjFhSI02KP",
+                        "iExitKey": "s7SMXt1dV"
+                    },
+                    {
+                        "key": "s7LPkv17x1",
+                        "order": 2,
+                        "option": "No power supply",
+                        "isLeaf": true,
+                        "iKey": "yjFhSI02KP",
+                        "iExitKey": "s7SMXt0Xu"
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7LPkv17x",
+            "relativePath": "./δ steps/δ-s7LPkv17x.tsstp"
+        },
+        {
+            "key": "δ-yhJqMu02OH",
+            "relativePath": "./δ steps/δ-yhJqMu02OH.tsstp"
+        },
+        {
+            "key": "δ-yhPSyA00ua",
+            "relativePath": "./δ steps/δ-yhPSyA00ua.tsstp"
+        },
+        {
+            "key": "δ-s7LPkv17x1",
+            "relativePath": "./δ steps/δ-s7LPkv17x1.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yjHqNp0148",
+        "editorID": "car_242a069b1877413db3b64d417a9793a7",
+        "ticks": 1762382757981
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "key": "y2TGZ900vA  ",
+    "token": "Dwarfwatercresshydropepper",
+    "name": "DwarfWatercressHydroPepper",
+    "created": "2025-10-29T15:01:37.787Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Ξ DwarfWatercressHydroPepper/DwarfWatercressHydroPepper.tspod",
+    "isPod": true,
+    "iText": "Link to 'DwarfWatercressHydroPepper'",
+    "___rΩΩt___": {
+        "key": "y2VErl01b5",
+        "nodes": [
+            {
+                "key": "y2TKXc02HA",
+                "order": 1,
+                "option": "Hydro-Pepper - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y2TOLU02WG",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y2TpB901Dl",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y2TKXc02HA",
+            "relativePath": "./δ steps/δ-y2TKXc02HA.tsstp"
+        },
+        {
+            "key": "δ-y2TOLU02WG",
+            "relativePath": "./δ steps/δ-y2TOLU02WG.tsstp"
+        },
+        {
+            "key": "δ-y2TpB901Dl",
+            "relativePath": "./δ steps/δ-y2TpB901Dl.tsstp"
+        },
+        {
+            "key": "δ-y2VErl01b5",
+            "relativePath": "./δ steps/δ-y2VErl01b5.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2Wk4J01Ri",
+        "editorID": "car_d092979f01f649bfa5b72793de81aad8",
+        "ticks": 1761750926179
+    }
+}

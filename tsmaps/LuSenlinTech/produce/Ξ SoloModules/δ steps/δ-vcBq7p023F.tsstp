@@ -1,0 +1,12 @@
+¬import g from "../../../_shared/glossary"
+
+
+###### Technologies
+  
+- {{g.trackMazeHabitat}}
+- {{g.bioFilmDripFeedSystem}}
+
+###### Harvest Enhancements
+  
+- {{g.aiScheduled7DayPurging}}
+

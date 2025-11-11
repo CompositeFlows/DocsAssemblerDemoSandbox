@@ -1,0 +1,37 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome localhost",
+            // "url": "https://localhost:1226/_site/LuSenlinTech/FoodGrowingSpacePlan/",
+            "url": "https://localhost:1226/_site/DocumentationHell/",
+            "webRoot": "${workspaceFolder}/root"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug modify-html.js",
+            "program": "${workspaceFolder}/modify-html.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug Yarn build",
+            "program": "${workspaceFolder}/node_modules/.bin/yarn",
+            "args": [
+                "build"
+            ],
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "key": "yQm8DL01Tn  ",
+    "token": "Cordycepsmilitarisgoldthread",
+    "name": "CordycepsMilitarisGoldThread",
+    "created": "2025-11-02T18:47:05.980Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ CordycepsMilitarisGoldThread/CordycepsMilitarisGoldThread.tspod",
+    "isPod": true,
+    "iText": "Link to 'CordycepsMilitarisGoldThread'",
+    "___rΩΩt___": {
+        "key": "yQmAxG01S1",
+        "nodes": [
+            {
+                "key": "yQmHr701bH",
+                "order": 1,
+                "option": "Gold Thread - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQmMCF00wc",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQmOoi027T",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQmAxG01S1",
+            "relativePath": "./δ steps/δ-yQmAxG01S1.tsstp"
+        },
+        {
+            "key": "δ-yQmHr701bH",
+            "relativePath": "./δ steps/δ-yQmHr701bH.tsstp"
+        },
+        {
+            "key": "δ-yQmMCF00wc",
+            "relativePath": "./δ steps/δ-yQmMCF00wc.tsstp"
+        },
+        {
+            "key": "δ-yQmOoi027T",
+            "relativePath": "./δ steps/δ-yQmOoi027T.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQmSfA00zp",
+        "editorID": "car_b985dd3c30bf42a0b6bef37267f45b07",
+        "ticks": 1762109304584
+    }
+}

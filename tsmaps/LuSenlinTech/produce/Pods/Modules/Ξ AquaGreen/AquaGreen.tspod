@@ -1,0 +1,40 @@
+{
+    "key": "wkLWL000li  ",
+    "token": "Aquagreen",
+    "name": "AquaGreen",
+    "created": "2025-10-15T22:09:04.910Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ AquaGreen/AquaGreen.tspod",
+    "isPod": true,
+    "iText": "Link to 'AquaGreen'",
+    "___rΩΩt___": {
+        "key": "wkLXmG00oc",
+        "sharedAssetKey": "x4Sokg00fx",
+        "nodes": [
+            {
+                "key": "wkLcwu00D9",
+                "order": 1,
+                "option": "AquaGreen details",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "xrOJgE00q3"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4Sokg00fx",
+            "relativePath": "../../../_shared/CategoryTables/AquaGreenTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wkLcwu00D9",
+            "relativePath": "./δ steps/δ-wkLcwu00D9.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2pbOC0sK",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1761755421048
+    }
+}

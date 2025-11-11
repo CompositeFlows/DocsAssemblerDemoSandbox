@@ -1,0 +1,60 @@
+{
+    "key": "yUzwAp0067  ",
+    "token": "Gardenstripesnailbrownlinenano",
+    "name": "GardenStripeSnailBrownLineNano",
+    "created": "2025-11-03T12:07:01.631Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Snails/Ξ GardenStripeSnailBrownLineNano/GardenStripeSnailBrownLineNano.tspod",
+    "isPod": true,
+    "iText": "Link to 'GardenStripeSnailBrownLineNano'",
+    "___rΩΩt___": {
+        "key": "yUzzFw00zx",
+        "nodes": [
+            {
+                "key": "yV01FB01Ss",
+                "order": 1,
+                "option": "Brown-Line Nano - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yV06bE01Bj",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yV09c2004N",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUzzFw00zx",
+            "relativePath": "./δ steps/δ-yUzzFw00zx.tsstp"
+        },
+        {
+            "key": "δ-yV01FB01Ss",
+            "relativePath": "./δ steps/δ-yV01FB01Ss.tsstp"
+        },
+        {
+            "key": "δ-yV06bE01Bj",
+            "relativePath": "./δ steps/δ-yV06bE01Bj.tsstp"
+        },
+        {
+            "key": "δ-yV09c2004N",
+            "relativePath": "./δ steps/δ-yV09c2004N.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV0EUB01Ep",
+        "editorID": "car_fce11e903479490fbc672f30c380363f",
+        "ticks": 1762171692023
+    }
+}

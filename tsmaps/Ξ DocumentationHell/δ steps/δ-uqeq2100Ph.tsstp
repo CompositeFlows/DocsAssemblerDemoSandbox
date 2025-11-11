@@ -1,0 +1,15 @@
+¬import el from "../../shared/externalLinks"
+
+
+### The Software Engineering Solution for Docs
+
+This principle of maintainability through a **Single Source of Truth** is the core idea behind {{el.docsAssemblerExtension_link}}. It applies this proven software engineering solution directly to your documentation.
+
+{{el.docsAssemblerExtension_link}} allows you to create a living system where:
+
+*   **Reusable components** replace duplicated text and branching decisions, ensuring instant consistency across every manual and guide.
+*   **Complex processes** are broken down into manageable, interconnected units.
+*   **Knowledge becomes actionable,** enabling you to build guides that adapt to different scenarios, roles, and environments.
+
+The final result is documentation that is truly easy, quick, and safe to change.
+

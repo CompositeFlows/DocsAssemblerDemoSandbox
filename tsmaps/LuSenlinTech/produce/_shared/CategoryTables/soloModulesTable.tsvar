@@ -1,0 +1,162 @@
+¬import tm from "../../../_shared/tradeMarks"
+
+
+¬aeroHerbName: AeroHerb
+
+¬aeroHerbDescription:
+A compact aeroponic cube tuned for oil-rich herbs. Roots hang in a cool nutrient fog under {{tm.nanoSunBeamTM}} LEDs that spike blue wavelengths to boost terpene density, while {{tm.pureLightTM}} glazing holds canopy temperature steady.¬
+
+¬aeroHerbCrops: Aromatic herbs - all 15 varieties
+
+¬aeroHerbRow: | {{aeroHerbName}} | {{aeroHerbDescription}} | {{aeroHerbCrops}} |
+
+
+
+¬leafLiftName: LeafLift
+
+¬leafLiftDescription:
+Deep-flow NFT gullies maintain a 1-2 mm nutrient film beneath a crystal-clear {{tm.pureLightTM}} lid. Variable laminar pumps slow at night, saving energy while lettuce roots stay oxygen-rich.¬
+
+¬leafLiftCrops: Leafy greens - all 12 Balcony cultivars
+
+¬leafLiftRow: | {{leafLiftName}} | {{leafLiftDescription}} | {{leafLiftCrops}} |
+
+
+
+¬fruitForgeName: FruitForge
+
+¬fruitForgeDescription:
+Porous micro-bead media wick, moisture yet keep roots airy for sugar-dense fruit.¬
+
+¬fruitForgeCrops: Fruiting vegetables - all 12 cultivars 
+
+¬fruitForgeRow: | {{fruitForgeName}} | {{fruitForgeDescription}} | {{fruitForgeCrops}} |
+
+
+
+¬rootVaultName: RootVault
+
+¬rootVaultDescription:
+Vertical coco-perlite columns create a dry-top/moist-base gradient so tap-roots bulk fast and straight. A side-eject drawer slides out horizontally for dirt-free pulls.¬
+
+¬rootVaultCrops: Roots & stems - Finger Carrot, Baby Beet, Radish, Mini Daikon, Tokyo Turnip, Baby Kohlrabi, Compact Celery
+
+¬rootVaultRow: | {{rootVaultName}} | {{rootVaultDescription}} | {{rootVaultCrops}} |
+
+
+
+¬stemStackName: StemStack  
+
+¬stemStackDescription:
+Dual-zone chambers mist stems mid-way and briefly flood roots, producing ultra-crisp celery, water spinach and kohlrabi bulbs.¬
+
+¬stemStackCrops: Roots & stems - Compact Celery, Water Spinach Stem, Baby Kohlrabi
+
+¬stemStackRow: | {{stemStackName}} | {{stemStackDescription}} | {{stemStackCrops}} |
+
+
+
+¬petalBloomName: PetalBloom
+
+¬petalBloomDescription:
+Low-speed laminar airflow plus electrostatic lift self-pollinate blooms while keeping petals immaculate.¬
+
+¬petalBloomCrops: Edible flowers & specialty greens - all 15 Balcony entries
+
+¬petalBloomRow: | {{petalBloomName}} | {{petalBloomDescription}} | {{petalBloomCrops}} |
+
+
+
+¬aquaGreenName: AquaGreen
+
+¬aquaGreenDescription:
+A 3 L raceway with adjustable swirl-flow supports floating plants or dense micro-algae. A harvest mesh roller compresses biomass while spent medium auto-remineralises.¬
+
+¬aquaGreenCrops: Aquatic plants & algae - all 12 Balcony items
+
+¬aquaGreenRow: | {{aquaGreenName}} | {{aquaGreenDescription}} | {{aquaGreenCrops}} |
+
+
+
+¬mycoNestName: MycoNest
+
+¬mycoNestDescription:
+A dark, humidity-controlled box with hourly 0.5 ppm O₂ pulses mimics forest-floor shocks, fruiting gourmet mushrooms fast. Pop-out sleeves swap blocks in seconds.¬
+
+¬mycoNestCrops: Mushrooms & culinary fungi - all 15 Balcony strains
+
+¬mycoNestRow: | {{mycoNestName}} | {{mycoNestDescription}} | {{mycoNestCrops}} |
+
+
+
+¬fungaRootName: FungaRoot
+
+¬fungaRootDescription:
+Split cassette couples root crops with truffle mycorrhiza. Precision pH and moisture coax simultaneous vegetables and mini truffles.¬
+
+¬fungaRootCrops:
+Roots & stems - Finger Carrot, Baby Beet, Tokyo Turnip, Baby Kohlrabi¬
+
+¬fungaRootRow: | {{fungaRootName}} | {{fungaRootDescription}} | {{fungaRootCrops}} |
+
+
+
+¬gasterPodName: GasterPod
+
+¬gasterPodDescription:
+A humidity-stable 90 mm maze keeps edible snails active for stronger shells. Bio-film drip-feeds supply calcium and probiotics.¬
+
+¬gasterPodCrops: Snails - all 10 Balcony breeds
+
+¬gasterPodRow: | {{gasterPodName}} | {{gasterPodDescription}} | {{gasterPodCrops}} |
+
+
+
+¬shellWaveName: ShellWave
+
+¬shellWaveDescription:
+A 15 L micro-bubble column recirculates pristine water for mussels and clams. A UV-C/ozone loop sterilises continuously, and auto-chill drops temperature pre-harvest.¬
+
+¬shellWaveCrops: Edible molluscs - all 10 Balcony species
+
+¬shellWaveRow: | {{shellWaveName}} | {{shellWaveDescription}} | {{shellWaveCrops}} |
+
+
+
+¬crustaBayName: CrustaBay
+
+¬crustaBayDescription:
+An 18 L biofloc tank nurtures shrimp or crayfish with near-zero water exchange. A rotating drum filter clears solids while a {{tm.precisionHeatTM}} water jacket maintains tropical warmth.¬
+
+¬crustaBayCrops: Crustaceans - all 10 Balcony varieties
+
+¬crustaBayRow: | {{crustaBayName}} | {{crustaBayDescription}} | {{crustaBayCrops}} |
+
+
+
+¬tuberTowerName: TuberTower
+
+¬tuberTowerDescription:
+A 150 mm-deep roll-out bed lets bulky rhizomes swell naturally. Graphene heat-loops hold 24-26 °C, and an ultrasonic {{tm.rhizoShieldTM}} loosens root hairs so tubers lift mud-free.¬
+
+¬tuberTowerCrops: Roots & stems - Baby Sweet Potato, Dwarf Taro, Young Lotus Root, Baby Ginger
+
+¬tuberTowerRow: | {{tuberTowerName}} | {{tuberTowerDescription}} | {{tuberTowerCrops}} |
+
+
+
+¬finWaveName: FinWave
+
+¬finWaveDescription:
+A 40 L oval mini-RAS morphs from gentle pond to swift river via programmable jets. Moving-bed bio-media keep ammonia low, a BSF-larvae feeder supplies live protein, and a plate chiller supports cold-water trout.¬
+
+¬finWaveCrops: Edible fish - all 10 Balcony lines
+
+¬finWaveRow: | {{finWaveName}} | {{finWaveDescription}} | {{finWaveCrops}} |
+
+
+
+¬soloModulesTable:
+| SoloModule | Description | Crop Categories & Cultivars |
+{{aeroHerbRow}}
+{{leafLiftRow}}¬

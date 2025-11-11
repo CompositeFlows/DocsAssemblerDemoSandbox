@@ -1,0 +1,60 @@
+{
+    "key": "yV5koR02G0  ",
+    "token": "Blacktruffleurbanknot",
+    "name": "BlackTruffleUrbanKnot",
+    "created": "2025-11-03T12:30:07.928Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ BlackTruffleUrbanKnot/BlackTruffleUrbanKnot.tspod",
+    "isPod": true,
+    "iText": "Link to 'BlackTruffleUrbanKnot'",
+    "___rΩΩt___": {
+        "key": "yV5nfB011p",
+        "nodes": [
+            {
+                "key": "yV5qEE009n",
+                "order": 1,
+                "option": "Urban Knot - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yV5yyI00Lr",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yV61e902X7",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yV5nfB011p",
+            "relativePath": "./δ steps/δ-yV5nfB011p.tsstp"
+        },
+        {
+            "key": "δ-yV5qEE009n",
+            "relativePath": "./δ steps/δ-yV5qEE009n.tsstp"
+        },
+        {
+            "key": "δ-yV5yyI00Lr",
+            "relativePath": "./δ steps/δ-yV5yyI00Lr.tsstp"
+        },
+        {
+            "key": "δ-yV61e902X7",
+            "relativePath": "./δ steps/δ-yV61e902X7.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV66hW01uq",
+        "editorID": "car_d349fe9f455f4d038f444a713b10c2b9",
+        "ticks": 1762173092066
+    }
+}

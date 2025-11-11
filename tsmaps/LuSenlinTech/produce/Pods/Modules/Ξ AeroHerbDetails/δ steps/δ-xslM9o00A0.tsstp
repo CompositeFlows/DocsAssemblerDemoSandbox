@@ -1,0 +1,30 @@
+¬import g from "../../../../../_shared/glossary"
+¬import c from "../../../../../equipment/_shared/common"
+
+
+###### Technologies  
+  
+- {{g.pureLight_short}}
+- {{g.hydraRail_short}}
+- {{g.hydraPad_short}}
+- {{g.hydraRailFogNozzles}}
+- {{g.nanoSunBeam_short}}
+- {{g.rfidSeedPadBayCartridges_short}}
+- {{g.deepFlowNftTroughInserts}}
+- {{g.variableSpeedLaminarPump}}
+- {{g.laminarAirflowCanopy}}
+- {{g.precisionHeat_short}}
+- {{g.precisionHeatRootFilm}}
+- {{g.uvcOzoneSterilLoop}}
+- {{g.uvcOzoneSterilLoop}}
+- {{g.microBeadCapillarySubstrate}}
+
+###### Harvest Enhancements
+  
+- {{g.cutAndComeAgainOpticalMapping}}  
+- {{g.harvestReadyGreenDoorLight}}  
+- {{g.autoLiftCarousel}}  
+
+{{c.ModuleAvailability_all}}
+
+

@@ -1,0 +1,60 @@
+{
+    "key": "yQLfKc0132  ",
+    "token": "Chestnutmushroomcitytop",
+    "name": "ChestnutMushroomCityTop",
+    "created": "2025-11-02T17:01:58.426Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ ChestnutMushroomCityTop/ChestnutMushroomCityTop.tspod",
+    "isPod": true,
+    "iText": "Link to 'ChestnutMushroomCityTop'",
+    "___rΩΩt___": {
+        "key": "yQLhx300IE",
+        "nodes": [
+            {
+                "key": "yQLjdo01HY",
+                "order": 1,
+                "option": "City-Top - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQLrgo01Bc",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQLuaT00Xj",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQLhx300IE",
+            "relativePath": "./δ steps/δ-yQLhx300IE.tsstp"
+        },
+        {
+            "key": "δ-yQLjdo01HY",
+            "relativePath": "./δ steps/δ-yQLjdo01HY.tsstp"
+        },
+        {
+            "key": "δ-yQLrgo01Bc",
+            "relativePath": "./δ steps/δ-yQLrgo01Bc.tsstp"
+        },
+        {
+            "key": "δ-yQLuaT00Xj",
+            "relativePath": "./δ steps/δ-yQLuaT00Xj.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yS7yI801K5",
+        "editorID": "car_2c3a7d93951c4e75a3affa7ad6a8ff95",
+        "ticks": 1762129207388
+    }
+}

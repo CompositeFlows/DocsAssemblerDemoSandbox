@@ -1,0 +1,60 @@
+{
+    "key": "yV14R801BL  ",
+    "token": "Milksnaillacteaurban",
+    "name": "MilkSnailLacteaUrban",
+    "created": "2025-11-03T12:11:31.722Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Snails/Ξ MilkSnailLacteaUrban/MilkSnailLacteaUrban.tspod",
+    "isPod": true,
+    "iText": "Link to 'MilkSnailLacteaUrban'",
+    "___rΩΩt___": {
+        "key": "yV16WW016u",
+        "nodes": [
+            {
+                "key": "yV18UB00v5",
+                "order": 1,
+                "option": "Lactea Urban - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yV1Hk300rc",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yV1JPj01v7",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yV16WW016u",
+            "relativePath": "./δ steps/δ-yV16WW016u.tsstp"
+        },
+        {
+            "key": "δ-yV18UB00v5",
+            "relativePath": "./δ steps/δ-yV18UB00v5.tsstp"
+        },
+        {
+            "key": "δ-yV1Hk300rc",
+            "relativePath": "./δ steps/δ-yV1Hk300rc.tsstp"
+        },
+        {
+            "key": "δ-yV1JPj01v7",
+            "relativePath": "./δ steps/δ-yV1JPj01v7.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV1N1E01Ds",
+        "editorID": "car_fab416d95bc045b88e5925dd4a739656",
+        "ticks": 1762171963152
+    }
+}

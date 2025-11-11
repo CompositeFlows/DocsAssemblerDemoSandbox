@@ -1,0 +1,60 @@
+{
+    "key": "yQBHZW02UD  ",
+    "token": "Wasabiarugulananowasabi",
+    "name": "WasabiArugulaNanoWasabi",
+    "created": "2025-11-02T16:20:43.814Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ WasabiArugulaNanoWasabi/WasabiArugulaNanoWasabi.tspod",
+    "isPod": true,
+    "iText": "Link to 'WasabiArugulaNanoWasabi'",
+    "___rΩΩt___": {
+        "key": "yQBKOy02NR",
+        "nodes": [
+            {
+                "key": "yQBOFs008p",
+                "order": 1,
+                "option": "Nano-Wasabi - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQBTa002Mz",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQBWBy01Xx",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQBKOy02NR",
+            "relativePath": "./δ steps/δ-yQBKOy02NR.tsstp"
+        },
+        {
+            "key": "δ-yQBOFs008p",
+            "relativePath": "./δ steps/δ-yQBOFs008p.tsstp"
+        },
+        {
+            "key": "δ-yQBTa002Mz",
+            "relativePath": "./δ steps/δ-yQBTa002Mz.tsstp"
+        },
+        {
+            "key": "δ-yQBWBy01Xx",
+            "relativePath": "./δ steps/δ-yQBWBy01Xx.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQBaaI010Z",
+        "editorID": "car_bdbdb8add58f4bdf9c82acef03bb78c3",
+        "ticks": 1762100516898
+    }
+}

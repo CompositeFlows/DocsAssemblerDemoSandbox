@@ -1,0 +1,29 @@
+{
+  "name": "DocsAssemblerDemoSandbox",
+  "version": "0.0.1",
+  "author": "netoftrees",
+  "type": "module",
+  "scripts": {
+    "ck": "tsc --noEmit",
+    "dev": "vite",
+    "build": "tsc && vite build --mode production",
+    "min-build": "tsc && npx vite build --config vite-min.config.js",
+    "serve": "vite preview --port 1226",
+    "build:jekyll": "jekyll build",
+    "modify:html": "node modify-html.js",
+    "build-modify:jekyll": "yarn build:jekyll && yarn modify:html",
+    "build-modify:jekyll-dev": "yarn build:jekyll && yarn modify:html && vite"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.0.1",
+    "sass": "*",
+    "typescript": "*",
+    "vite": "*",
+    "vite-plugin-mkcert": "^1.16.0",
+    "vite-plugin-static-copy": "^2.3.0"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.1",
+    "jsdom": "^26.1.0"
+  }
+}

@@ -1,0 +1,59 @@
+{
+    "key": "xrBvBL00gw  ",
+    "token": "Leafliftdetails",
+    "name": "LeafLiftDetails",
+    "created": "2025-10-27T16:43:44.316Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ LeafLiftDetails/LeafLiftDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'LeafLiftDetails'",
+    "___rΩΩt___": {
+        "key": "xrBxjD00qo",
+        "nodes": [
+            {
+                "key": "xrC27q01eE",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy3FYc01q7",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy3Ggn00ZD",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xrBxjD00qo",
+            "relativePath": "./δ steps/δ-xrBxjD00qo.tsstp"
+        },
+        {
+            "key": "δ-xrC27q01eE",
+            "relativePath": "./δ steps/δ-xrC27q01eE.tsstp"
+        },
+        {
+            "key": "δ-xy3FYc01q7",
+            "relativePath": "./δ steps/δ-xy3FYc01q7.tsstp"
+        },
+        {
+            "key": "δ-xy3Ggn00ZD",
+            "relativePath": "./δ steps/δ-xy3Ggn00ZD.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xy3OAK01LR",
+        "editorID": "car_de6456afa0164c40b996de1d259de44a",
+        "ticks": 1761684825128
+    }
+}

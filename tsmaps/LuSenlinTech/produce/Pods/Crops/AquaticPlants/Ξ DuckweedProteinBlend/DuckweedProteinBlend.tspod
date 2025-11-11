@@ -1,0 +1,60 @@
+{
+    "key": "y4XDXZ01Po  ",
+    "token": "Duckweedproteinblend",
+    "name": "DuckweedProteinBlend",
+    "created": "2025-10-29T23:29:52.141Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Ξ DuckweedProteinBlend/DuckweedProteinBlend.tspod",
+    "isPod": true,
+    "iText": "Link to 'DuckweedProteinBlend'",
+    "___rΩΩt___": {
+        "key": "y4XFRS020T",
+        "nodes": [
+            {
+                "key": "y4XLfo02G0",
+                "order": 1,
+                "option": "Duckweed blend - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y4XtzU00Vm",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y4Z08P02Ka",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y4XFRS020T",
+            "relativePath": "./δ steps/δ-y4XFRS020T.tsstp"
+        },
+        {
+            "key": "δ-y4XLfo02G0",
+            "relativePath": "./δ steps/δ-y4XLfo02G0.tsstp"
+        },
+        {
+            "key": "δ-y4XtzU00Vm",
+            "relativePath": "./δ steps/δ-y4XtzU00Vm.tsstp"
+        },
+        {
+            "key": "δ-y4Z08P02Ka",
+            "relativePath": "./δ steps/δ-y4Z08P02Ka.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y4Z8j100wn",
+        "editorID": "car_badf3932e18f4dc285092f6ea1dd3da5",
+        "ticks": 1761781050287
+    }
+}

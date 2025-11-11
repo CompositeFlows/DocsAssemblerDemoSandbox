@@ -1,0 +1,60 @@
+{
+    "key": "yQJY6R01j3  ",
+    "token": "Lionsmanebrainfoodl2",
+    "name": "LionsManeBrainFoodL2",
+    "created": "2025-11-02T16:53:33.983Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ LionsManeBrainFoodL2/LionsManeBrainFoodL2.tspod",
+    "isPod": true,
+    "iText": "Link to 'LionsManeBrainFoodL2'",
+    "___rΩΩt___": {
+        "key": "yQJbv501Ih",
+        "nodes": [
+            {
+                "key": "yQJdw301hl",
+                "order": 1,
+                "option": "BrainFood L-2 - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQJjak02ZL",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQJlqb00qI",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQJbv501Ih",
+            "relativePath": "./δ steps/δ-yQJbv501Ih.tsstp"
+        },
+        {
+            "key": "δ-yQJdw301hl",
+            "relativePath": "./δ steps/δ-yQJdw301hl.tsstp"
+        },
+        {
+            "key": "δ-yQJjak02ZL",
+            "relativePath": "./δ steps/δ-yQJjak02ZL.tsstp"
+        },
+        {
+            "key": "δ-yQJlqb00qI",
+            "relativePath": "./δ steps/δ-yQJlqb00qI.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQJpwq01vK",
+        "editorID": "car_7e981e3329024afb8492a94a6a6b3678",
+        "ticks": 1762102482580
+    }
+}

@@ -1,0 +1,27 @@
+¬import g from "../../_shared/glossary"
+¬import el from "../../../shared/externalLinks"
+
+
+### About {{el.luSenLinName}} technologies
+
+{{el.luSenLinNameTech}} enables millions to grow fresh, nutritious food at home, even in small urban spaces like balconies. Our modular systems use advanced technology:
+
+ - {{g.pureLight_short}} 
+ - {{g.nanoSunBeam_short}}
+ - {{g.scalableStacking_short}}
+ - {{g.integratedUtilities_short}}
+ - {{g.windLock_short}}
+ - {{g.hydraRail_short}}
+ - {{g.precisionHeat_short}}
+ - {{g.nanoSunBeam_short}}
+ - {{g.harvestSage_short}}
+ - {{g.slideLockShelves_short}}
+ - {{g.windLock_short}}
+ - {{g.nanoSunBeam_short}}
+ - {{g.nanoPlantWhisper_short}}
+ - {{g.hotCarrier_short}}
+ - {{g.solisCell_short}}
+
+ 
+Compact, stackable, and energy-efficient, our systems run on integrated solar panels or small batteries. We prioritize edible produce inspired by global cuisines - from Beijing’s fresh herbs for hotpots to Tokyo’s shiitake for ramen, Paris’s escargot, or New York’s fusion salads with microgreens and seafood. All products are non-GMO, responsibly sourced, and meet international biosafety standards.
+

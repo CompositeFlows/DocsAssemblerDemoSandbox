@@ -1,0 +1,60 @@
+{
+    "key": "yQLA4g00UJ  ",
+    "token": "Enokimetroneedle",
+    "name": "EnokiMetroNeedle",
+    "created": "2025-11-02T16:59:58.274Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ EnokiMetroNeedle/EnokiMetroNeedle.tspod",
+    "isPod": true,
+    "iText": "Link to 'EnokiMetroNeedle'",
+    "___rΩΩt___": {
+        "key": "yQLCvD00fq",
+        "nodes": [
+            {
+                "key": "yQLEnv01xR",
+                "order": 1,
+                "option": "Metro-Needle - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQLL9400d5",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQLNlv00LS",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQLCvD00fq",
+            "relativePath": "./δ steps/δ-yQLCvD00fq.tsstp"
+        },
+        {
+            "key": "δ-yQLEnv01xR",
+            "relativePath": "./δ steps/δ-yQLEnv01xR.tsstp"
+        },
+        {
+            "key": "δ-yQLL9400d5",
+            "relativePath": "./δ steps/δ-yQLL9400d5.tsstp"
+        },
+        {
+            "key": "δ-yQLNlv00LS",
+            "relativePath": "./δ steps/δ-yQLNlv00LS.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQLRzp01kA",
+        "editorID": "car_611c5d81c3f74c7e9750d767be73f7b3",
+        "ticks": 1762102867165
+    }
+}

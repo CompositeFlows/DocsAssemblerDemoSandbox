@@ -1,0 +1,21 @@
+node_modules
+dist
+dist-ssr
+build-ssr
+*.local
+public
+
+dist/
+
+/zz temp/
+
+/.vs/
+
+/.cache/
+
+/build/
+pub/
+.bin/
+
+.jekyll-cache/
+

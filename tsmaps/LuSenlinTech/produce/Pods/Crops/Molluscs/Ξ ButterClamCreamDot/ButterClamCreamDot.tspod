@@ -1,0 +1,60 @@
+{
+    "key": "yUxzDu01SI  ",
+    "token": "Butterclamcreamdot",
+    "name": "ButterClamCreamDot",
+    "created": "2025-11-03T11:59:16.698Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Molluscs/Ξ ButterClamCreamDot/ButterClamCreamDot.tspod",
+    "isPod": true,
+    "iText": "Link to 'ButterClamCreamDot'",
+    "___rΩΩt___": {
+        "key": "yUy16w00Kz",
+        "nodes": [
+            {
+                "key": "yUy3jl02HM",
+                "order": 1,
+                "option": "Cream-Dot - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUy9YU00gY",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUyC3Q005h",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUy16w00Kz",
+            "relativePath": "./δ steps/δ-yUy16w00Kz.tsstp"
+        },
+        {
+            "key": "δ-yUy3jl02HM",
+            "relativePath": "./δ steps/δ-yUy3jl02HM.tsstp"
+        },
+        {
+            "key": "δ-yUy9YU00gY",
+            "relativePath": "./δ steps/δ-yUy9YU00gY.tsstp"
+        },
+        {
+            "key": "δ-yUyC3Q005h",
+            "relativePath": "./δ steps/δ-yUyC3Q005h.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUyFgl00ZI",
+        "editorID": "car_721fbaf480764cdda7888c853929b9ba",
+        "ticks": 1762171219991
+    }
+}

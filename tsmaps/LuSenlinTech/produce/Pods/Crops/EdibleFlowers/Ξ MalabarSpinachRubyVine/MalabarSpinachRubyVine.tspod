@@ -1,0 +1,60 @@
+{
+    "key": "yQESZK01YR  ",
+    "token": "Malabarspinachrubyvine",
+    "name": "MalabarSpinachRubyVine",
+    "created": "2025-11-02T16:33:21.071Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ MalabarSpinachRubyVine/MalabarSpinachRubyVine.tspod",
+    "isPod": true,
+    "iText": "Link to 'MalabarSpinachRubyVine'",
+    "___rΩΩt___": {
+        "key": "yQEVTy019C",
+        "nodes": [
+            {
+                "key": "yQEZCB00Ln",
+                "order": 1,
+                "option": "Ruby Vine - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQEgQT00Ti",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQEjKE01b7",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQEVTy019C",
+            "relativePath": "./δ steps/δ-yQEVTy019C.tsstp"
+        },
+        {
+            "key": "δ-yQEZCB00Ln",
+            "relativePath": "./δ steps/δ-yQEZCB00Ln.tsstp"
+        },
+        {
+            "key": "δ-yQEgQT00Ti",
+            "relativePath": "./δ steps/δ-yQEgQT00Ti.tsstp"
+        },
+        {
+            "key": "δ-yQEjKE01b7",
+            "relativePath": "./δ steps/δ-yQEjKE01b7.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQEoTW02OI",
+        "editorID": "car_4db6e4266469425eacb44ac8a7b5a463",
+        "ticks": 1762101285278
+    }
+}

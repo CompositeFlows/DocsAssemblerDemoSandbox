@@ -1,0 +1,39 @@
+<!-- tsFragmentRenderComment {"id":"zFvFg00di","topLevelMapKey":"sIhxfx02EB","mapKeyChain":"sIhxfx02EB","guideID":"zFvFbi2I9","parentFragmentID":"zFvFff26K","chartKey":"sIhxfx02EB","isLeaf":true,"options":[]} -->
+
+<h3 id="full-diagnostics-and-intellisense">Full Diagnostics and Intellisense</h3>
+
+<p><a href="https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler">Docs Assembler</a> provides full language support:</p>
+
+<h5 id="validation">Validation</h5>
+
+<ul>
+  <li><strong>Import statements</strong> - checks that the statement is well formed and the file path points to an existing file and the file is free of errors.</li>
+  <li><strong>Variable references</strong> - checks that it is well formed and the alias points to a valid import statement, and the variable exists within that imported file.</li>
+  <li><strong>Variable definitions</strong> - checks it is well-formed and if it is relative url is checks the file exists (and on publish moves the file to the publish folder).</li>
+</ul>
+
+<h5 id="intellisense">Intellisense</h5>
+
+<p>As you type, you get code completion help to build both the import statement and the variable references correctly, dramatically reducing typos and errors.</p>
+
+<p>You can easily navigate and understand your entire system. Right-clicking on any variable and selecting <strong>‘Go to Definition’</strong> takes you directly to its source.</p>
+
+<p><a href="/_site/assets/images/GoToVariableDefinition.png"><img class="nt-fr-mid-image" src="/_site/assets/images/GoToVariableDefinition.png" /></a></p>
+
+<p>Here is the <em>imageLinks.tsvar</em> variable file itself. Notice how you can even reference variables <em>within</em> other variable definitions, creating a powerful, reusable hierarchy of content.</p>
+
+<p><a href="/_site/assets/images/ImageLinksFile.png"><img class="nt-fr-mid-image" src="/_site/assets/images/ImageLinksFile.png" /></a></p>
+
+<h5 id="diagnostics">Diagnostics</h5>
+
+<p>The system actively monitors for errors in real-time. If you reference a variable that doesn’t exist, or a local url doesn’t point to an existing file, <a href="https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler">Docs Assembler</a> immediately flags it with a clear diagnostic warning, preventing publication and guiding you to fix the issue.</p>
+
+<h6 id="example">Example:</h6>
+
+<p>The element below tries to reference the ‘il.variable-does-not-exist’. Since this variable is not defined in the <em>imageLinks.tsvar</em> file, the system generates a precise error, ensuring content remains accurate and build processes aren’t broken by missing references.</p>
+
+<p><a href="/_site/assets/images/FullDiagnosticsAndIntellisense.png"><img class="nt-fr-mid-image" src="/_site/assets/images/FullDiagnosticsAndIntellisense.png" /></a></p>
+
+<p>This is a simple but powerful example of how <a href="https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler">Docs Assembler</a> applies software engineering principles - like encapsulation, single source of truth, and robust tooling - to documentation.</p>
+
+<p>It brings true software tooling to docs, with IntelliSense for variables, full validation before publish, and automatic handling of relative URLs that are defined as variables. This ensures any local files referenced by these URL variables are automatically discovered and copied to the publish folder, preventing broken links and ensuring robustness.</p>

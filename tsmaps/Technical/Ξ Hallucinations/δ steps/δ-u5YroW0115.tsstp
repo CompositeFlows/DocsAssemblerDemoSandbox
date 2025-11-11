@@ -1,0 +1,39 @@
+¬import el from "../../../shared/externalLinks"
+
+
+#### What are Hallucinations?
+
+In the context of LLMs, a **"hallucination"** is when the AI generates information that is incorrect, nonsensical, or not grounded in its training data or the provided context.
+
+It's not that the AI is *lying*; it's more like it's confidently guessing or pattern-matching to a fault. These models are designed to predict the most statistically likely next word in a sequence. Sometimes, in their effort to create a coherent and fluent response, they "make things up" that sound plausible but are factually wrong.
+
+###### A Simple Example:
+
+*   **If you asked:** "What is the capital of France?"
+*   **A good AI responds:** "The capital of France is Paris."
+*   **A hallucinating AI might respond:** "The capital of France is Lyon. It's known for its famous Eiffel Tower and has been the seat of government since 1789."
+
+The second answer is fluent and *sounds* authoritative, but it's factually incorrect. This is a classic hallucination: the model has statistically associated 'France' with 'Eiffel Tower' and 'government since 1789,' but applied them to the wrong city.
+
+#### Why is this a critical problem for documentation?
+
+In technical, operational, or safety-critical guidance, accuracy is everything. A hallucinated step in a diagnostic procedure or a safety check could have serious real-world consequences. You cannot afford to have an AI guess.
+
+#### How does {{el.docsAssemblerExtension_link}} prevent hallucinations?
+
+It's helpful to think of the solution in two layers:
+
+###### 1. The Core System is Hallucination-Free by Design
+
+The foundational guides you build with {{el.docsAssemblerExtension_link}} - using Maps, Variables, and structured logic - do not hallucinate. They are deterministic systems, meaning they operate on fixed, human-defined rules. When you publish a guide, it assembles precise steps from your validated source material. There is no AI generating new text or inventing steps; it simply delivers the instructions you have explicitly authored and connected. This makes it inherently reliable for critical procedures.
+
+###### 2. Enabling Safe AI with a Graph-Augmented LLM
+
+For teams that want a conversational interface (e.g., a chatbot), {{el.docsAssemblerExtension_link}} provides the perfect foundation to make AI significantly safer and more reliable. Instead of letting an LLM rely on its own unpredictable internal knowledge, you can pair it with your {{el.docsAssemblerExtension_link}} knowledge base in an architecture called a Graph-Augmented LLM.
+
+In this setup, the LLM is *grounded* by your structured knowledge. Before it generates an answer, it first consults your verified Guides. The AI's role shifts from being a source of knowledge to being a sophisticated interpreter of your knowledge.
+
+This architecture dramatically reduces the risk of hallucinations by tethering the AI to your factual data. While not 100% infallible, the AI is guided to rephrase, summarize, or traverse the connections you've built. It is far less likely to invent a step or procedure that doesn't already exist in your source material, as its responses are constrained by your verified content.
+
+**In short:** {{el.docsAssemblerExtension_link}} either bypasses the need for generative AI entirely with its deterministic guides, or it provides the essential, verified structural knowledge required to minimize hallucinations and make generative AI practical for trustworthy use.
+

@@ -1,0 +1,60 @@
+{
+    "key": "yV21JL00j7  ",
+    "token": "Mysterysnailproteinpearl",
+    "name": "MysterySnailProteinPearl",
+    "created": "2025-11-03T12:15:18.035Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Snails/Ξ MysterySnailProteinPearl/MysterySnailProteinPearl.tspod",
+    "isPod": true,
+    "iText": "Link to 'MysterySnailProteinPearl'",
+    "___rΩΩt___": {
+        "key": "yV24K800xr",
+        "nodes": [
+            {
+                "key": "yV26kM01hA",
+                "order": 1,
+                "option": "Protein Pearl - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yV2CH400iD",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yV2EH400zP",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yV24K800xr",
+            "relativePath": "./δ steps/δ-yV24K800xr.tsstp"
+        },
+        {
+            "key": "δ-yV26kM01hA",
+            "relativePath": "./δ steps/δ-yV26kM01hA.tsstp"
+        },
+        {
+            "key": "δ-yV2CH400iD",
+            "relativePath": "./δ steps/δ-yV2CH400iD.tsstp"
+        },
+        {
+            "key": "δ-yV2EH400zP",
+            "relativePath": "./δ steps/δ-yV2EH400zP.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV2IHS01ss",
+        "editorID": "car_d3cbc5e81bcf4d14a5c4a18d5f93eea6",
+        "ticks": 1762172183266
+    }
+}

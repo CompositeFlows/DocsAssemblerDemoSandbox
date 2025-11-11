@@ -1,0 +1,60 @@
+{
+    "key": "yQHI0B00kq  ",
+    "token": "Edibleviolamidnightkiss",
+    "name": "EdibleViolaMidnightKiss",
+    "created": "2025-11-02T16:44:35.436Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ EdibleViolaMidnightKiss/EdibleViolaMidnightKiss.tspod",
+    "isPod": true,
+    "iText": "Link to 'EdibleViolaMidnightKiss'",
+    "___rΩΩt___": {
+        "key": "yQHKf600Q0",
+        "nodes": [
+            {
+                "key": "yQHP5J01CG",
+                "order": 1,
+                "option": "Midnight Kiss - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQHTuc00Jy",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQHWlL00ky",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQHKf600Q0",
+            "relativePath": "./δ steps/δ-yQHKf600Q0.tsstp"
+        },
+        {
+            "key": "δ-yQHP5J01CG",
+            "relativePath": "./δ steps/δ-yQHP5J01CG.tsstp"
+        },
+        {
+            "key": "δ-yQHTuc00Jy",
+            "relativePath": "./δ steps/δ-yQHTuc00Jy.tsstp"
+        },
+        {
+            "key": "δ-yQHWlL00ky",
+            "relativePath": "./δ steps/δ-yQHWlL00ky.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQHb0W023R",
+        "editorID": "car_dc3c456f4f514569bea6c12198a6389f",
+        "ticks": 1762101948492
+    }
+}

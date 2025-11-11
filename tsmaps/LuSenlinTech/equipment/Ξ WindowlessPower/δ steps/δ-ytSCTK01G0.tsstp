@@ -1,0 +1,16 @@
+¬import tm from "../../../_shared/tradeMarks"
+
+
+### Powering Your Indoor Vertical Garden
+
+Your windowless garden requires a completely self-contained energy solution, built around a robust, hot-swappable battery configuration.
+
+The foundation is a bank of four **{{tm.solisCellTM}}** power modules. This design provides enough energy to run the **{{tm.nanoSunBeamTM}}** LED array and all climate controls for up to two weeks, based on the specific power draw of your selected modules and the environmental needs of your crops.
+
+This approach is defined by its flexibility:
+*   **Hot-Swappable Operation:** You can seamlessly remove one module at a time for charging while the garden continues operating on the remaining three.
+*   **Grid-Independent Resilience:** A permanent power socket is ideal for continuous charging, but not mandatory. The setup allows you to manage energy through a simple cycle of charging and swapping.
+*   **Adaptive Performance:** The unit intelligently manages power consumption, ensuring stable performance whether on one battery or all four.
+
+This provides a highly resilient, off-grid-capable power architecture tailored for a controlled indoor environment.
+

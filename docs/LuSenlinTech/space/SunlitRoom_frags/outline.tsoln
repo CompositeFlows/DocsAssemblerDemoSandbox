@@ -1,0 +1,36 @@
+{
+    "v": "1",
+    "r": {
+        "i": "zFvFqC06s",
+        "n": "s7LPoI0pM",
+        "c": 0,
+        "o": [
+            {
+                "i": "zFvFqP0WE",
+                "n": "ytOLyU01vz",
+                "x": "ytLNSq01qu",
+                "c": 1
+            },
+            {
+                "i": "zFvFqZ28c",
+                "n": "ytOLyV015a",
+                "x": "ytLP1Q00bO",
+                "c": 1
+            }
+        ]
+    },
+    "c": [
+        {
+            "i": "ytJKIf021t",
+            "p": "LuSenlinTech/equipment/IndoorPower_frags"
+        },
+        {
+            "i": "yjFhSI02KP",
+            "p": "LuSenlinTech/preferences/Customisation_frags"
+        }
+    ],
+    "e": 0,
+    "mv": {
+        "spaceDisplayText": "in your sunlit room"
+    }
+}

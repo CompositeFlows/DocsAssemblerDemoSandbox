@@ -1,0 +1,60 @@
+{
+    "key": "yUqelo0110  ",
+    "token": "Urbanmudcrabsoftshellmicro",
+    "name": "UrbanMudCrabSoftShellMicro",
+    "created": "2025-11-03T11:30:09.780Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Crustaceans/Ξ UrbanMudCrabSoftShellMicro/UrbanMudCrabSoftShellMicro.tspod",
+    "isPod": true,
+    "iText": "Link to 'UrbanMudCrabSoftShellMicro'",
+    "___rΩΩt___": {
+        "key": "yUqiOl02KO",
+        "nodes": [
+            {
+                "key": "yUqk0Q00vr",
+                "order": 1,
+                "option": "Soft-Shell Micro - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUqq6T024B",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUqsSF00DL",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUqiOl02KO",
+            "relativePath": "./δ steps/δ-yUqiOl02KO.tsstp"
+        },
+        {
+            "key": "δ-yUqk0Q00vr",
+            "relativePath": "./δ steps/δ-yUqk0Q00vr.tsstp"
+        },
+        {
+            "key": "δ-yUqq6T024B",
+            "relativePath": "./δ steps/δ-yUqq6T024B.tsstp"
+        },
+        {
+            "key": "δ-yUqsSF00DL",
+            "relativePath": "./δ steps/δ-yUqsSF00DL.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUqx0Z00up",
+        "editorID": "car_796102c9739a43afb831be915492638a",
+        "ticks": 1762169479887
+    }
+}

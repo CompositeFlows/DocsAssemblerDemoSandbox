@@ -1,0 +1,60 @@
+{
+    "key": "yV1ZL100HP  ",
+    "token": "Goldenapplesnailgiltapplemini",
+    "name": "GoldenAppleSnailGiltAppleMini",
+    "created": "2025-11-03T12:13:30.508Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Snails/Ξ GoldenAppleSnailGiltAppleMini/GoldenAppleSnailGiltAppleMini.tspod",
+    "isPod": true,
+    "iText": "Link to 'GoldenAppleSnailGiltAppleMini'",
+    "___rΩΩt___": {
+        "key": "yV1cmv00Qe",
+        "nodes": [
+            {
+                "key": "yV1emt01sW",
+                "order": 1,
+                "option": "Gilt Apple Mini - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yV1jPh01bQ",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yV1m8000Q1",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yV1cmv00Qe",
+            "relativePath": "./δ steps/δ-yV1cmv00Qe.tsstp"
+        },
+        {
+            "key": "δ-yV1emt01sW",
+            "relativePath": "./δ steps/δ-yV1emt01sW.tsstp"
+        },
+        {
+            "key": "δ-yV1jPh01bQ",
+            "relativePath": "./δ steps/δ-yV1jPh01bQ.tsstp"
+        },
+        {
+            "key": "δ-yV1m8000Q1",
+            "relativePath": "./δ steps/δ-yV1m8000Q1.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV1psE02By",
+        "editorID": "car_67639235ddb8475d896682776e039431",
+        "ticks": 1762172074070
+    }
+}

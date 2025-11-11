@@ -1,0 +1,60 @@
+{
+    "key": "yKWya700Ch  ",
+    "token": "Babygingerzingycore",
+    "name": "BabyGingerZingyCore",
+    "created": "2025-11-01T17:09:16.015Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/RootsAndStems/Ξ BabyGingerZingyCore/BabyGingerZingyCore.tspod",
+    "isPod": true,
+    "iText": "Link to 'BabyGingerZingyCore'",
+    "___rΩΩt___": {
+        "key": "yKX1HF022P",
+        "nodes": [
+            {
+                "key": "yKX2pI027e",
+                "order": 1,
+                "option": "Zingy Core - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKX9BI01b1",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKXBcy00My",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKX1HF022P",
+            "relativePath": "./δ steps/δ-yKX1HF022P.tsstp"
+        },
+        {
+            "key": "δ-yKX2pI027e",
+            "relativePath": "./δ steps/δ-yKX2pI027e.tsstp"
+        },
+        {
+            "key": "δ-yKX9BI01b1",
+            "relativePath": "./δ steps/δ-yKX9BI01b1.tsstp"
+        },
+        {
+            "key": "δ-yKXBcy00My",
+            "relativePath": "./δ steps/δ-yKXBcy00My.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKXFI501sy",
+        "editorID": "car_6ee1c926ed3745ce9bc85b3d8a776881",
+        "ticks": 1762017020245
+    }
+}

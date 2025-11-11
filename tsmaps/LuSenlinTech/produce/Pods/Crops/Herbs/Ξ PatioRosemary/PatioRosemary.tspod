@@ -1,0 +1,60 @@
+{
+    "key": "yAVGew01b7  ",
+    "token": "Patiorosemary",
+    "name": "PatioRosemary",
+    "created": "2025-10-30T23:59:45.491Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ PatioRosemary/PatioRosemary.tspod",
+    "isPod": true,
+    "iText": "Link to 'PatioRosemary'",
+    "___rΩΩt___": {
+        "key": "yAVIAh00HX",
+        "nodes": [
+            {
+                "key": "yAVK5i00gf",
+                "order": 1,
+                "option": "AromiStax - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yAVT3g00xH",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yAVVex01iB",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yAVIAh00HX",
+            "relativePath": "./δ steps/δ-yAVIAh00HX.tsstp"
+        },
+        {
+            "key": "δ-yAVK5i00gf",
+            "relativePath": "./δ steps/δ-yAVK5i00gf.tsstp"
+        },
+        {
+            "key": "δ-yAVT3g00xH",
+            "relativePath": "./δ steps/δ-yAVT3g00xH.tsstp"
+        },
+        {
+            "key": "δ-yAVVex01iB",
+            "relativePath": "./δ steps/δ-yAVVex01iB.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAVai502PA",
+        "editorID": "car_bff3f37c906f4d32977c2c910ec1adaf",
+        "ticks": 1761868862565
+    }
+}

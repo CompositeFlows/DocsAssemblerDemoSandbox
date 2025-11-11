@@ -1,0 +1,60 @@
+{
+    "key": "yQ7vid01iD  ",
+    "token": "Nasturtiumcitruswheel",
+    "name": "NasturtiumCitrusWheel",
+    "created": "2025-11-02T16:07:24.828Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ NasturtiumCitrusWheel/NasturtiumCitrusWheel.tspod",
+    "isPod": true,
+    "iText": "Link to 'NasturtiumCitrusWheel'",
+    "___rΩΩt___": {
+        "key": "yQ7y5U00zv",
+        "nodes": [
+            {
+                "key": "yQ80CL00H9",
+                "order": 1,
+                "option": "Citrus Wheel - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQ87rG016O",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQ8Ky300NG",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQ7y5U00zv",
+            "relativePath": "./δ steps/δ-yQ7y5U00zv.tsstp"
+        },
+        {
+            "key": "δ-yQ80CL00H9",
+            "relativePath": "./δ steps/δ-yQ80CL00H9.tsstp"
+        },
+        {
+            "key": "δ-yQ87rG016O",
+            "relativePath": "./δ steps/δ-yQ87rG016O.tsstp"
+        },
+        {
+            "key": "δ-yQ8Ky300NG",
+            "relativePath": "./δ steps/δ-yQ8Ky300NG.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQ8QVl029B",
+        "editorID": "car_1d9f9239d4af4e37b5a52f4ba8175ade",
+        "ticks": 1762099763193
+    }
+}

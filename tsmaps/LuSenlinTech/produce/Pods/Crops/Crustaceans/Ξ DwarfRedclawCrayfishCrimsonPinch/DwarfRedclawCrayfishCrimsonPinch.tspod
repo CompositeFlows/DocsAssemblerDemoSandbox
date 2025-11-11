@@ -1,0 +1,60 @@
+{
+    "key": "yUnlMq017C  ",
+    "token": "Dwarfredclawcrayfishcrimsonpinch",
+    "name": "DwarfRedclawCrayfishCrimsonPinch",
+    "created": "2025-11-03T11:18:40.156Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Crustaceans/Ξ DwarfRedclawCrayfishCrimsonPinch/DwarfRedclawCrayfishCrimsonPinch.tspod",
+    "isPod": true,
+    "iText": "Link to 'DwarfRedclawCrayfishCrimsonPinch'",
+    "___rΩΩt___": {
+        "key": "yUnoMf00yh",
+        "nodes": [
+            {
+                "key": "yUnqVT019w",
+                "order": 1,
+                "option": "Crimson Pinch - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUpMqZ006O",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUpPkg02Sg",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUnoMf00yh",
+            "relativePath": "./δ steps/δ-yUnoMf00yh.tsstp"
+        },
+        {
+            "key": "δ-yUnqVT019w",
+            "relativePath": "./δ steps/δ-yUnqVT019w.tsstp"
+        },
+        {
+            "key": "δ-yUpMqZ006O",
+            "relativePath": "./δ steps/δ-yUpMqZ006O.tsstp"
+        },
+        {
+            "key": "δ-yUpPkg02Sg",
+            "relativePath": "./δ steps/δ-yUpPkg02Sg.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUpU1C01gT",
+        "editorID": "car_f0b1fa6a08354618834505085a71177c",
+        "ticks": 1762169130122
+    }
+}

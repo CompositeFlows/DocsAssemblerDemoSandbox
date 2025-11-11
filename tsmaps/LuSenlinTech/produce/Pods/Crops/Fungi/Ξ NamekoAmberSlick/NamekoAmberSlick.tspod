@@ -1,0 +1,60 @@
+{
+    "key": "yQk12u01TM  ",
+    "token": "Namekoamberslick",
+    "name": "NamekoAmberSlick",
+    "created": "2025-11-02T18:38:41.768Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ NamekoAmberSlick/NamekoAmberSlick.tspod",
+    "isPod": true,
+    "iText": "Link to 'NamekoAmberSlick'",
+    "___rΩΩt___": {
+        "key": "yQk3Q202JP",
+        "nodes": [
+            {
+                "key": "yQk5IW02Tv",
+                "order": 1,
+                "option": "Amber Slick - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQkCIC01qE",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQkEjO01ji",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQk3Q202JP",
+            "relativePath": "./δ steps/δ-yQk3Q202JP.tsstp"
+        },
+        {
+            "key": "δ-yQk5IW02Tv",
+            "relativePath": "./δ steps/δ-yQk5IW02Tv.tsstp"
+        },
+        {
+            "key": "δ-yQkCIC01qE",
+            "relativePath": "./δ steps/δ-yQkCIC01qE.tsstp"
+        },
+        {
+            "key": "δ-yQkEjO01ji",
+            "relativePath": "./δ steps/δ-yQkEjO01ji.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQkJkZ002J",
+        "editorID": "car_472441f2d7564595ba46c9fcff7dca54",
+        "ticks": 1762108793667
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "key": "yUxFyX01LG  ",
+    "token": "Skylinesurfclamsurfsky",
+    "name": "SkylineSurfClamSurfSky",
+    "created": "2025-11-03T11:56:22.765Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Molluscs/Ξ SkylineSurfClamSurfSky/SkylineSurfClamSurfSky.tspod",
+    "isPod": true,
+    "iText": "Link to 'SkylineSurfClamSurfSky'",
+    "___rΩΩt___": {
+        "key": "yUxIUI02Yu",
+        "nodes": [
+            {
+                "key": "yUxKeR01Oa",
+                "order": 1,
+                "option": "Surf-Sky - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUxOr001Xq",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUxRHV02So",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUxIUI02Yu",
+            "relativePath": "./δ steps/δ-yUxIUI02Yu.tsstp"
+        },
+        {
+            "key": "δ-yUxKeR01Oa",
+            "relativePath": "./δ steps/δ-yUxKeR01Oa.tsstp"
+        },
+        {
+            "key": "δ-yUxOr001Xq",
+            "relativePath": "./δ steps/δ-yUxOr001Xq.tsstp"
+        },
+        {
+            "key": "δ-yUxRHV02So",
+            "relativePath": "./δ steps/δ-yUxRHV02So.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUxWAn00cN",
+        "editorID": "car_6adfb56c54ae4aa6885e236adec7def0",
+        "ticks": 1762171045029
+    }
+}

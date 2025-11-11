@@ -1,0 +1,113 @@
+{
+    "key": "wuahkg011M  ",
+    "token": "Snails",
+    "name": "Snails",
+    "created": "2025-10-17T16:12:07.067Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ Snails/Snails.tsmap",
+    "iText": "Link to 'Snails'",
+    "iExits": [
+        {
+            "key": "wubGs202Bw",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wuaiQq02Aw",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wuambG01GW",
+                "order": 1,
+                "option": "Table Snail ‘Helix Max-Mini’",
+                "exitKey": "wubGs202Bw",
+                "podKey": "yUyjHF00x2",
+                "podText": "Link to 'TableSnailHelixMaxMini'"
+            },
+            {
+                "key": "wuauFK00k7",
+                "order": 2,
+                "option": "Burgundy Snail ‘Petit Bourguignon’",
+                "exitKey": "wubGs202Bw",
+                "podKey": "yUzIOK00y1",
+                "podText": "Link to 'BurgundySnailPetitBourguignon'"
+            },
+            {
+                "key": "wuavM101jB",
+                "order": 3,
+                "option": "Garden Stripe Snail ‘Brown-Line Nano’",
+                "exitKey": "wubGs202Bw",
+                "podKey": "yUzwAp0067",
+                "podText": "Link to 'GardenStripeSnailBrownLineNano'"
+            },
+            {
+                "key": "wuawYn028P",
+                "order": 4,
+                "option": "Dwarf Giant African Snail ‘Chef-Shell’",
+                "exitKey": "wubGs202Bw",
+                "podKey": "yV0Slm01gy",
+                "podText": "Link to 'DwarfGiantAfricanSnailChefShell'"
+            },
+            {
+                "key": "wuaxUE02BR",
+                "order": 5,
+                "option": "Milk Snail ‘Lactea Urban’",
+                "exitKey": "wubGs202Bw",
+                "podKey": "yV14R801BL",
+                "podText": "Link to 'MilkSnailLacteaUrban'"
+            },
+            {
+                "key": "wuayd100wI",
+                "order": 6,
+                "option": "Golden Apple Snail ‘Gilt Apple Mini’ - semi-aquatic",
+                "exitKey": "wubGs202Bw",
+                "podKey": "yV1ZL100HP",
+                "podText": "Link to 'GoldenAppleSnailGiltAppleMini'"
+            },
+            {
+                "key": "wub0Nk01WZ",
+                "order": 7,
+                "option": "Mystery Snail ‘Protein Pearl’ - fresh-water cleanup + food",
+                "exitKey": "wubGs202Bw",
+                "podKey": "yV21JL00j7",
+                "podText": "Link to 'MysterySnailProteinPearl'"
+            },
+            {
+                "key": "wub2XI02Ik",
+                "order": 8,
+                "option": "City Periwinkle ‘Peri-Pocket’ - haloponic, marine",
+                "exitKey": "wubGs202Bw",
+                "podKey": "yV2bQN00Bb",
+                "podText": "Link to 'CityPeriwinklePeriPocket'"
+            },
+            {
+                "key": "wub4FP020t",
+                "order": 9,
+                "option": "Mini Whelk ‘Spiral Bite’* - brackish",
+                "exitKey": "wubGs202Bw",
+                "podKey": "yV3D070056",
+                "podText": "Link to 'MiniWhelkSpiralBite'"
+            },
+            {
+                "key": "wub6ZK00dg",
+                "order": 10,
+                "option": "Striped Nerite ‘Neri-Snack’ - algae grazer & garnish",
+                "exitKey": "wubGs202Bw",
+                "podKey": "yV3puh012a",
+                "podText": "Link to 'StripedNeriteNeriSnack'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wuaiQq02Aw",
+            "relativePath": "./δ steps/δ-wuaiQq02Aw.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV4Dqz01WZ",
+        "editorID": "car_3714ff389ec34d09aedc61edf0144132",
+        "ticks": 1762172642905
+    }
+}

@@ -1,0 +1,14 @@
+¬import g from "../../../_shared/glossary"
+
+
+###### Key Features:
+
+- {{g.scalableStacking_short}}
+- {{g.integratedUtilities_short}}
+- {{g.hydraRail_short}}
+- {{g.pureLight_short}}
+- {{g.precisionHeat_short}}
+- {{g.nanoSunBeam_short}}
+- {{g.harvestSage_short}}
+- {{g.slideLockShelves_short}}
+- {{g.windLock_short}}

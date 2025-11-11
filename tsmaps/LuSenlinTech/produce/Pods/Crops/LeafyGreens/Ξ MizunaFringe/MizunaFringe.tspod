@@ -1,0 +1,60 @@
+{
+    "key": "yG6rmu01is  ",
+    "token": "Mizunafringe",
+    "name": "MizunaFringe",
+    "created": "2025-10-31T23:00:28.029Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/LeafyGreens/Ξ MizunaFringe/MizunaFringe.tspod",
+    "isPod": true,
+    "iText": "Link to 'MizunaFringe'",
+    "___rΩΩt___": {
+        "key": "yG6tCw01Jx",
+        "nodes": [
+            {
+                "key": "yG6x5l02Fu",
+                "order": 1,
+                "option": "Fringe - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yG8JuC01oJ",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yG8QcB005B",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yG6tCw01Jx",
+            "relativePath": "./δ steps/δ-yG6tCw01Jx.tsstp"
+        },
+        {
+            "key": "δ-yG6x5l02Fu",
+            "relativePath": "./δ steps/δ-yG6x5l02Fu.tsstp"
+        },
+        {
+            "key": "δ-yG8JuC01oJ",
+            "relativePath": "./δ steps/δ-yG8JuC01oJ.tsstp"
+        },
+        {
+            "key": "δ-yG8QcB005B",
+            "relativePath": "./δ steps/δ-yG8QcB005B.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yG8WdT01zn",
+        "editorID": "car_f9b701822e694ef18d54cdfa7020bf71",
+        "ticks": 1761952023375
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "key": "yKVysx01sK  ",
+    "token": "Babysweetpotatopocketyama",
+    "name": "BabySweetPotatoPocketYama",
+    "created": "2025-11-01T17:05:18.856Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/RootsAndStems/Ξ BabySweetPotatoPocketYama/BabySweetPotatoPocketYama.tspod",
+    "isPod": true,
+    "iText": "Link to 'BabySweetPotatoPocketYama'",
+    "___rΩΩt___": {
+        "key": "yKW20P00zh",
+        "nodes": [
+            {
+                "key": "yKW3kt00xc",
+                "order": 1,
+                "option": "Pocket Yama - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKWBap02V9",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKWCCa02Kc",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKW20P00zh",
+            "relativePath": "./δ steps/δ-yKW20P00zh.tsstp"
+        },
+        {
+            "key": "δ-yKW3kt00xc",
+            "relativePath": "./δ steps/δ-yKW3kt00xc.tsstp"
+        },
+        {
+            "key": "δ-yKWBap02V9",
+            "relativePath": "./δ steps/δ-yKWBap02V9.tsstp"
+        },
+        {
+            "key": "δ-yKWCCa02Kc",
+            "relativePath": "./δ steps/δ-yKWCCa02Kc.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKWIE40076",
+        "editorID": "car_91be4019ecbf49d1911de3a0c41f9f60",
+        "ticks": 1762016793200
+    }
+}

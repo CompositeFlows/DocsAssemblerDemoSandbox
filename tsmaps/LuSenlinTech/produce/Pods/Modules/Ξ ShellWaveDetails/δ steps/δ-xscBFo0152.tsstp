@@ -1,0 +1,22 @@
+¬import tm from "../../../../../_shared/tradeMarks"
+¬import el from "../../../../../../shared/externalLinks"
+
+
+##### How It Works
+
+###### 1. The Juvenile Spat
+{{el.luSenLinName}}’s hatchery supplies juvenile shellfish (spat), carefully settled on appropriate substrates. This selection - from the fast-filtering **Urban Mussel ‘Closed-Sea’** to the delicate **Micro Scallop ‘Sweet-Dot’** - is ideal because these species are entirely dependent on pristine, particle-rich water for respiration and nutrition, a condition this system is designed to maintain flawlessly.
+
+###### 2. Sterile Cultivation in the Module
+Once the spat are introduced to the ShellWave tank, {{tm.harvestSageTM}} initiates a specialized mollusc program:
+- The **{{tm.microBubbleColumn}}** super-saturates the water with dissolved oxygen, pushing levels to ~10 mg L⁻¹, which is essential for the high metabolic demands of filter-feedintm.
+- The **{{tm.uvcOzoneSterilLoop}}** operates continuously, creating a closed-loop sterilization system that flashes water with 254 nm UV-C light and doses 0.1 ppm ozone, eliminating bacteria, viruses, and protozoa without any chemicals.
+- The **{{tm.realTimeTurbidityPhSensors}}** guard water clarity and acidity, ensuring the environment remains stable for shell formation and overall health.
+
+###### 3. The Dormancy Harvest
+The ShellWave ensures the highest quality and ease of harvest through physiological management.
+- Two hours before your planned harvest, the **{{tm.autoChillTo4C}}** system activates, gradually lowering the water temperature to 4°C.
+- This cold shock induces a dormant state in the molluscs, causing them to close their shells tightly. This reduces stress, preserves their internal moisture (liquor), and makes them easier to handle and store.
+- Harvesting is then a simple process of collecting the dormant, closed-shell bivalves from the tank.
+- The system provides a **yield of 180–250g of chilled, dormant molluscs per full production cycle.**
+

@@ -1,0 +1,60 @@
+{
+    "key": "y4d25L00ah  ",
+    "token": "Spirulinamatbluecore",
+    "name": "SpirulinaMatBlueCore",
+    "created": "2025-10-29T23:52:58.076Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Ξ SpirulinaMatBlueCore/SpirulinaMatBlueCore.tspod",
+    "isPod": true,
+    "iText": "Link to 'SpirulinaMatBlueCore'",
+    "___rΩΩt___": {
+        "key": "y4d4JJ019x",
+        "nodes": [
+            {
+                "key": "y4d81u01sn",
+                "order": 1,
+                "option": "BlueCore - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y4dAr902Nt",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y4dPWG00SL",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y4d4JJ019x",
+            "relativePath": "./δ steps/δ-y4d4JJ019x.tsstp"
+        },
+        {
+            "key": "δ-y4d81u01sn",
+            "relativePath": "./δ steps/δ-y4d81u01sn.tsstp"
+        },
+        {
+            "key": "δ-y4dAr902Nt",
+            "relativePath": "./δ steps/δ-y4dAr902Nt.tsstp"
+        },
+        {
+            "key": "δ-y4dPWG00SL",
+            "relativePath": "./δ steps/δ-y4dPWG00SL.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y4lhvg0168",
+        "editorID": "car_a74f0547ba4e49ea8ac85cb5a3d01207",
+        "ticks": 1761784045548
+    }
+}

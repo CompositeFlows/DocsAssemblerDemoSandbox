@@ -1,0 +1,60 @@
+{
+    "key": "yUmpgs02L9  ",
+    "token": "Minicrayfishgreenmarble",
+    "name": "MiniCrayfishGreenMarble",
+    "created": "2025-11-03T11:14:58.447Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Crustaceans/Ξ MiniCrayfishGreenMarble/MiniCrayfishGreenMarble.tspod",
+    "isPod": true,
+    "iText": "Link to 'MiniCrayfishGreenMarble'",
+    "___rΩΩt___": {
+        "key": "yUmsH601Qe",
+        "nodes": [
+            {
+                "key": "yUmuMd025J",
+                "order": 1,
+                "option": "Green-Marble - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUn2Q601Yw",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUn4nS00C8",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUmsH601Qe",
+            "relativePath": "./δ steps/δ-yUmsH601Qe.tsstp"
+        },
+        {
+            "key": "δ-yUmuMd025J",
+            "relativePath": "./δ steps/δ-yUmuMd025J.tsstp"
+        },
+        {
+            "key": "δ-yUn2Q601Yw",
+            "relativePath": "./δ steps/δ-yUn2Q601Yw.tsstp"
+        },
+        {
+            "key": "δ-yUn4nS00C8",
+            "relativePath": "./δ steps/δ-yUn4nS00C8.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUn8LJ01kQ",
+        "editorID": "car_d4bdd912298b40448d99c826a469de1f",
+        "ticks": 1762168570145
+    }
+}

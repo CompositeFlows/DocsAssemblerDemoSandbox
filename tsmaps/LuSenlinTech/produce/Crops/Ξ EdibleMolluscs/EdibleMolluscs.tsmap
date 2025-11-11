@@ -1,0 +1,113 @@
+{
+    "key": "wuYugT00Mx  ",
+    "token": "Ediblemolluscs",
+    "name": "EdibleMolluscs",
+    "created": "2025-10-17T16:05:00.122Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ EdibleMolluscs/EdibleMolluscs.tsmap",
+    "iText": "Link to 'EdibleMolluscs'",
+    "iExits": [
+        {
+            "key": "wuZNti02E2",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wuYwbA02NW",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wuZ1I600bO",
+                "order": 1,
+                "option": "Urban Mussel ‘Closed-Sea’",
+                "exitKey": "wuZNti02E2",
+                "podKey": "yUsokB00kc",
+                "podText": "Link to 'UrbanMusselClosedSea'"
+            },
+            {
+                "key": "wuZE5b01os",
+                "order": 2,
+                "option": "Manila Clam ‘Metro-Gold’",
+                "exitKey": "wuZNti02E2",
+                "podKey": "yUtVwu02Zq",
+                "podText": "Link to 'ManilaClamMetroGold'"
+            },
+            {
+                "key": "wuZEwN01EM",
+                "order": 3,
+                "option": "Micro Scallop ‘Sweet-Dot’",
+                "exitKey": "wuZNti02E2",
+                "podKey": "yUu0k400ll",
+                "podText": "Link to 'MicroScallopSweetDot'"
+            },
+            {
+                "key": "wuZG0R004M",
+                "order": 4,
+                "option": "Pocket Oyster ‘Balconia’",
+                "exitKey": "wuZNti02E2",
+                "podKey": "yUuUre00Pd",
+                "podText": "Link to 'PocketOysterBalconia'"
+            },
+            {
+                "key": "wuZHSX005U",
+                "order": 5,
+                "option": "Dwarf Razor Clam ‘Nano-Razor’",
+                "exitKey": "wuZNti02E2",
+                "podKey": "yUvEdl00U0",
+                "podText": "Link to 'DwarfRazorClamNanoRazor'"
+            },
+            {
+                "key": "wuZIUO00yd",
+                "order": 6,
+                "option": "Hard-Shell Cockle ‘City Cockle’",
+                "exitKey": "wuZNti02E2",
+                "podKey": "yUvgNl01Ux",
+                "podText": "Link to 'HardShellCockleCityCockle'"
+            },
+            {
+                "key": "wuZJUT02a1",
+                "order": 7,
+                "option": "Mini Abalone ‘Blue-Ear’",
+                "exitKey": "wuZNti02E2",
+                "podKey": "yUwGJ000B0",
+                "podText": "Link to 'MiniAbaloneBlueEar'"
+            },
+            {
+                "key": "wuZKZN02bA",
+                "order": 8,
+                "option": "Micro Geoduck ‘Short-Duck’",
+                "exitKey": "wuZNti02E2",
+                "podKey": "yUwkyv00j5",
+                "podText": "Link to 'MicroGeoduckShortDuck'"
+            },
+            {
+                "key": "wuZLak0150",
+                "order": 9,
+                "option": "Skyline Surf Clam ‘Surf-Sky’",
+                "exitKey": "wuZNti02E2",
+                "podKey": "yUxFyX01LG",
+                "podText": "Link to 'SkylineSurfClamSurfSky'"
+            },
+            {
+                "key": "wuZMfH00rb",
+                "order": 10,
+                "option": "Butter Clam ‘Cream-Dot’",
+                "exitKey": "wuZNti02E2",
+                "podKey": "yUxzDu01SI",
+                "podText": "Link to 'ButterClamCreamDot'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wuYwbA02NW",
+            "relativePath": "./δ steps/δ-wuYwbA02NW.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUyJZd01wi",
+        "editorID": "car_5a754b0bec67442d83497c984b2577ac",
+        "ticks": 1762171234925
+    }
+}

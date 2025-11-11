@@ -1,0 +1,60 @@
+{
+    "key": "yUhggN02Eg  ",
+    "token": "Microgouramiproteinpearl",
+    "name": "MicroGouramiProteinPearl",
+    "created": "2025-11-03T10:54:32.179Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fish/Ξ MicroGouramiProteinPearl/MicroGouramiProteinPearl.tspod",
+    "isPod": true,
+    "iText": "Link to 'MicroGouramiProteinPearl'",
+    "___rΩΩt___": {
+        "key": "yUhjpM004r",
+        "nodes": [
+            {
+                "key": "yUhloU01ej",
+                "order": 1,
+                "option": "Protein Pearl - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUhsey01KD",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUhweU01jl",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUhjpM004r",
+            "relativePath": "./δ steps/δ-yUhjpM004r.tsstp"
+        },
+        {
+            "key": "δ-yUhloU01ej",
+            "relativePath": "./δ steps/δ-yUhloU01ej.tsstp"
+        },
+        {
+            "key": "δ-yUhsey01KD",
+            "relativePath": "./δ steps/δ-yUhsey01KD.tsstp"
+        },
+        {
+            "key": "δ-yUhweU01jl",
+            "relativePath": "./δ steps/δ-yUhweU01jl.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUi2Fq01mm",
+        "editorID": "car_4f32b7a3faec403dbde0e041483d6c9c",
+        "ticks": 1762167355102
+    }
+}

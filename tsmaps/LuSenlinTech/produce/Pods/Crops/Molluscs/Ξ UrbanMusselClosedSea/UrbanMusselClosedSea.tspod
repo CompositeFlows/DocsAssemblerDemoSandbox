@@ -1,0 +1,60 @@
+{
+    "key": "yUsokB00kc  ",
+    "token": "Urbanmusselclosedsea",
+    "name": "UrbanMusselClosedSea",
+    "created": "2025-11-03T11:38:44.775Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Molluscs/Ξ UrbanMusselClosedSea/UrbanMusselClosedSea.tspod",
+    "isPod": true,
+    "iText": "Link to 'UrbanMusselClosedSea'",
+    "___rΩΩt___": {
+        "key": "yUsrSN0067",
+        "nodes": [
+            {
+                "key": "yUsth600tD",
+                "order": 1,
+                "option": "Closed-Sea - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUszRi01UI",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUt2h701wv",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUsrSN0067",
+            "relativePath": "./δ steps/δ-yUsrSN0067.tsstp"
+        },
+        {
+            "key": "δ-yUsth600tD",
+            "relativePath": "./δ steps/δ-yUsth600tD.tsstp"
+        },
+        {
+            "key": "δ-yUszRi01UI",
+            "relativePath": "./δ steps/δ-yUszRi01UI.tsstp"
+        },
+        {
+            "key": "δ-yUt2h701wv",
+            "relativePath": "./δ steps/δ-yUt2h701wv.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUt6xl00uJ",
+        "editorID": "car_b6349254d60d4fdf89a23df67dbf619e",
+        "ticks": 1762169994809
+    }
+}

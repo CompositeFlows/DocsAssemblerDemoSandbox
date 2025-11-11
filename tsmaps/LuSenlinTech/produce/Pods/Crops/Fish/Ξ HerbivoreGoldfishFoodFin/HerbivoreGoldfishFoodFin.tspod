@@ -1,0 +1,60 @@
+{
+    "key": "yUf00k00UK  ",
+    "token": "Herbivoregoldfishfoodfin",
+    "name": "HerbivoreGoldfishFoodFin",
+    "created": "2025-11-03T10:43:51.494Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fish/Ξ HerbivoreGoldfishFoodFin/HerbivoreGoldfishFoodFin.tspod",
+    "isPod": true,
+    "iText": "Link to 'HerbivoreGoldfishFoodFin'",
+    "___rΩΩt___": {
+        "key": "yUf23t00nR",
+        "nodes": [
+            {
+                "key": "yUf4SB01wS",
+                "order": 1,
+                "option": "FoodFin - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUfBeJ01Y2",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUfDyO007D",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUf23t00nR",
+            "relativePath": "./δ steps/δ-yUf23t00nR.tsstp"
+        },
+        {
+            "key": "δ-yUf4SB01wS",
+            "relativePath": "./δ steps/δ-yUf4SB01wS.tsstp"
+        },
+        {
+            "key": "δ-yUfBeJ01Y2",
+            "relativePath": "./δ steps/δ-yUfBeJ01Y2.tsstp"
+        },
+        {
+            "key": "δ-yUfDyO007D",
+            "relativePath": "./δ steps/δ-yUfDyO007D.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUfI6H016C",
+        "editorID": "car_cc9c486b2a904bc48f1097a5e86228cb",
+        "ticks": 1762166701029
+    }
+}

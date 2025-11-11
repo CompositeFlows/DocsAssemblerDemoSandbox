@@ -1,0 +1,59 @@
+{
+    "key": "xrdmsU01vl  ",
+    "token": "Petalbloomdetails",
+    "name": "PetalBloomDetails",
+    "created": "2025-10-27T18:34:25.579Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ PetalBloomDetails/PetalBloomDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'PetalBloomDetails'",
+    "___rΩΩt___": {
+        "key": "xrdoS201rg",
+        "nodes": [
+            {
+                "key": "xrdtIV01D3",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy3qr200Ca",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy3rxV00YW",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xrdoS201rg",
+            "relativePath": "./δ steps/δ-xrdoS201rg.tsstp"
+        },
+        {
+            "key": "δ-xrdtIV01D3",
+            "relativePath": "./δ steps/δ-xrdtIV01D3.tsstp"
+        },
+        {
+            "key": "δ-xy3qr200Ca",
+            "relativePath": "./δ steps/δ-xy3qr200Ca.tsstp"
+        },
+        {
+            "key": "δ-xy3rxV00YW",
+            "relativePath": "./δ steps/δ-xy3rxV00YW.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y1O1eN02RI",
+        "editorID": "car_881d5e815cc941adb0fe3ab8c26bf2a7",
+        "ticks": 1761734072475
+    }
+}

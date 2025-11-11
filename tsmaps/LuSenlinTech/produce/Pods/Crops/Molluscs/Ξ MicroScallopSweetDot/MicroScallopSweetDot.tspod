@@ -1,0 +1,60 @@
+{
+    "key": "yUu0k400ll  ",
+    "token": "Microscallopsweetdot",
+    "name": "MicroScallopSweetDot",
+    "created": "2025-11-03T11:43:29.225Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Molluscs/Ξ MicroScallopSweetDot/MicroScallopSweetDot.tspod",
+    "isPod": true,
+    "iText": "Link to 'MicroScallopSweetDot'",
+    "___rΩΩt___": {
+        "key": "yUu3lF02Yf",
+        "nodes": [
+            {
+                "key": "yUu5fQ00fd",
+                "order": 1,
+                "option": "Sweet-Dot - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUuAxr02Do",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUuDWg01ns",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUu3lF02Yf",
+            "relativePath": "./δ steps/δ-yUu3lF02Yf.tsstp"
+        },
+        {
+            "key": "δ-yUu5fQ00fd",
+            "relativePath": "./δ steps/δ-yUu5fQ00fd.tsstp"
+        },
+        {
+            "key": "δ-yUuAxr02Do",
+            "relativePath": "./δ steps/δ-yUuAxr02Do.tsstp"
+        },
+        {
+            "key": "δ-yUuDWg01ns",
+            "relativePath": "./δ steps/δ-yUuDWg01ns.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUuHMt02Jd",
+        "editorID": "car_485acb6523ee44c39fd666f92f4d3b55",
+        "ticks": 1762170273135
+    }
+}

@@ -1,0 +1,780 @@
+{
+    "key": "ua27ri00bb  ",
+    "token": "Solomodules",
+    "name": "SoloModules",
+    "created": "2025-09-22T22:51:33.582Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Ξ SoloModules/SoloModules.tsmap",
+    "iText": "Link to 'SoloModules'",
+    "iExits": [
+        {
+            "key": "vcIsGq01w8",
+            "text": "Next-e",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "ua2ArZ02Gk",
+        "isHeadless": true,
+        "nodes": [
+            {
+                "key": "vo1fZt00iX",
+                "order": 1,
+                "class": "split-table",
+                "nodes": [
+                    {
+                        "key": "ua2DFv00xA",
+                        "order": 1,
+                        "sharedAssetKey": "x4Qhzz02K4",
+                        "newFragment": true,
+                        "class": "split-table-odd",
+                        "nodes": [
+                            {
+                                "key": "ua2kaX01zV",
+                                "order": 1,
+                                "sharedAssetKey": "x4Te9C00c6",
+                                "class": "split-table",
+                                "nodes": [
+                                    {
+                                        "key": "ua7X0u00b1",
+                                        "order": 1,
+                                        "sharedAssetKey": "x4VkKF018p",
+                                        "class": "split-table-odd",
+                                        "nodes": [
+                                            {
+                                                "key": "ua8O8S01kq",
+                                                "order": 1,
+                                                "sharedAssetKey": "x4YjGU014V",
+                                                "class": "split-table",
+                                                "nodes": [
+                                                    {
+                                                        "key": "vaMmne00FB",
+                                                        "order": 1,
+                                                        "sharedAssetKey": "x4Ztib02VO",
+                                                        "class": "split-table-odd",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "vaP8bA023N",
+                                                                "order": 1,
+                                                                "sharedAssetKey": "x4aaYQ01gd",
+                                                                "class": "split-table",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "vaQX9600Vc",
+                                                                        "order": 1,
+                                                                        "sharedAssetKey": "x4SyLG021N",
+                                                                        "class": "split-table-odd",
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "vaRtYB00iH",
+                                                                                "order": 1,
+                                                                                "sharedAssetKey": "x4bT9o02Mv",
+                                                                                "class": "split-table",
+                                                                                "nodes": [
+                                                                                    {
+                                                                                        "key": "vaS0Nm01At",
+                                                                                        "order": 1,
+                                                                                        "sharedAssetKey": "x4c1Yh02Q4",
+                                                                                        "class": "split-table-odd",
+                                                                                        "nodes": [
+                                                                                            {
+                                                                                                "key": "vcBj9c02Lh",
+                                                                                                "order": 1,
+                                                                                                "sharedAssetKey": "x4dGXv02Fl",
+                                                                                                "class": "split-table",
+                                                                                                "nodes": [
+                                                                                                    {
+                                                                                                        "key": "vcCubf02G3",
+                                                                                                        "order": 1,
+                                                                                                        "sharedAssetKey": "x4dn9m00qR",
+                                                                                                        "class": "split-table-odd",
+                                                                                                        "nodes": [
+                                                                                                            {
+                                                                                                                "key": "vcG3SE01d5",
+                                                                                                                "order": 1,
+                                                                                                                "sharedAssetKey": "x4hXpB00Oh",
+                                                                                                                "class": "split-table",
+                                                                                                                "nodes": [
+                                                                                                                    {
+                                                                                                                        "key": "vcGzBA026b",
+                                                                                                                        "order": 1,
+                                                                                                                        "sharedAssetKey": "x4i7Xp01gj",
+                                                                                                                        "class": "split-table-odd",
+                                                                                                                        "nodes": [
+                                                                                                                            {
+                                                                                                                                "key": "vcH5Zc00ny",
+                                                                                                                                "order": 1,
+                                                                                                                                "variable": "moduleModel",
+                                                                                                                                "nodes": [
+                                                                                                                                    {
+                                                                                                                                        "key": "vnxZW700Xw",
+                                                                                                                                        "order": 1,
+                                                                                                                                        "option": "AeroHerb",
+                                                                                                                                        "sharedAssetKey": "wtHva800Tv",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wtHvBx02Mu",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wqN5QP02Zh",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "wtIRzf027a",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wqOwpY00zX",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo31Lx00c6",
+                                                                                                                                        "order": 2,
+                                                                                                                                        "option": "LeafLift",
+                                                                                                                                        "sharedAssetKey": "wtIeG4013e",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wtIdXE00cv",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wsqXK702Nl",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "wtIlR900IM",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wss8h901vX",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo345j00Yp",
+                                                                                                                                        "order": 3,
+                                                                                                                                        "option": "FruitForge",
+                                                                                                                                        "sharedAssetKey": "wtVHrV01Cr",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wtVHTV01ij",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wtF0Ww02Ne",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "wtVQgm00Va",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wtJUdC01Gg",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo39U901Kq",
+                                                                                                                                        "order": 4,
+                                                                                                                                        "option": "RootVault",
+                                                                                                                                        "sharedAssetKey": "wteQyL00j0",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wtVYPw01RT",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wuSavg1yb",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "xBQiKF023m",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wuSavg1Oe",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo3Pi101K7",
+                                                                                                                                        "order": 5,
+                                                                                                                                        "option": "TuberTower",
+                                                                                                                                        "sharedAssetKey": "wuS5fC02RU",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wuS5DS00Bv",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wtRvcU00Xt",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "wuTUdg02Bb",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wtTsxD00hr",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo3BJZ000k",
+                                                                                                                                        "order": 6,
+                                                                                                                                        "option": "StemStack",
+                                                                                                                                        "sharedAssetKey": "wteclQ00Lq",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wtbR3N009H",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wtXSb416v",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "wtbYw2013t",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wtXSb41kM",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo3Dc502U0",
+                                                                                                                                        "order": 7,
+                                                                                                                                        "option": "PetalBloom",
+                                                                                                                                        "sharedAssetKey": "wu1Xpu0223",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wu1XD600aB",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wtfKcq013p",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "wu1m4l01yG",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wtgm5X00HJ",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo3G1o01Is",
+                                                                                                                                        "order": 8,
+                                                                                                                                        "option": "AquaGreen",
+                                                                                                                                        "sharedAssetKey": "wu1wzp027r",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wu1wQT01oB",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wtiaC602KY",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "wu28qI020j",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wtu3Kb02LO",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo3HPG00vY",
+                                                                                                                                        "order": 9,
+                                                                                                                                        "option": "MycoNest",
+                                                                                                                                        "sharedAssetKey": "wuMtbc00QR",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wuMt7a01Pi",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wuGYkQ02Xu",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "wuNCjH01Ub",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wuHH6D00FW",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo3KPW01SP",
+                                                                                                                                        "order": 10,
+                                                                                                                                        "option": "FungaRoot",
+                                                                                                                                        "sharedAssetKey": "wuQs6z01yQ",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wuQqyO00q7",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wuGYkQ02Xu",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "wuRD1S010C",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wuHH6D00FW",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo3Lvo00qS",
+                                                                                                                                        "order": 11,
+                                                                                                                                        "option": "ShellWave",
+                                                                                                                                        "sharedAssetKey": "wuaGhX00vM",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wuaGLf009L",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wuYugT00Mx",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "xBQtd900ce",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wuZNti02E2",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo3ODR01X1",
+                                                                                                                                        "order": 12,
+                                                                                                                                        "option": "CrustaBay",
+                                                                                                                                        "sharedAssetKey": "wuXwci00Nv",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wuXwM200xr",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wuWApl01TF",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "wuY1rT00NF",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wuWb8O01KK",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "key": "vo3Rfd00r3",
+                                                                                                                                        "order": 13,
+                                                                                                                                        "option": "FinWave",
+                                                                                                                                        "sharedAssetKey": "wuVlHF019a",
+                                                                                                                                        "nodes": [
+                                                                                                                                            {
+                                                                                                                                                "key": "wuVku002Xr",
+                                                                                                                                                "order": 1,
+                                                                                                                                                "iKey": "wuUGN800Oz",
+                                                                                                                                                "nodes": [
+                                                                                                                                                    {
+                                                                                                                                                        "key": "wuVqbq00EH",
+                                                                                                                                                        "order": 1,
+                                                                                                                                                        "option": "Exit",
+                                                                                                                                                        "iExitKey": "wuUkWq01SA",
+                                                                                                                                                        "exitKey": "vcIsGq01w8"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "key": "vcIEPU004M",
+                                                                                                                                "order": 2,
+                                                                                                                                "option": "FinWave details",
+                                                                                                                                "isLeaf": true,
+                                                                                                                                "isAncillary": true,
+                                                                                                                                "iKey": "xrYo9a02GN"
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "key": "vcH1JH01oi",
+                                                                                                                        "order": 2,
+                                                                                                                        "option": "TuberTower details",
+                                                                                                                        "isLeaf": true,
+                                                                                                                        "isAncillary": true,
+                                                                                                                        "iKey": "xmKRbi0022"
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "key": "vcGKMd00wQ",
+                                                                                                                "order": 2,
+                                                                                                                "option": "CrustaBay details",
+                                                                                                                "isLeaf": true,
+                                                                                                                "isAncillary": true,
+                                                                                                                "iKey": "xrUw0s01Ez"
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "key": "vcF5nX02Jo",
+                                                                                                        "order": 2,
+                                                                                                        "option": "ShellWave details",
+                                                                                                        "isLeaf": true,
+                                                                                                        "isAncillary": true,
+                                                                                                        "iKey": "xsc3Da02G6"
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "key": "vcANA002VG",
+                                                                                                "order": 2,
+                                                                                                "option": "FungaRoor details",
+                                                                                                "isLeaf": true,
+                                                                                                "isAncillary": true,
+                                                                                                "iKey": "wkMzSw001H"
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "key": "vaS71w02T8",
+                                                                                        "order": 2,
+                                                                                        "option": "MycoNest details",
+                                                                                        "isLeaf": true,
+                                                                                        "isAncillary": true,
+                                                                                        "iKey": "wkMEfW00lE"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "key": "vaRvIt01PJ",
+                                                                                "order": 2,
+                                                                                "option": "AquaGreen details",
+                                                                                "isLeaf": true,
+                                                                                "isAncillary": true,
+                                                                                "iKey": "xrOJgE00q3"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "key": "vaRMtv00yX",
+                                                                        "order": 2,
+                                                                        "option": "PetalBloom details",
+                                                                        "isLeaf": true,
+                                                                        "isAncillary": true,
+                                                                        "iKey": "xrdmsU01vl"
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "key": "vaPX9701Sa",
+                                                                "order": 2,
+                                                                "option": "StemStack details",
+                                                                "isLeaf": true,
+                                                                "isAncillary": true,
+                                                                "iKey": "xscpTq02Oq"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "key": "vaNILe01NL",
+                                                        "order": 2,
+                                                        "option": "RootVault details",
+                                                        "isLeaf": true,
+                                                        "isAncillary": true,
+                                                        "iKey": "xsb4l200p2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "key": "ua8zHx00Aw",
+                                                "order": 2,
+                                                "option": "FruitForge details",
+                                                "isLeaf": true,
+                                                "isAncillary": true,
+                                                "iKey": "xrZvS001KG"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "ua7nda01WP",
+                                        "order": 2,
+                                        "option": "LeafLift details",
+                                        "isLeaf": true,
+                                        "isAncillary": true,
+                                        "iKey": "xrBvBL00gw"
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "ua6RO701O1",
+                                "order": 2,
+                                "option": "AeroHerb details",
+                                "isLeaf": true,
+                                "isAncillary": true,
+                                "iKey": "xrK34w01bz"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4Qhzz02K4",
+            "relativePath": "../_shared/CategoryTables/AeroHerbTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4Te9C00c6",
+            "relativePath": "../_shared/CategoryTables/LeafLiftTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4YjGU014V",
+            "relativePath": "../_shared/CategoryTables/RootVaultTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4Ztib02VO",
+            "relativePath": "../_shared/CategoryTables/StemStackTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4aaYQ01gd",
+            "relativePath": "../_shared/CategoryTables/PetalBloomTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4SyLG021N",
+            "relativePath": "../_shared/CategoryTables/AquaGreenTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4bT9o02Mv",
+            "relativePath": "../_shared/CategoryTables/MycoNestTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4c1Yh02Q4",
+            "relativePath": "../_shared/CategoryTables/FungaRootTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4dGXv02Fl",
+            "relativePath": "../_shared/CategoryTables/ShellWaveTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4dn9m00qR",
+            "relativePath": "../_shared/CategoryTables/CrustaBayTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4hXpB00Oh",
+            "relativePath": "../_shared/CategoryTables/TuberTowerTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4i7Xp01gj",
+            "relativePath": "../_shared/CategoryTables/FinWaveTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-vo1fZt00iX",
+            "relativePath": "./δ steps/δ-vo1fZt00iX.tsstp"
+        },
+        {
+            "key": "δ-vcH5Zc00ny",
+            "relativePath": "./δ steps/δ-vcH5Zc00ny.tsstp"
+        },
+        {
+            "key": "wtHva800Tv",
+            "relativePath": "../_shared/AromaticHerbs_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtHvBx02Mu",
+            "relativePath": "./δ steps/δ-wtHvBx02Mu.tsstp"
+        },
+        {
+            "key": "wtIeG4013e",
+            "relativePath": "../_shared/LeafyGreens_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtIdXE00cv",
+            "relativePath": "./δ steps/δ-wtIdXE00cv.tsstp"
+        },
+        {
+            "key": "wtVHrV01Cr",
+            "relativePath": "../_shared/FruitingVegetables_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtVHTV01ij",
+            "relativePath": "./δ steps/δ-wtVHTV01ij.tsstp"
+        },
+        {
+            "key": "δ-wtVYPw01RT",
+            "relativePath": "./δ steps/δ-wtVYPw01RT.tsstp"
+        },
+        {
+            "key": "wteQyL00j0",
+            "relativePath": "../_shared/Roots_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "wteclQ00Lq",
+            "relativePath": "../_shared/Stems_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtbR3N009H",
+            "relativePath": "./δ steps/δ-wtbR3N009H.tsstp"
+        },
+        {
+            "key": "wu1wzp027r",
+            "relativePath": "../_shared/AquaticPlants_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "wu1Xpu0223",
+            "relativePath": "../_shared/EdibleFlowers_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wu1XD600aB",
+            "relativePath": "./δ steps/δ-wu1XD600aB.tsstp"
+        },
+        {
+            "key": "δ-wu1wQT01oB",
+            "relativePath": "./δ steps/δ-wu1wQT01oB.tsstp"
+        },
+        {
+            "key": "wuMtbc00QR",
+            "relativePath": "../_shared/Mushrooms_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuMt7a01Pi",
+            "relativePath": "./δ steps/δ-wuMt7a01Pi.tsstp"
+        },
+        {
+            "key": "wuQs6z01yQ",
+            "relativePath": "../_shared/Truffle_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuQqyO00q7",
+            "relativePath": "./δ steps/δ-wuQqyO00q7.tsstp"
+        },
+        {
+            "key": "wuS5fC02RU",
+            "relativePath": "../_shared/Tubers_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuS5DS00Bv",
+            "relativePath": "./δ steps/δ-wuS5DS00Bv.tsstp"
+        },
+        {
+            "key": "wuVlHF019a",
+            "relativePath": "../_shared/Fish_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuVku002Xr",
+            "relativePath": "./δ steps/δ-wuVku002Xr.tsstp"
+        },
+        {
+            "key": "wuXwci00Nv",
+            "relativePath": "../_shared/Crustaceans_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuXwM200xr",
+            "relativePath": "./δ steps/δ-wuXwM200xr.tsstp"
+        },
+        {
+            "key": "wuaGhX00vM",
+            "relativePath": "../_shared/Molluscs_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuaGLf009L",
+            "relativePath": "./δ steps/δ-wuaGLf009L.tsstp"
+        },
+        {
+            "key": "x4VkKF018p",
+            "relativePath": "../_shared/CategoryTables/FruitForgeTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-ua6RO701O1",
+            "relativePath": "./δ steps/δ-ua6RO701O1.tsstp"
+        },
+        {
+            "key": "δ-ua7nda01WP",
+            "relativePath": "./δ steps/δ-ua7nda01WP.tsstp"
+        },
+        {
+            "key": "δ-ua8zHx00Aw",
+            "relativePath": "./δ steps/δ-ua8zHx00Aw.tsstp"
+        },
+        {
+            "key": "δ-vaNILe01NL",
+            "relativePath": "./δ steps/δ-vaNILe01NL.tsstp"
+        },
+        {
+            "key": "δ-vaPX9701Sa",
+            "relativePath": "./δ steps/δ-vaPX9701Sa.tsstp"
+        },
+        {
+            "key": "δ-vaRMtv00yX",
+            "relativePath": "./δ steps/δ-vaRMtv00yX.tsstp"
+        },
+        {
+            "key": "δ-vaRvIt01PJ",
+            "relativePath": "./δ steps/δ-vaRvIt01PJ.tsstp"
+        },
+        {
+            "key": "δ-vaS71w02T8",
+            "relativePath": "./δ steps/δ-vaS71w02T8.tsstp"
+        },
+        {
+            "key": "δ-vcANA002VG",
+            "relativePath": "./δ steps/δ-vcANA002VG.tsstp"
+        },
+        {
+            "key": "δ-vcF5nX02Jo",
+            "relativePath": "./δ steps/δ-vcF5nX02Jo.tsstp"
+        },
+        {
+            "key": "δ-vcGKMd00wQ",
+            "relativePath": "./δ steps/δ-vcGKMd00wQ.tsstp"
+        },
+        {
+            "key": "δ-vcH1JH01oi",
+            "relativePath": "./δ steps/δ-vcH1JH01oi.tsstp"
+        },
+        {
+            "key": "δ-vcIEPU004M",
+            "relativePath": "./δ steps/δ-vcIEPU004M.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xsflK901NT",
+        "editorID": "car_9a00258c78f944f889e3ff69a93ecbc6",
+        "ticks": 1761605312597
+    }
+}

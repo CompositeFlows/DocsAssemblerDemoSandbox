@@ -1,0 +1,60 @@
+{
+    "key": "yKPtNP00Wu  ",
+    "token": "Balconymelonhoneydrop",
+    "name": "BalconyMelonHoneyDrop",
+    "created": "2025-11-01T16:41:07.711Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ BalconyMelonHoneyDrop/BalconyMelonHoneyDrop.tspod",
+    "isPod": true,
+    "iText": "Link to 'BalconyMelonHoneyDrop'",
+    "___rΩΩt___": {
+        "key": "yKPw5T029x",
+        "nodes": [
+            {
+                "key": "yKPyYY01z3",
+                "order": 1,
+                "option": "Honey-Drop - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKQ3yW01Lb",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKQ6cJ02Ld",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKPw5T029x",
+            "relativePath": "./δ steps/δ-yKPw5T029x.tsstp"
+        },
+        {
+            "key": "δ-yKPyYY01z3",
+            "relativePath": "./δ steps/δ-yKPyYY01z3.tsstp"
+        },
+        {
+            "key": "δ-yKQ3yW01Lb",
+            "relativePath": "./δ steps/δ-yKQ3yW01Lb.tsstp"
+        },
+        {
+            "key": "δ-yKQ6cJ02Ld",
+            "relativePath": "./δ steps/δ-yKQ6cJ02Ld.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKQBht02P2",
+        "editorID": "car_0a82b9bc835b4ec8baf7b0142cfac9a0",
+        "ticks": 1762015338173
+    }
+}

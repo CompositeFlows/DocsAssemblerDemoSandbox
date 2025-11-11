@@ -1,0 +1,6 @@
+¬import el from "../../shared/externalLinks"
+
+*This is an experimental port from a C# server/database application - to a GitHub repo/VS Code extension. A concept driven by transformational conversations with a robotics firm - {{el.halRobotics_link}}.*
+
+*This site is built with {{el.docsAssemblerExtension_link}} and hosted on {{el.githubPages_link}}. You can view the documentation structure in the {{el.docsAssemblerDemoRepo_link}} or the {{el.docsAssemblerDemoSandboxRepo_link}}.*
+

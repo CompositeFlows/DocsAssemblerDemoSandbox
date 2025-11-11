@@ -1,0 +1,60 @@
+{
+    "key": "y4j0Ha01TE  ",
+    "token": "Frogbittinyshield",
+    "name": "FrogbitTinyShield",
+    "created": "2025-10-30T00:16:41.115Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Ξ FrogbitTinyShield/FrogbitTinyShield.tspod",
+    "isPod": true,
+    "iText": "Link to 'FrogbitTinyShield'",
+    "___rΩΩt___": {
+        "key": "y4j2Sb00Ga",
+        "nodes": [
+            {
+                "key": "y4j5xT01Ks",
+                "order": 1,
+                "option": "Tiny Shield - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y4jEpf00hB",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y4jVro02Vx",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y4j2Sb00Ga",
+            "relativePath": "./δ steps/δ-y4j2Sb00Ga.tsstp"
+        },
+        {
+            "key": "δ-y4j5xT01Ks",
+            "relativePath": "./δ steps/δ-y4j5xT01Ks.tsstp"
+        },
+        {
+            "key": "δ-y4jEpf00hB",
+            "relativePath": "./δ steps/δ-y4jEpf00hB.tsstp"
+        },
+        {
+            "key": "δ-y4jVro02Vx",
+            "relativePath": "./δ steps/δ-y4jVro02Vx.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y4jikC02D6",
+        "editorID": "car_d7b9806f759347e0bfa3d55e6014138c",
+        "ticks": 1761783572024
+    }
+}

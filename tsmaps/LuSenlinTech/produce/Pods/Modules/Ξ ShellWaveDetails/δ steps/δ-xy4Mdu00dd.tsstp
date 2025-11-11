@@ -1,0 +1,27 @@
+¬import g from "../../../../../_shared/glossary"
+¬import c from "../../../../../equipment/_shared/common"
+
+
+###### Technologies  
+
+- {{g.rotatingDrumFilter}}
+- {{g.precisionHeatWaterJacket}}
+- {{g.realTimeTurbidityPhSensors}}
+- {{g.microBubbleColumn}}
+- {{g.uvcOzoneSterilLoop}}
+- {{g.rotatingDrumFilter}}
+- {{g.proteinSkimmerUvCLoop}}
+- {{g.movingBedNitrificationCartridge}}
+- {{g.laminarFlowOvalTank}}
+- {{g.thermoelectricPlateChiller}}
+- {{g.inSituInsectLarvaeFeeder}}
+- {{g.shallowRacewaySwirlFlowControl}}
+
+###### Harvest Enhancements
+  
+- {{g.roboticDipNet}}
+- {{g.autoChillTo4C}}
+- {{g.appSelectableHarvestModes}}
+- {{g.smartNetGuide}}
+
+{{c.ModuleAvailability_all}}

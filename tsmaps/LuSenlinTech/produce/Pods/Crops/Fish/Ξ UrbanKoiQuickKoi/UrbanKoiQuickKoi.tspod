@@ -1,0 +1,60 @@
+{
+    "key": "yUfz7p003B  ",
+    "token": "Urbankoiquickkoi",
+    "name": "UrbanKoiQuickKoi",
+    "created": "2025-11-03T10:47:46.417Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fish/Ξ UrbanKoiQuickKoi/UrbanKoiQuickKoi.tspod",
+    "isPod": true,
+    "iText": "Link to 'UrbanKoiQuickKoi'",
+    "___rΩΩt___": {
+        "key": "yUg1vr01nw",
+        "nodes": [
+            {
+                "key": "yUg4XE02OR",
+                "order": 1,
+                "option": "Quick-Koi - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUgGQm02LP",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUgJ9n011H",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUg1vr01nw",
+            "relativePath": "./δ steps/δ-yUg1vr01nw.tsstp"
+        },
+        {
+            "key": "δ-yUg4XE02OR",
+            "relativePath": "./δ steps/δ-yUg4XE02OR.tsstp"
+        },
+        {
+            "key": "δ-yUgGQm02LP",
+            "relativePath": "./δ steps/δ-yUgGQm02LP.tsstp"
+        },
+        {
+            "key": "δ-yUgJ9n011H",
+            "relativePath": "./δ steps/δ-yUgJ9n011H.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUgNGF01J7",
+        "editorID": "car_cf7b9fd6a8be49518e6a15d871cd2871",
+        "ticks": 1762166959195
+    }
+}

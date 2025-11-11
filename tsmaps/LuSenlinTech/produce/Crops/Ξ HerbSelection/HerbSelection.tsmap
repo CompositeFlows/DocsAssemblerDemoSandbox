@@ -1,0 +1,149 @@
+{
+    "key": "s7LPsx1UQ   ",
+    "token": "Herbselection",
+    "name": "HerbSelection",
+    "created": "2025-08-08T08:51:39.737Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Ξ HerbSelection/HerbSelection.tsmap",
+    "iText": "Link to 'HerbSelection'",
+    "iExits": [
+        {
+            "key": "s7LPsx14a",
+            "text": "Next",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "s7LPsx2NN",
+        "isHeadless": true,
+        "variable": "herb",
+        "nodes": [
+            {
+                "key": "s7LPsx0Fk",
+                "order": 1,
+                "option": "Mini-Sweet Basil 4.1x",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yALoXp00Qr",
+                "podText": "Link to 'MiniSweetBasil'"
+            },
+            {
+                "key": "s7LPsx2Oq",
+                "order": 2,
+                "option": "Purple Holy Basil Duo - green & deep-violet pair",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yANXIy018g",
+                "podText": "Link to 'PurpleHolyBasilDuo'"
+            },
+            {
+                "key": "s7LPsx0f9",
+                "order": 3,
+                "option": "Genovese Pesto Mint™ - low-menthol, pesto-friendly",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yAOOHb01WO",
+                "podText": "Link to 'GenovesePestoMint'"
+            },
+            {
+                "key": "s7LPsx2Ar",
+                "order": 4,
+                "option": "Citro-Mint - lemon-scented dwarf spearmint",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yAPCHr01sb",
+                "podText": "Link to 'CitroMint'"
+            },
+            {
+                "key": "s7LPsx1Ls",
+                "order": 5,
+                "option": "Micro-Shiso Mix - green & red perilla",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yAPygj01Uf",
+                "podText": "Link to 'MicroShisoMix'"
+            },
+            {
+                "key": "s7LPsx0Sn",
+                "order": 6,
+                "option": "Dwarf Thai Coriander ‘Metro-Pak Chee’",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yAQZVQ013K",
+                "podText": "Link to 'DwarfThaiCoriander'"
+            },
+            {
+                "key": "s7LPsx1io",
+                "order": 7,
+                "option": "Low-Light Chive / Garlic-Chive Blend",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yARTTc01RW",
+                "podText": "Link to 'LowLight-GarlicChiveBlend'"
+            },
+            {
+                "key": "s7LPsx1or",
+                "order": 8,
+                "option": "Lemon Balm ‘Citro-Edge’",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yASNs900K9",
+                "podText": "Link to 'LemonBalm'"
+            },
+            {
+                "key": "s7LPsx0LU",
+                "order": 9,
+                "option": "Urban Greek Oregano ‘OG-35’",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yAT0z5018Y",
+                "podText": "Link to 'UrbanGreekOregano'"
+            },
+            {
+                "key": "s7LPsx094",
+                "order": 10,
+                "option": "Sweet Marjoram ‘Marj-Mini’",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yAUiRr01z4",
+                "podText": "Link to 'SweetMarjoram'"
+            },
+            {
+                "key": "s7LPsx1vL",
+                "order": 11,
+                "option": "Patio Rosemary ‘AromiStax’",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yAVGew01b7",
+                "podText": "Link to 'PatioRosemary'"
+            },
+            {
+                "key": "s7LPsx07e",
+                "order": 12,
+                "option": "Compact Purple Sage ‘Plum-Sage’",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yAVsWp008W",
+                "podText": "Link to 'CompactPurpleSage'"
+            },
+            {
+                "key": "s7LPsx2HB",
+                "order": 13,
+                "option": "Balcony Dill ‘Frond-Flash’",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yAWRuc00tU",
+                "podText": "Link to 'BalconyDill'"
+            },
+            {
+                "key": "s7LPsx1SJ",
+                "order": 14,
+                "option": "French Tarragon ‘Narrow-Leaf Nano’",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yAWzlK01O8",
+                "podText": "Link to 'FrenchTarragon'"
+            },
+            {
+                "key": "yAUGVo00gu",
+                "order": 15,
+                "option": "Creeping Thyme ‘Tiny-Thymus’",
+                "exitKey": "s7LPsx14a",
+                "podKey": "yATaol0249",
+                "podText": "Link to 'CreepingThyme'"
+            }
+        ]
+    },
+    "___αssεts___": [],
+    "___εdit___": {
+        "id": "yAYgXx00IH",
+        "editorID": "car_278ad31b6d9f4d0c90498a4e5f39b9d0",
+        "ticks": 1761869599985
+    }
+}

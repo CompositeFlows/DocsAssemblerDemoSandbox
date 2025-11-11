@@ -1,0 +1,132 @@
+{
+    "key": "s7SMPh1IK   ",
+    "token": "Frame",
+    "name": "Frame",
+    "created": "2025-08-06T12:33:41.711Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/equipment/Ξ Frame/Frame.tsmap",
+    "iText": "Link to 'Frame'",
+    "iExits": [
+        {
+            "key": "s7SMPh1IZ",
+            "text": "Next",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "s7SMPh1bm",
+        "iKey": "s7LPpx1UH",
+        "nodes": [
+            {
+                "key": "s7SMPh1x2",
+                "order": 1,
+                "option": "Solo module",
+                "sharedAssetKey": "uXhN5W01R6",
+                "iExitKey": "s7LPpx0rd",
+                "nodes": [
+                    {
+                        "key": "s7SMPh1Os",
+                        "order": 1,
+                        "iKey": "s7SMQM0ki",
+                        "nodes": [
+                            {
+                                "key": "s7SMPh0sD",
+                                "order": 1,
+                                "option": "Next",
+                                "iExitKey": "s7SMQM2ZQ",
+                                "exitKey": "s7SMPh1IZ"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "s7SMPh0nr",
+                "order": 2,
+                "option": "Twin modules",
+                "sharedAssetKey": "uXhbzW01SZ",
+                "iExitKey": "s7LPpx09N",
+                "nodes": [
+                    {
+                        "key": "s7SMPh2Y4",
+                        "order": 1,
+                        "variable": "twin = A",
+                        "nodes": [
+                            {
+                                "key": "s7SMPh1H4",
+                                "order": 1,
+                                "iKey": "s7SMPw0xn",
+                                "nodes": [
+                                    {
+                                        "key": "s7SMPh0J5",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "iExitKey": "s7SMPw1Te",
+                                        "variable": "twin = B",
+                                        "nodes": [
+                                            {
+                                                "key": "s7SMPh2Wn",
+                                                "order": 1,
+                                                "iKey": "s7SMPw0xn",
+                                                "nodes": [
+                                                    {
+                                                        "key": "s7SMPh1GB",
+                                                        "order": 1,
+                                                        "option": "Next",
+                                                        "iExitKey": "s7SMPw1Te",
+                                                        "exitKey": "s7SMPh1IZ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7SMPh1bm",
+            "relativePath": "./δ steps/δ-q6htvc02LO.tsstp"
+        },
+        {
+            "key": "uXhN5W01R6",
+            "relativePath": "../_shared/MonoModuleTitle.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-s7SMPh1Os",
+            "relativePath": "./δ steps/δ-q6imCX01qm.tsstp"
+        },
+        {
+            "key": "δ-s7SMPh2Y4",
+            "relativePath": "./δ steps/δ-q6i2Ta02M5.tsstp"
+        },
+        {
+            "key": "δ-s7SMPh1H4",
+            "relativePath": "./δ steps/δ-q746iw01l6.tsstp"
+        },
+        {
+            "key": "δ-s7SMPh0J5",
+            "relativePath": "./δ steps/δ-qHviHf02UO.tsstp"
+        },
+        {
+            "key": "δ-s7SMPh2Wn",
+            "relativePath": "./δ steps/δ-qHvj8N02TX.tsstp"
+        },
+        {
+            "key": "uXhbzW01SZ",
+            "relativePath": "../_shared/DuoModuleTitle.tsstp",
+            "isShared": true
+        }
+    ],
+    "___εdit___": {
+        "id": "ytJxmJ00wk",
+        "editorID": "me_0efd85aa21174e1ca65ca5e3c2bcf1a7",
+        "ticks": 1762531026423
+    }
+}

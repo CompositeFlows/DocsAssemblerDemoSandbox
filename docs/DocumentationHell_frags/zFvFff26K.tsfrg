@@ -1,0 +1,29 @@
+---
+layout: null
+permalink: /DocumentationHell_frags/zFvFff26K.html
+---
+
+
+<!-- tsFragmentRenderComment {"id":"zFvFff26K","topLevelMapKey":"sIhxfx02EB","mapKeyChain":"sIhxfx02EB","guideID":"zFvFbi2I9","parentFragmentID":"zFvFfP1Rz","chartKey":"sIhxfx02EB","isLeaf":false,"options":[{"id":"zFvFg00di","order":1},{"id":"zFvFgD1Ez","option":"Using variables","order":2,"isAncillary":true}]} -->
+
+#### The Power of Variables:
+
+The step **"Peek Under the Hood"** has an ancillary option **"Show this step..."**. Selecting it reveals the following view in [Docs Assembler](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler):
+
+[<img class="nt-fr-mid-image" src="/assets/images/ShowThisStepAncillary.png">](/assets/images/ShowThisStepAncillary.png)
+
+Notice line 14.  
+It is a **variable**: 
+
+[<img class="nt-fr-mid-image" src="/assets/images/HowItWorksVariable.png">](/assets/images/HowItWorksVariable.png)
+
+On publish, a variable is automatically replaced with the variable's value.  
+In this case it is markdown for an image link:
+
+[<img class="nt-fr-big-image" src="/assets/images/HowItWorksImageHtml.png">](/assets/images/HowItWorksImageHtml.png)
+
+##### This approach provides two key advantages:
+
+1.  **One Source of Truth:** By storing all image URLs in a single, central variables file. To place an image in a step file, we simply reference the variable where the image should appear.
+2.  **Easy Maintenance:** Changing an image requires just one update in the variables file. That change automatically propagates everywhere the variable is used, ensuring consistency, reducing errors, and saving hours of manual work.
+

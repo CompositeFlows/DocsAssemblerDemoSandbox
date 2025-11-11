@@ -1,0 +1,60 @@
+{
+    "key": "s7LPlH16Y   ",
+    "token": "Garden",
+    "name": "Garden",
+    "created": "2025-07-30T11:55:08.690Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/space/Ξ Garden/Garden.tsmap",
+    "iText": "Link to 'Garden'",
+    "___rΩΩt___": {
+        "key": "s7LPlH1pM",
+        "nodes": [
+            {
+                "key": "uTm3VX01s9",
+                "order": 1,
+                "iKey": "s7SMXt0ol",
+                "nodes": [
+                    {
+                        "key": "ytCYcq01Eo",
+                        "order": 1,
+                        "option": "Has power supply",
+                        "isLeaf": true,
+                        "iKey": "yjFhSI02KP",
+                        "iExitKey": "s7SMXt1dV"
+                    },
+                    {
+                        "key": "ytCYcq00fc",
+                        "order": 2,
+                        "option": "No power supply",
+                        "isLeaf": true,
+                        "iKey": "yjFhSI02KP",
+                        "iExitKey": "s7SMXt0Xu"
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7LPlH1pM",
+            "relativePath": "./δ steps/δ-pRcWHw02WJ.tsstp"
+        },
+        {
+            "key": "δ-uTm3VX01s9",
+            "relativePath": "./δ steps/δ-uTm3VX01s9.tsstp"
+        },
+        {
+            "key": "δ-ytCYcq01Eo",
+            "relativePath": "./δ steps/δ-ytCYcq01Eo.tsstp"
+        },
+        {
+            "key": "δ-ytCYcq00fc",
+            "relativePath": "./δ steps/δ-ytCYcq00fc.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "ytCicv00Pl",
+        "editorID": "car_482e63cc77ad4e39a4704aec3c7fa7b2",
+        "ticks": 1762529299885
+    }
+}

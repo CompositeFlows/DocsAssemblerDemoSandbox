@@ -1,0 +1,60 @@
+{
+    "key": "yAQZVQ013K  ",
+    "token": "Dwarfthaicoriander",
+    "name": "DwarfThaiCoriander",
+    "created": "2025-10-30T23:41:06.297Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ DwarfThaiCoriander/DwarfThaiCoriander.tspod",
+    "isPod": true,
+    "iText": "Link to 'DwarfThaiCoriander'",
+    "___rΩΩt___": {
+        "key": "yAQbd300Cm",
+        "nodes": [
+            {
+                "key": "yAQdkH01TX",
+                "order": 1,
+                "option": "Metro-Pak Chee - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yAQyzU015I",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yAR3Ku00CS",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yAQbd300Cm",
+            "relativePath": "./δ steps/δ-yAQbd300Cm.tsstp"
+        },
+        {
+            "key": "δ-yAQdkH01TX",
+            "relativePath": "./δ steps/δ-yAQdkH01TX.tsstp"
+        },
+        {
+            "key": "δ-yAQyzU015I",
+            "relativePath": "./δ steps/δ-yAQyzU015I.tsstp"
+        },
+        {
+            "key": "δ-yAR3Ku00CS",
+            "relativePath": "./δ steps/δ-yAR3Ku00CS.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAR9GQ01cq",
+        "editorID": "car_89dd4470b05e41babdfe973c386d1200",
+        "ticks": 1761867803750
+    }
+}

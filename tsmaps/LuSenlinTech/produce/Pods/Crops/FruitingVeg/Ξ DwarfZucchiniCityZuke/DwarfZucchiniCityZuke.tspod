@@ -1,0 +1,60 @@
+{
+    "key": "yIkgMi01lX  ",
+    "token": "Dwarfzucchinicityzuke",
+    "name": "DwarfZucchiniCityZuke",
+    "created": "2025-11-01T09:51:09.914Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ DwarfZucchiniCityZuke/DwarfZucchiniCityZuke.tspod",
+    "isPod": true,
+    "iText": "Link to 'DwarfZucchiniCityZuke'",
+    "___rΩΩt___": {
+        "key": "yIkigF02Ps",
+        "nodes": [
+            {
+                "key": "yIkkEl00j0",
+                "order": 1,
+                "option": "City-Zuke - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yIkrhS01rF",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yIkuDB01Wa",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yIkigF02Ps",
+            "relativePath": "./δ steps/δ-yIkigF02Ps.tsstp"
+        },
+        {
+            "key": "δ-yIkkEl00j0",
+            "relativePath": "./δ steps/δ-yIkkEl00j0.tsstp"
+        },
+        {
+            "key": "δ-yIkrhS01rF",
+            "relativePath": "./δ steps/δ-yIkrhS01rF.tsstp"
+        },
+        {
+            "key": "δ-yIkuDB01Wa",
+            "relativePath": "./δ steps/δ-yIkuDB01Wa.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yIkyAo02D1",
+        "editorID": "car_b2f27281cab348e284869660a8ee0000",
+        "ticks": 1761990738366
+    }
+}

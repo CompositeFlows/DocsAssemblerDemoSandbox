@@ -1,0 +1,59 @@
+{
+    "key": "xrbxcm01Qu  ",
+    "token": "Gasterpoddetails",
+    "name": "GasterPodDetails",
+    "created": "2025-10-27T18:27:10.233Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ GasterPodDetails/GasterPodDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'GasterPodDetails'",
+    "___rΩΩt___": {
+        "key": "xrbzjG01Xh",
+        "nodes": [
+            {
+                "key": "xrc5nj01Re",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy2gq201QL",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy2i1v00hz",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xrbzjG01Xh",
+            "relativePath": "./δ steps/δ-xrbzjG01Xh.tsstp"
+        },
+        {
+            "key": "δ-xrc5nj01Re",
+            "relativePath": "./δ steps/δ-xrc5nj01Re.tsstp"
+        },
+        {
+            "key": "δ-xy2gq201QL",
+            "relativePath": "./δ steps/δ-xy2gq201QL.tsstp"
+        },
+        {
+            "key": "δ-xy2i1v00hz",
+            "relativePath": "./δ steps/δ-xy2i1v00hz.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xy2oqv02As",
+        "editorID": "car_7d4616630da146bda7d3229d44c82986",
+        "ticks": 1761684689385
+    }
+}

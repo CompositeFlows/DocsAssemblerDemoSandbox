@@ -1,0 +1,70 @@
+{
+    "key": "s7LPoI1Jr   ",
+    "token": "Sunlitroom",
+    "name": "SunlitRoom",
+    "created": "2025-08-04T09:16:20.801Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/space/Ξ SunlitRoom/SunlitRoom.tsmap",
+    "iText": "Link to 'SunlitRoom'",
+    "___rΩΩt___": {
+        "key": "s7LPoI0pM",
+        "nodes": [
+            {
+                "key": "ytEKrr01ga",
+                "order": 1,
+                "iKey": "ytJKIf021t",
+                "nodes": [
+                    {
+                        "key": "ytOLyU01vz",
+                        "order": 1,
+                        "option": "Has power supply",
+                        "isLeaf": true,
+                        "iKey": "yjFhSI02KP",
+                        "iExitKey": "ytLNSq01qu"
+                    },
+                    {
+                        "key": "ytOLyV015a",
+                        "order": 2,
+                        "option": "No power supply",
+                        "iExitKey": "ytLP1Q00bO",
+                        "nodes": [
+                            {
+                                "key": "ytTOgV02Mz",
+                                "order": 1,
+                                "isLeaf": true,
+                                "iKey": "yjFhSI02KP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7LPoI0pM",
+            "relativePath": "./δ steps/δ-puDAYy00Hw.tsstp"
+        },
+        {
+            "key": "δ-ytEKrr01ga",
+            "relativePath": "./δ steps/δ-ytEKrr01ga.tsstp"
+        },
+        {
+            "key": "δ-ytOLyU01vz",
+            "relativePath": "./δ steps/δ-ytOLyU01vz.tsstp"
+        },
+        {
+            "key": "δ-ytOLyV015a",
+            "relativePath": "./δ steps/δ-ytOLyV015a.tsstp"
+        },
+        {
+            "key": "δ-ytTOgV02Mz",
+            "relativePath": "./δ steps/δ-ytTOgV02Mz.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "ytTffc01qo",
+        "editorID": "car_591255aaaf0a4772b064f2cff8d12825",
+        "ticks": 1762533340096
+    }
+}

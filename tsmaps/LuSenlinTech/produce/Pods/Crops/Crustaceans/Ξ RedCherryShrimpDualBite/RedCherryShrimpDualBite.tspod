@@ -1,0 +1,60 @@
+{
+    "key": "yUlE2801ok  ",
+    "token": "Redcherryshrimpdualbite",
+    "name": "RedCherryShrimpDualBite",
+    "created": "2025-11-03T11:08:35.364Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Crustaceans/Ξ RedCherryShrimpDualBite/RedCherryShrimpDualBite.tspod",
+    "isPod": true,
+    "iText": "Link to 'RedCherryShrimpDualBite'",
+    "___rΩΩt___": {
+        "key": "yUlGgS018u",
+        "nodes": [
+            {
+                "key": "yUlJiJ0020",
+                "order": 1,
+                "option": "Dual-Bite - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUlQOd00qJ",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUlTEW01Ok",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUlGgS018u",
+            "relativePath": "./δ steps/δ-yUlGgS018u.tsstp"
+        },
+        {
+            "key": "δ-yUlJiJ0020",
+            "relativePath": "./δ steps/δ-yUlJiJ0020.tsstp"
+        },
+        {
+            "key": "δ-yUlQOd00qJ",
+            "relativePath": "./δ steps/δ-yUlQOd00qJ.tsstp"
+        },
+        {
+            "key": "δ-yUlTEW01Ok",
+            "relativePath": "./δ steps/δ-yUlTEW01Ok.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUlXOL01q1",
+        "editorID": "car_54e7dd70d41145a0b892ba5a93817275",
+        "ticks": 1762168189777
+    }
+}

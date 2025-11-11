@@ -1,0 +1,113 @@
+{
+    "key": "wuWApl01TF  ",
+    "token": "Crustaceans",
+    "name": "Crustaceans",
+    "created": "2025-10-17T15:54:07.217Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ Crustaceans/Crustaceans.tsmap",
+    "iText": "Link to 'Crustaceans'",
+    "iExits": [
+        {
+            "key": "wuWb8O01KK",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wuWBpc01Kn",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wuWHrV014d",
+                "order": 1,
+                "option": "Freshwater Prawn ‘Pearl-King’",
+                "exitKey": "wuWb8O01KK",
+                "podKey": "yUkaZk00wD",
+                "podText": "Link to 'FreshwaterPrawnPearlKing'"
+            },
+            {
+                "key": "wuWQEw00dJ",
+                "order": 2,
+                "option": "Red-Cherry Shrimp ‘Dual-Bite’ - cleanup + protein",
+                "exitKey": "wuWb8O01KK",
+                "podKey": "yUlE2801ok",
+                "podText": "Link to 'RedCherryShrimpDualBite'"
+            },
+            {
+                "key": "wuWR6t00Jv",
+                "order": 3,
+                "option": "Amano Shrimp ‘CleanSweep Urban’",
+                "exitKey": "wuWb8O01KK",
+                "podKey": "yUloHg01SO",
+                "podText": "Link to 'AmanoShrimpCleanSweepUrban'"
+            },
+            {
+                "key": "wuWSHh02Ne",
+                "order": 4,
+                "option": "Blue Ghost Shrimp ‘Spectra’",
+                "exitKey": "wuWb8O01KK",
+                "podKey": "yUmKkt00mJ",
+                "podText": "Link to 'BlueGhostShrimpSpectra'"
+            },
+            {
+                "key": "wuWTJL00TY",
+                "order": 5,
+                "option": "Mini Crayfish ‘Green-Marble’",
+                "exitKey": "wuWb8O01KK",
+                "podKey": "yUmpgs02L9",
+                "podText": "Link to 'MiniCrayfishGreenMarble'"
+            },
+            {
+                "key": "wuWUQt01o6",
+                "order": 6,
+                "option": "Dwarf Redclaw Crayfish ‘Crimson Pinch’",
+                "exitKey": "wuWb8O01KK",
+                "podKey": "yUnlMq017C",
+                "podText": "Link to 'DwarfRedclawCrayfishCrimsonPinch'"
+            },
+            {
+                "key": "wuWVmi00yi",
+                "order": 7,
+                "option": "Nano Lobster ‘Pocket-Lob’",
+                "exitKey": "wuWb8O01KK",
+                "podKey": "yUq8m100ci",
+                "podText": "Link to 'NanoLobsterPocketLob'"
+            },
+            {
+                "key": "wuWWuI00bE",
+                "order": 8,
+                "option": "Urban Mud Crab ‘Soft-Shell Micro’",
+                "exitKey": "wuWb8O01KK",
+                "podKey": "yUqelo0110",
+                "podText": "Link to 'UrbanMudCrabSoftShellMicro'"
+            },
+            {
+                "key": "wuWY0r01Tq",
+                "order": 9,
+                "option": "Mini Marron ‘Blue Marronette’",
+                "exitKey": "wuWb8O01KK",
+                "podKey": "yUr8Gl00cW",
+                "podText": "Link to 'MiniMarronBlueMarronette'"
+            },
+            {
+                "key": "wuWZJu02Pd",
+                "order": 10,
+                "option": "Macrobrachium “Giant Prawn Jr.”",
+                "exitKey": "wuWb8O01KK",
+                "podKey": "yUre5o02AR",
+                "podText": "Link to 'MacrobrachiumGiantPrawnJr'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wuWBpc01Kn",
+            "relativePath": "./δ steps/δ-wuWBpc01Kn.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUs24v00vW",
+        "editorID": "car_9062afe311554a178ed662cc6e12c67a",
+        "ticks": 1762169737705
+    }
+}

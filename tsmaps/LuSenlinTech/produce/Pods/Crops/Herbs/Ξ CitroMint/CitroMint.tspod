@@ -1,0 +1,60 @@
+{
+    "key": "yAPCHr01sb  ",
+    "token": "Citromint",
+    "name": "CitroMint",
+    "created": "2025-10-30T23:35:38.716Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ CitroMint/CitroMint.tspod",
+    "isPod": true,
+    "iText": "Link to 'CitroMint'",
+    "___rΩΩt___": {
+        "key": "yAPDpd00D1",
+        "nodes": [
+            {
+                "key": "yAPHM701f3",
+                "order": 1,
+                "option": "Citro-Mint - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yAPVfz0269",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yAPYmy01qP",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yAPDpd00D1",
+            "relativePath": "./δ steps/δ-yAPDpd00D1.tsstp"
+        },
+        {
+            "key": "δ-yAPHM701f3",
+            "relativePath": "./δ steps/δ-yAPHM701f3.tsstp"
+        },
+        {
+            "key": "δ-yAPVfz0269",
+            "relativePath": "./δ steps/δ-yAPVfz0269.tsstp"
+        },
+        {
+            "key": "δ-yAPYmy01qP",
+            "relativePath": "./δ steps/δ-yAPYmy01qP.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAPfNd01TF",
+        "editorID": "car_d9b672056b8444f6bd5bd811dee77afb",
+        "ticks": 1761867450549
+    }
+}

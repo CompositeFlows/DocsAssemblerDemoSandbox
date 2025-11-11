@@ -1,0 +1,40 @@
+{
+    "key": "welyCL01D4  ",
+    "token": "Stemstack",
+    "name": "StemStack",
+    "created": "2025-10-14T23:16:30.517Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ StemStack/StemStack.tspod",
+    "isPod": true,
+    "iText": "Link to 'StemStack'",
+    "___rΩΩt___": {
+        "key": "welz1i00Vj",
+        "sharedAssetKey": "x4aBTl01rb",
+        "nodes": [
+            {
+                "key": "wemMPe00LW",
+                "order": 1,
+                "option": "StemStack details",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "xscpTq02Oq"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4aBTl01rb",
+            "relativePath": "../../../_shared/CategoryTables/StemStackTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wemMPe00LW",
+            "relativePath": "./δ steps/δ-wemMPe00LW.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2pCKh1Km",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1761755324731
+    }
+}

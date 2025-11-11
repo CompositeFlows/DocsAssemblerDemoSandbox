@@ -1,0 +1,162 @@
+{
+    "key": "yjFhSI02KP  ",
+    "token": "Customisation",
+    "name": "Customisation",
+    "created": "2025-11-05T22:37:27.006Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/preferences/Ξ Customisation/Customisation.tsmap",
+    "iText": "Link to 'Customisation'",
+    "___rΩΩt___": {
+        "key": "yjFk09012A",
+        "iKey": "s7LPr60IG",
+        "nodes": [
+            {
+                "key": "yjGKFK02I3",
+                "order": 1,
+                "option": "Next",
+                "sharedAssetKey": "yjGTCD022h",
+                "iExitKey": "s7LPr60ZH",
+                "nodes": [
+                    {
+                        "key": "yjGSd201Mm",
+                        "order": 1,
+                        "iKey": "s7LPoO1sh",
+                        "nodes": [
+                            {
+                                "key": "yjGbkV00yL",
+                                "order": 1,
+                                "option": "Low effort",
+                                "sharedAssetKey": "yjGfgD01Kh",
+                                "iExitKey": "s7LPoO19j",
+                                "nodes": [
+                                    {
+                                        "key": "yjGfDg0014",
+                                        "order": 1,
+                                        "iKey": "s7SMOZ0AN",
+                                        "nodes": [
+                                            {
+                                                "key": "yjGsUW014q",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "isLeaf": true,
+                                                "iKey": "yd9vwR005i",
+                                                "iExitKey": "s7SMOZ0VN"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "yjGbkW01ER",
+                                "order": 2,
+                                "option": "Moderate effort",
+                                "sharedAssetKey": "yjH242022H",
+                                "iExitKey": "s7LPoO04R",
+                                "nodes": [
+                                    {
+                                        "key": "yjH0E400bC",
+                                        "order": 1,
+                                        "iKey": "s7SMOZ0AN",
+                                        "nodes": [
+                                            {
+                                                "key": "yjH5Sr00A7",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "isLeaf": true,
+                                                "iKey": "yd9vwR005i",
+                                                "iExitKey": "s7SMOZ0VN"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "yjGbkW02WR",
+                                "order": 3,
+                                "option": "High effort\n",
+                                "sharedAssetKey": "yjHFNt01Uu",
+                                "iExitKey": "s7LPoO2Y3",
+                                "nodes": [
+                                    {
+                                        "key": "yjHCZr01WL",
+                                        "order": 1,
+                                        "iKey": "s7SMOZ0AN",
+                                        "nodes": [
+                                            {
+                                                "key": "yjHJza00WV",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "isLeaf": true,
+                                                "iKey": "yd9vwR005i",
+                                                "iExitKey": "s7SMOZ0VN"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yjFk09012A",
+            "relativePath": "./δ steps/δ-yjFk09012A.tsstp"
+        },
+        {
+            "key": "yjGTCD022h",
+            "relativePath": "../../space/_share/growEasyIntroduction.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-yjGSd201Mm",
+            "relativePath": "./δ steps/δ-yjGSd201Mm.tsstp"
+        },
+        {
+            "key": "yjGfgD01Kh",
+            "relativePath": "../../space/_share/lowEffortIntroduction.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "yjH242022H",
+            "relativePath": "../../space/_share/moderateEffortIntroduction.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "yjHFNt01Uu",
+            "relativePath": "../../space/_share/highEffortIntroduction.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-yjGfDg0014",
+            "relativePath": "./δ steps/δ-yjGfDg0014.tsstp"
+        },
+        {
+            "key": "δ-yjGsUW014q",
+            "relativePath": "./δ steps/δ-yjGsUW014q.tsstp"
+        },
+        {
+            "key": "δ-yjH0E400bC",
+            "relativePath": "./δ steps/δ-yjH0E400bC.tsstp"
+        },
+        {
+            "key": "δ-yjH5Sr00A7",
+            "relativePath": "./δ steps/δ-yjH5Sr00A7.tsstp"
+        },
+        {
+            "key": "δ-yjHCZr01WL",
+            "relativePath": "./δ steps/δ-yjHCZr01WL.tsstp"
+        },
+        {
+            "key": "δ-yjHJza00WV",
+            "relativePath": "./δ steps/δ-yjHJza00WV.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yjgZrC02CW",
+        "editorID": "me_0c153b42b5a44ddf90976232c571ca71",
+        "ticks": 1762388652654
+    }
+}

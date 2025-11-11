@@ -1,0 +1,60 @@
+{
+    "key": "yUeRBW00SQ  ",
+    "token": "Minichannelcatfishpocketstripe",
+    "name": "MiniChannelCatfishPocketStripe",
+    "created": "2025-11-03T10:41:37.622Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fish/Ξ MiniChannelCatfishPocketStripe/MiniChannelCatfishPocketStripe.tspod",
+    "isPod": true,
+    "iText": "Link to 'MiniChannelCatfishPocketStripe'",
+    "___rΩΩt___": {
+        "key": "yUeUD602VQ",
+        "nodes": [
+            {
+                "key": "yUeWFW00Nv",
+                "order": 1,
+                "option": "Pocket Stripe - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUedXJ00dl",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUegi200ZZ",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUeUD602VQ",
+            "relativePath": "./δ steps/δ-yUeUD602VQ.tsstp"
+        },
+        {
+            "key": "δ-yUeWFW00Nv",
+            "relativePath": "./δ steps/δ-yUeWFW00Nv.tsstp"
+        },
+        {
+            "key": "δ-yUedXJ00dl",
+            "relativePath": "./δ steps/δ-yUedXJ00dl.tsstp"
+        },
+        {
+            "key": "δ-yUegi200ZZ",
+            "relativePath": "./δ steps/δ-yUegi200ZZ.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUelGq00m2",
+        "editorID": "car_5bd62808efc249d4ba2a4e590e243588",
+        "ticks": 1762166574832
+    }
+}

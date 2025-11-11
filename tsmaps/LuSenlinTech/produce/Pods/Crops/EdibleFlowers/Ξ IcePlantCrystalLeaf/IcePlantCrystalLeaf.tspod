@@ -1,0 +1,60 @@
+{
+    "key": "yQCvGv00Dd  ",
+    "token": "Iceplantcrystalleaf",
+    "name": "IcePlantCrystalLeaf",
+    "created": "2025-11-02T16:27:14.749Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ IcePlantCrystalLeaf/IcePlantCrystalLeaf.tspod",
+    "isPod": true,
+    "iText": "Link to 'IcePlantCrystalLeaf'",
+    "___rΩΩt___": {
+        "key": "yQCy8401p6",
+        "nodes": [
+            {
+                "key": "yQD1tB0226",
+                "order": 1,
+                "option": "Crystal Leaf - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQD7MN01zQ",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQD9zn01ug",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQCy8401p6",
+            "relativePath": "./δ steps/δ-yQCy8401p6.tsstp"
+        },
+        {
+            "key": "δ-yQD1tB0226",
+            "relativePath": "./δ steps/δ-yQD1tB0226.tsstp"
+        },
+        {
+            "key": "δ-yQD7MN01zQ",
+            "relativePath": "./δ steps/δ-yQD7MN01zQ.tsstp"
+        },
+        {
+            "key": "δ-yQD9zn01ug",
+            "relativePath": "./δ steps/δ-yQD9zn01ug.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQDECn01WS",
+        "editorID": "car_4c90b670b29d45fab931c641e436fe08",
+        "ticks": 1762100907529
+    }
+}

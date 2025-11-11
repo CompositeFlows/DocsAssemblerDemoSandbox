@@ -1,0 +1,60 @@
+{
+    "key": "yQmiHA00RO  ",
+    "token": "Shimejisnowcluster",
+    "name": "ShimejiSnowCluster",
+    "created": "2025-11-02T18:49:24.601Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ ShimejiSnowCluster/ShimejiSnowCluster.tspod",
+    "isPod": true,
+    "iText": "Link to 'ShimejiSnowCluster'",
+    "___rΩΩt___": {
+        "key": "yQmkhE02Xv",
+        "nodes": [
+            {
+                "key": "yQmnfw01m3",
+                "order": 1,
+                "option": "Snow Cluster - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQmu1K01l5",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQmwHI00R5",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQmkhE02Xv",
+            "relativePath": "./δ steps/δ-yQmkhE02Xv.tsstp"
+        },
+        {
+            "key": "δ-yQmnfw01m3",
+            "relativePath": "./δ steps/δ-yQmnfw01m3.tsstp"
+        },
+        {
+            "key": "δ-yQmu1K01l5",
+            "relativePath": "./δ steps/δ-yQmu1K01l5.tsstp"
+        },
+        {
+            "key": "δ-yQmwHI00R5",
+            "relativePath": "./δ steps/δ-yQmwHI00R5.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQn2K101mf",
+        "editorID": "car_2f6f7c62cf41469d8424e17e159e4a63",
+        "ticks": 1762109441657
+    }
+}

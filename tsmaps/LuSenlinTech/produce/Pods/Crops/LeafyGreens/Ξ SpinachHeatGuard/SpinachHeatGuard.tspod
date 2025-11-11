@@ -1,0 +1,60 @@
+{
+    "key": "yG6FsR01HB  ",
+    "token": "Spinachheatguard",
+    "name": "SpinachHeatGuard",
+    "created": "2025-10-31T22:58:02.300Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/LeafyGreens/Ξ SpinachHeatGuard/SpinachHeatGuard.tspod",
+    "isPod": true,
+    "iText": "Link to 'SpinachHeatGuard'",
+    "___rΩΩt___": {
+        "key": "yG6HQk023I",
+        "nodes": [
+            {
+                "key": "yG6LrS01vZ",
+                "order": 1,
+                "option": "HeatGuard - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yG6Wbm00ig",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yG6YPQ00Uz",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yG6HQk023I",
+            "relativePath": "./δ steps/δ-yG6HQk023I.tsstp"
+        },
+        {
+            "key": "δ-yG6LrS01vZ",
+            "relativePath": "./δ steps/δ-yG6LrS01vZ.tsstp"
+        },
+        {
+            "key": "δ-yG6Wbm00ig",
+            "relativePath": "./δ steps/δ-yG6Wbm00ig.tsstp"
+        },
+        {
+            "key": "δ-yG6YPQ00Uz",
+            "relativePath": "./δ steps/δ-yG6YPQ00Uz.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yG6fGX01Zu",
+        "editorID": "car_ebc5658dd0da46a9a2dfd579c22fb9b8",
+        "ticks": 1761951579893
+    }
+}

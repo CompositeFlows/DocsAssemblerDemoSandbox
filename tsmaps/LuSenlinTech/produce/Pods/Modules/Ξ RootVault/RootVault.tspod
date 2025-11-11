@@ -1,0 +1,40 @@
+{
+    "key": "welO3r01ex  ",
+    "token": "Rootvault",
+    "name": "RootVault",
+    "created": "2025-10-14T23:14:11.607Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ RootVault/RootVault.tspod",
+    "isPod": true,
+    "iText": "Link to 'RootVault'",
+    "___rΩΩt___": {
+        "key": "welPiS00cB",
+        "sharedAssetKey": "x4ZBmo004l",
+        "nodes": [
+            {
+                "key": "welS6i00dC",
+                "order": 1,
+                "option": "RootVault details",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "xsb4l200p2"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4ZBmo004l",
+            "relativePath": "../../../_shared/CategoryTables/RootVaultTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-welS6i00dC",
+            "relativePath": "./δ steps/δ-welS6i00dC.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2qzv700ew",
+        "editorID": "me_816838cfb0b64fb8adace3880bc6ebf8",
+        "ticks": 1761755753673
+    }
+}

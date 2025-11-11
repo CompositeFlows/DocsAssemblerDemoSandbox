@@ -1,0 +1,60 @@
+{
+    "key": "yAVsWp008W  ",
+    "token": "Compactpurplesage",
+    "name": "CompactPurpleSage",
+    "created": "2025-10-31T00:02:11.059Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ CompactPurpleSage/CompactPurpleSage.tspod",
+    "isPod": true,
+    "iText": "Link to 'CompactPurpleSage'",
+    "___rΩΩt___": {
+        "key": "yAVuEX01Q5",
+        "nodes": [
+            {
+                "key": "yAVy6I02G9",
+                "order": 1,
+                "option": "Plum-Sage - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yAW5ie003H",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yAW9fq00bF",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yAVuEX01Q5",
+            "relativePath": "./δ steps/δ-yAVuEX01Q5.tsstp"
+        },
+        {
+            "key": "δ-yAVy6I02G9",
+            "relativePath": "./δ steps/δ-yAVy6I02G9.tsstp"
+        },
+        {
+            "key": "δ-yAW5ie003H",
+            "relativePath": "./δ steps/δ-yAW5ie003H.tsstp"
+        },
+        {
+            "key": "δ-yAW9fq00bF",
+            "relativePath": "./δ steps/δ-yAW9fq00bF.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAWEyu02G9",
+        "editorID": "car_a5ad43440c2e4d7e8748aed69b726ae2",
+        "ticks": 1761869017368
+    }
+}

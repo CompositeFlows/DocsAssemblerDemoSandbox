@@ -1,0 +1,60 @@
+{
+    "key": "yV3puh012a  ",
+    "token": "Stripedneritenerisnack",
+    "name": "StripedNeriteNeriSnack",
+    "created": "2025-11-03T12:22:30.879Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Snails/Ξ StripedNeriteNeriSnack/StripedNeriteNeriSnack.tspod",
+    "isPod": true,
+    "iText": "Link to 'StripedNeriteNeriSnack'",
+    "___rΩΩt___": {
+        "key": "yV3sIY021C",
+        "nodes": [
+            {
+                "key": "yV3uGS018N",
+                "order": 1,
+                "option": "Neri-Snack - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yV41fI01Kj",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yV459b02L5",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yV3sIY021C",
+            "relativePath": "./δ steps/δ-yV3sIY021C.tsstp"
+        },
+        {
+            "key": "δ-yV3uGS018N",
+            "relativePath": "./δ steps/δ-yV3uGS018N.tsstp"
+        },
+        {
+            "key": "δ-yV41fI01Kj",
+            "relativePath": "./δ steps/δ-yV41fI01Kj.tsstp"
+        },
+        {
+            "key": "δ-yV459b02L5",
+            "relativePath": "./δ steps/δ-yV459b02L5.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV49S2016z",
+        "editorID": "car_6854970a824045a993b4ffcf3fd5a240",
+        "ticks": 1762172625982
+    }
+}

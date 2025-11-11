@@ -1,0 +1,60 @@
+{
+    "key": "y4i33301WZ  ",
+    "token": "Waterspinachaquamorning",
+    "name": "WaterSpinachAquaMorning",
+    "created": "2025-10-30T00:12:53.418Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Ξ WaterSpinachAquaMorning/WaterSpinachAquaMorning.tspod",
+    "isPod": true,
+    "iText": "Link to 'WaterSpinachAquaMorning'",
+    "___rΩΩt___": {
+        "key": "y4i6FD00y0",
+        "nodes": [
+            {
+                "key": "y4iCWK00oE",
+                "order": 1,
+                "option": "Aqua-Morning - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y4iKmW00WQ",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y4icr200Jt",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y4i6FD00y0",
+            "relativePath": "./δ steps/δ-y4i6FD00y0.tsstp"
+        },
+        {
+            "key": "δ-y4iCWK00oE",
+            "relativePath": "./δ steps/δ-y4iCWK00oE.tsstp"
+        },
+        {
+            "key": "δ-y4iKmW00WQ",
+            "relativePath": "./δ steps/δ-y4iKmW00WQ.tsstp"
+        },
+        {
+            "key": "δ-y4icr200Jt",
+            "relativePath": "./δ steps/δ-y4icr200Jt.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y4ik1U02RR",
+        "editorID": "car_a38f1c3810334bd487485dc5de8bbfd3",
+        "ticks": 1761783338612
+    }
+}

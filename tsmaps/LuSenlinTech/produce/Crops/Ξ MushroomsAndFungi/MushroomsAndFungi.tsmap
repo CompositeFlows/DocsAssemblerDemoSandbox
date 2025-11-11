@@ -1,0 +1,145 @@
+{
+    "key": "wuNsj11BZ   ",
+    "token": "Mushroomsandfungi",
+    "name": "MushroomsAndFungi",
+    "created": "2025-10-17T14:52:05.894Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ MushroomsAndFungi/MushroomsAndFungi.tsmap",
+    "iText": "Link to 'MushroomsAndFungi'",
+    "iExits": [
+        {
+            "key": "wuNsj120p",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wuNsj10vB",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wuNsj106w",
+                "order": 1,
+                "option": "Oyster ‘Pearl-Fog’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQII9e026J",
+                "podText": "Link to 'OysterPearlFog'"
+            },
+            {
+                "key": "wuNsj100G",
+                "order": 2,
+                "option": "Pink Oyster ‘Candy-Cap’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQIzNL019Q",
+                "podText": "Link to 'PinkOysterCandyCap'"
+            },
+            {
+                "key": "wuNsj12MQ",
+                "order": 3,
+                "option": "Lion’s Mane ‘BrainFood L-2’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQJY6R01j3",
+                "podText": "Link to 'LionsManeBrainFoodL2'"
+            },
+            {
+                "key": "wuNsj113w",
+                "order": 4,
+                "option": "Shiitake ‘Urban Log’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQK4Zy00j4",
+                "podText": "Link to 'ShiitakeUrbanLog'"
+            },
+            {
+                "key": "wuNsj11Oa",
+                "order": 5,
+                "option": "Black King Trumpet ‘BK-Mini’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQKcZC00Lv",
+                "podText": "Link to 'BlackKingTrumpetBKMini'"
+            },
+            {
+                "key": "wuNsj12b9",
+                "order": 6,
+                "option": "Enoki ‘Metro-Needle’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQLA4g00UJ",
+                "podText": "Link to 'EnokiMetroNeedle'"
+            },
+            {
+                "key": "wuNsj11BH",
+                "order": 7,
+                "option": "Chestnut Mushroom ‘City-Top’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQLfKc0132",
+                "podText": "Link to 'ChestnutMushroomCityTop'"
+            },
+            {
+                "key": "wuNsj127n",
+                "order": 8,
+                "option": "Nameko ‘Amber Slick’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQk12u01TM",
+                "podText": "Link to 'NamekoAmberSlick'"
+            },
+            {
+                "key": "wuNsj11R3",
+                "order": 9,
+                "option": "Pioppino ‘Brown Beech Nano’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQkaF0014R",
+                "podText": "Link to 'PioppinoBrownBeechNano'"
+            },
+            {
+                "key": "wuNsj11Gp",
+                "order": 10,
+                "option": "Reishi ‘Micro-Lingzhi’ - functional tonic slices",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQl4gh01Nc",
+                "podText": "Link to 'ReishiMicroLingzhi'"
+            },
+            {
+                "key": "wuNsj1193",
+                "order": 11,
+                "option": "Maitake ‘Fractal Feathers’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQlXic02A8",
+                "podText": "Link to 'MaitakeFractalFeathers'"
+            },
+            {
+                "key": "wuNsj11SU",
+                "order": 12,
+                "option": "Cordyceps Militaris ‘Gold Thread’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQm8DL01Tn",
+                "podText": "Link to 'CordycepsMilitarisGoldThread'"
+            },
+            {
+                "key": "wuNsj10ZC",
+                "order": 13,
+                "option": "Shimeji ‘Snow Cluster’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQmiHA00RO",
+                "podText": "Link to 'ShimejiSnowCluster'"
+            },
+            {
+                "key": "wuNsj11LZ",
+                "order": 14,
+                "option": "King Oyster ‘Stubby-King’",
+                "exitKey": "wuNsj120p",
+                "podKey": "yQnFd602Ji",
+                "podText": "Link to 'KingOysterStubbyKing'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wuNsj10vB",
+            "relativePath": "./δ steps/δ-wuGaat00ah.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQnZv600ot",
+        "editorID": "car_879849dc34e24837aae5ce3c8b4a63be",
+        "ticks": 1762109570808
+    }
+}

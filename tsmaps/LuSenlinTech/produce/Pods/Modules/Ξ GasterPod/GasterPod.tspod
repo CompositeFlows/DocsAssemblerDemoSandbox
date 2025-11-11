@@ -1,0 +1,40 @@
+{
+    "key": "wkNV3B00J5  ",
+    "token": "Gasterpod",
+    "name": "GasterPod",
+    "created": "2025-10-15T22:16:56.617Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ GasterPod/GasterPod.tspod",
+    "isPod": true,
+    "iText": "Link to 'GasterPod'",
+    "___rΩΩt___": {
+        "key": "wkNW0c02Vi",
+        "sharedAssetKey": "x4cmEy02Qo",
+        "nodes": [
+            {
+                "key": "wkNcWs02Pu",
+                "order": 1,
+                "option": "GasterPod details",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "xrbxcm01Qu"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4cmEy02Qo",
+            "relativePath": "../../../_shared/CategoryTables/GasterPodTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wkNcWs02Pu",
+            "relativePath": "./δ steps/δ-wkNcWs02Pu.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2nmck2R3",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1761754987578
+    }
+}

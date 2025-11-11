@@ -1,0 +1,51 @@
+{
+    "key": "s7LPkr2IB   ",
+    "token": "Wintertemperatures",
+    "name": "WinterTemperatures",
+    "created": "2025-07-29T12:31:04.815Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/climate/Ξ WinterTemperatures/WinterTemperatures.tsmap",
+    "iText": "Link to 'WinterTemperatures'",
+    "iExits": [
+        {
+            "key": "s7LPkr1rO",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "s7LPkr1pv",
+        "variable": "minTemp",
+        "nodes": [
+            {
+                "key": "s7LPkr1GS",
+                "order": 1,
+                "option": "0°C",
+                "exitKey": "s7LPkr1rO"
+            },
+            {
+                "key": "s7LPkr2MR",
+                "order": 2,
+                "option": "-10°C",
+                "exitKey": "s7LPkr1rO"
+            },
+            {
+                "key": "s7LPkr0Wo",
+                "order": 3,
+                "option": "-20°C",
+                "exitKey": "s7LPkr1rO"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7LPkr1pv",
+            "relativePath": "./δ steps/δ-pLv2tN01Bh.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yjZmaZ01R2",
+        "editorID": "car_f43131aaf24a439bb388498e375f6df0",
+        "ticks": 1762387033299
+    }
+}

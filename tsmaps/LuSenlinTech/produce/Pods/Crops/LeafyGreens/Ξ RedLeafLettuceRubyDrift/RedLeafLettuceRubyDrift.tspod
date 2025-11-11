@@ -1,0 +1,60 @@
+{
+    "key": "yG9lJ1021X  ",
+    "token": "Redleaflettucerubydrift",
+    "name": "RedLeafLettuceRubyDrift",
+    "created": "2025-10-31T23:11:58.095Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/LeafyGreens/Ξ RedLeafLettuceRubyDrift/RedLeafLettuceRubyDrift.tspod",
+    "isPod": true,
+    "iText": "Link to 'RedLeafLettuceRubyDrift'",
+    "___rΩΩt___": {
+        "key": "yG9pQz02ak",
+        "nodes": [
+            {
+                "key": "yG9sZc00eQ",
+                "order": 1,
+                "option": "Ruby Drift - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yG9zac00Be",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yGA3Dz00Ek",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yG9pQz02ak",
+            "relativePath": "./δ steps/δ-yG9pQz02ak.tsstp"
+        },
+        {
+            "key": "δ-yG9sZc00eQ",
+            "relativePath": "./δ steps/δ-yG9sZc00eQ.tsstp"
+        },
+        {
+            "key": "δ-yG9zac00Be",
+            "relativePath": "./δ steps/δ-yG9zac00Be.tsstp"
+        },
+        {
+            "key": "δ-yGA3Dz00Ek",
+            "relativePath": "./δ steps/δ-yGA3Dz00Ek.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yGA7WL01dy",
+        "editorID": "car_b0baf470fdd0460f91bc9d9bd418d196",
+        "ticks": 1761952403489
+    }
+}

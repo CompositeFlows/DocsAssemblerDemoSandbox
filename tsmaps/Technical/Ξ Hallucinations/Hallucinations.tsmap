@@ -1,0 +1,45 @@
+{
+    "key": "u5Yi1402Vi  ",
+    "token": "Hallucinations",
+    "name": "Hallucinations",
+    "created": "2025-09-17T17:46:32.626Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/Technical/Ξ Hallucinations/Hallucinations.tsmap",
+    "iText": "Link to 'Hallucinations'",
+    "___rΩΩt___": {
+        "key": "u5Ylix01Cn",
+        "nodes": [
+            {
+                "key": "u5YroW0115",
+                "order": 1,
+                "isLeaf": true
+            },
+            {
+                "key": "u5Z5nU00xY",
+                "order": 2,
+                "option": "What are LLMs?",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-u5Ylix01Cn",
+            "relativePath": "./δ steps/δ-u5Ylix01Cn.tsstp"
+        },
+        {
+            "key": "δ-u5YroW0115",
+            "relativePath": "./δ steps/δ-u5YroW0115.tsstp"
+        },
+        {
+            "key": "δ-u5Z5nU00xY",
+            "relativePath": "./δ steps/δ-u5Z5nU00xY.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "u5Z9XD01Ov",
+        "editorID": "car_9de2abff7f4e457ab891ba28e0ed8596",
+        "ticks": 1758131298407
+    }
+}

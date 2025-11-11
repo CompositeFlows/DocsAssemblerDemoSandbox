@@ -1,0 +1,60 @@
+{
+    "key": "yUcP2N02Co  ",
+    "token": "Nanotilapiatcivic",
+    "name": "NanoTilapiaTCivic",
+    "created": "2025-11-03T10:33:32.711Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fish/Ξ NanoTilapiaTCivic/NanoTilapiaTCivic.tspod",
+    "isPod": true,
+    "iText": "Link to 'NanoTilapiaTCivic'",
+    "___rΩΩt___": {
+        "key": "yUcU5K00uH",
+        "nodes": [
+            {
+                "key": "yUcbmH00Q3",
+                "order": 1,
+                "option": "T-Civic - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUchgY01u2",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUcyBT02ST",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUcU5K00uH",
+            "relativePath": "./δ steps/δ-yUcU5K00uH.tsstp"
+        },
+        {
+            "key": "δ-yUcbmH00Q3",
+            "relativePath": "./δ steps/δ-yUcbmH00Q3.tsstp"
+        },
+        {
+            "key": "δ-yUchgY01u2",
+            "relativePath": "./δ steps/δ-yUchgY01u2.tsstp"
+        },
+        {
+            "key": "δ-yUcyBT02ST",
+            "relativePath": "./δ steps/δ-yUcyBT02ST.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUd2ub00k4",
+        "editorID": "car_ffe5fd701d7247bcaede58d15180644e",
+        "ticks": 1762166165989
+    }
+}

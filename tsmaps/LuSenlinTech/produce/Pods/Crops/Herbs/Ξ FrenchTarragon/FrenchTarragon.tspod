@@ -1,0 +1,60 @@
+{
+    "key": "yAWzlK01O8  ",
+    "token": "Frenchtarragon",
+    "name": "FrenchTarragon",
+    "created": "2025-10-31T00:06:37.194Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ FrenchTarragon/FrenchTarragon.tspod",
+    "isPod": true,
+    "iText": "Link to 'FrenchTarragon'",
+    "___rΩΩt___": {
+        "key": "yAX1Np013L",
+        "nodes": [
+            {
+                "key": "yAX40H00AD",
+                "order": 1,
+                "option": "Narrow-Leaf Nano - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yAXCbE02Q3",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yAXGAN01xi",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yAX1Np013L",
+            "relativePath": "./δ steps/δ-yAX1Np013L.tsstp"
+        },
+        {
+            "key": "δ-yAX40H00AD",
+            "relativePath": "./δ steps/δ-yAX40H00AD.tsstp"
+        },
+        {
+            "key": "δ-yAXCbE02Q3",
+            "relativePath": "./δ steps/δ-yAXCbE02Q3.tsstp"
+        },
+        {
+            "key": "δ-yAXGAN01xi",
+            "relativePath": "./δ steps/δ-yAXGAN01xi.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAXLOp02Ug",
+        "editorID": "car_3cc1a51c1ed743099515eddc9be9b8c9",
+        "ticks": 1761869280367
+    }
+}

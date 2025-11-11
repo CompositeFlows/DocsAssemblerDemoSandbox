@@ -1,0 +1,60 @@
+{
+    "key": "yUwkyv00j5  ",
+    "token": "Microgeoduckshortduck",
+    "name": "MicroGeoduckShortDuck",
+    "created": "2025-11-03T11:54:23.625Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Molluscs/Ξ MicroGeoduckShortDuck/MicroGeoduckShortDuck.tspod",
+    "isPod": true,
+    "iText": "Link to 'MicroGeoduckShortDuck'",
+    "___rΩΩt___": {
+        "key": "yUwnl401CM",
+        "nodes": [
+            {
+                "key": "yUwseC02ao",
+                "order": 1,
+                "option": "Short-Duck - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUwww600cL",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUwz1d00ET",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUwnl401CM",
+            "relativePath": "./δ steps/δ-yUwnl401CM.tsstp"
+        },
+        {
+            "key": "δ-yUwseC02ao",
+            "relativePath": "./δ steps/δ-yUwseC02ao.tsstp"
+        },
+        {
+            "key": "δ-yUwww600cL",
+            "relativePath": "./δ steps/δ-yUwww600cL.tsstp"
+        },
+        {
+            "key": "δ-yUwz1d00ET",
+            "relativePath": "./δ steps/δ-yUwz1d00ET.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUx2wb00RJ",
+        "editorID": "car_8d88dfdc40da4c5ba81760056e83fa0d",
+        "ticks": 1762170932673
+    }
+}

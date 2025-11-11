@@ -1,0 +1,40 @@
+{
+    "key": "wTFT3M01sz  ",
+    "token": "Leaflift",
+    "name": "LeafLift",
+    "created": "2025-10-12T23:58:24.605Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ LeafLift/LeafLift.tspod",
+    "isPod": true,
+    "iText": "Link to 'LeafLift'",
+    "___rΩΩt___": {
+        "key": "wTFUyJ01al",
+        "sharedAssetKey": "x4UFpJ00WA",
+        "nodes": [
+            {
+                "key": "wTFin6019N",
+                "order": 1,
+                "option": "LeafLift details",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "xrBvBL00gw"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4UFpJ00WA",
+            "relativePath": "../../../_shared/CategoryTables/LeafLiftTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wTFin6019N",
+            "relativePath": "./δ steps/δ-wTFin6019N.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2nPt71QN",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1761754900181
+    }
+}

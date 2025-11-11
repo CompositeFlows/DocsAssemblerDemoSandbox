@@ -1,0 +1,36 @@
+{
+    "v": "1",
+    "r": {
+        "i": "zFvFmD04M",
+        "n": "yhJqMu02OH",
+        "c": 0,
+        "o": [
+            {
+                "i": "zFvFmL18n",
+                "n": "s7LPkv17x",
+                "x": "s7SMXt1dV",
+                "c": 1
+            },
+            {
+                "i": "zFvFmV0qS",
+                "n": "s7LPkv17x1",
+                "x": "s7SMXt0Xu",
+                "c": 1
+            }
+        ]
+    },
+    "c": [
+        {
+            "i": "s7SMXt0ol",
+            "p": "_site/LuSenlinTech/equipment/Power_frags"
+        },
+        {
+            "i": "yjFhSI02KP",
+            "p": "_site/LuSenlinTech/preferences/Customisation_frags"
+        }
+    ],
+    "e": 0,
+    "mv": {
+        "spaceDisplayText": "on your patio or balcony"
+    }
+}

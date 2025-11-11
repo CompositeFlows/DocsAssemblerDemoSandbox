@@ -1,0 +1,105 @@
+{
+    "key": "wuSavg1yb   ",
+    "token": "Roots",
+    "name": "Roots",
+    "created": "2025-10-17T11:30:59.086Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ Roots/Roots.tsmap",
+    "iText": "Link to 'Roots'",
+    "iExits": [
+        {
+            "key": "wuSavg1Oe",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wuSavg14o",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wuSavg236",
+                "order": 1,
+                "option": "Finger Carrot ‘Neon 5’",
+                "exitKey": "wuSavg1Oe",
+                "podKey": "yKSOs401hY",
+                "podText": "Link to 'FingerCarrotNeon5'"
+            },
+            {
+                "key": "wuSavg2H8",
+                "order": 2,
+                "option": "Baby Beet ‘Ruby 2’",
+                "exitKey": "wuSavg1Oe",
+                "podKey": "yKTq5Y01gj",
+                "podText": "Link to 'BabyBeetRuby2'"
+            },
+            {
+                "key": "wuSavg1H8",
+                "order": 3,
+                "option": "Radish ‘Flash-40’",
+                "exitKey": "wuSavg1Oe",
+                "podKey": "yKURGJ00sM",
+                "podText": "Link to 'RadishFlash40'"
+            },
+            {
+                "key": "wuSavg0bB",
+                "order": 4,
+                "option": "Mini Daikon ‘Metro-White’",
+                "exitKey": "wuSavg1Oe",
+                "podKey": "yKV2VE0040",
+                "podText": "Link to 'MiniDaikonMetroWhite'"
+            },
+            {
+                "key": "wuSavg1c5",
+                "order": 5,
+                "option": "Tokyo Turnip ‘Tiny Kabu’",
+                "exitKey": "wuSavg1Oe",
+                "podKey": "yKVXY900Rn",
+                "podText": "Link to 'TokyoTurnipTinyKabu'"
+            },
+            {
+                "key": "wuSavg0J2",
+                "order": 6,
+                "option": "Baby Sweet Potato ‘Pocket Yama’",
+                "exitKey": "wuSavg1Oe",
+                "podKey": "yKVysx01sK",
+                "podText": "Link to 'BabySweetPotatoPocketYama'"
+            },
+            {
+                "key": "wuSavg0OJ",
+                "order": 7,
+                "option": "Baby Ginger ‘Zingy Core’",
+                "exitKey": "wuSavg1Oe",
+                "podKey": "yKWya700Ch",
+                "podText": "Link to 'BabyGingerZingyCore'"
+            },
+            {
+                "key": "wuSavg0Px",
+                "order": 8,
+                "option": "Young Lotus Root ‘Urban Lotus’",
+                "exitKey": "wuSavg1Oe",
+                "podKey": "yKXNWc00FO",
+                "podText": "Link to 'YoungLotusRootUrbanLotus'"
+            },
+            {
+                "key": "wuSavg0xt",
+                "order": 9,
+                "option": "Dwarf Taro ‘Taro-Tiny’",
+                "exitKey": "wuSavg1Oe",
+                "podKey": "yKXx2c01Le",
+                "podText": "Link to 'DwarfTaroTaroTiny'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wuSavg14o",
+            "relativePath": "./δ steps/δ-wtS1WU029T.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV4veC01X5",
+        "editorID": "car_f7d7742e32f44393bf1252a7b5f46f6b",
+        "ticks": 1762172811248
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "key": "yUvEdl00U0  ",
+    "token": "Dwarfrazorclamnanorazor",
+    "name": "DwarfRazorClamNanoRazor",
+    "created": "2025-11-03T11:48:20.978Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Molluscs/Ξ DwarfRazorClamNanoRazor/DwarfRazorClamNanoRazor.tspod",
+    "isPod": true,
+    "iText": "Link to 'DwarfRazorClamNanoRazor'",
+    "___rΩΩt___": {
+        "key": "yUvH4Z00A3",
+        "nodes": [
+            {
+                "key": "yUvJWF022F",
+                "order": 1,
+                "option": "Nano-Razor - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUvP6a010D",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUvRMf01Ol",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUvH4Z00A3",
+            "relativePath": "./δ steps/δ-yUvH4Z00A3.tsstp"
+        },
+        {
+            "key": "δ-yUvJWF022F",
+            "relativePath": "./δ steps/δ-yUvJWF022F.tsstp"
+        },
+        {
+            "key": "δ-yUvP6a010D",
+            "relativePath": "./δ steps/δ-yUvP6a010D.tsstp"
+        },
+        {
+            "key": "δ-yUvRMf01Ol",
+            "relativePath": "./δ steps/δ-yUvRMf01Ol.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUvUmA015h",
+        "editorID": "car_f84852ce62f9472fb559c6dd25425f06",
+        "ticks": 1762170563002
+    }
+}

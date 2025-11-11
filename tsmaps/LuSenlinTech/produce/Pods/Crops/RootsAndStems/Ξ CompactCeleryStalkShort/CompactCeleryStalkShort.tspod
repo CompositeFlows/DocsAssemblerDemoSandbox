@@ -1,0 +1,60 @@
+{
+    "key": "yKZ2Ua01tJ  ",
+    "token": "Compactcelerystalkshort",
+    "name": "CompactCeleryStalkShort",
+    "created": "2025-11-01T17:17:27.704Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/RootsAndStems/Ξ CompactCeleryStalkShort/CompactCeleryStalkShort.tspod",
+    "isPod": true,
+    "iText": "Link to 'CompactCeleryStalkShort'",
+    "___rΩΩt___": {
+        "key": "yKZ5vC01uE",
+        "nodes": [
+            {
+                "key": "yKZ7Yv02Pn",
+                "order": 1,
+                "option": "Stalk-Short - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKZC4S023x",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKZFTS012V",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKZ5vC01uE",
+            "relativePath": "./δ steps/δ-yKZ5vC01uE.tsstp"
+        },
+        {
+            "key": "δ-yKZ7Yv02Pn",
+            "relativePath": "./δ steps/δ-yKZ7Yv02Pn.tsstp"
+        },
+        {
+            "key": "δ-yKZC4S023x",
+            "relativePath": "./δ steps/δ-yKZC4S023x.tsstp"
+        },
+        {
+            "key": "δ-yKZFTS012V",
+            "relativePath": "./δ steps/δ-yKZFTS012V.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKZJJ201HX",
+        "editorID": "car_4f2e31a196e14d5e88cd2545974464d7",
+        "ticks": 1762017512336
+    }
+}

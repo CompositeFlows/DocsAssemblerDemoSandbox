@@ -1,0 +1,112 @@
+{
+    "v": "1",
+    "r": {
+        "i": "zFvGnW2Pl",
+        "n": "wuaiQq02Aw",
+        "o": [
+            {
+                "i": "zFvGnb01r",
+                "n": "wuambG01GW",
+                "_x": "wubGs202Bw",
+                "d": 0
+            },
+            {
+                "i": "zFvGnl1wD",
+                "n": "wuauFK00k7",
+                "_x": "wubGs202Bw",
+                "d": 1
+            },
+            {
+                "i": "zFvGnt1oA",
+                "n": "wuavM101jB",
+                "_x": "wubGs202Bw",
+                "d": 2
+            },
+            {
+                "i": "zFvGo10wJ",
+                "n": "wuawYn028P",
+                "_x": "wubGs202Bw",
+                "d": 3
+            },
+            {
+                "i": "zFvGo81LL",
+                "n": "wuaxUE02BR",
+                "_x": "wubGs202Bw",
+                "d": 4
+            },
+            {
+                "i": "zFvGoG16r",
+                "n": "wuayd100wI",
+                "_x": "wubGs202Bw",
+                "d": 5
+            },
+            {
+                "i": "zFvGoi2AX",
+                "n": "wub0Nk01WZ",
+                "_x": "wubGs202Bw",
+                "d": 6
+            },
+            {
+                "i": "zFvGou159",
+                "n": "wub2XI02Ik",
+                "_x": "wubGs202Bw",
+                "d": 7
+            },
+            {
+                "i": "zFvGp31ro",
+                "n": "wub4FP020t",
+                "_x": "wubGs202Bw",
+                "d": 8
+            },
+            {
+                "i": "zFvGpB2Um",
+                "n": "wub6ZK00dg",
+                "_x": "wubGs202Bw",
+                "d": 9
+            }
+        ]
+    },
+    "c": [
+        {
+            "i": "yUyjHF00x2",
+            "p": "LuSenlinTech/produce/Pods/Crops/Snails/TableSnailHelixMaxMini_frags"
+        },
+        {
+            "i": "yUzIOK00y1",
+            "p": "LuSenlinTech/produce/Pods/Crops/Snails/BurgundySnailPetitBourguignon_frags"
+        },
+        {
+            "i": "yUzwAp0067",
+            "p": "LuSenlinTech/produce/Pods/Crops/Snails/GardenStripeSnailBrownLineNano_frags"
+        },
+        {
+            "i": "yV0Slm01gy",
+            "p": "LuSenlinTech/produce/Pods/Crops/Snails/DwarfGiantAfricanSnailChefShell_frags"
+        },
+        {
+            "i": "yV14R801BL",
+            "p": "LuSenlinTech/produce/Pods/Crops/Snails/MilkSnailLacteaUrban_frags"
+        },
+        {
+            "i": "yV1ZL100HP",
+            "p": "LuSenlinTech/produce/Pods/Crops/Snails/GoldenAppleSnailGiltAppleMini_frags"
+        },
+        {
+            "i": "yV21JL00j7",
+            "p": "LuSenlinTech/produce/Pods/Crops/Snails/MysterySnailProteinPearl_frags"
+        },
+        {
+            "i": "yV2bQN00Bb",
+            "p": "LuSenlinTech/produce/Pods/Crops/Snails/CityPeriwinklePeriPocket_frags"
+        },
+        {
+            "i": "yV3D070056",
+            "p": "LuSenlinTech/produce/Pods/Crops/Snails/MiniWhelkSpiralBite_frags"
+        },
+        {
+            "i": "yV3puh012a",
+            "p": "LuSenlinTech/produce/Pods/Crops/Snails/StripedNeriteNeriSnack_frags"
+        }
+    ],
+    "e": 1
+}

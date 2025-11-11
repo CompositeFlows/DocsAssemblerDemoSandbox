@@ -1,0 +1,56 @@
+¬import g from "../../../_shared/glossary"
+¬import c from "../../../equipment/_shared/common"
+¬import tm from "../../../_shared/tradeMarks"
+¬import el from "../../../../shared/externalLinks"
+
+
+#### Truffle-Inoculated Root Vegetables
+
+This module uses a selection of compact roots - Finger Carrot, Baby Beet, Tokyo Turnip, and Baby Kohlrabi - that have been pre-colonised (inoculated) with truffle-forming mycorrhizal fungi before being installed in the FungaRoot unit.
+
+##### How It Works
+
+###### 1. The Starter Plug
+
+{{el.luSenLinName}}’s nursery cultivates young Finger Carrots, Baby Beets, Tokyo Turnips, and Baby Kohlrabi in a sterile substrate, pre-inoculated with spores or vegetative mycelium of edible truffle species (e.g., *Tuber melanosporum* or the faster-fruiting *Tuber borchii*).
+This specific selection is ideal because these roots thrive in the well-drained, aerated medium that truffles require. Their varied root structures provide a large, diverse surface area for the mycelium to colonize, creating a robust symbiotic network.
+
+###### 2. Symbiosis in the Module
+
+Once the plug is inserted into the FungaRoot module, {{tm.harvestSageTM}} maintains the precise environmental conditions to trigger truffle formation:
+- A high pH (7.5–8.0)
+- A stable temperature of ~18 °C
+- Alternating moist and brief-dry cycles
+These conditions encourage the fungus to form a mycorrhizal mantle around the roots. Over approximately 14 weeks, the roots develop for harvest while the truffle mycelium simultaneously produces small fruiting bodies (mini "button" truffles, 1–2 cm in size).
+
+###### 3. The Dual Harvest
+
+When the door light turns green, you pull out the drawer to collect both crops:
+- Harvest the mature Finger Carrots, Baby Beets, Tokyo Turnips, and Baby Kohlrabi.
+- Pick the attached truffle nuggets from the root system and surrounding substrate.
+The average yield from the 500 mm cube module is **450 g of assorted root vegetables plus 30–40 g of fresh truffle per cycle.**
+
+##### The Science Behind It
+
+This process is made possible by contemporary research and technology:
+- Studies have demonstrated that truffle mycelium can form symbiotic relationships with a wide range of host plants, including herbaceous roots, and will produce fruiting bodies under controlled conditions.
+- Advances in micro-controlled pH, moisture, and CO₂ - common in 2035 vertical farming systems - allow us to replicate the calcareous soils and seasonal cues truffles require, but on a countertop scale.
+
+In short, this system is a **dual-crop root cassette** where a selection of gourmet edible roots serves as a living host for truffle fungi, providing a varied vegetable harvest and bite-size black truffles from a single, compact module.
+
+##### Technologies  
+
+- {{g.dualKingdomSubstrateCassette}}
+- {{g.precisionHeatRootFilm}}
+- {{g.moistureGradientAeratedColumns}}
+- {{g.uvcOzoneSterilLoop}}
+
+##### Harvest Enhancements
+  
+- {{g.truffleSniffSensor}}
+- {{g.sideEjectDrawer}}
+- {{g.drawerAssistLiftHandle}}
+- {{g.harvestReadyGreenDoorLight}}
+
+{{c.ModuleAvailability_all}}
+

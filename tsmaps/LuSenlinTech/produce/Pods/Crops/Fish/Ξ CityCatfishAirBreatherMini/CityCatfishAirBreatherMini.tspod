@@ -1,0 +1,60 @@
+{
+    "key": "yUdw0W02B1  ",
+    "token": "Citycatfishairbreathermini",
+    "name": "CityCatfishAirBreatherMini",
+    "created": "2025-11-03T10:39:37.777Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fish/Ξ CityCatfishAirBreatherMini/CityCatfishAirBreatherMini.tspod",
+    "isPod": true,
+    "iText": "Link to 'CityCatfishAirBreatherMini'",
+    "___rΩΩt___": {
+        "key": "yUdyyn01Dy",
+        "nodes": [
+            {
+                "key": "yUe1Ik01L3",
+                "order": 1,
+                "option": "Air-Breather Mini - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUe8Kw00p7",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUeAlh02Hy",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUdyyn01Dy",
+            "relativePath": "./δ steps/δ-yUdyyn01Dy.tsstp"
+        },
+        {
+            "key": "δ-yUe1Ik01L3",
+            "relativePath": "./δ steps/δ-yUe1Ik01L3.tsstp"
+        },
+        {
+            "key": "δ-yUe8Kw00p7",
+            "relativePath": "./δ steps/δ-yUe8Kw00p7.tsstp"
+        },
+        {
+            "key": "δ-yUeAlh02Hy",
+            "relativePath": "./δ steps/δ-yUeAlh02Hy.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUeEm000Dt",
+        "editorID": "car_f3545cea242347a888530eeafb8e9844",
+        "ticks": 1762166449912
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "key": "xsb4l200p2  ",
+    "token": "Rootvaultdetails",
+    "name": "RootVaultDetails",
+    "created": "2025-10-27T22:29:55.661Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ RootVaultDetails/RootVaultDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'RootVaultDetails'",
+    "___rΩΩt___": {
+        "key": "xsb6SA01H0",
+        "nodes": [
+            {
+                "key": "xsbFF601NF",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy4A5k02IO",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy4BLt01Pp",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xsb6SA01H0",
+            "relativePath": "./δ steps/δ-xsb6SA01H0.tsstp"
+        },
+        {
+            "key": "δ-xsbFF601NF",
+            "relativePath": "./δ steps/δ-xsbFF601NF.tsstp"
+        },
+        {
+            "key": "δ-xy4A5k02IO",
+            "relativePath": "./δ steps/δ-xy4A5k02IO.tsstp"
+        },
+        {
+            "key": "δ-xy4BLt01Pp",
+            "relativePath": "./δ steps/δ-xy4BLt01Pp.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y1OT2V00Jm",
+        "editorID": "car_09f755b022dc4c01b63cbd45b176c8f0",
+        "ticks": 1761734177759
+    }
+}

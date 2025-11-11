@@ -1,0 +1,8 @@
+¬import smt from "../../../_shared/CategoryTables/soloModulesTable"
+¬import tm from "../../../../_shared/tradeMarks"
+
+
+All these Aquatic Plant species are supplied in plug-and-play **{{tm.hydraPadTM}}** inserts, compatible with {{smt.finWaveName}}, {{smt.crustaBayName}}, and {{smt.shellWaveName}} for seamless integration with fish, shrimp, or bivalve modules.
+
+##### *Select a crop*
+

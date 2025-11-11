@@ -1,0 +1,60 @@
+{
+    "key": "yKXx2c01Le  ",
+    "token": "Dwarftarotarotiny",
+    "name": "DwarfTaroTaroTiny",
+    "created": "2025-11-01T17:13:08.422Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/RootsAndStems/Ξ DwarfTaroTaroTiny/DwarfTaroTaroTiny.tspod",
+    "isPod": true,
+    "iText": "Link to 'DwarfTaroTaroTiny'",
+    "___rΩΩt___": {
+        "key": "yKXzQX026T",
+        "nodes": [
+            {
+                "key": "yKY1nT00sw",
+                "order": 1,
+                "option": "Taro-Tiny - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKYC7e01dX",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKYEp602Zz",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKXzQX026T",
+            "relativePath": "./δ steps/δ-yKXzQX026T.tsstp"
+        },
+        {
+            "key": "δ-yKY1nT00sw",
+            "relativePath": "./δ steps/δ-yKY1nT00sw.tsstp"
+        },
+        {
+            "key": "δ-yKYC7e01dX",
+            "relativePath": "./δ steps/δ-yKYC7e01dX.tsstp"
+        },
+        {
+            "key": "δ-yKYEp602Zz",
+            "relativePath": "./δ steps/δ-yKYEp602Zz.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKYJME02VO",
+        "editorID": "car_9a44f3a92aec4930809e9489fba7aada",
+        "ticks": 1762017274206
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "key": "yUggLn00wA  ",
+    "token": "Dwarfrainbowtroutcoolstream",
+    "name": "DwarfRainbowTroutCoolStream",
+    "created": "2025-11-03T10:50:32.575Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fish/Ξ DwarfRainbowTroutCoolStream/DwarfRainbowTroutCoolStream.tspod",
+    "isPod": true,
+    "iText": "Link to 'DwarfRainbowTroutCoolStream'",
+    "___rΩΩt___": {
+        "key": "yUgjR4009A",
+        "nodes": [
+            {
+                "key": "yUglrY00Tn",
+                "order": 1,
+                "option": "CoolStream - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUgq3901aR",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUgtBC01I7",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUgjR4009A",
+            "relativePath": "./δ steps/δ-yUgjR4009A.tsstp"
+        },
+        {
+            "key": "δ-yUglrY00Tn",
+            "relativePath": "./δ steps/δ-yUglrY00Tn.tsstp"
+        },
+        {
+            "key": "δ-yUgq3901aR",
+            "relativePath": "./δ steps/δ-yUgq3901aR.tsstp"
+        },
+        {
+            "key": "δ-yUgtBC01I7",
+            "relativePath": "./δ steps/δ-yUgtBC01I7.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUgxIo0166",
+        "editorID": "car_1b5496c67ec641b283c993ae757e5615",
+        "ticks": 1762167097738
+    }
+}

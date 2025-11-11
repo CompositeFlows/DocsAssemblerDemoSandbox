@@ -1,0 +1,24 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+title: Docs Assembler demo guide
+markdown_ext: markdown,tsfrg,md
+source: docs
+destination: root/_site
+sass:
+  sass_dir: docs/assets/scss
+  style: compressed
+defaults:
+  -
+    scope:
+      path: "docs"
+      type: pages
+    values:
+      layout: simple
+
+# Disable all caching
+disable_disk_cache: true
+
+# Or more specific cache controls
+full_rebuild: true

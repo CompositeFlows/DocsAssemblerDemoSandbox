@@ -1,0 +1,60 @@
+{
+    "key": "yV6MCl00Tk  ",
+    "token": "Whitetrufflealbawhisper",
+    "name": "WhiteTruffleAlbaWhisper",
+    "created": "2025-11-03T12:32:31.663Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ WhiteTruffleAlbaWhisper/WhiteTruffleAlbaWhisper.tspod",
+    "isPod": true,
+    "iText": "Link to 'WhiteTruffleAlbaWhisper'",
+    "___rΩΩt___": {
+        "key": "yV6OlT02ZD",
+        "nodes": [
+            {
+                "key": "yV6Qc900gw",
+                "order": 1,
+                "option": "Alba Whisper - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yV6ZvA00LL",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yV6dQI00UN",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yV6OlT02ZD",
+            "relativePath": "./δ steps/δ-yV6OlT02ZD.tsstp"
+        },
+        {
+            "key": "δ-yV6Qc900gw",
+            "relativePath": "./δ steps/δ-yV6Qc900gw.tsstp"
+        },
+        {
+            "key": "δ-yV6ZvA00LL",
+            "relativePath": "./δ steps/δ-yV6ZvA00LL.tsstp"
+        },
+        {
+            "key": "δ-yV6dQI00UN",
+            "relativePath": "./δ steps/δ-yV6dQI00UN.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV6iP5003U",
+        "editorID": "car_3d70d778699f4cbebe1f1608126826e8",
+        "ticks": 1762173236995
+    }
+}

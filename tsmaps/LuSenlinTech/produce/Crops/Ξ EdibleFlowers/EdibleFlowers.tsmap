@@ -1,0 +1,153 @@
+{
+    "key": "wtfKcq013p  ",
+    "token": "Edibleflowers",
+    "name": "EdibleFlowers",
+    "created": "2025-10-17T12:24:13.473Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ EdibleFlowers/EdibleFlowers.tsmap",
+    "iText": "Link to 'EdibleFlowers'",
+    "iExits": [
+        {
+            "key": "wtgm5X00HJ",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wtfLVX0045",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wtfRFG003u",
+                "order": 1,
+                "option": "Nasturtium ‘Citrus Wheel’",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQ7vid01iD",
+                "podText": "Link to 'NasturtiumCitrusWheel'"
+            },
+            {
+                "key": "wtfs7601AL",
+                "order": 2,
+                "option": "Pansy ‘Urban-Violet’",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQ8m8700Om",
+                "podText": "Link to 'PansyUrbanViolet'"
+            },
+            {
+                "key": "wtftCZ00aO",
+                "order": 3,
+                "option": "Calendula ‘Golden Byte’ - pot marigold",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQ9My001Vx",
+                "podText": "Link to 'CalendulaGoldenByte'"
+            },
+            {
+                "key": "wtfuVi02ZF",
+                "order": 4,
+                "option": "Borage ‘Sky-Blue’",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQA18x006i",
+                "podText": "Link to 'BorageSkyBlue'"
+            },
+            {
+                "key": "wtfvRh01T0",
+                "order": 5,
+                "option": "Red Amaranth Micro ‘Ruby Veil’",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQAg7T00Fp",
+                "podText": "Link to 'RedAmaranthMicroRubyVeil'"
+            },
+            {
+                "key": "wtfwdj01IH",
+                "order": 6,
+                "option": "Wasabi Arugula ‘Nano-Wasabi’",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQBHZW02UD",
+                "podText": "Link to 'WasabiArugulaNanoWasabi'"
+            },
+            {
+                "key": "wtfy8g002H",
+                "order": 7,
+                "option": "Shungiku ‘Chop-Chop’ - garland chrysanthemum greens",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQBrrR002h",
+                "podText": "Link to 'ShungikuChopChop'"
+            },
+            {
+                "key": "wtfzLW00Tx",
+                "order": 8,
+                "option": "Sorrel ‘Lemon Arrow’",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQCOvW00N0",
+                "podText": "Link to 'SorrelLemonArrow'"
+            },
+            {
+                "key": "wtg0gl00dY",
+                "order": 9,
+                "option": "Ice Plant ‘Crystal Leaf’",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQCvGv00Dd",
+                "podText": "Link to 'IcePlantCrystalLeaf'"
+            },
+            {
+                "key": "wtg1jR00cB",
+                "order": 10,
+                "option": "Salad Burnet ‘Cucumber Drop’",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQDgrg026J",
+                "podText": "Link to 'SaladBurnetCucumberDrop'"
+            },
+            {
+                "key": "wtg3NQ01jV",
+                "order": 11,
+                "option": "Malabar Spinach ‘Ruby Vine’ - vining",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQESZK01YR",
+                "podText": "Link to 'MalabarSpinachRubyVine'"
+            },
+            {
+                "key": "wtg4Rz01nr",
+                "order": 12,
+                "option": "Purple Oxalis ‘TriStar’ - tangy “sorrel” notes",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQF48Q02HB",
+                "podText": "Link to 'PurpleOxalisTriStar'"
+            },
+            {
+                "key": "wtg64O011f",
+                "order": 13,
+                "option": "Micro Fenugreek ‘Methi-Micro’",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQFkK901hu",
+                "podText": "Link to 'MicroFenugreekMethiMicro'"
+            },
+            {
+                "key": "wtg74e00Ka",
+                "order": 14,
+                "option": "Rainbow Swiss Chard ‘Pixel-Stem’ - multi-colour stems",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yG5OYS02Ty",
+                "podText": "Link to 'RainbowSwissChardPixelStem'"
+            },
+            {
+                "key": "wtg8QP002r",
+                "order": 15,
+                "option": "Edible Viola ‘Midnight Kiss’",
+                "exitKey": "wtgm5X00HJ",
+                "podKey": "yQHI0B00kq",
+                "podText": "Link to 'EdibleViolaMidnightKiss'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wtfLVX0045",
+            "relativePath": "./δ steps/δ-wtfLVX0045.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQHhtx01nd",
+        "editorID": "car_e6d6ca347db24324b41424c47f3fd2fd",
+        "ticks": 1762101974993
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "key": "yUwGJ000B0  ",
+    "token": "Miniabaloneblueear",
+    "name": "MiniAbaloneBlueEar",
+    "created": "2025-11-03T11:52:25.706Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Molluscs/Ξ MiniAbaloneBlueEar/MiniAbaloneBlueEar.tspod",
+    "isPod": true,
+    "iText": "Link to 'MiniAbaloneBlueEar'",
+    "___rΩΩt___": {
+        "key": "yUwIRL01vd",
+        "nodes": [
+            {
+                "key": "yUwKtq02XB",
+                "order": 1,
+                "option": "Blue-Ear - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUwRBi00tS",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUwTZf0008",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUwIRL01vd",
+            "relativePath": "./δ steps/δ-yUwIRL01vd.tsstp"
+        },
+        {
+            "key": "δ-yUwKtq02XB",
+            "relativePath": "./δ steps/δ-yUwKtq02XB.tsstp"
+        },
+        {
+            "key": "δ-yUwRBi00tS",
+            "relativePath": "./δ steps/δ-yUwRBi00tS.tsstp"
+        },
+        {
+            "key": "δ-yUwTZf0008",
+            "relativePath": "./δ steps/δ-yUwTZf0008.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUwXwh00r6",
+        "editorID": "car_64f1af3fbc99411bb2d1e7fbbb461f3f",
+        "ticks": 1762170813515
+    }
+}

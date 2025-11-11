@@ -1,0 +1,60 @@
+{
+    "key": "yALoXp00Qr  ",
+    "token": "Minisweetbasil",
+    "name": "MiniSweetBasil",
+    "created": "2025-10-30T23:22:12.465Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ MiniSweetBasil/MiniSweetBasil.tspod",
+    "isPod": true,
+    "iText": "Link to 'MiniSweetBasil'",
+    "___rΩΩt___": {
+        "key": "yALrXS00rQ",
+        "nodes": [
+            {
+                "key": "yAM0Aj01w4",
+                "order": 1,
+                "option": "Mini-Sweet Basil - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yAMJI201wn",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yAMwrm01WT",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yALrXS00rQ",
+            "relativePath": "./δ steps/δ-yALrXS00rQ.tsstp"
+        },
+        {
+            "key": "δ-yAM0Aj01w4",
+            "relativePath": "./δ steps/δ-yAM0Aj01w4.tsstp"
+        },
+        {
+            "key": "δ-yAMJI201wn",
+            "relativePath": "./δ steps/δ-yAMJI201wn.tsstp"
+        },
+        {
+            "key": "δ-yAMwrm01WT",
+            "relativePath": "./δ steps/δ-yAMwrm01WT.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAN2m500gb",
+        "editorID": "car_29d7afe5a88d4da4bf5d478716e028de",
+        "ticks": 1761866825493
+    }
+}

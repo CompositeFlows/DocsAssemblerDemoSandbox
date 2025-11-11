@@ -1,0 +1,57 @@
+{
+    "key": "wuGYkQ02Xu  ",
+    "token": "Truffles",
+    "name": "Truffles",
+    "created": "2025-10-17T14:52:05.894Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ Truffles/Truffles.tsmap",
+    "iText": "Link to 'Truffles'",
+    "iExits": [
+        {
+            "key": "wuHH6D00FW",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wuGaat00ah",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wuGfkE00jU",
+                "order": 1,
+                "option": "Black Truffle ‘Urban Knot’",
+                "exitKey": "wuHH6D00FW",
+                "podKey": "yV5koR02G0",
+                "podText": "Link to 'BlackTruffleUrbanKnot'"
+            },
+            {
+                "key": "wuH8Qx01SF",
+                "order": 2,
+                "option": "White Truffle ‘Alba Whisper’",
+                "exitKey": "wuHH6D00FW",
+                "podKey": "yV6MCl00Tk",
+                "podText": "Link to 'WhiteTruffleAlbaWhisper'"
+            },
+            {
+                "key": "wuHDli01a2",
+                "order": 3,
+                "option": "Summer Truffle ‘Harvest Nugget’ (mini-veined for quick cycles)",
+                "exitKey": "wuHH6D00FW",
+                "podKey": "yV72Sl00NX",
+                "podText": "Link to 'SummerTruffleHarvestNugget'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wuGaat00ah",
+            "relativePath": "./δ steps/δ-wuGaat00ah.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV7PSH007g",
+        "editorID": "car_76b06a761cf54742b4876febd81be194",
+        "ticks": 1762173402485
+    }
+}

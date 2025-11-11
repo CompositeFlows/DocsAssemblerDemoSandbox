@@ -1,0 +1,60 @@
+{
+    "key": "yAOOHb01WO  ",
+    "token": "Genovesepestomint",
+    "name": "GenovesePestoMint",
+    "created": "2025-10-30T23:32:26.499Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ GenovesePestoMint/GenovesePestoMint.tspod",
+    "isPod": true,
+    "iText": "Link to 'GenovesePestoMint'",
+    "___rΩΩt___": {
+        "key": "yAOQDw02Ie",
+        "nodes": [
+            {
+                "key": "yAOUZT02XG",
+                "order": 1,
+                "option": "Genovese Pesto Mint™ - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yAOjDC02Le",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yAOmj300Tq",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yAOQDw02Ie",
+            "relativePath": "./δ steps/δ-yAOQDw02Ie.tsstp"
+        },
+        {
+            "key": "δ-yAOUZT02XG",
+            "relativePath": "./δ steps/δ-yAOUZT02XG.tsstp"
+        },
+        {
+            "key": "δ-yAOjDC02Le",
+            "relativePath": "./δ steps/δ-yAOjDC02Le.tsstp"
+        },
+        {
+            "key": "δ-yAOmj300Tq",
+            "relativePath": "./δ steps/δ-yAOmj300Tq.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAOttc02Be",
+        "editorID": "car_1f065f5eb6c14e96807d8d84e210718c",
+        "ticks": 1761867268020
+    }
+}

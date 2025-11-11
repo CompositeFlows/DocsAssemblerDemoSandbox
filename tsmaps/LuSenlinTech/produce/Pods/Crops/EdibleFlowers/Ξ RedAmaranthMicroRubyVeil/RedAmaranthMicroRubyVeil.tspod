@@ -1,0 +1,60 @@
+{
+    "key": "yQAg7T00Fp  ",
+    "token": "Redamaranthmicrorubyveil",
+    "name": "RedAmaranthMicroRubyVeil",
+    "created": "2025-11-02T16:18:19.847Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ RedAmaranthMicroRubyVeil/RedAmaranthMicroRubyVeil.tspod",
+    "isPod": true,
+    "iText": "Link to 'RedAmaranthMicroRubyVeil'",
+    "___rΩΩt___": {
+        "key": "yQAjY9018C",
+        "nodes": [
+            {
+                "key": "yQAlfm003A",
+                "order": 1,
+                "option": "Ruby Veil - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQArKS01vY",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQAuS700d4",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQAjY9018C",
+            "relativePath": "./δ steps/δ-yQAjY9018C.tsstp"
+        },
+        {
+            "key": "δ-yQAlfm003A",
+            "relativePath": "./δ steps/δ-yQAlfm003A.tsstp"
+        },
+        {
+            "key": "δ-yQArKS01vY",
+            "relativePath": "./δ steps/δ-yQArKS01vY.tsstp"
+        },
+        {
+            "key": "δ-yQAuS700d4",
+            "relativePath": "./δ steps/δ-yQAuS700d4.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQAyeM00No",
+        "editorID": "car_a662cef2d8854d4ba92327292de36da4",
+        "ticks": 1762100371078
+    }
+}

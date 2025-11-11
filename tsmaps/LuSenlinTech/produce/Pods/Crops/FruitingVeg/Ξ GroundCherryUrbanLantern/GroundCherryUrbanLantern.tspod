@@ -1,0 +1,60 @@
+{
+    "key": "yKRO5I01oS  ",
+    "token": "Groundcherryurbanlantern",
+    "name": "GroundCherryUrbanLantern",
+    "created": "2025-11-01T16:47:04.080Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ GroundCherryUrbanLantern/GroundCherryUrbanLantern.tspod",
+    "isPod": true,
+    "iText": "Link to 'GroundCherryUrbanLantern'",
+    "___rΩΩt___": {
+        "key": "yKRR4y02Wh",
+        "nodes": [
+            {
+                "key": "yKRW6601CU",
+                "order": 1,
+                "option": "Urban Lantern - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKRcIH00Ks",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKRels00FI",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKRR4y02Wh",
+            "relativePath": "./δ steps/δ-yKRR4y02Wh.tsstp"
+        },
+        {
+            "key": "δ-yKRW6601CU",
+            "relativePath": "./δ steps/δ-yKRW6601CU.tsstp"
+        },
+        {
+            "key": "δ-yKRcIH00Ks",
+            "relativePath": "./δ steps/δ-yKRcIH00Ks.tsstp"
+        },
+        {
+            "key": "δ-yKRels00FI",
+            "relativePath": "./δ steps/δ-yKRels00FI.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKRjV600FN",
+        "editorID": "car_f2bb821dfe2a486fbf351269c03adc89",
+        "ticks": 1762015706404
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "key": "wtXSb416v   ",
+    "token": "Stems",
+    "name": "Stems",
+    "created": "2025-10-17T11:30:59.086Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ Stems/Stems.tsmap",
+    "iText": "Link to 'Stems'",
+    "iExits": [
+        {
+            "key": "wtXSb41kM",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wtXSb42VK",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wtXSb40ZJ",
+                "order": 1,
+                "option": "Water Spinach Stem ‘WS-Lite’",
+                "exitKey": "wtXSb41kM",
+                "podKey": "yKWUn00188",
+                "podText": "Link to 'WaterSpinachStemWSLite'"
+            },
+            {
+                "key": "wtXSb41MR",
+                "order": 2,
+                "option": "Baby Kohlrabi ‘Mini Stem’",
+                "exitKey": "wtXSb41kM",
+                "podKey": "yKYTzM02F3",
+                "podText": "Link to 'BabyKohlrabiMiniStem'"
+            },
+            {
+                "key": "wtXSb40Qx",
+                "order": 3,
+                "option": "Compact Celery ‘Stalk-Short’",
+                "exitKey": "wtXSb41kM",
+                "podKey": "yKZ2Ua01tJ",
+                "podText": "Link to 'CompactCeleryStalkShort'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wtXSb42VK",
+            "relativePath": "./δ steps/δ-wtS1WU029T.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV5VWf01JH",
+        "editorID": "car_bf11a07e30cc4c3f970b3052cb0503e9",
+        "ticks": 1762172949165
+    }
+}

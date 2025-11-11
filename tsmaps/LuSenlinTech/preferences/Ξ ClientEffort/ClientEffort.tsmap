@@ -1,0 +1,148 @@
+{
+    "key": "s7LPoO1sh   ",
+    "token": "Clienteffort",
+    "name": "ClientEffort",
+    "created": "2025-08-04T09:42:53.428Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/preferences/Ξ ClientEffort/ClientEffort.tsmap",
+    "iText": "Link to 'ClientEffort'",
+    "iExits": [
+        {
+            "key": "s7LPoO19j",
+            "text": "Low effort",
+            "order": 1
+        },
+        {
+            "key": "s7LPoO04R",
+            "text": "Moderate effort",
+            "order": 2
+        },
+        {
+            "key": "s7LPoO2Y3",
+            "text": "High effort\n",
+            "order": 3
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "s7LPoO0qp",
+        "nodes": [
+            {
+                "key": "s7LPoO0VY",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "s7LPoO2B5",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "s7LPoO11x",
+                                "order": 1,
+                                "variable": "growEasy",
+                                "nodes": [
+                                    {
+                                        "key": "s7LPoO05F",
+                                        "order": 1,
+                                        "option": "Low effort - for harvest only",
+                                        "exitKey": "s7LPoO19j"
+                                    },
+                                    {
+                                        "key": "s7LPoO09a",
+                                        "order": 2,
+                                        "option": "Moderate effort - for guided involvement",
+                                        "exitKey": "s7LPoO04R"
+                                    },
+                                    {
+                                        "key": "s7LPoO0o9",
+                                        "order": 3,
+                                        "option": "High effort - for full ownership ",
+                                        "exitKey": "s7LPoO2Y3"
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "s7LPoO0I7",
+                                "order": 2,
+                                "option": "High effort plan features...",
+                                "isLeaf": true,
+                                "isAncillary": true
+                            }
+                        ]
+                    },
+                    {
+                        "key": "s7LPoO25V",
+                        "order": 2,
+                        "option": "Moderate effort plan features...",
+                        "isAncillary": true,
+                        "nodes": [
+                            {
+                                "key": "s7LPoO0j7",
+                                "order": 1,
+                                "option": "PureLight™",
+                                "isLeaf": true,
+                                "isAncillary": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "s7LPoO1n7",
+                "order": 2,
+                "option": "Low effort plan features...",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "s7LPoO1QC",
+                        "order": 1,
+                        "option": "PureLight™",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7LPoO0qp",
+            "relativePath": "./δ steps/δ-puJuqN00SE.tsstp"
+        },
+        {
+            "key": "δ-s7LPoO1n7",
+            "relativePath": "./δ steps/δ-rQ8n0W018f.tsstp"
+        },
+        {
+            "key": "δ-s7LPoO1QC",
+            "relativePath": "./δ steps/δ-rQALQD02W0.tsstp"
+        },
+        {
+            "key": "δ-s7LPoO0VY",
+            "relativePath": "./δ steps/δ-rneO8R01le.tsstp"
+        },
+        {
+            "key": "δ-s7LPoO2B5",
+            "relativePath": "./δ steps/δ-rngRKh02Zd.tsstp"
+        },
+        {
+            "key": "δ-s7LPoO0I7",
+            "relativePath": "./δ steps/δ-rngpxv01l9.tsstp"
+        },
+        {
+            "key": "δ-s7LPoO25V",
+            "relativePath": "./δ steps/δ-rnhdYu00dj.tsstp"
+        },
+        {
+            "key": "δ-s7LPoO11x",
+            "relativePath": "./δ steps/δ-puKCZG02KQ.tsstp"
+        },
+        {
+            "key": "δ-s7LPoO0j7",
+            "relativePath": "./δ steps/δ-rv4Fvv02YA.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xm0x5n00Iv",
+        "editorID": "car_70932e60eb1c43329b8f5a66f66710c3",
+        "ticks": 1761506928371
+    }
+}

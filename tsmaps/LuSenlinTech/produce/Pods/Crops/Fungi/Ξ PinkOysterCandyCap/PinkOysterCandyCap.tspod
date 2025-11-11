@@ -1,0 +1,60 @@
+{
+    "key": "yQIzNL019Q  ",
+    "token": "Pinkoystercandycap",
+    "name": "PinkOysterCandyCap",
+    "created": "2025-11-02T16:51:20.492Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ PinkOysterCandyCap/PinkOysterCandyCap.tspod",
+    "isPod": true,
+    "iText": "Link to 'PinkOysterCandyCap'",
+    "___rΩΩt___": {
+        "key": "yQJ1sq00uf",
+        "nodes": [
+            {
+                "key": "yQJ4x1004m",
+                "order": 1,
+                "option": "Candy-Cap - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQJ9yG01Bz",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQJCUo00Ju",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQJ1sq00uf",
+            "relativePath": "./δ steps/δ-yQJ1sq00uf.tsstp"
+        },
+        {
+            "key": "δ-yQJ4x1004m",
+            "relativePath": "./δ steps/δ-yQJ4x1004m.tsstp"
+        },
+        {
+            "key": "δ-yQJ9yG01Bz",
+            "relativePath": "./δ steps/δ-yQJ9yG01Bz.tsstp"
+        },
+        {
+            "key": "δ-yQJCUo00Ju",
+            "relativePath": "./δ steps/δ-yQJCUo00Ju.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQJHIx02O8",
+        "editorID": "car_a0fe00433bea4325bab386ecb58e962e",
+        "ticks": 1762102349411
+    }
+}

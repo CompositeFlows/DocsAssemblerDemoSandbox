@@ -1,0 +1,60 @@
+{
+    "key": "yKURGJ00sM  ",
+    "token": "Radishflash40",
+    "name": "RadishFlash40",
+    "created": "2025-11-01T16:59:11.279Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/RootsAndStems/Ξ RadishFlash40/RadishFlash40.tspod",
+    "isPod": true,
+    "iText": "Link to 'RadishFlash40'",
+    "___rΩΩt___": {
+        "key": "yKUT8d01OQ",
+        "nodes": [
+            {
+                "key": "yKUVz1028Z",
+                "order": 1,
+                "option": "Flash-40 - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKUdNM00Jk",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKUfm9025j",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKUT8d01OQ",
+            "relativePath": "./δ steps/δ-yKUT8d01OQ.tsstp"
+        },
+        {
+            "key": "δ-yKUVz1028Z",
+            "relativePath": "./δ steps/δ-yKUVz1028Z.tsstp"
+        },
+        {
+            "key": "δ-yKUdNM00Jk",
+            "relativePath": "./δ steps/δ-yKUdNM00Jk.tsstp"
+        },
+        {
+            "key": "δ-yKUfm9025j",
+            "relativePath": "./δ steps/δ-yKUfm9025j.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKUkMx02JV",
+        "editorID": "car_09fd060033854a4db50d505bad089b1c",
+        "ticks": 1762016424727
+    }
+}

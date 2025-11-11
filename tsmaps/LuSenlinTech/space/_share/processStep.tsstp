@@ -1,0 +1,10 @@
+PROCESS_STEP
+
+### Step Variables
+
+The list below shows the "step variables" that have been captured as you made choices in this guide.
+
+Think of them as live data points. When you selected an option like "**Balcony**" or "**Lettuce**," the guide automatically recorded it in a variable (e.g., `location = balcony`).
+
+This creates a structured record of the user's path. In a real application, this data could be passed to your code to generate a custom quote, populate an order form, or trigger any other automated process.
+

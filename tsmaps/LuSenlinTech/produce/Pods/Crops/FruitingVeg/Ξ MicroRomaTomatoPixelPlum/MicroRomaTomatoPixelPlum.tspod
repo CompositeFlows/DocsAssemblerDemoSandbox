@@ -1,0 +1,60 @@
+{
+    "key": "yIhbjb01U8  ",
+    "token": "Microromatomatopixelplum",
+    "name": "MicroRomaTomatoPixelPlum",
+    "created": "2025-11-01T09:38:57.128Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ MicroRomaTomatoPixelPlum/MicroRomaTomatoPixelPlum.tspod",
+    "isPod": true,
+    "iText": "Link to 'MicroRomaTomatoPixelPlum'",
+    "___rΩΩt___": {
+        "key": "yIheUP00ef",
+        "nodes": [
+            {
+                "key": "yIhnlj004a",
+                "order": 1,
+                "option": "Pixel-Plum - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yIhrns014k",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yIhwD102IJ",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yIheUP00ef",
+            "relativePath": "./δ steps/δ-yIheUP00ef.tsstp"
+        },
+        {
+            "key": "δ-yIhnlj004a",
+            "relativePath": "./δ steps/δ-yIhnlj004a.tsstp"
+        },
+        {
+            "key": "δ-yIhrns014k",
+            "relativePath": "./δ steps/δ-yIhrns014k.tsstp"
+        },
+        {
+            "key": "δ-yIhwD102IJ",
+            "relativePath": "./δ steps/δ-yIhwD102IJ.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKa36501SX",
+        "editorID": "car_700f2fbe456145cab6c5e206f346e907",
+        "ticks": 1762017688357
+    }
+}

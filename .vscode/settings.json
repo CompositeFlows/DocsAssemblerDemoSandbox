@@ -1,0 +1,67 @@
+{
+    "files.readonlyInclude": {
+        "pub/**/*": true
+    },
+    "editor.tokenColorCustomizations.textMateRules": [
+        {
+            "scope": "da.markdown.import.import",
+            "settings": {
+                "foreground": "#c586c0"
+            }
+        },
+        {
+            "scope": "da.markdown.import.from",
+            "settings": {
+                "foreground": "#c586c0"
+            }
+        },
+        {
+            "scope": "da.markdown.import.alias",
+            "settings": {
+                "foreground": "#9cdcfe"
+            }
+        },
+        {
+            "scope": "da.markdown.import.path",
+            "settings": {
+                "foreground": "#ce9178"
+            }
+        },
+        {
+            "scope": "da.markdown.variable.def",
+            "settings": {
+                "foreground": "#9cdcfe"
+            }
+        },
+        {
+            "scope": "da.markdown.variable.body.link",
+            "settings": {
+                "foreground": "#b98cd3"
+            }
+        },
+        {
+            "scope": "da.markdown.alias.ref",
+            "settings": {
+                "foreground": "#4fc1ff"
+            }
+        },
+        {
+            "scope": "da.markdown.variable.ref",
+            "settings": {
+                "foreground": "#9cdcfe"
+            }
+        },
+        {
+            "scope": "da.markdown.variable.ref.open",
+            "settings": {
+                "foreground": "#da70d6"
+            }
+        },
+        {
+            "scope": "da.markdown.variable.ref.close",
+            "settings": {
+                "foreground": "#da70d6"
+            }
+        }
+    ]
+}

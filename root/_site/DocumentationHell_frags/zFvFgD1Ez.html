@@ -1,0 +1,47 @@
+<!-- tsFragmentRenderComment {"id":"zFvFgD1Ez","topLevelMapKey":"sIhxfx02EB","mapKeyChain":"sIhxfx02EB","guideID":"zFvFbi2I9","parentFragmentID":"zFvFff26K","chartKey":"sIhxfx02EB","isLeaf":true,"options":[]} -->
+
+<h3 id="using-variables">Using Variables</h3>
+
+<p>Variables in <a href="https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler">Docs Assembler</a> allow you to define reusable pieces of text or markdown in one place and reference them throughout your documentation.</p>
+
+<h5 id="defining-a-variable">Defining a Variable</h5>
+
+<p>Variables are defined in special variable files, which use the <em>.tsvar</em> file extension. When the <a href="https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler">Docs Assembler</a> extension is installed, <a href="https://code.visualstudio.com/">Visual Studio Code</a> will recognize these files and provide syntax highlighting and IntelliSense as if they were standard Markdown.</p>
+
+<p>The syntax for defining a variable is straightforward. For a single line:</p>
+
+<p><a href="/_site/assets/images/VariableDefinitionInline.png"><img class="nt-fr-small-image" src="/_site/assets/images/VariableDefinitionInline.png" /></a></p>
+
+<p>e.g. 
+<a href="/_site/assets/images/GardenLink.png"><img class="nt-fr-small-image" src="/_site/assets/images/GardenLink.png" /></a></p>
+
+<p>For a multi-line variable, such as a detailed note, you encapsulate the content:</p>
+
+<p><a href="/_site/assets/images/VariableDefinitionMultline.png"><img class="nt-fr-small-image" src="/_site/assets/images/VariableDefinitionMultline.png" /></a></p>
+
+<p>e.g. 
+<a href="/_site/assets/images/SafetyNode.png"><img class="nt-fr-small-image" src="/_site/assets/images/SafetyNode.png" /></a></p>
+
+<h5 id="using-a-variable">Using a Variable</h5>
+
+<p>To use a variable, you must first import the file it is defined in. You can assign any convenient alias to the file during import.</p>
+
+<h6 id="1-import-the-variable-file">1. Import the variable file</h6>
+<p>At the very top of your map or step file. 
+Use the syntax:</p>
+
+<p><a href="/_site/assets/images/ImportFileAlias.png"><img class="nt-fr-small-image" src="/_site/assets/images/ImportFileAlias.png" /></a></p>
+
+<p>e.g.
+<a href="/_site/assets/images/ImportStatements.png"><img class="nt-fr-small-image" src="/_site/assets/images/ImportStatements.png" /></a></p>
+
+<h6 id="2-reference-any-variable">2. Reference any variable</h6>
+<p>From the imported file wherever you want the content to appear, using the syntax:</p>
+
+<p><a href="/_site/assets/images/FileAlias.png"><img class="nt-fr-small-image" src="/_site/assets/images/FileAlias.png" /></a></p>
+
+<p>e.g.
+<a href="/_site/assets/images/InstallationDiagram.png"><img class="nt-fr-small-image" src="/_site/assets/images/InstallationDiagram.png" /></a></p>
+
+<p>During the publish process, <a href="https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler">Docs Assembler</a> will automatically replace every {{file_alias.variable_name}} reference with the value defined in the variable file.</p>
+

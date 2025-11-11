@@ -1,0 +1,60 @@
+{
+    "key": "yAWRuc00tU  ",
+    "token": "Balconydill",
+    "name": "BalconyDill",
+    "created": "2025-10-31T00:04:27.074Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ BalconyDill/BalconyDill.tspod",
+    "isPod": true,
+    "iText": "Link to 'BalconyDill'",
+    "___rΩΩt___": {
+        "key": "yAWTF900xR",
+        "nodes": [
+            {
+                "key": "yAWVf101R6",
+                "order": 1,
+                "option": "Frond-Flash - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yAWfjo01QM",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yAWieQ020K",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yAWTF900xR",
+            "relativePath": "./δ steps/δ-yAWTF900xR.tsstp"
+        },
+        {
+            "key": "δ-yAWVf101R6",
+            "relativePath": "./δ steps/δ-yAWVf101R6.tsstp"
+        },
+        {
+            "key": "δ-yAWfjo01QM",
+            "relativePath": "./δ steps/δ-yAWfjo01QM.tsstp"
+        },
+        {
+            "key": "δ-yAWieQ020K",
+            "relativePath": "./δ steps/δ-yAWieQ020K.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAWo1M02O6",
+        "editorID": "car_4645a013fafd47e88f10985d9fa4e414",
+        "ticks": 1761869152060
+    }
+}

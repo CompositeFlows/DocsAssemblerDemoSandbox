@@ -1,0 +1,60 @@
+{
+    "key": "yASNs900K9  ",
+    "token": "Lemonbalm",
+    "name": "LemonBalm",
+    "created": "2025-10-30T23:48:18.233Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ LemonBalm/LemonBalm.tspod",
+    "isPod": true,
+    "iText": "Link to 'LemonBalm'",
+    "___rΩΩt___": {
+        "key": "yASPWz01MH",
+        "nodes": [
+            {
+                "key": "yASUa901Z5",
+                "order": 1,
+                "option": "Citro-Edge - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yAScDz01LZ",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yASg4m01xg",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yASPWz01MH",
+            "relativePath": "./δ steps/δ-yASPWz01MH.tsstp"
+        },
+        {
+            "key": "δ-yASUa901Z5",
+            "relativePath": "./δ steps/δ-yASUa901Z5.tsstp"
+        },
+        {
+            "key": "δ-yAScDz01LZ",
+            "relativePath": "./δ steps/δ-yAScDz01LZ.tsstp"
+        },
+        {
+            "key": "δ-yASg4m01xg",
+            "relativePath": "./δ steps/δ-yASg4m01xg.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yASlE300nS",
+        "editorID": "car_da8e848eb5954bbbbbc9fac901d61e02",
+        "ticks": 1761868188003
+    }
+}

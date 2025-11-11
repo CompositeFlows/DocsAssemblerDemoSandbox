@@ -1,0 +1,60 @@
+{
+    "key": "yKTq5Y01gj  ",
+    "token": "Babybeetruby2",
+    "name": "BabyBeetRuby2",
+    "created": "2025-11-01T16:56:48.385Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/RootsAndStems/Ξ BabyBeetRuby2/BabyBeetRuby2.tspod",
+    "isPod": true,
+    "iText": "Link to 'BabyBeetRuby2'",
+    "___rΩΩt___": {
+        "key": "yKTsIK02OM",
+        "nodes": [
+            {
+                "key": "yKTuWB01Wf",
+                "order": 1,
+                "option": "Ruby 2 - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKU0CD01xn",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKU32w01bD",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKTsIK02OM",
+            "relativePath": "./δ steps/δ-yKTsIK02OM.tsstp"
+        },
+        {
+            "key": "δ-yKTuWB01Wf",
+            "relativePath": "./δ steps/δ-yKTuWB01Wf.tsstp"
+        },
+        {
+            "key": "δ-yKU0CD01xn",
+            "relativePath": "./δ steps/δ-yKU0CD01xn.tsstp"
+        },
+        {
+            "key": "δ-yKU32w01bD",
+            "relativePath": "./δ steps/δ-yKU32w01bD.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKUGU500Py",
+        "editorID": "car_bb2507c4c0c143c19e7256dc962371f0",
+        "ticks": 1762016309849
+    }
+}

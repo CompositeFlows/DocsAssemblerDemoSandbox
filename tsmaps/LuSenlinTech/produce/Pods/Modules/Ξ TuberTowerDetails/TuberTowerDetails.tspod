@@ -1,0 +1,59 @@
+{
+    "key": "xmKRbi0022  ",
+    "token": "Tubertowerdetails",
+    "name": "TuberTowerDetails",
+    "created": "2025-10-26T20:46:13.903Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ TuberTowerDetails/TuberTowerDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'TuberTowerDetails'",
+    "___rΩΩt___": {
+        "key": "xmKfRS01BL",
+        "nodes": [
+            {
+                "key": "xmLd9R01Qn",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xybwiS01RH",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xybxyb01Dp",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xmKfRS01BL",
+            "relativePath": "./δ steps/δ-xmKfRS01BL.tsstp"
+        },
+        {
+            "key": "δ-xmLd9R01Qn",
+            "relativePath": "./δ steps/δ-xmLd9R01Qn.tsstp"
+        },
+        {
+            "key": "δ-xybwiS01RH",
+            "relativePath": "./δ steps/δ-xybwiS01RH.tsstp"
+        },
+        {
+            "key": "δ-xybxyb01Dp",
+            "relativePath": "./δ steps/δ-xybxyb01Dp.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y1Ocov0171",
+        "editorID": "car_42f483e705f846bd8a67ff6f25db03bf",
+        "ticks": 1761734215357
+    }
+}

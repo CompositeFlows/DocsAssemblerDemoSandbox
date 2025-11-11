@@ -1,0 +1,60 @@
+{
+    "key": "yANXIy018g  ",
+    "token": "Purpleholybasilduo",
+    "name": "PurpleHolyBasilDuo",
+    "created": "2025-10-30T23:29:02.852Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ PurpleHolyBasilDuo/PurpleHolyBasilDuo.tspod",
+    "isPod": true,
+    "iText": "Link to 'PurpleHolyBasilDuo'",
+    "___rΩΩt___": {
+        "key": "yANZx702Q7",
+        "nodes": [
+            {
+                "key": "yANfmZ011g",
+                "order": 1,
+                "option": "Purple Holy Basil Duo - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yANpus01nE",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yANtTO02T6",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yANZx702Q7",
+            "relativePath": "./δ steps/δ-yANZx702Q7.tsstp"
+        },
+        {
+            "key": "δ-yANfmZ011g",
+            "relativePath": "./δ steps/δ-yANfmZ011g.tsstp"
+        },
+        {
+            "key": "δ-yANpus01nE",
+            "relativePath": "./δ steps/δ-yANpus01nE.tsstp"
+        },
+        {
+            "key": "δ-yANtTO02T6",
+            "relativePath": "./δ steps/δ-yANtTO02T6.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAO1Q401Lz",
+        "editorID": "car_04946bbe33ea44a9814a3778b097ba25",
+        "ticks": 1761867058612
+    }
+}

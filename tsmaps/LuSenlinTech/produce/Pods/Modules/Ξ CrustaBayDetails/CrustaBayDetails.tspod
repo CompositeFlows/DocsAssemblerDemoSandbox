@@ -1,0 +1,59 @@
+{
+    "key": "xrUw0s01Ez  ",
+    "token": "Crustabaydetails",
+    "name": "CrustaBayDetails",
+    "created": "2025-10-27T17:59:15.742Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ CrustaBayDetails/CrustaBayDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'CrustaBayDetails'",
+    "___rΩΩt___": {
+        "key": "xrUysA02Ly",
+        "nodes": [
+            {
+                "key": "xrV6rf01iQ",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy1erj00br",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy1gXl01aX",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xrUysA02Ly",
+            "relativePath": "./δ steps/δ-xrUysA02Ly.tsstp"
+        },
+        {
+            "key": "δ-xrV6rf01iQ",
+            "relativePath": "./δ steps/δ-xrV6rf01iQ.tsstp"
+        },
+        {
+            "key": "δ-xy1erj00br",
+            "relativePath": "./δ steps/δ-xy1erj00br.tsstp"
+        },
+        {
+            "key": "δ-xy1gXl01aX",
+            "relativePath": "./δ steps/δ-xy1gXl01aX.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xy1pah028y",
+        "editorID": "car_78388429f58e4b9a9bdb2119a871533e",
+        "ticks": 1761684453895
+    }
+}

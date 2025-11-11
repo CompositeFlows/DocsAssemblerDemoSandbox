@@ -1,0 +1,5 @@
+¬import smt from "./soloModulesTable"
+
+
+{{smt.finWaveRow}}
+{: .nt-fr-columns}

@@ -1,0 +1,82 @@
+{
+    "v": "1",
+    "r": {
+        "i": "zFvFuA29P",
+        "n": "yjFk09012A",
+        "c": 0,
+        "o": [
+            {
+                "i": "zFvFuA1Ku",
+                "n": "yjGKFK02I3",
+                "x": "s7LPr60ZH",
+                "c": 1,
+                "o": [
+                    {
+                        "i": "zFvFuF1sm",
+                        "n": "yjGbkV00yL",
+                        "x": "s7LPoO19j",
+                        "c": 2,
+                        "o": [
+                            {
+                                "i": "zFvFuh1s2",
+                                "n": "yjGsUW014q",
+                                "x": "s7SMOZ0VN",
+                                "c": 3
+                            }
+                        ]
+                    },
+                    {
+                        "i": "zFvFv01A1",
+                        "n": "yjGbkW01ER",
+                        "x": "s7LPoO04R",
+                        "c": 2,
+                        "o": [
+                            {
+                                "i": "zFvFvC1SJ",
+                                "n": "yjH5Sr00A7",
+                                "x": "s7SMOZ0VN",
+                                "c": 3
+                            }
+                        ]
+                    },
+                    {
+                        "i": "zFvFvY1VS",
+                        "n": "yjGbkW02WR",
+                        "x": "s7LPoO2Y3",
+                        "c": 2,
+                        "o": [
+                            {
+                                "i": "zFvFvm0xl",
+                                "n": "yjHJza00WV",
+                                "x": "s7SMOZ0VN",
+                                "c": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "c": [
+        {
+            "i": "s7LPr60IG",
+            "p": "LuSenlinTech/climate/Climate_frags"
+        },
+        {
+            "i": "s7LPoO1sh",
+            "p": "LuSenlinTech/preferences/ClientEffort_frags"
+        },
+        {
+            "i": "s7SMOZ0AN",
+            "p": "LuSenlinTech/equipment/FrameTower_frags"
+        },
+        {
+            "i": "yd9vwR005i",
+            "p": "Technical/Conclusion_frags"
+        }
+    ],
+    "e": 0,
+    "mv": {
+        "spaceDisplayText": "space"
+    }
+}

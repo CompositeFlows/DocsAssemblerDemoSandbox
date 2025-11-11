@@ -1,0 +1,60 @@
+{
+    "key": "yUre5o02AR  ",
+    "token": "Macrobrachiumgiantprawnjr",
+    "name": "MacrobrachiumGiantPrawnJr",
+    "created": "2025-11-03T11:34:05.504Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Crustaceans/Ξ MacrobrachiumGiantPrawnJr/MacrobrachiumGiantPrawnJr.tspod",
+    "isPod": true,
+    "iText": "Link to 'MacrobrachiumGiantPrawnJr'",
+    "___rΩΩt___": {
+        "key": "yUrggB01nc",
+        "nodes": [
+            {
+                "key": "yUrjkQ007p",
+                "order": 1,
+                "option": "Giant Prawn Jr. - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUromX00T7",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUrr2x02IZ",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUrggB01nc",
+            "relativePath": "./δ steps/δ-yUrggB01nc.tsstp"
+        },
+        {
+            "key": "δ-yUrjkQ007p",
+            "relativePath": "./δ steps/δ-yUrjkQ007p.tsstp"
+        },
+        {
+            "key": "δ-yUromX00T7",
+            "relativePath": "./δ steps/δ-yUromX00T7.tsstp"
+        },
+        {
+            "key": "δ-yUrr2x02IZ",
+            "relativePath": "./δ steps/δ-yUrr2x02IZ.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUrvtZ00OL",
+        "editorID": "car_3fbe569cfa9347bfb615b652916f35d4",
+        "ticks": 1762169713937
+    }
+}

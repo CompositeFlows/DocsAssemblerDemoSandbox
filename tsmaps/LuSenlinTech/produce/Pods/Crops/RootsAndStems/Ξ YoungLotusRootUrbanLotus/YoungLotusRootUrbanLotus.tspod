@@ -1,0 +1,60 @@
+{
+    "key": "yKXNWc00FO  ",
+    "token": "Younglotusrooturbanlotus",
+    "name": "YoungLotusRootUrbanLotus",
+    "created": "2025-11-01T17:10:51.898Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/RootsAndStems/Ξ YoungLotusRootUrbanLotus/YoungLotusRootUrbanLotus.tspod",
+    "isPod": true,
+    "iText": "Link to 'YoungLotusRootUrbanLotus'",
+    "___rΩΩt___": {
+        "key": "yKXREE008z",
+        "nodes": [
+            {
+                "key": "yKXToG00tU",
+                "order": 1,
+                "option": "Urban Lotus - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKXZJk008w",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKXbxC00OT",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKXREE008z",
+            "relativePath": "./δ steps/δ-yKXREE008z.tsstp"
+        },
+        {
+            "key": "δ-yKXToG00tU",
+            "relativePath": "./δ steps/δ-yKXToG00tU.tsstp"
+        },
+        {
+            "key": "δ-yKXZJk008w",
+            "relativePath": "./δ steps/δ-yKXZJk008w.tsstp"
+        },
+        {
+            "key": "δ-yKXbxC00OT",
+            "relativePath": "./δ steps/δ-yKXbxC00OT.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKXfgJ02HW",
+        "editorID": "car_abbac53f32b04e568469c633c7c726cf",
+        "ticks": 1762017121691
+    }
+}

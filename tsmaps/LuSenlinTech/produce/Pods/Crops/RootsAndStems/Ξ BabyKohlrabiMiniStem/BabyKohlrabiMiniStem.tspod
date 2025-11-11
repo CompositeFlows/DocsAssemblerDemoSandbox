@@ -1,0 +1,60 @@
+{
+    "key": "yKYTzM02F3  ",
+    "token": "Babykohlrabiministem",
+    "name": "BabyKohlrabiMiniStem",
+    "created": "2025-11-01T17:15:15.072Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/RootsAndStems/Ξ BabyKohlrabiMiniStem/BabyKohlrabiMiniStem.tspod",
+    "isPod": true,
+    "iText": "Link to 'BabyKohlrabiMiniStem'",
+    "___rΩΩt___": {
+        "key": "yKYWQD00XP",
+        "nodes": [
+            {
+                "key": "yKYYMg01hj",
+                "order": 1,
+                "option": "Mini Stem - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKYe4O01nL",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKYiYz01EB",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKYWQD00XP",
+            "relativePath": "./δ steps/δ-yKYWQD00XP.tsstp"
+        },
+        {
+            "key": "δ-yKYYMg01hj",
+            "relativePath": "./δ steps/δ-yKYYMg01hj.tsstp"
+        },
+        {
+            "key": "δ-yKYe4O01nL",
+            "relativePath": "./δ steps/δ-yKYe4O01nL.tsstp"
+        },
+        {
+            "key": "δ-yKYiYz01EB",
+            "relativePath": "./δ steps/δ-yKYiYz01EB.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKYndu01ku",
+        "editorID": "car_c9ff2820d5e746e9bc0e1699c1c4285d",
+        "ticks": 1762017390622
+    }
+}

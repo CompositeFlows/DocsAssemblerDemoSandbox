@@ -1,0 +1,60 @@
+{
+    "key": "yFoCR800N8  ",
+    "token": "Skylineromaine",
+    "name": "SkylineRomaine",
+    "created": "2025-10-31T21:46:19.171Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/LeafyGreens/Ξ SkylineRomaine/SkylineRomaine.tspod",
+    "isPod": true,
+    "iText": "Link to 'SkylineRomaine'",
+    "___rΩΩt___": {
+        "key": "yFoEKT00rY",
+        "nodes": [
+            {
+                "key": "yFoJHC01sS",
+                "order": 1,
+                "option": "Skyline Romaine - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yFoSCl00UL",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yFoYnO02Do",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yFoEKT00rY",
+            "relativePath": "./δ steps/δ-yFoEKT00rY.tsstp"
+        },
+        {
+            "key": "δ-yFoJHC01sS",
+            "relativePath": "./δ steps/δ-yFoJHC01sS.tsstp"
+        },
+        {
+            "key": "δ-yFoSCl00UL",
+            "relativePath": "./δ steps/δ-yFoSCl00UL.tsstp"
+        },
+        {
+            "key": "δ-yFoYnO02Do",
+            "relativePath": "./δ steps/δ-yFoYnO02Do.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yFoh5Y00pi",
+        "editorID": "car_ed9352bc239342cfb0be6b4e3352b198",
+        "ticks": 1761947296996
+    }
+}

@@ -1,0 +1,15 @@
+¬import il from "../../shared/imageLinks"
+¬import el from "../../shared/externalLinks"
+¬import euh from "../_shared/ExploreUnderTheHood"
+
+
+### How This Page Was Built
+
+The image below shows the step **'{{euh.howItWorksTitle}}'** being edited within {{el.vscode_link}} using the {{el.docsAssemblerExtension_link}} extension.
+
+*   **Left (File Explorer):** The *DocumentationHell.tsmap* file is selected, showing the map's structure.
+*   **Center (Map View):** The step **'{{euh.howItWorksTitle}}'** is selected in the Map Editor.
+*   **Right (Markdown Editor):** The content of the step is open for editing.
+
+{{il.howItWorks_image}}
+

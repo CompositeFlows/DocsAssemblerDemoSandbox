@@ -1,0 +1,60 @@
+{
+    "key": "y4a2qP01yM  ",
+    "token": "Azollanitrofernnano",
+    "name": "AzollaNitroFernNano",
+    "created": "2025-10-29T23:41:06.009Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/AquaticPlants/Ξ AzollaNitroFernNano/AzollaNitroFernNano.tspod",
+    "isPod": true,
+    "iText": "Link to 'AzollaNitroFernNano'",
+    "___rΩΩt___": {
+        "key": "y4aAkA00LJ",
+        "nodes": [
+            {
+                "key": "y4aOts00xK",
+                "order": 1,
+                "option": "Azolla - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y4aU5301h4",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y4anAI017Q",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y4aAkA00LJ",
+            "relativePath": "./δ steps/δ-y4aAkA00LJ.tsstp"
+        },
+        {
+            "key": "δ-y4aOts00xK",
+            "relativePath": "./δ steps/δ-y4aOts00xK.tsstp"
+        },
+        {
+            "key": "δ-y4aU5301h4",
+            "relativePath": "./δ steps/δ-y4aU5301h4.tsstp"
+        },
+        {
+            "key": "δ-y4anAI017Q",
+            "relativePath": "./δ steps/δ-y4anAI017Q.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQ8CHU1fU",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1762099708492
+    }
+}

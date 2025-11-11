@@ -1,0 +1,60 @@
+{
+    "key": "yQA18x006i  ",
+    "token": "Borageskyblue",
+    "name": "BorageSkyBlue",
+    "created": "2025-11-02T16:15:42.335Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ BorageSkyBlue/BorageSkyBlue.tspod",
+    "isPod": true,
+    "iText": "Link to 'BorageSkyBlue'",
+    "___rΩΩt___": {
+        "key": "yQA6C90135",
+        "nodes": [
+            {
+                "key": "yQA8oy006u",
+                "order": 1,
+                "option": "Sky-Blue - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQAEf801GO",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQAHD800Av",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQA6C90135",
+            "relativePath": "./δ steps/δ-yQA6C90135.tsstp"
+        },
+        {
+            "key": "δ-yQA8oy006u",
+            "relativePath": "./δ steps/δ-yQA8oy006u.tsstp"
+        },
+        {
+            "key": "δ-yQAEf801GO",
+            "relativePath": "./δ steps/δ-yQAEf801GO.tsstp"
+        },
+        {
+            "key": "δ-yQAHD800Av",
+            "relativePath": "./δ steps/δ-yQAHD800Av.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQAN4P004H",
+        "editorID": "car_c096c5eb84b64708825e7f16ae136b12",
+        "ticks": 1762100226621
+    }
+}

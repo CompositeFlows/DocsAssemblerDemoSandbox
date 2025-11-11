@@ -1,0 +1,60 @@
+{
+    "key": "y4erlw01XD  ",
+    "token": "Microkelpbabykombu",
+    "name": "MicroKelpBabyKombu",
+    "created": "2025-10-30T00:00:15.088Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Ξ MicroKelpBabyKombu/MicroKelpBabyKombu.tspod",
+    "isPod": true,
+    "iText": "Link to 'MicroKelpBabyKombu'",
+    "___rΩΩt___": {
+        "key": "y4eyRc00iM",
+        "nodes": [
+            {
+                "key": "y4f02j02Qx",
+                "order": 1,
+                "option": "Baby Kombu -  a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y4fB9g02Ja",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y4fJZt017y",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y4eyRc00iM",
+            "relativePath": "./δ steps/δ-y4eyRc00iM.tsstp"
+        },
+        {
+            "key": "δ-y4f02j02Qx",
+            "relativePath": "./δ steps/δ-y4f02j02Qx.tsstp"
+        },
+        {
+            "key": "δ-y4fB9g02Ja",
+            "relativePath": "./δ steps/δ-y4fB9g02Ja.tsstp"
+        },
+        {
+            "key": "δ-y4fJZt017y",
+            "relativePath": "./δ steps/δ-y4fJZt017y.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y4fQqo02OH",
+        "editorID": "car_fae8d836d4e949a09af917b94a026d11",
+        "ticks": 1761782549930
+    }
+}

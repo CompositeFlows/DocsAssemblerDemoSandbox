@@ -1,0 +1,60 @@
+{
+    "key": "yQFkK901hu  ",
+    "token": "Microfenugreekmethimicro",
+    "name": "MicroFenugreekMethiMicro",
+    "created": "2025-11-02T16:38:27.649Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ MicroFenugreekMethiMicro/MicroFenugreekMethiMicro.tspod",
+    "isPod": true,
+    "iText": "Link to 'MicroFenugreekMethiMicro'",
+    "___rΩΩt___": {
+        "key": "yQFnJq02Gb",
+        "nodes": [
+            {
+                "key": "yQFrDM029A",
+                "order": 1,
+                "option": "Methi-Micro - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQFvkk027i",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQFzRe01Ie",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQFnJq02Gb",
+            "relativePath": "./δ steps/δ-yQFnJq02Gb.tsstp"
+        },
+        {
+            "key": "δ-yQFrDM029A",
+            "relativePath": "./δ steps/δ-yQFrDM029A.tsstp"
+        },
+        {
+            "key": "δ-yQFvkk027i",
+            "relativePath": "./δ steps/δ-yQFvkk027i.tsstp"
+        },
+        {
+            "key": "δ-yQFzRe01Ie",
+            "relativePath": "./δ steps/δ-yQFzRe01Ie.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQG3vM01PP",
+        "editorID": "car_e1dbd88fc9b64bb9a6ef7906ca438455",
+        "ticks": 1762101582992
+    }
+}

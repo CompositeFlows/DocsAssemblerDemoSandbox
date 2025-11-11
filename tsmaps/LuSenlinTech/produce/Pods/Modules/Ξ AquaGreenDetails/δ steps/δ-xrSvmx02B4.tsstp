@@ -1,0 +1,23 @@
+¬import tm from "../../../../../_shared/tradeMarks"
+¬import el from "../../../../../../shared/externalLinks"
+
+
+##### How It Works
+
+###### 1. The Live Culture Inoculant
+{{el.luSenLinName}}’s nursery supplies live, active cultures for each aquatic species - from **Duckweed Protein Blend** to **Spirulina Mat ‘BlueCore’**. This selection is ideal because these species thrive in nutrient-rich water, with some floating on the surface and others suspended in the water column, creating a multi-layered production system within a single, compact unit.
+
+###### 2. Hydrodynamic Cultivation in the Module
+Once the culture is introduced to the AquaGreen raceway, {{tm.harvestSageTM}} initiates a specialized aquatic program:
+- The **{{tm.shallowRacewaySwirlFlowControl}}** creates either a gentle laminar flow for floating plants like **Azolla ‘Nitro-Fern Nano’** or a concentrated vortex for mixing **Spirulina** and other micro-algae.
+- The **{{tm.microBubbleColumn}}** maintains dissolved oxygen at ~10 mg L⁻¹, crucial for the health of rooted plants like **Water Spinach ‘Aqua-Morning’** and filter-feeding organisms.
+- The **{{tm.realTimeTurbidityPhSensors}}** continuously monitor algal density and acidity, prompting automatic corrections to maintain optimal growth conditions.
+This hydrodynamic precision allows each species to be grown in its ideal fluid environment, maximizing growth rates and nutritional quality.
+
+###### 3. The Continuous Aquatic Harvest
+The AquaGreen module operates on a continuous production cycle.
+- For surface plants like **Duckweed** and **Frogbit**, the **{{tm.harvestMeshRoller}}** automatically skims, compresses, and de-waters the biomass into tidy discs.
+- For macro-algae like **Red Ogo ‘Metro-Ogo’** and rooted plants, manual harvesting is simple and clean.
+- After each harvest, the **{{tm.autoRemineraliser}}** instantly replenishes chelated nutrients, resetting the water chemistry for the next growth cycle.
+- The system provides a **continuous yield of 80–150g of fresh aquatic biomass per day, depending on species and light conditions.**
+

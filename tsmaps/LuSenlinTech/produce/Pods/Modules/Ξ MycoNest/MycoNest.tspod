@@ -1,0 +1,40 @@
+{
+    "key": "wkMEfW00lE  ",
+    "token": "Myconest",
+    "name": "MycoNest",
+    "created": "2025-10-15T22:11:55.319Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ MycoNest/MycoNest.tspod",
+    "isPod": true,
+    "iText": "Link to 'MycoNest'",
+    "___rΩΩt___": {
+        "key": "wkMFlg013B",
+        "sharedAssetKey": "x4bXRa01Fb",
+        "nodes": [
+            {
+                "key": "wkMJCJ01c8",
+                "order": 1,
+                "option": "MycoNest details",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "xrd0OF01EE"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4bXRa01Fb",
+            "relativePath": "../../../_shared/CategoryTables/MycoNestTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wkMJCJ01c8",
+            "relativePath": "./δ steps/δ-wkMJCJ01c8.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2T6iF04G",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1761750059911
+    }
+}

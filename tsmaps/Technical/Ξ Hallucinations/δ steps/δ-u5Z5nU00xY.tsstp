@@ -1,0 +1,26 @@
+¬import el from "../../../shared/externalLinks"
+
+
+#### What are LLMs?
+
+An **LLM** (Large Language Model) is a type of artificial intelligence that is trained on a massive amount of text data - essentially a significant portion of the internet, including books, articles, and websites.
+
+Think of it as a super-powered, automatic text-prediction engine. Its core function is to understand the patterns, rules, and statistics of human language. When you give it a prompt (a question or instruction), it doesn't "look up" an answer in a database. Instead, it generates a response by predicting the most statistically likely sequence of words that should come next, based on everything it has learned.
+
+#### How do LLMs work? A simple analogy:
+
+Imagine you were asked to complete this sentence: "The best thing about sunshine is..."
+
+Your brain, from a lifetime of experience, would instantly predict endings like "...the warmth" or "...it makes me happy." You're using an internal "model" of language.
+
+An LLM does this on a colossal scale. It has analyzed billions of sentences and learned that certain words very frequently follow others. It uses this knowledge to generate entire paragraphs, translate languages, write code, and answer questions.
+
+#### Key Things to Remember About LLMs:
+
+*   **They are pattern matchers, not knowledge databases.** They are brilliant at mimicking the *form* of correct answers, but they have no inherent understanding of truth or fact.
+*   **Their knowledge is frozen in time.** Their core training only includes data up to a specific point in the past; they lack inherent knowledge of recent events.
+*   **They are probabilistic, not deterministic.** Give the same prompt twice, and you might get two slightly different answers. The output is a product of statistical probability.
+*   **This is why they "hallucinate."** If the most statistically likely word sequence happens to form an incorrect statement, the LLM will generate it with confidence. It has no mechanism to fact-check itself against reality.
+
+**In short:** An LLM is a powerful tool for generating human-like text, but its output is only as reliable as the information that guides it. This is why it must be grounded in a verifiable source of truth - like the structured knowledge you build with {{el.docsAssemblerExtension_link}}.
+

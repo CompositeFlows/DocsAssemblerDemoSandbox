@@ -1,0 +1,14 @@
+¬import el from "../../shared/externalLinks"
+
+
+## Designed for Developers, by Developers
+
+The design of {{el.docsAssemblerExtension_link}} was driven by a fundamental need from teams like {{el.halRobotics_link}}: to have a powerful system that *respects developer workflows and sovereignty*. This isn't just a platform; it's a philosophy built on core principles that will feel immediately right:
+
+*   **Familiarity & Control:** The entire system is built on the tools you already know and trust. Your documentation lives in Git repos, right alongside your code. Content is written in Markdown files, editable in any editor. Structure is defined in JSON files you can view and edit manually.
+*   **Absolute Ownership:** You have physical possession of your documentation. It's your Markdown and JSON in your repo. You are never trapped in a subscription or held ransom by a SaaS platform.
+*   **Zero Lock-In:** This is a critical feature. There are no consequences if you stop using {{el.docsAssemblerExtension_link}}. Since it publishes to standard Markdown, you can uninstall the extension and your documentation is still perfectly usable, editable, and ready for any other static site generator. Your content is always yours.
+*   **Seamless Publishing:** It’s designed to publish directly to {{el.githubPages_link}}, a platform developers already understand. Even Liquid scripts embedded in your Markdown work as expected.
+*   **Built to Scale:** Like classes break down massive software systems, {{el.docsAssemblerPossessiveExtension_link}} modules are designed to decompose enormous documentation sets into manageable, distributable units that different teams can own.
+*   **Engineering Rigour:** It brings true software tooling to docs, with IntelliSense for variables, full validation before publish, and automatic handling of relative URLs that are defined as variables. This ensures any local files referenced by these URL variables are automatically discovered and copied to the publish folder, preventing broken links and ensuring robustness.
+

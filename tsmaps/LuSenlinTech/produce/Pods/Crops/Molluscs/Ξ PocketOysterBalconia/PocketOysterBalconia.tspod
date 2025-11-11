@@ -1,0 +1,60 @@
+{
+    "key": "yUuUre00Pd  ",
+    "token": "Pocketoysterbalconia",
+    "name": "PocketOysterBalconia",
+    "created": "2025-11-03T11:45:25.015Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Molluscs/Ξ PocketOysterBalconia/PocketOysterBalconia.tspod",
+    "isPod": true,
+    "iText": "Link to 'PocketOysterBalconia'",
+    "___rΩΩt___": {
+        "key": "yUuX3J01Wd",
+        "nodes": [
+            {
+                "key": "yUuZxJ00KU",
+                "order": 1,
+                "option": "Balconia - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUutuf00k2",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUuxMu009J",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUuX3J01Wd",
+            "relativePath": "./δ steps/δ-yUuX3J01Wd.tsstp"
+        },
+        {
+            "key": "δ-yUuZxJ00KU",
+            "relativePath": "./δ steps/δ-yUuZxJ00KU.tsstp"
+        },
+        {
+            "key": "δ-yUutuf00k2",
+            "relativePath": "./δ steps/δ-yUutuf00k2.tsstp"
+        },
+        {
+            "key": "δ-yUuxMu009J",
+            "relativePath": "./δ steps/δ-yUuxMu009J.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUv0sB02I7",
+        "editorID": "car_e49a86af7f4043d0bea4ae16c3a06ccc",
+        "ticks": 1762170448055
+    }
+}

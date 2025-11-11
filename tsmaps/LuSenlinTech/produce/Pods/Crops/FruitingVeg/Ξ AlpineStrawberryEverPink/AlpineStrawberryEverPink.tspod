@@ -1,0 +1,60 @@
+{
+    "key": "yKPBrN00kI  ",
+    "token": "Alpinestrawberryeverpink",
+    "name": "AlpineStrawberryEverPink",
+    "created": "2025-11-01T16:38:20.433Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ AlpineStrawberryEverPink/AlpineStrawberryEverPink.tspod",
+    "isPod": true,
+    "iText": "Link to 'AlpineStrawberryEverPink'",
+    "___rΩΩt___": {
+        "key": "yKPE8Q01WE",
+        "nodes": [
+            {
+                "key": "yKPFhe02Wu",
+                "order": 1,
+                "option": "EverPink - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKPOe4015A",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKPSPe02I8",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKPE8Q01WE",
+            "relativePath": "./δ steps/δ-yKPE8Q01WE.tsstp"
+        },
+        {
+            "key": "δ-yKPFhe02Wu",
+            "relativePath": "./δ steps/δ-yKPFhe02Wu.tsstp"
+        },
+        {
+            "key": "δ-yKPOe4015A",
+            "relativePath": "./δ steps/δ-yKPOe4015A.tsstp"
+        },
+        {
+            "key": "δ-yKPSPe02I8",
+            "relativePath": "./δ steps/δ-yKPSPe02I8.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKPadl00Je",
+        "editorID": "car_540ebad1c43544bab4cc1dde4cc895ce",
+        "ticks": 1762015195689
+    }
+}

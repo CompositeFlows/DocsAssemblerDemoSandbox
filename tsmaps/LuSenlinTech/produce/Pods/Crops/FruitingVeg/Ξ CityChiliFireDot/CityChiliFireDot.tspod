@@ -1,0 +1,60 @@
+{
+    "key": "yIjVPO00TV  ",
+    "token": "Citychilifiredot",
+    "name": "CityChiliFireDot",
+    "created": "2025-11-01T09:46:29.467Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ CityChiliFireDot/CityChiliFireDot.tspod",
+    "isPod": true,
+    "iText": "Link to 'CityChiliFireDot'",
+    "___rΩΩt___": {
+        "key": "yIjZ1P011o",
+        "nodes": [
+            {
+                "key": "yIjcPd005O",
+                "order": 1,
+                "option": "FireDot - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yIjiIC02IM",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yIjloK00go",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yIjZ1P011o",
+            "relativePath": "./δ steps/δ-yIjZ1P011o.tsstp"
+        },
+        {
+            "key": "δ-yIjcPd005O",
+            "relativePath": "./δ steps/δ-yIjcPd005O.tsstp"
+        },
+        {
+            "key": "δ-yIjiIC02IM",
+            "relativePath": "./δ steps/δ-yIjiIC02IM.tsstp"
+        },
+        {
+            "key": "δ-yIjloK00go",
+            "relativePath": "./δ steps/δ-yIjloK00go.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yIjq9l01fU",
+        "editorID": "car_cbed793976674a6da203aa1a69c27e0d",
+        "ticks": 1761990469221
+    }
+}

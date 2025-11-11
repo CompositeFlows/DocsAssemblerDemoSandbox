@@ -1,0 +1,13 @@
+¬import el from "../../shared/externalLinks"
+
+
+# Escape Documentation Hell
+
+{{el.docsAssemblerExtension_link}} is a text editor for authoring documentation. It is specifically designed for - eliminating duplication - documenting intricate systems - and complex troubleshooting. All scenarios where traditional documentation fails. 
+
+Text is built from reusable content parts. If you change a part, it updates everywhere. 
+
+There is no lock‑in - it publishes to plain Markdown files, so you can uninstall {{el.docsAssemblerExtension_link}} and continue working with your files as before.
+
+This website is a guide built with {{el.docsAssemblerExtension_link}}. The 'Vertical Kitchen Garden Planner' below, is a component embedded within it to give an idea of the complexity these guides can manage.
+

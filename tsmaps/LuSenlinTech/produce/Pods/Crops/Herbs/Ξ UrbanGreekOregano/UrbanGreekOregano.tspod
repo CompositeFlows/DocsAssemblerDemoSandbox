@@ -1,0 +1,60 @@
+{
+    "key": "yAT0z5018Y  ",
+    "token": "Urbangreekoregano",
+    "name": "UrbanGreekOregano",
+    "created": "2025-10-30T23:50:48.579Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ UrbanGreekOregano/UrbanGreekOregano.tspod",
+    "isPod": true,
+    "iText": "Link to 'UrbanGreekOregano'",
+    "___rΩΩt___": {
+        "key": "yAT37A02Vj",
+        "nodes": [
+            {
+                "key": "yAT5hu00B5",
+                "order": 1,
+                "option": "OG-35 - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yATDWl00VB",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yATGGF01By",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yAT37A02Vj",
+            "relativePath": "./δ steps/δ-yAT37A02Vj.tsstp"
+        },
+        {
+            "key": "δ-yAT5hu00B5",
+            "relativePath": "./δ steps/δ-yAT5hu00B5.tsstp"
+        },
+        {
+            "key": "δ-yATDWl00VB",
+            "relativePath": "./δ steps/δ-yATDWl00VB.tsstp"
+        },
+        {
+            "key": "δ-yATGGF01By",
+            "relativePath": "./δ steps/δ-yATGGF01By.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yAYtlU00eC",
+        "editorID": "car_5376d0685b814633965a09862f474be6",
+        "ticks": 1761869650796
+    }
+}

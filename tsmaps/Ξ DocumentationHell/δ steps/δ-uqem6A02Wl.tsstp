@@ -1,0 +1,13 @@
+¬import el from "../../shared/externalLinks"
+
+
+### Explore a {{el.docsAssemblerName}} Solution - with Technical Commentary
+
+Consider a large software platform, like a cloud service or a video editing suite. Its long-term success depends on a single critical factor: maintainability - the ability to modify, update, and fix it with minimal effort, cost, and risk.
+
+A highly maintainable system is like a well-organised workshop: any tool is easy to find, and adding a new one is simple. A system with poor maintainability is a tangled pile of cables, making every change a high-stakes gamble you wish you could avoid.
+
+The key to ease of upkeep is the **Single Source of Truth** principle. Instead of duplicating code, you define a component - e.g., a class, method, or constant - in one place and reuse it everywhere. Change it once, and the update propagates across the entire system instantly.
+
+In short, maintainability is about building for change. It's the difference between creating a fragile monument that crumbles at the first edit and creating a resilient, living system that evolves effortlessly with your needs.
+

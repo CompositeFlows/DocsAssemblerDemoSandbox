@@ -1,0 +1,22 @@
+¬import tm from "../../../../../_shared/tradeMarks"
+¬import el from "../../../../../../shared/externalLinks"
+
+
+##### How It Works
+
+###### 1. The Fingerling Stock
+{{el.luSenLinName}}’s hatchery supplies juvenile fish (fingerlings), carefully acclimated to closed-system life. This diverse selection - from the tranquil **Herbivore Goldfish ‘FoodFin’** to the current-loving **Dwarf Rainbow Trout ‘CoolStream’** - is ideal because the system's morphing nature can be perfectly tailored to the specific behavioural and physiological needs of each species.
+
+###### 2. Hydro-Adaptive Cultivation in the Module
+Once the fingerlings are introduced to the FinWave tank, {{tm.harvestSageTM}} initiates a species-specific program:
+- The **{{tm.laminarFlowOvalTank}}** uses its variable impellers to create anything from gentle koi-pond ripples for **Nano Carp ‘Silver Byte’** to strong trout-stream currents for exercise and oxygenation.
+- The **{{tm.movingBedNitrificationCartridge}}** ensures water quality, with floating bio-media tumbling in an aerated chamber to convert toxic ammonia into nitrate.
+- For cold-water species like **Dwarf Rainbow Trout ‘CoolStream’**, the **{{tm.thermoelectricPlateChiller}}** actively lowers and maintains the water temperature to a chilly 12°C.
+This hydro-adaptive approach minimizes stress by providing a familiar environment, which is fundamental to achieving healthy growth rates and superior flesh quality in a compact system.
+
+###### 3. The Selective Harvest
+The FinWave is designed for flexible harvesting that suits your needs.
+- Using **{{tm.appSelectableHarvestModes}}**, you can choose a bulk harvest or a staggered "catch-your-dinner" approach.
+- The **{{tm.smartNetGuide}}** gently herds selected fish into a front catch pocket for a low-stress capture, preserving the quality of the remaining stock.
+- The system provides a **yield of 1–1.5 kg of fresh, high-quality fish per full production cycle.**
+

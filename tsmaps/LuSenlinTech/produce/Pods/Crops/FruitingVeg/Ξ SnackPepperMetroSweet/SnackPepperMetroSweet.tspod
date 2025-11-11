@@ -1,0 +1,60 @@
+{
+    "key": "yIiYh601iC  ",
+    "token": "Snackpeppermetrosweet",
+    "name": "SnackPepperMetroSweet",
+    "created": "2025-11-01T09:42:43.769Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ SnackPepperMetroSweet/SnackPepperMetroSweet.tspod",
+    "isPod": true,
+    "iText": "Link to 'SnackPepperMetroSweet'",
+    "___rΩΩt___": {
+        "key": "yIibMR01pU",
+        "nodes": [
+            {
+                "key": "yIidp702KB",
+                "order": 1,
+                "option": "Metro-Sweet - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yIimtk01l6",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yIirJx01FD",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yIibMR01pU",
+            "relativePath": "./δ steps/δ-yIibMR01pU.tsstp"
+        },
+        {
+            "key": "δ-yIidp702KB",
+            "relativePath": "./δ steps/δ-yIidp702KB.tsstp"
+        },
+        {
+            "key": "δ-yIimtk01l6",
+            "relativePath": "./δ steps/δ-yIimtk01l6.tsstp"
+        },
+        {
+            "key": "δ-yIirJx01FD",
+            "relativePath": "./δ steps/δ-yIirJx01FD.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yIiwK902AG",
+        "editorID": "car_07d9c65b4978404782b126896086861a",
+        "ticks": 1761990254601
+    }
+}

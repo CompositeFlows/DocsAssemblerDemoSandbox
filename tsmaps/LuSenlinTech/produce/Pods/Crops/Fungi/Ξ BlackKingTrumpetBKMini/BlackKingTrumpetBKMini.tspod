@@ -1,0 +1,60 @@
+{
+    "key": "yQKcZC00Lv  ",
+    "token": "Blackkingtrumpetbkmini",
+    "name": "BlackKingTrumpetBKMini",
+    "created": "2025-11-02T16:57:49.471Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ BlackKingTrumpetBKMini/BlackKingTrumpetBKMini.tspod",
+    "isPod": true,
+    "iText": "Link to 'BlackKingTrumpetBKMini'",
+    "___rΩΩt___": {
+        "key": "yQKftU003w",
+        "nodes": [
+            {
+                "key": "yQKiTe01Kq",
+                "order": 1,
+                "option": "BK-Mini - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQKngk00xk",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQKqWk00Ev",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQKftU003w",
+            "relativePath": "./δ steps/δ-yQKftU003w.tsstp"
+        },
+        {
+            "key": "δ-yQKiTe01Kq",
+            "relativePath": "./δ steps/δ-yQKiTe01Kq.tsstp"
+        },
+        {
+            "key": "δ-yQKngk00xk",
+            "relativePath": "./δ steps/δ-yQKngk00xk.tsstp"
+        },
+        {
+            "key": "δ-yQKqWk00Ev",
+            "relativePath": "./δ steps/δ-yQKqWk00Ev.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQKuiM01Gl",
+        "editorID": "car_e13a5808b19948bd8b4f08ff548e95d4",
+        "ticks": 1762102739230
+    }
+}

@@ -1,0 +1,437 @@
+{
+    "key": "wT7bgA0242  ",
+    "token": "Duomodules",
+    "name": "DuoModules",
+    "created": "2025-10-12T23:27:11.139Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Ξ DuoModules/DuoModules.tsmap",
+    "iText": "Link to 'DuoModules'",
+    "iExits": [
+        {
+            "key": "wTGaAV00qB",
+            "text": "Exit 1",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wT7eOx01wI",
+        "isHeadless": true,
+        "nodes": [
+            {
+                "key": "wT7k3Q00Zi",
+                "order": 1,
+                "variable": "moduleModel",
+                "class": "split-table",
+                "nodes": [
+                    {
+                        "key": "wT7oQ5020i",
+                        "order": 1,
+                        "option": "AeroHerb",
+                        "sharedAssetKey": "wtGtLv00Es",
+                        "podKey": "wT8JrY00Sv",
+                        "podText": "Link to 'AeroHerb'",
+                        "nodes": [
+                            {
+                                "key": "wkWxAj00GX",
+                                "order": 1,
+                                "iKey": "wqSrAG00n4",
+                                "nodes": [
+                                    {
+                                        "key": "wqTtUe00bd",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wqTeGi01qL",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "wTGDR001Mc",
+                        "order": 2,
+                        "option": "LeafLift",
+                        "sharedAssetKey": "wtHkVV002A",
+                        "podKey": "wTFT3M01sz",
+                        "podText": "Link to 'LeafLift'",
+                        "nodes": [
+                            {
+                                "key": "wqJJwF009V",
+                                "order": 1,
+                                "iKey": "wsqXK702Nl",
+                                "nodes": [
+                                    {
+                                        "key": "wstnre00Ur",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wss8h901vX",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "wekFZq023a",
+                        "order": 3,
+                        "option": "FruitForge",
+                        "sharedAssetKey": "wtKeqd00Pw",
+                        "podKey": "wekUww017C",
+                        "podText": "Link to 'FruitForge'",
+                        "nodes": [
+                            {
+                                "key": "wtKeSg00OL",
+                                "order": 1,
+                                "iKey": "wtF0Ww02Ne",
+                                "nodes": [
+                                    {
+                                        "key": "wtKrKK01Ss",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wtJUdC01Gg",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "welEZr01uI",
+                        "order": 4,
+                        "option": "RootVault",
+                        "sharedAssetKey": "wtUwOB00E1",
+                        "podKey": "welO3r01ex",
+                        "podText": "Link to 'RootVault'",
+                        "nodes": [
+                            {
+                                "key": "wtUoWg00c9",
+                                "order": 1,
+                                "iKey": "wuSavg1yb",
+                                "nodes": [
+                                    {
+                                        "key": "xCBsWB001z",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wuSavg1Oe",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "wkPIIc028A",
+                        "order": 5,
+                        "option": "TuberTower",
+                        "sharedAssetKey": "wuSMjQ00IJ",
+                        "podKey": "wkPL1J00M3",
+                        "podText": "Link to 'TuberTower'",
+                        "nodes": [
+                            {
+                                "key": "wuSMSF008k",
+                                "order": 1,
+                                "iKey": "wtRvcU00Xt",
+                                "nodes": [
+                                    {
+                                        "key": "wuTPbC00sz",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wtTsxD00hr",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "welvT500gK",
+                        "order": 6,
+                        "option": "StemStack",
+                        "sharedAssetKey": "wtew3m00db",
+                        "podKey": "welyCL01D4",
+                        "podText": "Link to 'StemStack'",
+                        "nodes": [
+                            {
+                                "key": "wtevjV029M",
+                                "order": 1,
+                                "iKey": "wtXSb416v",
+                                "nodes": [
+                                    {
+                                        "key": "wtf2vM00dt",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wtXSb41kM",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "wkKebh01Bx",
+                        "order": 7,
+                        "option": "PetalBloom",
+                        "sharedAssetKey": "wthPY300IL",
+                        "podKey": "wkKS2O015j",
+                        "podText": "Link to 'PetalBloom'",
+                        "nodes": [
+                            {
+                                "key": "wthMjh029w",
+                                "order": 1,
+                                "iKey": "wtfKcq013p",
+                                "nodes": [
+                                    {
+                                        "key": "wthoiv00eJ",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wtgm5X00HJ",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "wkLQIH01Hl",
+                        "order": 8,
+                        "option": "AquaGreen",
+                        "sharedAssetKey": "wu2Kah00xV",
+                        "podKey": "wkLWL000li",
+                        "podText": "Link to 'AquaGreen'",
+                        "nodes": [
+                            {
+                                "key": "wu2ImD01c6",
+                                "order": 1,
+                                "iKey": "wtiaC602KY",
+                                "nodes": [
+                                    {
+                                        "key": "wu2apq02LD",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wtu3Kb02LO",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "wkMBMl01Vd",
+                        "order": 9,
+                        "option": "MycoNest",
+                        "sharedAssetKey": "wuMZ3j012x",
+                        "podKey": "wkMEfW00lE",
+                        "podText": "Link to 'MycoNest'",
+                        "nodes": [
+                            {
+                                "key": "wuMWtr02RW",
+                                "order": 1,
+                                "iKey": "wuNsj11BZ",
+                                "nodes": [
+                                    {
+                                        "key": "xCC8nv01QQ",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wuNsj120p",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "wkMmxr02GP",
+                        "order": 10,
+                        "option": "FungaRoot",
+                        "sharedAssetKey": "wuRHyH02Wt",
+                        "podKey": "wkMzSw001H",
+                        "podText": "Link to 'FungaRoot'",
+                        "nodes": [
+                            {
+                                "key": "wuRHfH01g5",
+                                "order": 1,
+                                "iKey": "wuGYkQ02Xu",
+                                "nodes": [
+                                    {
+                                        "key": "wuRQuA01Sh",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wuHH6D00FW",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "wkO2mg00id",
+                        "order": 11,
+                        "option": "ShellWave",
+                        "sharedAssetKey": "wua5DP00vT",
+                        "podKey": "wkO7nN00Y9",
+                        "podText": "Link to 'ShellWave'",
+                        "nodes": [
+                            {
+                                "key": "wua4wE00XE",
+                                "order": 1,
+                                "iKey": "wuYugT00Mx",
+                                "nodes": [
+                                    {
+                                        "key": "wuaC5m01IT",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wuZNti02E2",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "wkNT1s00hy",
+                        "order": 12,
+                        "option": "GasterPod",
+                        "sharedAssetKey": "wucEVk01vt",
+                        "podKey": "wkNV3B00J5",
+                        "podText": "Link to 'GasterPod'",
+                        "nodes": [
+                            {
+                                "key": "wucEDE00zy",
+                                "order": 1,
+                                "iKey": "wuahkg011M",
+                                "nodes": [
+                                    {
+                                        "key": "wucR5h01rb",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "iExitKey": "wubGs202Bw",
+                                        "exitKey": "wTGaAV00qB"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wT7k3Q00Zi",
+            "relativePath": "./δ steps/δ-wT7k3Q00Zi.tsstp"
+        },
+        {
+            "key": "wtGtLv00Es",
+            "relativePath": "../_shared/AromaticHerbs_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wkWxAj00GX",
+            "relativePath": "./δ steps/δ-wkWxAj00GX.tsstp"
+        },
+        {
+            "key": "wtHkVV002A",
+            "relativePath": "../_shared/LeafyGreens_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wqJJwF009V",
+            "relativePath": "./δ steps/δ-wqJJwF009V.tsstp"
+        },
+        {
+            "key": "wtKeqd00Pw",
+            "relativePath": "../_shared/FruitingVegetables_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtKeSg00OL",
+            "relativePath": "./δ steps/δ-wtKeSg00OL.tsstp"
+        },
+        {
+            "key": "wtUwOB00E1",
+            "relativePath": "../_shared/Roots_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtUoWg00c9",
+            "relativePath": "./δ steps/δ-wtUoWg00c9.tsstp"
+        },
+        {
+            "key": "wtew3m00db",
+            "relativePath": "../_shared/Stems_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtevjV029M",
+            "relativePath": "./δ steps/δ-wtevjV029M.tsstp"
+        },
+        {
+            "key": "wthPY300IL",
+            "relativePath": "../_shared/EdibleFlowers_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wthMjh029w",
+            "relativePath": "./δ steps/δ-wthMjh029w.tsstp"
+        },
+        {
+            "key": "wu2Kah00xV",
+            "relativePath": "../_shared/AquaticPlants_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wu2ImD01c6",
+            "relativePath": "./δ steps/δ-wu2ImD01c6.tsstp"
+        },
+        {
+            "key": "wuMZ3j012x",
+            "relativePath": "../_shared/Mushrooms_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuMWtr02RW",
+            "relativePath": "./δ steps/δ-wuMWtr02RW.tsstp"
+        },
+        {
+            "key": "wuRHyH02Wt",
+            "relativePath": "../_shared/Truffle_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuRHfH01g5",
+            "relativePath": "./δ steps/δ-wuRHfH01g5.tsstp"
+        },
+        {
+            "key": "wuSMjQ00IJ",
+            "relativePath": "../_shared/Tubers_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuSMSF008k",
+            "relativePath": "./δ steps/δ-wuSMSF008k.tsstp"
+        },
+        {
+            "key": "wua5DP00vT",
+            "relativePath": "../_shared/Molluscs_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wua4wE00XE",
+            "relativePath": "./δ steps/δ-wua4wE00XE.tsstp"
+        },
+        {
+            "key": "wucEVk01vt",
+            "relativePath": "../_shared/Snails_m.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wucEDE00zy",
+            "relativePath": "./δ steps/δ-wucEDE00zy.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yLDUIw01FV",
+        "editorID": "car_9d8f158f410b4ae8aa56001cc75d5009",
+        "ticks": 1762027087734
+    }
+}

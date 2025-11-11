@@ -1,0 +1,59 @@
+{
+    "key": "xrd0OF01EE  ",
+    "token": "Myconestdetails",
+    "name": "MycoNestDetails",
+    "created": "2025-10-27T18:31:19.192Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ MycoNestDetails/MycoNestDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'MycoNestDetails'",
+    "___rΩΩt___": {
+        "key": "xrd1uU01c2",
+        "nodes": [
+            {
+                "key": "xrd5ug01BE",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy3aJb00BQ",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy3biY00SA",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xrd1uU01c2",
+            "relativePath": "./δ steps/δ-xrd1uU01c2.tsstp"
+        },
+        {
+            "key": "δ-xrd5ug01BE",
+            "relativePath": "./δ steps/δ-xrd5ug01BE.tsstp"
+        },
+        {
+            "key": "δ-xy3aJb00BQ",
+            "relativePath": "./δ steps/δ-xy3aJb00BQ.tsstp"
+        },
+        {
+            "key": "δ-xy3biY00SA",
+            "relativePath": "./δ steps/δ-xy3biY00SA.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y1OOiB01V0",
+        "editorID": "car_df14d67309ea4caba181cfd772e6be98",
+        "ticks": 1761734161123
+    }
+}

@@ -1,0 +1,22 @@
+¬import tm from "../../../../../_shared/tradeMarks"
+¬import el from "../../../../../../shared/externalLinks"
+
+
+##### How It Works
+
+###### 1. The Post-Larval Inoculant
+{{el.luSenLinName}}’s hatchery supplies post-larval shrimp or juvenile crayfish, carefully graded for size and health. This selection - from **Freshwater Prawn ‘Pearl-King’** to **Mini Crayfish ‘Green-Marble’** - is ideal because these species thrive in the microbial-rich environment of a biofloc system, converting what would be waste into valuable nutrition.
+
+###### 2. Symbiotic Cultivation in the Module
+Once the crustaceans are introduced to the CrustaBay tank, {{tm.harvestSageTM}} initiates a specialized aquaculture program:
+- The **{{tm.bioFlocTM}}** system maintains a dense soup of beneficial microbes that continuously convert ammonia from waste into edible microbial protein, reducing feed requirements by up to 30%.
+- The **{{tm.rotatingDrumFilter}}** automatically and continuously strains solid wastes, maintaining water clarity and preventing the accumulation of toxic compounds.
+- The **{{tm.precisionHeatWaterJacket}}** maintains a stable tropical temperature (±0.2°C), which is crucial for proper molting, growth, and survival of all species, particularly the **Dwarf Redclaw Crayfish ‘Crimson Pinch’**.
+This creates a stable, balanced ecosystem where waste is continuously processed, and the crustaceans have access to a constant, natural food source between feedings.
+
+###### 3. The Selective Harvest
+The CrustaBay is managed for sustainable, continuous harvests.
+- Using **{{tm.appSelectableHarvestModes}}**, you can choose to harvest a few individuals for a meal or perform a larger, staggered harvest.
+- The **{{tm.roboticDipNet}}** or **{{tm.smartNetGuide}}** allows for the stress-free selection and removal of mature individuals, like **Urban Koi ‘Quick-Koi’**, without disturbing the entire population.
+- The system supports a **steady harvest, yielding 150–200g of fresh crustaceans per month from a single tank.**
+

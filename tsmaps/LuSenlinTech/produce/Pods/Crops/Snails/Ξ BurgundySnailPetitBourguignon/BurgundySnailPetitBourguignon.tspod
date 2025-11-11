@@ -1,0 +1,60 @@
+{
+    "key": "yUzIOK00y1  ",
+    "token": "Burgundysnailpetitbourguignon",
+    "name": "BurgundySnailPetitBourguignon",
+    "created": "2025-11-03T12:04:28.708Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Snails/Ξ BurgundySnailPetitBourguignon/BurgundySnailPetitBourguignon.tspod",
+    "isPod": true,
+    "iText": "Link to 'BurgundySnailPetitBourguignon'",
+    "___rΩΩt___": {
+        "key": "yUzKZH00DW",
+        "nodes": [
+            {
+                "key": "yUzM2j00Wh",
+                "order": 1,
+                "option": "Petit Bourguignon - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUzStg00tF",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUzVYi01Jg",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUzKZH00DW",
+            "relativePath": "./δ steps/δ-yUzKZH00DW.tsstp"
+        },
+        {
+            "key": "δ-yUzM2j00Wh",
+            "relativePath": "./δ steps/δ-yUzM2j00Wh.tsstp"
+        },
+        {
+            "key": "δ-yUzStg00tF",
+            "relativePath": "./δ steps/δ-yUzStg00tF.tsstp"
+        },
+        {
+            "key": "δ-yUzVYi01Jg",
+            "relativePath": "./δ steps/δ-yUzVYi01Jg.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUzZCv017i",
+        "editorID": "car_560b097aec2f4614a65a559f39697513",
+        "ticks": 1762171533349
+    }
+}

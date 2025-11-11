@@ -1,0 +1,60 @@
+{
+    "key": "yQK4Zy00j4  ",
+    "token": "Shiitakeurbanlog",
+    "name": "ShiitakeUrbanLog",
+    "created": "2025-11-02T16:55:38.822Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ ShiitakeUrbanLog/ShiitakeUrbanLog.tspod",
+    "isPod": true,
+    "iText": "Link to 'ShiitakeUrbanLog'",
+    "___rΩΩt___": {
+        "key": "yQK6j301uw",
+        "nodes": [
+            {
+                "key": "yQK9EE01xJ",
+                "order": 1,
+                "option": "Urban Log - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQKFR301ds",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQKI4801J8",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQK6j301uw",
+            "relativePath": "./δ steps/δ-yQK6j301uw.tsstp"
+        },
+        {
+            "key": "δ-yQK9EE01xJ",
+            "relativePath": "./δ steps/δ-yQK9EE01xJ.tsstp"
+        },
+        {
+            "key": "δ-yQKFR301ds",
+            "relativePath": "./δ steps/δ-yQKFR301ds.tsstp"
+        },
+        {
+            "key": "δ-yQKI4801J8",
+            "relativePath": "./δ steps/δ-yQKI4801J8.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQKMOm028y",
+        "editorID": "car_8792ee56e2af4c60b18ff9885df12ab5",
+        "ticks": 1762102607320
+    }
+}

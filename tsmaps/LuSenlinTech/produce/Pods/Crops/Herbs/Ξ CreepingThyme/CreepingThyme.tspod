@@ -1,0 +1,60 @@
+{
+    "key": "yATaol0249  ",
+    "token": "Creepingthyme",
+    "name": "CreepingThyme",
+    "created": "2025-10-30T23:53:06.324Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Herbs/Ξ CreepingThyme/CreepingThyme.tspod",
+    "isPod": true,
+    "iText": "Link to 'CreepingThyme'",
+    "___rΩΩt___": {
+        "key": "yATcHS02IY",
+        "nodes": [
+            {
+                "key": "yATekx00SK",
+                "order": 1,
+                "option": "Tiny-Thymus - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yATobF019g",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yATs0D00Ci",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yATcHS02IY",
+            "relativePath": "./δ steps/δ-yATcHS02IY.tsstp"
+        },
+        {
+            "key": "δ-yATekx00SK",
+            "relativePath": "./δ steps/δ-yATekx00SK.tsstp"
+        },
+        {
+            "key": "δ-yATobF019g",
+            "relativePath": "./δ steps/δ-yATobF019g.tsstp"
+        },
+        {
+            "key": "δ-yATs0D00Ci",
+            "relativePath": "./δ steps/δ-yATs0D00Ci.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yATxFE00F2",
+        "editorID": "car_28961673efa44f54ae662b4bbda99b3d",
+        "ticks": 1761868472532
+    }
+}

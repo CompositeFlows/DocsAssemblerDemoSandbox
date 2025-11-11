@@ -1,0 +1,59 @@
+{
+    "key": "xrOJgE00q3  ",
+    "token": "Aquagreendetails",
+    "name": "AquaGreenDetails",
+    "created": "2025-10-27T17:32:58.422Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ AquaGreenDetails/AquaGreenDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'AquaGreenDetails'",
+    "___rΩΩt___": {
+        "key": "xrOMjB010x",
+        "nodes": [
+            {
+                "key": "xrSvmx02B4",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy1OD901Eb",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy1Pag00U9",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xrOMjB010x",
+            "relativePath": "./δ steps/δ-xrOMjB010x.tsstp"
+        },
+        {
+            "key": "δ-xrSvmx02B4",
+            "relativePath": "./δ steps/δ-xrSvmx02B4.tsstp"
+        },
+        {
+            "key": "δ-xy1OD901Eb",
+            "relativePath": "./δ steps/δ-xy1OD901Eb.tsstp"
+        },
+        {
+            "key": "δ-xy1Pag00U9",
+            "relativePath": "./δ steps/δ-xy1Pag00U9.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xy1aKr00W9",
+        "editorID": "car_d35c0ee8bb3e480fac33c1ee14df969f",
+        "ticks": 1761684395253
+    }
+}

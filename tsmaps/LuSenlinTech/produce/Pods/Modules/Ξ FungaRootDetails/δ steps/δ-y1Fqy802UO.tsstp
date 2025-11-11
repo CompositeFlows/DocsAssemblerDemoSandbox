@@ -1,0 +1,20 @@
+¬import g from "../../../../../_shared/glossary"
+¬import c from "../../../../../equipment/_shared/common"
+
+
+##### Technologies  
+
+- {{g.dualKingdomSubstrateCassette}}
+- {{g.precisionHeatRootFilm}}
+- {{g.moistureGradientAeratedColumns}}
+- {{g.uvcOzoneSterilLoop}}
+
+##### Harvest Enhancements
+  
+- {{g.truffleSniffSensor}}
+- {{g.sideEjectDrawer}}
+- {{g.drawerAssistLiftHandle}}
+- {{g.harvestReadyGreenDoorLight}}
+
+{{c.ModuleAvailability_all}}
+

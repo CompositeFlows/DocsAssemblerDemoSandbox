@@ -1,0 +1,60 @@
+{
+    "key": "yUdPEL01nr  ",
+    "token": "Blueniletilapiabluebite",
+    "name": "BlueNileTilapiaBlueBite",
+    "created": "2025-11-03T10:37:31.781Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fish/Ξ BlueNileTilapiaBlueBite/BlueNileTilapiaBlueBite.tspod",
+    "isPod": true,
+    "iText": "Link to 'BlueNileTilapiaBlueBite'",
+    "___rΩΩt___": {
+        "key": "yUdRvc00Ss",
+        "nodes": [
+            {
+                "key": "yUdUJY01Ag",
+                "order": 1,
+                "option": "BlueBite - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUdavs00le",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUdeEg01gH",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUdRvc00Ss",
+            "relativePath": "./δ steps/δ-yUdRvc00Ss.tsstp"
+        },
+        {
+            "key": "δ-yUdUJY01Ag",
+            "relativePath": "./δ steps/δ-yUdUJY01Ag.tsstp"
+        },
+        {
+            "key": "δ-yUdavs00le",
+            "relativePath": "./δ steps/δ-yUdavs00le.tsstp"
+        },
+        {
+            "key": "δ-yUdeEg01gH",
+            "relativePath": "./δ steps/δ-yUdeEg01gH.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUdjJ701VZ",
+        "editorID": "car_dad308c93d4f4c32b1725e164eb45d15",
+        "ticks": 1762166328957
+    }
+}

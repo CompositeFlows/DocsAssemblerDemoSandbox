@@ -1,0 +1,7 @@
+¬import tm from "../../../_shared/tradeMarks"
+
+
+## Power
+
+To ensure reliable operation for your tower's climate control, lighting, and automation, we need to understand your power situation. Please note: if a grid connection isn't available, your Frame Tower will be configured with a **{{tm.solisCellTM}}** power module, providing energy independence for all core systems.
+

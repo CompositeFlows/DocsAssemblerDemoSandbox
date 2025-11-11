@@ -1,0 +1,24 @@
+---
+title: null
+isGuide: true
+mapFolderPath: tsmaps/LuSenlinTech/space/%CE%9E%20Garden
+fragsFolderPath: LuSenlinTech/space/Garden_frags
+
+---
+
+
+<!-- tsGuideRenderComment {"guide":{"id":"zFvFnF15j","path":"LuSenlinTech/space","fragmentFolderPath":"LuSenlinTech/space/Garden_frags"},"fragment":{"id":"zFvFnF15j","topLevelMapKey":"s7LPlH16Y","mapKeyChain":"s7LPlH16Y","guideID":"zFvFnF1Qv","chartKey":"s7LPlH16Y","isLeaf":false,"options":[{"id":"zFvFnd2DW","option":"Has power supply","iExitKey":"s7SMXt1dV","order":1},{"id":"zFvFnq1Si","option":"No power supply","iExitKey":"s7SMXt0Xu","order":2}],"iKey":"s7SMXt0ol"}} -->
+
+## Garden
+
+A private garden offers the ideal foundation for a high-yield vertical farming system, with ample space for expansion and natural light.
+
+To fully leverage your garden's potential, we begin with a complimentary aerial and topographic drone survey. This provides a data-driven blueprint to design a perfectly integrated and resilient food production ecosystem.
+
+The survey will analyze:
+*   **Sunlight & Shadow Mapping:** Creating a full-season model of light patterns to position towers for maximum photosynthetic yield.
+*   **Topography & Drainage:** Modeling the land's contours to ensure optimal water management and prevent pooling.
+*   **Zoning & Workflow:** Planning the layout for efficient harvesting, maintenance paths, and aesthetic harmony with your outdoor space.
+
+This comprehensive analysis allows us to design a system where your **PrecisionHeat™** root zones and irrigation schedules are perfectly calibrated to your specific climate. If your system requires off-grid power, the data will also determine the optimal size and placement for a **HotCarrier™** solar array.
+

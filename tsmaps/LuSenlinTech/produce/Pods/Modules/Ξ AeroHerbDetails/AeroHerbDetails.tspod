@@ -1,0 +1,59 @@
+{
+    "key": "xrK34w01bz  ",
+    "token": "Aeroherbdetails",
+    "name": "AeroHerbDetails",
+    "created": "2025-10-27T17:16:01.294Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ AeroHerbDetails/AeroHerbDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'AeroHerbDetails'",
+    "___rΩΩt___": {
+        "key": "xrK5Hy000P",
+        "nodes": [
+            {
+                "key": "xrKJl100st",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xslHs101Ow",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xslM9o00A0",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xrK5Hy000P",
+            "relativePath": "./δ steps/δ-xrK5Hy000P.tsstp"
+        },
+        {
+            "key": "δ-xrKJl100st",
+            "relativePath": "./δ steps/δ-xrKJl100st.tsstp"
+        },
+        {
+            "key": "δ-xslHs101Ow",
+            "relativePath": "./δ steps/δ-xslHs101Ow.tsstp"
+        },
+        {
+            "key": "δ-xslM9o00A0",
+            "relativePath": "./δ steps/δ-xslM9o00A0.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2Szsy0nY",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1761750033668
+    }
+}

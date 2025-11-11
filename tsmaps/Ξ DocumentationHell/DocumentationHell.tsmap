@@ -1,0 +1,222 @@
+{
+    "key": "sIhxfx02EB  ",
+    "token": "Documentationhell",
+    "name": "DocumentationHell",
+    "created": "2025-08-29T18:47:04.477Z",
+    "list": true,
+    "publishFileName": "DocumentationHell",
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/Ξ DocumentationHell/DocumentationHell.tsmap",
+    "iText": "Link  to 'DocumentationHell' ",
+    "___rΩΩt___": {
+        "key": "sIi16r00h6",
+        "nodes": [
+            {
+                "key": "sYNvVu009z",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "xVSWst01TO",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "u0zrG5006o",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "ul49g902Ww",
+                                        "order": 1,
+                                        "nodes": [
+                                            {
+                                                "key": "u4jl9y01Ic",
+                                                "order": 1,
+                                                "nodes": [
+                                                    {
+                                                        "key": "u4eeh600MG",
+                                                        "order": 1,
+                                                        "option": "Explore a Docs Assembler solution ",
+                                                        "isHeadless": true,
+                                                        "nodes": [
+                                                            {
+                                                                "key": "sPekVJ00fk",
+                                                                "order": 1,
+                                                                "isLeaf": true,
+                                                                "iKey": "u5gguY01On"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "key": "uqem6A02Wl",
+                                                        "order": 2,
+                                                        "option": "Explore a Docs Assembler solution - with tech notes",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "uqeq2100Ph",
+                                                                "order": 1,
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "u4z15g02aS",
+                                                                        "order": 1,
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "u50veA026m",
+                                                                                "order": 1,
+                                                                                "nodes": [
+                                                                                    {
+                                                                                        "key": "u519GF00X2",
+                                                                                        "order": 1,
+                                                                                        "nodes": [
+                                                                                            {
+                                                                                                "key": "u51rKe01DX",
+                                                                                                "order": 1,
+                                                                                                "isLeaf": true,
+                                                                                                "iKey": "u5gguY01On"
+                                                                                            },
+                                                                                            {
+                                                                                                "key": "u4z5G702Xs",
+                                                                                                "order": 2,
+                                                                                                "option": "Show this step...",
+                                                                                                "isAncillary": true,
+                                                                                                "nodes": [
+                                                                                                    {
+                                                                                                        "key": "u4zC7x006Y",
+                                                                                                        "order": 1,
+                                                                                                        "option": "The power of variables",
+                                                                                                        "isAncillary": true,
+                                                                                                        "nodes": [
+                                                                                                            {
+                                                                                                                "key": "u4zYPX00A6",
+                                                                                                                "order": 1,
+                                                                                                                "isLeaf": true
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "key": "u4zf7f0076",
+                                                                                                                "order": 2,
+                                                                                                                "option": "Using variables",
+                                                                                                                "isLeaf": true,
+                                                                                                                "isAncillary": true
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "key": "u5ZOcJ01h6",
+                                                                                        "order": 2,
+                                                                                        "option": "What are hallucinations?",
+                                                                                        "isLeaf": true,
+                                                                                        "isAncillary": true,
+                                                                                        "iKey": "u5Yi1402Vi"
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "key": "v6E9BE01nK",
+                                                                        "order": 2,
+                                                                        "option": "What are decision trees?",
+                                                                        "isLeaf": true,
+                                                                        "isAncillary": true
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-sIi16r00h6",
+            "relativePath": "./δ steps/δ-sIi16r00h6.tsstp"
+        },
+        {
+            "key": "δ-sPekVJ00fk",
+            "relativePath": "./δ steps/δ-sPekVJ00fk.tsstp"
+        },
+        {
+            "key": "δ-sYNvVu009z",
+            "relativePath": "./δ steps/δ-sYNvVu009z.tsstp"
+        },
+        {
+            "key": "δ-u0zrG5006o",
+            "relativePath": "./δ steps/δ-u0zrG5006o.tsstp"
+        },
+        {
+            "key": "δ-u4jl9y01Ic",
+            "relativePath": "./δ steps/δ-u4jl9y01Ic.tsstp"
+        },
+        {
+            "key": "δ-u4z15g02aS",
+            "relativePath": "./δ steps/δ-u4z15g02aS.tsstp"
+        },
+        {
+            "key": "δ-u4z5G702Xs",
+            "relativePath": "./δ steps/δ-u4z5G702Xs.tsstp"
+        },
+        {
+            "key": "δ-u4zC7x006Y",
+            "relativePath": "./δ steps/δ-u4zC7x006Y.tsstp"
+        },
+        {
+            "key": "δ-u4zYPX00A6",
+            "relativePath": "./δ steps/δ-u4zYPX00A6.tsstp"
+        },
+        {
+            "key": "δ-u4zf7f0076",
+            "relativePath": "./δ steps/δ-u4zf7f0076.tsstp"
+        },
+        {
+            "key": "δ-u50veA026m",
+            "relativePath": "./δ steps/δ-u50veA026m.tsstp"
+        },
+        {
+            "key": "δ-u519GF00X2",
+            "relativePath": "./δ steps/δ-u519GF00X2.tsstp"
+        },
+        {
+            "key": "δ-u51rKe01DX",
+            "relativePath": "./δ steps/δ-u51rKe01DX.tsstp"
+        },
+        {
+            "key": "δ-u5ZOcJ01h6",
+            "relativePath": "./δ steps/δ-u5ZOcJ01h6.tsstp"
+        },
+        {
+            "key": "δ-ul49g902Ww",
+            "relativePath": "./δ steps/δ-ul49g902Ww.tsstp"
+        },
+        {
+            "key": "δ-uqem6A02Wl",
+            "relativePath": "./δ steps/δ-uqem6A02Wl.tsstp"
+        },
+        {
+            "key": "δ-uqeq2100Ph",
+            "relativePath": "./δ steps/δ-uqeq2100Ph.tsstp"
+        },
+        {
+            "key": "δ-v6E9BE01nK",
+            "relativePath": "./δ steps/δ-v6E9BE01nK.tsstp"
+        },
+        {
+            "key": "δ-xVSWst01TO",
+            "relativePath": "./δ steps/δ-xVSWst01TO.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xm4Ft100Tc",
+        "editorID": "car_9d8da625bc324deb9f60100155b50687",
+        "ticks": 1761507715599
+    }
+}

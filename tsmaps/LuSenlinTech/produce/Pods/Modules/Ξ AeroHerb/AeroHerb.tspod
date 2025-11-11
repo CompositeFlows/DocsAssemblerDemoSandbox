@@ -1,0 +1,40 @@
+{
+    "key": "wT8JrY00Sv  ",
+    "token": "Aeroherb",
+    "name": "AeroHerb",
+    "created": "2025-10-12T23:30:00.981Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Modules/Ξ AeroHerb/AeroHerb.tspod",
+    "isPod": true,
+    "iText": "Link to 'AeroHerb'",
+    "___rΩΩt___": {
+        "key": "wT8Nsn019H",
+        "sharedAssetKey": "x4Qmiw01RI",
+        "nodes": [
+            {
+                "key": "wT8Wuh01KJ",
+                "order": 1,
+                "option": "AeroHerb - a deeper look",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "xrK34w01bz"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4Qmiw01RI",
+            "relativePath": "../../../_shared/CategoryTables/AeroHerbTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wT8Wuh01KJ",
+            "relativePath": "./δ steps/δ-wT8Wuh01KJ.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y2SuyN18W",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1761750014783
+    }
+}

@@ -1,0 +1,34 @@
+¬import g from "../../../_shared/glossary"
+¬import c from "../../../equipment/_shared/common"
+¬import tm from "../CategoryTables/soloModulesTable"
+
+
+###### {{tm.rootVaultName}} Technologies  
+
+- {{g.pureLight_short}}
+- {{g.hydraRail_short}}
+- {{g.hydraPad_short}}
+- {{g.hydraRailFogNozzles}}
+- {{g.nanoSunBeam_short}}
+- {{g.rfidSeedPadBayCartridges_short}}
+- {{g.moistureGradientAeratedColumns}}
+- {{g.microBeadCapillarySubstrate}}
+- {{g.sideEjectDrawer}}
+- {{g.precisionHeat_short}}
+- {{g.precisionHeatRootFilm}}
+- {{g.grapheneLateralHeatLoops}}
+- {{g.telescopingTrellisSmartWinch}}
+- {{g.ultrasonicRhizoShield}}
+
+###### Harvest Enhancements
+  
+- {{g.endoscopicRootSizer}}
+- {{g.rollOutRhizomeDrawer}}
+- {{g.sideEjectDrawer}}
+- {{g.nearInfraRedDryMatterSensor}}
+- {{g.harvestReadyGreenDoorLight}}  
+- {{g.drawerAssistLiftHandle}}
+- {{g.starchPeakDoorLight}}  
+
+{{c.ModuleAvailability_all}}
+

@@ -1,0 +1,60 @@
+{
+    "key": "yV0Slm01gy  ",
+    "token": "Dwarfgiantafricansnailchefshell",
+    "name": "DwarfGiantAfricanSnailChefShell",
+    "created": "2025-11-03T12:09:06.931Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Snails/Ξ DwarfGiantAfricanSnailChefShell/DwarfGiantAfricanSnailChefShell.tspod",
+    "isPod": true,
+    "iText": "Link to 'DwarfGiantAfricanSnailChefShell'",
+    "___rΩΩt___": {
+        "key": "yV0VSU02Bt",
+        "nodes": [
+            {
+                "key": "yV0XWD010w",
+                "order": 1,
+                "option": "Chef-Shell - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yV0fys01ov",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yV0mX501SY",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yV0VSU02Bt",
+            "relativePath": "./δ steps/δ-yV0VSU02Bt.tsstp"
+        },
+        {
+            "key": "δ-yV0XWD010w",
+            "relativePath": "./δ steps/δ-yV0XWD010w.tsstp"
+        },
+        {
+            "key": "δ-yV0fys01ov",
+            "relativePath": "./δ steps/δ-yV0fys01ov.tsstp"
+        },
+        {
+            "key": "δ-yV0mX501SY",
+            "relativePath": "./δ steps/δ-yV0mX501SY.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yV0rc600BF",
+        "editorID": "car_0d58cfd229cc4562b74f925708d2680d",
+        "ticks": 1762171842430
+    }
+}

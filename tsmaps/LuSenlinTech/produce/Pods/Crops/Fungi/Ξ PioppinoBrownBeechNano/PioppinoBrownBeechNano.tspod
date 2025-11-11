@@ -1,0 +1,60 @@
+{
+    "key": "yQkaF0014R  ",
+    "token": "Pioppinobrownbeechnano",
+    "name": "PioppinoBrownBeechNano",
+    "created": "2025-11-02T18:40:57.058Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Fungi/Ξ PioppinoBrownBeechNano/PioppinoBrownBeechNano.tspod",
+    "isPod": true,
+    "iText": "Link to 'PioppinoBrownBeechNano'",
+    "___rΩΩt___": {
+        "key": "yQkcvA02a6",
+        "nodes": [
+            {
+                "key": "yQkemv01zb",
+                "order": 1,
+                "option": "Brown Beech Nano - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQkkKx00GH",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQkmuU00jM",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQkcvA02a6",
+            "relativePath": "./δ steps/δ-yQkcvA02a6.tsstp"
+        },
+        {
+            "key": "δ-yQkemv01zb",
+            "relativePath": "./δ steps/δ-yQkemv01zb.tsstp"
+        },
+        {
+            "key": "δ-yQkkKx00GH",
+            "relativePath": "./δ steps/δ-yQkkKx00GH.tsstp"
+        },
+        {
+            "key": "δ-yQkmuU00jM",
+            "relativePath": "./δ steps/δ-yQkmuU00jM.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQkrLg01R4",
+        "editorID": "car_3537165f92b2418bb5c7103e41993e03",
+        "ticks": 1762108922820
+    }
+}

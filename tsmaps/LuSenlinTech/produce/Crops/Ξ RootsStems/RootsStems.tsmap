@@ -1,0 +1,129 @@
+{
+    "key": "wtZF260ir   ",
+    "token": "Rootsstems",
+    "name": "RootsStems",
+    "created": "2025-10-17T11:30:59.086Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ RootsStems/RootsStems.tsmap",
+    "iText": "Link to 'RootsStems'",
+    "iExits": [
+        {
+            "key": "wtZF260zS",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wtZF261QS",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wtZF260Mf",
+                "order": 1,
+                "option": "Finger Carrot ‘Neon 5’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKSOs401hY",
+                "podText": "Link to 'FingerCarrotNeon5'"
+            },
+            {
+                "key": "wtZF260P0",
+                "order": 2,
+                "option": "Baby Beet ‘Ruby 2’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKTq5Y01gj",
+                "podText": "Link to 'BabyBeetRuby2'"
+            },
+            {
+                "key": "wtZF260py",
+                "order": 3,
+                "option": "Radish ‘Flash-40’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKURGJ00sM",
+                "podText": "Link to 'RadishFlash40'"
+            },
+            {
+                "key": "wtZF261oc",
+                "order": 4,
+                "option": "Mini Daikon ‘Metro-White’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKV2VE0040",
+                "podText": "Link to 'MiniDaikonMetroWhite'"
+            },
+            {
+                "key": "wtZF261yV",
+                "order": 5,
+                "option": "Tokyo Turnip ‘Tiny Kabu’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKVXY900Rn",
+                "podText": "Link to 'TokyoTurnipTinyKabu'"
+            },
+            {
+                "key": "wtZF262EO",
+                "order": 6,
+                "option": "Baby Sweet Potato ‘Pocket Yama’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKVysx01sK",
+                "podText": "Link to 'BabySweetPotatoPocketYama'"
+            },
+            {
+                "key": "wtZF260u5",
+                "order": 7,
+                "option": "Water Spinach Stem ‘WS-Lite’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKWUn00188",
+                "podText": "Link to 'WaterSpinachStemWSLite'"
+            },
+            {
+                "key": "wtZF260ZV",
+                "order": 8,
+                "option": "Baby Ginger ‘Zingy Core’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKWya700Ch",
+                "podText": "Link to 'BabyGingerZingyCore'"
+            },
+            {
+                "key": "wtZF262As",
+                "order": 9,
+                "option": "Young Lotus Root ‘Urban Lotus’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKXNWc00FO",
+                "podText": "Link to 'YoungLotusRootUrbanLotus'"
+            },
+            {
+                "key": "wtZF2617z",
+                "order": 10,
+                "option": "Dwarf Taro ‘Taro-Tiny’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKXx2c01Le",
+                "podText": "Link to 'DwarfTaroTaroTiny'"
+            },
+            {
+                "key": "wtZF261fm",
+                "order": 11,
+                "option": "Baby Kohlrabi ‘Mini Stem’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKYTzM02F3",
+                "podText": "Link to 'BabyKohlrabiMiniStem'"
+            },
+            {
+                "key": "wtZF260zs",
+                "order": 12,
+                "option": "Compact Celery ‘Stalk-Short’",
+                "exitKey": "wtZF260zS",
+                "podKey": "yKZ2Ua01tJ",
+                "podText": "Link to 'CompactCeleryStalkShort'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wtZF261QS",
+            "relativePath": "./δ steps/δ-wtS1WU029T.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKZOOc01is",
+        "editorID": "car_6b727a258a224e5cb8498ed17174916d",
+        "ticks": 1762017531902
+    }
+}

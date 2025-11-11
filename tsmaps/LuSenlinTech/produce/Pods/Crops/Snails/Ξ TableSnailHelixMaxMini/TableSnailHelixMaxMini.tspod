@@ -1,0 +1,60 @@
+{
+    "key": "yUyjHF00x2  ",
+    "token": "Tablesnailhelixmaxmini",
+    "name": "TableSnailHelixMaxMini",
+    "created": "2025-11-03T12:02:13.729Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Snails/Ξ TableSnailHelixMaxMini/TableSnailHelixMaxMini.tspod",
+    "isPod": true,
+    "iText": "Link to 'TableSnailHelixMaxMini'",
+    "___rΩΩt___": {
+        "key": "yUymbb025q",
+        "nodes": [
+            {
+                "key": "yUyrbl00ao",
+                "order": 1,
+                "option": "Helix Max-Mini - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUywk300b7",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUyzM000JE",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUymbb025q",
+            "relativePath": "./δ steps/δ-yUymbb025q.tsstp"
+        },
+        {
+            "key": "δ-yUyrbl00ao",
+            "relativePath": "./δ steps/δ-yUyrbl00ao.tsstp"
+        },
+        {
+            "key": "δ-yUywk300b7",
+            "relativePath": "./δ steps/δ-yUywk300b7.tsstp"
+        },
+        {
+            "key": "δ-yUyzM000JE",
+            "relativePath": "./δ steps/δ-yUyzM000JE.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUz3gs00jp",
+        "editorID": "car_bf9f3b37eb864279bc3732452f9d6ac8",
+        "ticks": 1762171412198
+    }
+}

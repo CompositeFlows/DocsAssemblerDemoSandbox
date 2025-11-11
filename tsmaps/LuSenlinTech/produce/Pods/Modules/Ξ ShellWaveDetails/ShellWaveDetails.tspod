@@ -1,0 +1,59 @@
+{
+    "key": "xsc3Da02G6  ",
+    "token": "Shellwavedetails",
+    "name": "ShellWaveDetails",
+    "created": "2025-10-27T22:33:48.070Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ ShellWaveDetails/ShellWaveDetails.tspod",
+    "isPod": true,
+    "iText": "Link to 'ShellWaveDetails'",
+    "___rΩΩt___": {
+        "key": "xsc4Z800GJ",
+        "nodes": [
+            {
+                "key": "xscBFo0152",
+                "order": 1,
+                "option": "How it works",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy4LTx00p5",
+                "order": 2,
+                "option": "The science behind it",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "xy4Mdu00dd",
+                "order": 3,
+                "option": "The technology",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-xsc4Z800GJ",
+            "relativePath": "./δ steps/δ-xsc4Z800GJ.tsstp"
+        },
+        {
+            "key": "δ-xscBFo0152",
+            "relativePath": "./δ steps/δ-xscBFo0152.tsstp"
+        },
+        {
+            "key": "δ-xy4LTx00p5",
+            "relativePath": "./δ steps/δ-xy4LTx00p5.tsstp"
+        },
+        {
+            "key": "δ-xy4Mdu00dd",
+            "relativePath": "./δ steps/δ-xy4Mdu00dd.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y1OW1x01HK",
+        "editorID": "car_ee08484cd1a74b9aa71ed3aefa6eabca",
+        "ticks": 1761734189257
+    }
+}

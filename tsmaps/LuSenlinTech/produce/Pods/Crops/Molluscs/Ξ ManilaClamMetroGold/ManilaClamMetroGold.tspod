@@ -1,0 +1,60 @@
+{
+    "key": "yUtVwu02Zq  ",
+    "token": "Manilaclammetrogold",
+    "name": "ManilaClamMetroGold",
+    "created": "2025-11-03T11:41:30.856Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Molluscs/Ξ ManilaClamMetroGold/ManilaClamMetroGold.tspod",
+    "isPod": true,
+    "iText": "Link to 'ManilaClamMetroGold'",
+    "___rΩΩt___": {
+        "key": "yUtYJN004m",
+        "nodes": [
+            {
+                "key": "yUtaSu00kX",
+                "order": 1,
+                "option": "Metro-Gold - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUtgmF00Pk",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUtkBK022Y",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUtYJN004m",
+            "relativePath": "./δ steps/δ-yUtYJN004m.tsstp"
+        },
+        {
+            "key": "δ-yUtaSu00kX",
+            "relativePath": "./δ steps/δ-yUtaSu00kX.tsstp"
+        },
+        {
+            "key": "δ-yUtgmF00Pk",
+            "relativePath": "./δ steps/δ-yUtgmF00Pk.tsstp"
+        },
+        {
+            "key": "δ-yUtkBK022Y",
+            "relativePath": "./δ steps/δ-yUtkBK022Y.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUtor1020x",
+        "editorID": "car_fe7e54eb390447388436fcdc7f3da527",
+        "ticks": 1762170163527
+    }
+}

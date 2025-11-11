@@ -1,0 +1,60 @@
+{
+    "key": "yUmKkt00mJ  ",
+    "token": "Blueghostshrimpspectra",
+    "name": "BlueGhostShrimpSpectra",
+    "created": "2025-11-03T11:12:59.532Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Crustaceans/Ξ BlueGhostShrimpSpectra/BlueGhostShrimpSpectra.tspod",
+    "isPod": true,
+    "iText": "Link to 'BlueGhostShrimpSpectra'",
+    "___rΩΩt___": {
+        "key": "yUmNBy01KU",
+        "nodes": [
+            {
+                "key": "yUmP1P00K1",
+                "order": 1,
+                "option": "Spectra - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUmXix02UE",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUmaDg00C9",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUmNBy01KU",
+            "relativePath": "./δ steps/δ-yUmNBy01KU.tsstp"
+        },
+        {
+            "key": "δ-yUmP1P00K1",
+            "relativePath": "./δ steps/δ-yUmP1P00K1.tsstp"
+        },
+        {
+            "key": "δ-yUmXix02UE",
+            "relativePath": "./δ steps/δ-yUmXix02UE.tsstp"
+        },
+        {
+            "key": "δ-yUmaDg00C9",
+            "relativePath": "./δ steps/δ-yUmaDg00C9.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUme0402S9",
+        "editorID": "car_cabffd95f2ad4243b4b271063bbfcd44",
+        "ticks": 1762168453508
+    }
+}

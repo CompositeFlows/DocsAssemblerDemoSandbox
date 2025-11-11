@@ -1,0 +1,60 @@
+{
+    "key": "yQF48Q02HB  ",
+    "token": "Purpleoxalistristar",
+    "name": "PurpleOxalisTriStar",
+    "created": "2025-11-02T16:35:45.474Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ PurpleOxalisTriStar/PurpleOxalisTriStar.tspod",
+    "isPod": true,
+    "iText": "Link to 'PurpleOxalisTriStar'",
+    "___rΩΩt___": {
+        "key": "yQF6Np01Bg",
+        "nodes": [
+            {
+                "key": "yQFADt02KO",
+                "order": 1,
+                "option": "TriStar - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQFFgi02Sk",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQFJjc00rS",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQF6Np01Bg",
+            "relativePath": "./δ steps/δ-yQF6Np01Bg.tsstp"
+        },
+        {
+            "key": "δ-yQFADt02KO",
+            "relativePath": "./δ steps/δ-yQFADt02KO.tsstp"
+        },
+        {
+            "key": "δ-yQFFgi02Sk",
+            "relativePath": "./δ steps/δ-yQFFgi02Sk.tsstp"
+        },
+        {
+            "key": "δ-yQFJjc00rS",
+            "relativePath": "./δ steps/δ-yQFJjc00rS.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQFP1e01q5",
+        "editorID": "car_9948cae5b7e74e838464bd64fb33ef1b",
+        "ticks": 1762101425778
+    }
+}

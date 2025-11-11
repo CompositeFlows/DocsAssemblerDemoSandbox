@@ -1,0 +1,129 @@
+{
+    "key": "wsqXK702Nl  ",
+    "token": "Leafygreensselect",
+    "name": "LeafyGreensSelect",
+    "created": "2025-10-17T09:02:27.555Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ LeafyGreensSelect/LeafyGreensSelect.tsmap",
+    "iText": "Link to 'LeafyGreensSelect'",
+    "iExits": [
+        {
+            "key": "wss8h901vX",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wsqbkF02b6",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wsqhiX002C",
+                "order": 1,
+                "option": "Skyline Romaine",
+                "exitKey": "wss8h901vX",
+                "podKey": "yFoCR800N8",
+                "podText": "Link to 'SkylineRomaine'"
+            },
+            {
+                "key": "wsrkO4028L",
+                "order": 2,
+                "option": "Nano-Kale ‘BlueFin’",
+                "exitKey": "wss8h901vX",
+                "podKey": "yFpALn00Kr",
+                "podText": "Link to 'NanoKaleBlueFin'"
+            },
+            {
+                "key": "wsrlxE023z",
+                "order": 3,
+                "option": "Dwarf Bok-Choy ‘Pearl’",
+                "exitKey": "wss8h901vX",
+                "podKey": "yG1Lpk01R5",
+                "podText": "Link to 'DwarfBokChoyPearl'"
+            },
+            {
+                "key": "wsrnGV00If",
+                "order": 4,
+                "option": "Butterhead Lettuce ‘Silk-Butter’",
+                "exitKey": "wss8h901vX",
+                "podKey": "yG2sCb01tN",
+                "podText": "Link to 'ButterheadLettuceSilkButter'"
+            },
+            {
+                "key": "wsrpYp01L4",
+                "order": 5,
+                "option": "Tatsoi ‘Sprint’",
+                "exitKey": "wss8h901vX",
+                "podKey": "yG3UFL02Tu",
+                "podText": "Link to 'TatsoiSprint'"
+            },
+            {
+                "key": "wsrqng02Rz",
+                "order": 6,
+                "option": "Komatsuna ‘Metro-Spin’",
+                "exitKey": "wss8h901vX",
+                "podKey": "yG457800Iq",
+                "podText": "Link to 'KomatsunaMetroSpin'"
+            },
+            {
+                "key": "wsrsRO00U9",
+                "order": 7,
+                "option": "Rainbow Swiss Chard ‘Pixel-Stem’",
+                "exitKey": "wss8h901vX",
+                "podKey": "yG5OYS02Ty",
+                "podText": "Link to 'RainbowSwissChardPixelStem'"
+            },
+            {
+                "key": "wsrtnB01FF",
+                "order": 8,
+                "option": "Spinach ‘HeatGuard’",
+                "exitKey": "wss8h901vX",
+                "podKey": "yG6FsR01HB",
+                "podText": "Link to 'SpinachHeatGuard'"
+            },
+            {
+                "key": "wsrvi702Rh",
+                "order": 9,
+                "option": "Mizuna ‘Fringe’",
+                "exitKey": "wss8h901vX",
+                "podKey": "yG6rmu01is",
+                "podText": "Link to 'MizunaFringe'"
+            },
+            {
+                "key": "wsrxDi00p7",
+                "order": 10,
+                "option": "Arugula ‘Rocket-Flash’",
+                "exitKey": "wss8h901vX",
+                "podKey": "yG9DxP01bU",
+                "podText": "Link to 'ArugulaRocketFlash'"
+            },
+            {
+                "key": "wsryYv02Pl",
+                "order": 11,
+                "option": "Red Leaf Lettuce ‘Ruby Drift’",
+                "exitKey": "wss8h901vX",
+                "podKey": "yG9lJ1021X",
+                "podText": "Link to 'RedLeafLettuceRubyDrift'"
+            },
+            {
+                "key": "wsrzaN00O0",
+                "order": 12,
+                "option": "Watercress ‘Hydro-Pepper’",
+                "exitKey": "wss8h901vX",
+                "podKey": "yGAKEZ020S",
+                "podText": "Link to 'WatercressHydroPepper'"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wsqbkF02b6",
+            "relativePath": "./δ steps/δ-wsqbkF02b6.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yGAjNL025x",
+        "editorID": "car_d2e6e707da254da79e4f3a673e3a38f3",
+        "ticks": 1761952549003
+    }
+}

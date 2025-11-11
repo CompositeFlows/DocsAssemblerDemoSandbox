@@ -1,0 +1,29 @@
+¬import g from "../../../_shared/glossary"
+¬import c from "../../../equipment/_shared/common"
+¬import tm from "../CategoryTables/soloModulesTable"
+
+
+###### {{tm.crustaBayName}} Technologies  
+
+- {{g.bioFloc_short}}
+- {{g.rotatingDrumFilter}}
+- {{g.precisionHeatWaterJacket}}
+- {{g.realTimeTurbidityPhSensors}}
+- {{g.microBubbleColumn}}
+- {{g.uvcOzoneSterilLoop}}
+- {{g.rotatingDrumFilter}}
+- {{g.proteinSkimmerUvCLoop}}
+- {{g.movingBedNitrificationCartridge}}
+- {{g.laminarFlowOvalTank}}
+- {{g.thermoelectricPlateChiller}}
+- {{g.inSituInsectLarvaeFeeder}}
+
+###### Harvest Enhancements
+  
+- {{g.roboticDipNet}}
+- {{g.autoChillTo4C}}
+- {{g.appSelectableHarvestModes}}
+- {{g.smartNetGuide}}
+
+{{c.ModuleAvailability_solo}}
+

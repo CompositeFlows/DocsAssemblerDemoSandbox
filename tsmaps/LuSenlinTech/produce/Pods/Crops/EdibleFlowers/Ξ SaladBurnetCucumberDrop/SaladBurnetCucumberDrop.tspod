@@ -1,0 +1,60 @@
+{
+    "key": "yQDgrg026J  ",
+    "token": "Saladburnetcucumberdrop",
+    "name": "SaladBurnetCucumberDrop",
+    "created": "2025-11-02T16:30:17.697Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ SaladBurnetCucumberDrop/SaladBurnetCucumberDrop.tspod",
+    "isPod": true,
+    "iText": "Link to 'SaladBurnetCucumberDrop'",
+    "___rΩΩt___": {
+        "key": "yQDjlb01Gm",
+        "nodes": [
+            {
+                "key": "yQDlnB02GU",
+                "order": 1,
+                "option": "Cucumber Drop - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQDqZW021R",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQDsuK01NO",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQDjlb01Gm",
+            "relativePath": "./δ steps/δ-yQDjlb01Gm.tsstp"
+        },
+        {
+            "key": "δ-yQDlnB02GU",
+            "relativePath": "./δ steps/δ-yQDlnB02GU.tsstp"
+        },
+        {
+            "key": "δ-yQDqZW021R",
+            "relativePath": "./δ steps/δ-yQDqZW021R.tsstp"
+        },
+        {
+            "key": "δ-yQDsuK01NO",
+            "relativePath": "./δ steps/δ-yQDsuK01NO.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQE0hE01TM",
+        "editorID": "car_a619b90e2d2f4e7db3bdf09aecffed56",
+        "ticks": 1762101093928
+    }
+}

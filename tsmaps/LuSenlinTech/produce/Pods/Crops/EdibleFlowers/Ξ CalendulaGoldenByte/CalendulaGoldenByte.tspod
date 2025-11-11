@@ -1,0 +1,60 @@
+{
+    "key": "yQ9My001Vx  ",
+    "token": "Calendulagoldenbyte",
+    "name": "CalendulaGoldenByte",
+    "created": "2025-11-02T16:13:07.896Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ CalendulaGoldenByte/CalendulaGoldenByte.tspod",
+    "isPod": true,
+    "iText": "Link to 'CalendulaGoldenByte'",
+    "___rΩΩt___": {
+        "key": "yQ9Ovo00u1",
+        "nodes": [
+            {
+                "key": "yQ9TIQ01Ny",
+                "order": 1,
+                "option": "Golden Byte - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQ9dVR00fH",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQ9h3c01LH",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQ9Ovo00u1",
+            "relativePath": "./δ steps/δ-yQ9Ovo00u1.tsstp"
+        },
+        {
+            "key": "δ-yQ9TIQ01Ny",
+            "relativePath": "./δ steps/δ-yQ9TIQ01Ny.tsstp"
+        },
+        {
+            "key": "δ-yQ9dVR00fH",
+            "relativePath": "./δ steps/δ-yQ9dVR00fH.tsstp"
+        },
+        {
+            "key": "δ-yQ9h3c01LH",
+            "relativePath": "./δ steps/δ-yQ9h3c01LH.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQ9lo9020V",
+        "editorID": "car_cf8fe55e5aa549748e56fecf16788428",
+        "ticks": 1762100083385
+    }
+}

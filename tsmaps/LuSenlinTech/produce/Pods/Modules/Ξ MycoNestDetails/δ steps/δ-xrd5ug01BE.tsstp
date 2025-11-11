@@ -1,0 +1,22 @@
+¬import tm from "../../../../../_shared/tradeMarks"
+¬import el from "../../../../../../shared/externalLinks"
+
+
+##### How It Works
+
+###### 1. The Pre-Colonised Block
+{{el.luSenLinName}}’s laboratory supplies fully colonised substrate blocks, where the mycelium has completely permeated the nutrient-rich medium. This selection - from the fast-fruiting **Oyster ‘Pearl-Fog’** to the potent **Reishi ‘Micro-Lingzhi’** - is ideal because each strain's specific fruiting triggers (temperature drops, O₂ spikes) can be perfectly executed within the sealed, programmable environment.
+
+###### 2. Controlled Fruiting in the Module
+Once the block is inserted into the MycoNest, {{tm.harvestSageTM}} initiates a species-specific fruiting program:
+- The **{{tm.darkCycleChamberO2Pulse}}** system maintains complete darkness while releasing hourly pulses of oxygen, replicating the dawn forest cues that trigger mushroom pinning (the formation of tiny mushrooms).
+- A **{{tm.co2ScrubbingBioFilter}}** first maintains high CO₂ levels during the final stage of colonization, then scrubs it from the air to initiate the fruiting stage, preventing misshapen fruits and speeding up development.
+- High humidity (90-95% RH) is constantly maintained to ensure tender, plump mushrooms without drying out.
+
+###### 3. The Rapid-Cycle Harvest
+The MycoNest is designed for fast, clean, and continuous harvests.
+- When mushrooms reach peak size and before spore release, the entire block is accessed.
+- The **{{tm.popOutGrowBlockSleeve}}** allows the spent substrate to be slid out and a new, pre-colonised block to be swapped in under 5 seconds, with zero mess or crumblintm.
+- After harvest, the **{{tm.sterileUvCPulse}}** automatically disinfects the empty chamber, preventing cross-contamination between cycles.
+- The system provides a **rapid yield, producing 200–400g of pristine mushrooms per block over a 7-14 day fruiting cycle.**
+

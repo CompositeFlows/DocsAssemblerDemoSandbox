@@ -1,0 +1,28 @@
+{
+    "v": "1",
+    "r": {
+        "i": "zFvGBM1jF",
+        "n": "s7LPkr1pv",
+        "o": [
+            {
+                "i": "zFvGBY0Vy",
+                "n": "s7LPkr1GS",
+                "_x": "s7LPkr1rO"
+            },
+            {
+                "i": "zFvGBj0V5",
+                "n": "s7LPkr2MR",
+                "_x": "s7LPkr1rO"
+            },
+            {
+                "i": "zFvGBr1y9",
+                "n": "s7LPkr0Wo",
+                "_x": "s7LPkr1rO"
+            }
+        ]
+    },
+    "e": 1,
+    "mv": {
+        "spaceDisplayText": "in your vertical garden location"
+    }
+}

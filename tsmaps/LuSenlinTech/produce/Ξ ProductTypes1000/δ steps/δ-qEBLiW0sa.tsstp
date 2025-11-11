@@ -1,0 +1,12 @@
+¬import g from "../../../_shared/glossary"
+
+
+- **Flora** - *plants and fungi*
+   - {{g.aromaticHerb_short}}
+   - {{g.leafyGreens_short}}
+   - {{g.fruitingVeg_short}}
+   - {{g.rootsStems_short}}
+   - {{g.EedibleFlowers_short}}
+   - {{g.aquaticPlants_short}}
+   - {{g.mushrooms_short}}
+

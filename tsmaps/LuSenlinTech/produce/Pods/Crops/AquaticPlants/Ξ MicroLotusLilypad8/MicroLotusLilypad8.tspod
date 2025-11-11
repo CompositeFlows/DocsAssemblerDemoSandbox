@@ -1,0 +1,60 @@
+{
+    "key": "y4kvun01iu  ",
+    "token": "Microlotuslilypad8",
+    "name": "MicroLotusLilypad8",
+    "created": "2025-10-30T00:24:20.981Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Ξ MicroLotusLilypad8/MicroLotusLilypad8.tspod",
+    "isPod": true,
+    "iText": "Link to 'MicroLotusLilypad8'",
+    "___rΩΩt___": {
+        "key": "y4kyik00Lu",
+        "nodes": [
+            {
+                "key": "y4l2OO02Xf",
+                "order": 1,
+                "option": "Lilypad-8 - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y4l7FV00f7",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y4lEP501oc",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y4kyik00Lu",
+            "relativePath": "./δ steps/δ-y4kyik00Lu.tsstp"
+        },
+        {
+            "key": "δ-y4l2OO02Xf",
+            "relativePath": "./δ steps/δ-y4l2OO02Xf.tsstp"
+        },
+        {
+            "key": "δ-y4l7FV00f7",
+            "relativePath": "./δ steps/δ-y4l7FV00f7.tsstp"
+        },
+        {
+            "key": "δ-y4lEP501oc",
+            "relativePath": "./δ steps/δ-y4lEP501oc.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y4lL9b01pD",
+        "editorID": "car_8683da071f8449b18102374f52202713",
+        "ticks": 1761783957999
+    }
+}

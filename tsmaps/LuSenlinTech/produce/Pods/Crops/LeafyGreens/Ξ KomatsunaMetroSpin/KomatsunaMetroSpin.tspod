@@ -1,0 +1,60 @@
+{
+    "key": "yG457800Iq  ",
+    "token": "Komatsunametrospin",
+    "name": "KomatsunaMetroSpin",
+    "created": "2025-10-31T22:49:24.270Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/LeafyGreens/Ξ KomatsunaMetroSpin/KomatsunaMetroSpin.tspod",
+    "isPod": true,
+    "iText": "Link to 'KomatsunaMetroSpin'",
+    "___rΩΩt___": {
+        "key": "yG47fk01rj",
+        "nodes": [
+            {
+                "key": "yG4D9k01VK",
+                "order": 1,
+                "option": "Metro-Spin - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yG4LGb00kG",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yG4P2K01g4",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yG47fk01rj",
+            "relativePath": "./δ steps/δ-yG47fk01rj.tsstp"
+        },
+        {
+            "key": "δ-yG4D9k01VK",
+            "relativePath": "./δ steps/δ-yG4D9k01VK.tsstp"
+        },
+        {
+            "key": "δ-yG4LGb00kG",
+            "relativePath": "./δ steps/δ-yG4LGb00kG.tsstp"
+        },
+        {
+            "key": "δ-yG4P2K01g4",
+            "relativePath": "./δ steps/δ-yG4P2K01g4.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yG4V3g003b",
+        "editorID": "car_4dffa808f653419facbf8c21d9eacfc5",
+        "ticks": 1761951064000
+    }
+}

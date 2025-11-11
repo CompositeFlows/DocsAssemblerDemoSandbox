@@ -1,0 +1,60 @@
+{
+    "key": "y4bDoP01hE  ",
+    "token": "Redmacroalgaesachinori",
+    "name": "RedMacroAlgaeSachiNori",
+    "created": "2025-10-29T23:45:46.498Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Ξ RedMacroAlgaeSachiNori/RedMacroAlgaeSachiNori.tspod",
+    "isPod": true,
+    "iText": "Link to 'RedMacroAlgaeSachiNori'",
+    "___rΩΩt___": {
+        "key": "y4bI3w01Gp",
+        "nodes": [
+            {
+                "key": "y4bPWz01bU",
+                "order": 1,
+                "option": "Sachi-Nori - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "y4bUPw01AK",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "y4bi9z02AF",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-y4bI3w01Gp",
+            "relativePath": "./δ steps/δ-y4bI3w01Gp.tsstp"
+        },
+        {
+            "key": "δ-y4bPWz01bU",
+            "relativePath": "./δ steps/δ-y4bPWz01bU.tsstp"
+        },
+        {
+            "key": "δ-y4bUPw01AK",
+            "relativePath": "./δ steps/δ-y4bUPw01AK.tsstp"
+        },
+        {
+            "key": "δ-y4bi9z02AF",
+            "relativePath": "./δ steps/δ-y4bi9z02AF.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "y4bqow00N4",
+        "editorID": "car_e57f997f3fbb450b89f340fa254c9ac5",
+        "ticks": 1761781696446
+    }
+}

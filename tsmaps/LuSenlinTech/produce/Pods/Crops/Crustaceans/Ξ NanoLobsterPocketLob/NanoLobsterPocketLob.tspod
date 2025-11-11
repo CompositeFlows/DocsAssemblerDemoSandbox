@@ -1,0 +1,60 @@
+{
+    "key": "yUq8m100ci  ",
+    "token": "Nanolobsterpocketlob",
+    "name": "NanoLobsterPocketLob",
+    "created": "2025-11-03T11:28:06.786Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/Crustaceans/Ξ NanoLobsterPocketLob/NanoLobsterPocketLob.tspod",
+    "isPod": true,
+    "iText": "Link to 'NanoLobsterPocketLob'",
+    "___rΩΩt___": {
+        "key": "yUqAzK01c3",
+        "nodes": [
+            {
+                "key": "yUqFYU01iw",
+                "order": 1,
+                "option": "Pocket-Lob - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yUqJuF01oX",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yUqMAh02YE",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yUqAzK01c3",
+            "relativePath": "./δ steps/δ-yUqAzK01c3.tsstp"
+        },
+        {
+            "key": "δ-yUqFYU01iw",
+            "relativePath": "./δ steps/δ-yUqFYU01iw.tsstp"
+        },
+        {
+            "key": "δ-yUqJuF01oX",
+            "relativePath": "./δ steps/δ-yUqJuF01oX.tsstp"
+        },
+        {
+            "key": "δ-yUqMAh02YE",
+            "relativePath": "./δ steps/δ-yUqMAh02YE.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yUqRTH00OI",
+        "editorID": "car_c345a066e063428da79fc986e35288a3",
+        "ticks": 1762169358659
+    }
+}

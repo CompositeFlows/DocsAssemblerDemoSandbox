@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body>
+  <div class="box-outer" id="boxOuter">
+    <div class="box-inner">
+      <div class="hamburger" id="hamburger">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+
+      {% include sidebarShort.html %}
+
+      {% assign pathSplit = page.path | split: "/" %}
+      {% assign breadcrumb = pathSplit | join: "/" %}
+      {% assign firstFolder = pathSplit | first %}
+      {% assign folders = pathSplit | pop | join: "/" %}
+      {% assign guideNameExt = pathSplit | last %}
+      {% assign guideNameSplit = guideNameExt | split: "." %}
+      {% assign guideName = guideNameSplit | first %}
+
+      <div class="main-content {{ firstFolder | downcase }}">
+
+        {% if page.isGuide == true %}
+        <div class="breadcrumbs">
+          <a href="https://github.com/CompositeFlows/DocsAssemblerDemo/tree/main/docs/{{ breadcrumb }}">
+            <span class="breadcrumb-name">guide: </span>
+            <span class="breadcrumb-value">docs/{{ breadcrumb }}</span>
+          </a>
+
+          {% if firstFolder == 'BackToTheFuture' %}
+          <a href="https://github.com/CompositeFlows/DocsAssemblerDemo/tree/main/docs/{{ page.fragsFolderPath }}">
+            <span class="breadcrumb-name">fragments: </span>
+            <span class="breadcrumb-value">{{ page.fragsFolderPath }}</span>
+          </a>
+          {% endif %}
+
+          <a href="https://github.com/CompositeFlows/DocsAssemblerDemo/tree/main/{{ page.mapFolderPath }}">
+            <span class="breadcrumb-name">map: </span>
+            <span class="breadcrumb-value">{{ page.mapFolderPath }}</span>
+          </a>
+        </div>
+
+        {% if firstFolder == 'HAL' %}
+
+        <div class="warning-header">
+          <h4>WARNING</h4>
+          <p>The content of this page is not the up to date version of HAL Robotics
+            documentation.</p>
+          <h4>Official HAL Robotics links:</h4>
+          <h5>Documentation</h5>
+          <a href="https://docs.hal-robotics.com/">docs.hal-robotics.com</a>
+          <h5>Documentation repo</h5>
+          <a href="https://github.com/HALRobotics/HAL.Documentation/">github.com/HALRobotics/HAL.Documentation</a>
+          <h5>Website</h5>
+          <a href="https://hal-robotics.com/">hal-robotics.com</a>
+        </div>
+
+        {% endif %}
+
+        {% endif %}
+
+
+        <main>
+
+          <div id="treeSolve">
+            <div id="treeSolveGuide">
+
+              {{ content }}
+
+            </div>
+            <div id="treeSolveFragments"></div>
+          </div>
+
+        </main>
+
+      </div>
+    </div>
+  </div>
+</body>
+
+<noscript>You need to enable JavaScript to run this app.</noscript>
+
+<script>
+  const hamburger = document.getElementById('hamburger');
+  const boxOuter = document.getElementById('boxOuter');
+
+  hamburger.addEventListener('click', () => {
+    boxOuter.classList.toggle('show-sidebar');
+  });
+</script>
+
+</html>

@@ -1,0 +1,60 @@
+{
+    "key": "yKQOYK01Ko  ",
+    "token": "Snappeaskylinesugar",
+    "name": "SnapPeaSkylineSugar",
+    "created": "2025-11-01T16:43:07.552Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/FruitingVeg/Ξ SnapPeaSkylineSugar/SnapPeaSkylineSugar.tspod",
+    "isPod": true,
+    "iText": "Link to 'SnapPeaSkylineSugar'",
+    "___rΩΩt___": {
+        "key": "yKQR3v01r0",
+        "nodes": [
+            {
+                "key": "yKQVN701Hu",
+                "order": 1,
+                "option": "Skyline Sugar - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yKQZvC00zr",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yKQcZc00mq",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yKQR3v01r0",
+            "relativePath": "./δ steps/δ-yKQR3v01r0.tsstp"
+        },
+        {
+            "key": "δ-yKQVN701Hu",
+            "relativePath": "./δ steps/δ-yKQVN701Hu.tsstp"
+        },
+        {
+            "key": "δ-yKQZvC00zr",
+            "relativePath": "./δ steps/δ-yKQZvC00zr.tsstp"
+        },
+        {
+            "key": "δ-yKQcZc00mq",
+            "relativePath": "./δ steps/δ-yKQcZc00mq.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yKQh31003Z",
+        "editorID": "car_998bc0bf4f6b4deb9d3ecb23a040567b",
+        "ticks": 1762015458647
+    }
+}

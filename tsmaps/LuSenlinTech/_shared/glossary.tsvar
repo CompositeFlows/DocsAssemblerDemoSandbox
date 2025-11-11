@@ -1,0 +1,303 @@
+¬import tm from "./tradeMarks"
+¬import el from "../../shared/externalLinks"
+
+
+¬pureLight:
+###### {{tm.pureLightTM}}:
+
+- An advanced material engineered at the nanoscale to manipulate heat and light.
+- Transmits 95% of light of glass whilst providing superior insulation (~0.002–0.005 W/m·K).
+- Features an anti-condensation surface that prevents droplet formation, ensuring maximum light penetration and reducing fungal risk.
+- Lightweight, durable, maximizes photosynthesis by maintaining stable temperatures for year-round crop growth.
+- Integrated Spectral Tuning: (Optional) Micro-thin organic phosphor layers that can be electrically tuned to shift the light spectrum, enhancing specific plant growth phases (e.g., more blue for vegetation, more red for fruiting) in coordination with the nanoSunBeam™ LEDs.
+- Self-Diagnostic Layer: (Optional) An embedded transparent conductive oxide grid that can monitor panel integrity and light transmission uniformity, reporting performance data directly to the harvestSage™ AI.¬
+
+¬pureLight_short:
+**{{tm.pureLightTM}}** - transmits 95% of light of glass whilst providing superior insulation (~0.002–0.005 W/m·K). It is lightweight, durable, maximizes photosynthesis by maintaining stable temperatures for year-round crop growth.¬
+
+¬scalableStacking_short:
+**{{tm.scalableStacking}}** - magnetic auto-locking connectors for easy vertical assembly; add or remove frames without tools.¬
+
+¬integratedUtilities_short:
+**{{tm.integratedUtilities}}** - magnetic Water/Power/Data Bus, one snap-in backbone distributes water + 48V DC + high-speed data through every level. Zero cable clutter; add or remove Frames without rewiring.¬
+
+¬hydraRail_short:
+**{{tm.hydraRailFluidManifold}}** - micro-drip, fog, or flood modes selectable per Frame; self-sealing/healing {{tm.nanoHealShieldTM}} couplers prevent spills. Change crops or switch to aquaponics on the fly.¬
+
+¬precisionHeat_short:
+**{{tm.precisionHeatTM}}**  - Graphene Heat-Film, printed onto root chamber walls for ±0.3°C control.¬
+
+¬nanoSunBeam_short:
+**{{tm.nanoSunBeamTM}}** Organic-phosphor LEDs auto-tune PAR, far-red & UV-A. Better flavour, longer shelf life, lower kWh.¬
+
+¬harvestSage:
+###### {{tm.harvestSageTM}}
+
+On-board crop neural AI handling seeding, climate, light, filtering, watering, pest control, and harvesting cues. Connects to the {{el.luSenLinName}} Cloud, integrating with global weather APIs and local air quality sensors. Predicts and automates growth cycles based on real-time environmental data. Works off-line in case your Wi-Fi drops.¬
+
+¬harvestSage_short:
+**{{tm.harvestSageTM}}** - an on-board AI that automates all aspects of crop cultivation, from seeding to harvest. It uses real-time data for optimal growth and operates offline for reliability.¬
+
+¬slideLockShelves_short:
+**{{tm.slideLockShelves}}** - swap growing modules in < 10s. True plug-and-play.¬
+
+¬windLock_short:
+**{{tm.windLockAnchors}}** - tool-free, self-adjusting anchors that secure outdoor frame towers against high winds (up to 120 km/h).¬
+
+¬nanoPlantWhisper_short:
+**{{tm.nanoPlantWhisperTM}}** - AI-driven bio-sensors¬
+
+¬hotCarrier:
+###### {{tm.hotCarrierTM}}
+
+Leveraging advanced hot carrier solar cell (HCSC) technology, {{tm.hotCarrierTM}} Solar Panels capture high-energy sunlight (ultraviolet and visible light) that conventional panels lose as heat, achieving up to 85% energy conversion efficiency. Operating across a broad spectrum (300-2500 nm), these panels utilize quantum wells and graphene-based materials to minimize energy loss, delivering up to 850 watts per square meter under optimal sunlight. This exceptional performance ensures reliable charging for the {{tm.solisCellTM}} battery block.¬
+
+¬hotCarrier_short:
+**{{tm.hotCarrierTM}}** - solar Panels that use advanced HCSC technology to capture high-energy sunlight that traditional panels lose as heat, achieving up to 85% conversion efficiency for exceptional performance.¬
+
+¬solisCell:
+###### {{tm.solisCellTM}}
+
+An advanced, sodium-ion power module that ensures uninterrupted operation for up to 48 hours, seamlessly integrating with the tower's AI-optimized systems to power LED grow lights, irrigation, and filtration for crops. With a compact 2.5 kWh capacity (scalable to 5 kWh), multi-mode recharging (AC grid, solar, or kinetic), AI-driven energy management, over 8,500 cycles of durability, and reliable performance at temperatures as low as -30°C.¬
+
+¬solisCell_short:
+**{{tm.solisCellTM}}** - durable, sodium-ion power module that provides up to 48 hours of uninterrupted energy for the tower's systems. It features reliable performance in extreme cold.¬
+
+¬bioFloc:
+###### {{tm.bioFlocTM}}
+
+A compact, high-density recirculating aquaculture system (RAS) designed for integration with our FinFlow and ShellWave models. It employs advanced biofloc technology, where beneficial bacteria convert fish waste into edible microbial protein. This process reduces feed requirements by up to 70% while maintaining water clarity through AI-optimized filtration.
+
+The system features self-assembling nano-filters that dynamically adjust to trap pathogens and release probiotics, enabling high stocking densities of up to 100 kg/m³. With integrated quantum-sensor arrays for real-time microbiome balancing, the system ensures zero antibiotic use and achieves 99% water recirculation, making it an ideal, sustainable solution for space-conscious urban farms.¬
+
+¬bioFloc_short:
+**{{tm.bioFloc}}** - a compact, high-density aquaculture system that uses biofloc technology to convert fish waste into edible protein, reducing feed needs by 70%. Its AI-optimized filtration and pathogen-trapping nano-filters enable high stocking densities and 99% water recirculation for sustainable urban farming.¬
+
+¬hydraPad:
+###### {{tm.hydraPadTM}}
+
+A smart hydroponic insert featuring a bio-engineered nanofiber matrix that mimics natural wetlands to enhance plant growth and nutrient uptake. With embedded quantum sensors, it automatically maintains ideal water quality and enables 95% nutrient recycling. Designed for seamless integration, its {{tm.slideLockTM}} technology allows users to hot-swap pads in under 10 seconds.¬
+
+¬hydraPad_short:
+**{{tm.hydraPadTM}}** - a smart hydroponic insert that uses a bio-engineered nanofiber matrix and quantum sensors to optimize aquatic plant growth and enable 95% nutrient recycling, with a {{tm.slideLockTM}} mechanism for 10-second swaps.¬
+
+¬coreFrame: 
+**{{tm.coreFrame}}** - The primary structural unit (1000mm × 500mm × 500mm) that integrates all integratedUtilities and hosts all modules via slideLockShelves.¬
+
+¬aromaticHerb_short:
+**{{tm.aromaticHerbs}}** - small, quick-maturing plants used to enhance dishes with vibrant tastes and aromas.¬
+
+¬leafyGreens_short:
+**{{tm.leafyGreens}}** - nutritious foliage for salads and cooking.¬
+
+¬fruitingVeg_short:
+**{{tm.fruitingVeg}}** - edible fruits or pods, offering juicy, vitamin-rich additions to meals.¬
+
+¬rootsStems_short:
+**{{tm.rootsStems}}** - that store nutrients, cultivated in soil-less or aerated mediums for hearty, versatile edibles.¬
+
+¬EedibleFlowers_short:
+**{{tm.edibleFlowersSpecialtyGreens}}** - add color, flavor, and novelty to dishes.¬
+
+¬aquaticPlants_short:
+**{{tm.aquaticPlantsAlgae}}** - water-based flora that grow in submerged or moist environments, providing nutrient-rich edible uses in various cuisines.¬
+
+¬mushrooms_short:
+**{{tm.mushroomsFungi}}** - grown in moist, low-light conditions, offering earthy flavors and textures.¬
+
+¬fish_short:
+**{{tm.fish}}** - small, freshwater, raised filtered water systems to produce lean proteins ideal for various light dishes.¬
+
+¬crustaceans_short:
+**{{tm.crustaceans}}** - dwarf freshwater breeds raised in compact tanks for fast-turnaround harvests.¬
+
+¬mycoBlock_short:
+**{{tm.mycoBlockTM}}** - a pre-colonized, compact substrate block - typically made of supplemented sawdust or grain - that is fully permeated with mushroom mycelium, ready to fruit. Designed as a slide-in module for balcony cultivation towers, it eliminates the complex steps of inoculation and spawn run, allowing urban growers to simply activate fruiting conditions.¬
+
+¬haloponic_short_:
+**{{tm.haloponicTM}}** - a specialized, recirculating aquaculture system designed to maintain a stable, artificial seawater environment for cultivating marine species in landlocked urban settings. It uses a precise balance of marine salts and minerals, coupled with robust biological and mechanical filtration, to recreate coastal conditions. This allows balcony farmers to grow saltwater fish, shellfish, and seaweeds far from the ocean, integrating them into a sustainable, closed-loop urban food web.¬
+
+¬symbioTainer_short_:
+**{{tm.symbioTainerTM}}** - a self-contained, climate-controlled habitat module designed for cultivating terrestrial organisms like snails or insects in an urban setting. It features integrated systems for automated humidity, temperature, and ventilation control, creating an optimized environment for growth and reproduction. This plug-and-play unit allows for the efficient, high-yield production of specialty proteins within a compact balcony footprint.¬
+
+¬molluscs_short:
+**{{tm.molluscsBivalves}}** - freshwater, perfect for creating hearty, steamed or soup-based meals.¬
+
+¬snails_short:
+**{{tm.snailsGastropods}}** - terrestrial, thrive in simple enclosures, offering a gourmet protein option with minimal care required.¬
+
+¬lowPressureAeroponicsTree:
+**{{tm.lowPressureAeroponicsTree}}** – a branching manifold that sprays a fine nutrient mist at < 1 bar, maximising root oxygen while reducing water use by 95% versus drip systems.¬
+
+¬hydraRailFogNozzles:
+**{{tm.hydraRailFogNozzles}}** – quick-connect misters that plug into the frame's magnetic fluid bus; software toggles each port between fog, drip or off without hardware swaps.¬
+
+¬rfidSeedPadBayCartridges:
+###### {{tm.rFIDSeedPadCartridges}}
+
+A single-use seed mat with a passive RFID (radio-frequency identification) chip laminated into it. The mat is a thin, sterile sheet of biodegradable cellulose, pre-loaded with evenly spaced seeds and starter nutrients. It is designed to slide into the module once, ensuring users never handle loose seeds or growth media.
+
+When the pad clicks into the bay, {{tm.harvestSageTM}} reads the RFID tag to pull key data: variety ID, lot number, germination date, required growth recipe (light spectrum, nutrient EC, fog intervals), and safe-to-eat age.
+
+**Key Benefits:**
+- **Zero Set-up:** The grow unit auto-loads the correct program the moment the pad is inserted.
+- **Traceability & Food Safety:** Instantly locate every pad from a specific seed lot in the event of a recall.
+- **Inventory Automation:** Scan unopened packs to maintain accurate, real-time stock and expiry data.¬
+
+¬rfidSeedPadBayCartridges_short:
+**{{tm.rFIDSeedPadCartridges}}** – single-use seed mats embedded with passive RFID chips. {{tm.harvestSageTM}} reads variety, sow-date and recipe, then logs the full life-cycle for traceability.¬
+
+¬precisionHeatRootFilm:
+**{{tm.precisionHeatRootFilm}}** – graphene heater layer fused to root-chamber walls; PID control holds ±0.3 °C, boosting germination and slashing energy when inactive zones power down.¬
+
+¬deepFlowNftTroughInserts:
+**{{tm.deepFlowNftTroughInserts}}** – interchangeable gullies that hold a shallow, fast-moving nutrient film, ensuring constant oxygen and preventing salt crusting on greens.¬
+
+¬variableSpeedLaminarPump:
+**{{tm.variableSpeedLaminarPump}}** – EC-sensor-driven pump that throttles to 30% at night, saving ~0.6 kWh day⁻¹ while preserving dissolved-oxygen levels.¬
+
+¬telescopingTrellisSmartWinch:
+**{{tm.telescopingTrellisSmartWinch}}** – motorised lattice extends with the vine; tension sensors rewind slack to prevent stem breakage or shading.¬
+
+¬microBeadCapillarySubstrate:
+**{{tm.microBeadCapillarySubstrate}}** – 1 mm porous glass beads wick moisture yet drain instantly; a five-minute steam pulse sterilises them between crops.¬
+
+¬moistureGradientAeratedColumns:
+**{{tm.moistureGradientAeratedColumns}}** – root tubes with dry, aerated tops and moist bases, steering tap-roots downward for uniform shape.¬
+
+¬sideEjectDrawer:
+**{{tm.sideEjectDrawer}}** – sliding carriage pulls the entire root column horizontally, avoiding media compaction or tap-root breakage.¬
+
+¬dualZoneMoistureProfile:
+**{{tm.dualZoneMoistureProfile}}** – alternating mid-layer mist and timed base flood; stems thicken for crunch while roots absorb bulk nutrients.¬
+
+¬laminarAirflowCanopy:
+**{{tm.laminarAirflowCanopy}}** – silent cross-flow fan creates a 0.2 m s⁻¹ air sheet, dispersing humidity pockets and reducing petal disease.¬
+
+¬electrostaticPollenLift:
+**{{tm.electrostaticPollenLift}}** – ioniser charges pollen so it lifts onto stigmas, achieving > 90% self-pollination without bees or brushes.¬
+
+¬shallowRacewaySwirlFlowControl:
+**{{tm.shallowRacewaySwirlFlowControl}}** – flat 3 L tray whose paddle wheel shifts from laminar flow (duckweed) to vortex (spirulina) on demand.¬
+
+¬darkCycleChamberO2Pulse:
+**{{tm.darkCycleChamberO2Pulse}}** – lights stay off; dissolved O₂ spikes hourly, replicating dawn forest cues that trigger mushroom pinning.¬
+
+¬co2ScrubbingBioFilter:
+**{{tm.co2ScrubbingBioFilter}}** – living moss/activated-carbon mat absorbs excess CO₂ during colonisation, preventing off-flavours and speeding fruit-set.¬
+
+¬dualKingdomSubstrateCassette:
+**{{tm.dualKingdomSubstrateCassette}}** – split block: loamy upper layer for vegetables, alkaline limestone lower layer for truffle mycelium, enabling dual harvests.¬
+
+¬trackMazeHabitat:
+**{{tm.trackMazeHabitat}}** – 90 mm spiral raceway forces snails to exercise, yielding thicker shells and higher meat-to-viscera ratios.¬
+
+¬bioFilmDripFeedSystem:
+**{{tm.bioFilmDripFeedSystem}}** – dripper coats feed leaves with probiotic film rich in calcium, feeding snails and suppressing pathogens simultaneously.¬
+
+¬microBubbleColumn:
+**{{tm.microBubbleColumn}}** – ceramic diffuser creates < 100 µm bubbles, pushing dissolved O₂ to ~10 mg L⁻¹ - ideal for bivalve filter-feeding.¬
+
+¬uvcOzoneSterilLoop:
+**{{tm.uvcOzoneSterilLoop}}** – closed loop flashes water with 254 nm UV-C then doses 0.1 ppm ozone, wiping microbes without chemicals.¬
+
+¬rotatingDrumFilter:
+**{{tm.rotatingDrumFilter}}** – mesh drum continuously strains solids; a backwash jet cleans the screen automatically into a compost stream.¬
+
+¬precisionHeatWaterJacket:
+**{{tm.precisionHeatWaterJacket}}** – liquid jacket regulates aquaculture temperature within ±0.2 °C via solid-state Peltier plates.¬
+
+¬rollOutRhizomeDrawer:
+**{{tm.rollOutRhizomeDrawer}}** – 150 mm-deep aerated bio-foam bed slides out fully, letting sweet-potato vines sprawl without media spill.¬
+
+¬grapheneLateralHeatLoops:
+**{{tm.grapheneLateralHeatLoops}}** – printed graphene traces snake through the rhizome slab, keeping tubers at the starch-sweet 24–26 °C band.¬
+
+¬ultrasonicRhizoShield:
+**{{tm.ultrasonicRhizoShield}}** – low-power transducers shake root hairs loose at harvest, allowing tubers to lift clean with minimal substrate cling.¬
+
+¬nearInfraRedDryMatterSensor:
+**{{tm.nearInfraRedDryMatterSensor}}** – NIR diode reads starch content; when it crosses a user-set threshold the module flags "Starch-Peak."¬
+
+¬laminarFlowOvalTank:
+**{{tm.laminarFlowOvalTank}}** – 40 L oval vessel with variable impellers that mimic anything from koi-pond ripples to trout-stream currents.¬
+
+¬movingBedNitrificationCartridge:
+**{{tm.movingBedNitrificationCartridge}}** – floating bio-media tumble in an aerated chamber, converting ammonia to nitrate and stabilising water quality.¬
+
+¬inSituInsectLarvaeFeeder:
+**{{tm.inSituInsectLarvaeFeeder}}** – hopper breeds black soldier fly larvae from kitchen scraps; doses live grubs for high-protein, zero-cost feed.¬
+
+¬proteinSkimmerUvCLoop:
+**{{tm.proteinSkimmerUvCLoop}}** – foam-fractionator strips dissolved organics while an inline UV-C tube neutralises free-floating pathogens.¬
+
+¬thermoelectricPlateChiller:
+**{{tm.thermoelectricPlateChiller}}** – solid-state cooler that drops tank temperature to 12 °C for cold-water trout without external chillers.¬
+
+¬autoLiftCarousel:
+**{{tm.autoLiftCarousel}}** – motorised ring rotates mature bay to waist height, making harvest a single ergonomic pull.¬
+
+¬sterileUvCPulse:
+**{{tm.sterileUvCPulse}}** – five-second 265 nm flash disinfects the empty bay before a new seed pad slides in.¬
+
+¬cutAndComeAgainOpticalMapping:
+**{{tm.cutAndComeAgainOpticalMapping}}** – multispectral camera highlights leaves safe to cut while leaving meristems intact, extending harvest to 60 + days.¬
+
+¬aiFruitColourTracking:
+**{{tm.aiFruitColourTracking}}** – vision model monitors hue shift; when 95% of surface reaches target colour, the system alerts or triggers the snip-bot.¬
+
+¬magneticSnipBot:
+**{{tm.magneticSnipBot}}** – miniature arm rides magnetic rails, snips ripe fruit and drops it into a sealed cup - hands stay clean.¬
+
+¬endoscopicRootSizer:
+**{{tm.endoscopicRootSizer}}** – 4 mm probe scans root diameter via structured light and illuminates the door handle when target size is reached.¬
+
+¬harvestReadyGreenDoorLight:
+**{{tm.harvestReadyGreenDoorLight}}** – handle glows green when biomass, size or aroma sensors confirm peak quality.¬
+
+¬snapAssistStemGroove:
+**{{tm.snapAssistStemGroove}}** – humidity pulses form a pre-weakened cellulose line; stems snap crisply with a gentle bend.¬
+
+¬selfDryingFlowerShelf:
+**{{tm.selfDryingFlowerShelf}}** – low-temp airflow removes residual mist so petals arrive dry and plate-ready.¬
+
+¬harvestMeshRoller:
+**{{tm.harvestMeshRoller}}** – fine nylon belt lifts floating biomass, compresses it into tidy discs and returns excess water.¬
+
+¬autoRemineraliser:
+**{{tm.autoRemineraliser}}** – ion-selective sensors trigger micro-doses of chelated nutrients after harvest, resetting solution chemistry.¬
+
+¬popOutGrowBlockSleeve:
+**{{tm.popOutGrowBlockSleeve}}** – mushroom substrate slides out in a rigid case; swap takes < 5 s with zero crumble.¬
+
+¬dehydrationMode:
+**{{tm.dehydrationMode}}** – chamber warms to 40 °C with 30% RH airflow, producing shelf-stable dried mushrooms.¬
+
+¬truffleSniffSensor:
+**{{tm.truffleSniffSensor}}** – nano-chemiresistor detects volatile sulfur compounds unique to ripe truffles and pings the user.¬
+
+¬aiScheduled7DayPurging:
+**{{tm.aiScheduled7DayPurging}}** – algorithm times snail fasting so digestive tracts clear exactly on the user's chosen cooking date.¬
+
+¬realTimeTurbidityPhSensors:
+**{{tm.realTimeTurbidityPhSensors}}** – optical and electrochemical probes guard water clarity and acidity, prompting automatic corrections.¬
+
+¬autoChillTo4C:
+**{{tm.autoChillTo4C}}** – thermoelectric chiller drops mollusc temperature two hours pre-harvest, inducing dormancy.¬
+
+¬roboticDipNet:
+**{{tm.roboticDipNet}}** – articulated scoop sizes shrimp, nets only mature ones and transfers them to an ice-cooled side pocket.¬
+
+¬drawerAssistLiftHandle:
+**{{tm.drawerAssistLiftHandle}}** – gas-spring grip lets users slide the 150 mm rhizome bed out with one hand.¬
+
+¬starchPeakDoorLight:
+**{{tm.starchPeakDoorLight}}** – indicator tied to the NIR sensor glows when tuber starch hits the user-defined sweetness threshold.¬
+
+¬appSelectableHarvestModes:
+**{{tm.appSelectableHarvestModes}}** – mobile app toggles FinWave between bulk harvest, staggered take or ornamental display.¬
+
+¬smartNetGuide:
+**{{tm.smartNetGuide}}** – retractable gate herds fish into a front catch pocket for stress-free capture.¬
+
+

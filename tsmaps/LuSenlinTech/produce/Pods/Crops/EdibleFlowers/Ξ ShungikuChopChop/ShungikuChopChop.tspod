@@ -1,0 +1,60 @@
+{
+    "key": "yQBrrR002h  ",
+    "token": "Shungikuchopchop",
+    "name": "ShungikuChopChop",
+    "created": "2025-11-02T16:23:03.310Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Crops/EdibleFlowers/Ξ ShungikuChopChop/ShungikuChopChop.tspod",
+    "isPod": true,
+    "iText": "Link to 'ShungikuChopChop'",
+    "___rΩΩt___": {
+        "key": "yQBtjS006j",
+        "nodes": [
+            {
+                "key": "yQBwEd02Y9",
+                "order": 1,
+                "option": "Chop-Chop - a deeper dive",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "yQC1Li015t",
+                        "order": 1,
+                        "option": "Culinary Profile & Uses",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "yQC4Td01FE",
+                        "order": 2,
+                        "option": "The Science & Story Behind It",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-yQBtjS006j",
+            "relativePath": "./δ steps/δ-yQBtjS006j.tsstp"
+        },
+        {
+            "key": "δ-yQBwEd02Y9",
+            "relativePath": "./δ steps/δ-yQBwEd02Y9.tsstp"
+        },
+        {
+            "key": "δ-yQC1Li015t",
+            "relativePath": "./δ steps/δ-yQC1Li015t.tsstp"
+        },
+        {
+            "key": "δ-yQC4Td01FE",
+            "relativePath": "./δ steps/δ-yQC4Td01FE.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "yQC8t901nB",
+        "editorID": "car_4538da8232304989aad10acc1daffc8c",
+        "ticks": 1762100648763
+    }
+}
