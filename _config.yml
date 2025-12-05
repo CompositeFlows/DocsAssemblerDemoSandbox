@@ -3,7 +3,7 @@ permalink: pretty
 
 # Setup
 title: Docs Assembler demo guide
-markdown_ext: markdown,tsfrg,md
+markdown_ext: markdown,tsfrg,tsgde,md
 source: docs
 destination: root/_site
 sass:

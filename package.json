@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "tsc && vite build --mode production",
     "min-build": "tsc && npx vite build --config vite-min.config.js",
-    "serve": "vite preview --port 1226",
+    "serve": "vite preview --port 1223",
     "build:jekyll": "jekyll build",
     "modify:html": "node modify-html.js",
     "build-modify:jekyll": "yarn build:jekyll && yarn modify:html",
