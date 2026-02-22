@@ -1,4 +1,4 @@
-Because culinary herbs are typically harvested in small, high-flavour portions, the Herb {{_.modelName}} Module is subdivided into {{_.bayCount}} bays. Plant one herb across all bays for bulk harvests or mix up to 8 different herbs for a living spice rack.
+Because culinary herbs are typically harvested in small, high-flavour portions, the Herb {{::_.modelName}} Module is subdivided into {{::_.bayCount}} bays. Plant one herb across all bays for bulk harvests or mix up to 8 different herbs for a living spice rack.
 
 All herbs are bred for:
 

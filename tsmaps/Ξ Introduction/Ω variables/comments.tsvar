@@ -1,0 +1,6 @@
+¬import el from "../../shared/externalLinks"
+
+
+¬cloneAndDownloadExtension: To view the map clone the {{::el.docsAssemblerDemoRepo_link}} and install the [extension]({{::el.docsAssemblerExtension_url}}).
+
+

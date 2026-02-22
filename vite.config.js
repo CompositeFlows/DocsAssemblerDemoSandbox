@@ -21,9 +21,9 @@ export default defineConfig({
         minify: false,
         rollupOptions: {
             output: {
-                entryFileNames: `[name].[hash].js`,
-                chunkFileNames: `[name].[hash].js`,
-                assetFileNames: `[name].[hash].[ext]`,
+                entryFileNames: `assets/[name].[hash].js`,
+                chunkFileNames: `assets/[name].[hash].js`,
+                assetFileNames: `assets/[name].[hash].[ext]`,
                 manualChunks(id) {
                     if (id.includes('src2/stepHook')) {
                         return 'stepHook';
@@ -38,7 +38,7 @@ export default defineConfig({
 
     server: {
 
-        port: 1223,
+        port: 1226,
         strictPort: true,
         https: true
     },

@@ -1,0 +1,55 @@
+{
+    "v": "1",
+    "r": {
+        "i": "uXWCZj01hK",
+        "c": 0,
+        "o": [
+            {
+                "i": "uXWbKO00l9",
+                "x": "s7LPpx0rd",
+                "c": 1,
+                "o": [
+                    {
+                        "i": "vo3sZp024X",
+                        "x": "vcIsGq01w8",
+                        "_x": "uXWh9501j7"
+                    }
+                ]
+            },
+            {
+                "i": "uXWbKO005u",
+                "x": "s7LPpx09N",
+                "c": 2,
+                "o": [
+                    {
+                        "i": "wTHcKW021G",
+                        "x": "wTGaAV00qB",
+                        "c": 2,
+                        "o": [
+                            {
+                                "i": "wTNnxq00l3",
+                                "x": "wTGaAV00qB",
+                                "_x": "uXWh9501j7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "c": [
+        {
+            "i": "s7LPpx1UH",
+            "p": "LuSenlinTech/equipment/FrameModules_frags"
+        },
+        {
+            "i": "ua27ri00bb",
+            "p": "LuSenlinTech/produce/SoloModules_frags"
+        },
+        {
+            "i": "wT7bgA0242",
+            "p": "LuSenlinTech/produce/DuoModules_frags"
+        }
+    ],
+    "e": 1
+}

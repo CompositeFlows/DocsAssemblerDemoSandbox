@@ -1,5 +1,5 @@
 ¬import smt from "./soloModulesTable"
 
 
-{{smt.fungaRootRow}}
+{{::smt.fungaRootRow}}
 {: .nt-fr-columns}

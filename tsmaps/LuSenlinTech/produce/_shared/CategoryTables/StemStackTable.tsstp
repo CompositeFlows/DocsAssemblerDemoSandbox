@@ -1,5 +1,5 @@
 ¬import smt from "./soloModulesTable"
 
 
-{{smt.stemStackRow}}
+{{::smt.stemStackRow}}
 {: .nt-fr-columns}

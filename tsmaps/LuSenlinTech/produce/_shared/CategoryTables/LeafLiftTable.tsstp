@@ -1,6 +1,6 @@
 ¬import smt from "./soloModulesTable"
 
 
-{{smt.leafLiftRow}}
+{{::smt.leafLiftRow}}
 {: .nt-fr-columns}
 

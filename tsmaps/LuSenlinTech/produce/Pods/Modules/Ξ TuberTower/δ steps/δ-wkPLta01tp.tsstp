@@ -1,5 +1,0 @@
-¬import smt from "../../../_shared/CategoryTables/soloModulesTable"
-
-
-{{smt.tuberTowerRow}}
-{: .nt-fr-columns}

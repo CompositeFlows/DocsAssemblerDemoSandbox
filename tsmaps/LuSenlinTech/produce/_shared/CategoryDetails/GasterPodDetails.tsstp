@@ -3,19 +3,19 @@
 ¬import tm from "../CategoryTables/soloModulesTable"
 
 
-###### {{tm.gasterPodName}} Technologies  
+###### {{::tm.gasterPodName}} Technologies  
 
-- {{g.trackMazeHabitat}}
-- {{g.bioFilmDripFeedSystem}}
-- {{g.uvcOzoneSterilLoop}}
-- {{g.co2ScrubbingBioFilter}}
-- {{g.realTimeTurbidityPhSensors}}
-- {{g.uvcOzoneSterilLoop}}
+- {{::g.trackMazeHabitat}}
+- {{::g.bioFilmDripFeedSystem}}
+- {{::g.uvcOzoneSterilLoop}}
+- {{::g.co2ScrubbingBioFilter}}
+- {{::g.realTimeTurbidityPhSensors}}
+- {{::g.uvcOzoneSterilLoop}}
 
 ###### Harvest Enhancements
   
-- {{g.aiScheduled7DayPurging}}
-- {{g.autoChillTo4C}}
+- {{::g.aiScheduled7DayPurging}}
+- {{::g.autoChillTo4C}}
 
-{{c.ModuleAvailability_twin}}
+{{::c.ModuleAvailability_twin}}
 

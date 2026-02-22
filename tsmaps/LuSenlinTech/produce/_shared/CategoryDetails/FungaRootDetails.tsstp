@@ -12,12 +12,12 @@ This module uses a selection of compact roots - Finger Carrot, Baby Beet, Tokyo 
 
 ###### 1. The Starter Plug
 
-{{el.luSenLinName}}’s nursery cultivates young Finger Carrots, Baby Beets, Tokyo Turnips, and Baby Kohlrabi in a sterile substrate, pre-inoculated with spores or vegetative mycelium of edible truffle species (e.g., *Tuber melanosporum* or the faster-fruiting *Tuber borchii*).
+{{::el.luSenLinName}}’s nursery cultivates young Finger Carrots, Baby Beets, Tokyo Turnips, and Baby Kohlrabi in a sterile substrate, pre-inoculated with spores or vegetative mycelium of edible truffle species (e.g., *Tuber melanosporum* or the faster-fruiting *Tuber borchii*).
 This specific selection is ideal because these roots thrive in the well-drained, aerated medium that truffles require. Their varied root structures provide a large, diverse surface area for the mycelium to colonize, creating a robust symbiotic network.
 
 ###### 2. Symbiosis in the Module
 
-Once the plug is inserted into the FungaRoot module, {{tm.harvestSageTM}} maintains the precise environmental conditions to trigger truffle formation:
+Once the plug is inserted into the FungaRoot module, {{::tm.harvestSageTM}} maintains the precise environmental conditions to trigger truffle formation:
 - A high pH (7.5–8.0)
 - A stable temperature of ~18 °C
 - Alternating moist and brief-dry cycles
@@ -40,17 +40,17 @@ In short, this system is a **dual-crop root cassette** where a selection of gour
 
 ##### Technologies  
 
-- {{g.dualKingdomSubstrateCassette}}
-- {{g.precisionHeatRootFilm}}
-- {{g.moistureGradientAeratedColumns}}
-- {{g.uvcOzoneSterilLoop}}
+- {{::g.dualKingdomSubstrateCassette}}
+- {{::g.precisionHeatRootFilm}}
+- {{::g.moistureGradientAeratedColumns}}
+- {{::g.uvcOzoneSterilLoop}}
 
 ##### Harvest Enhancements
   
-- {{g.truffleSniffSensor}}
-- {{g.sideEjectDrawer}}
-- {{g.drawerAssistLiftHandle}}
-- {{g.harvestReadyGreenDoorLight}}
+- {{::g.truffleSniffSensor}}
+- {{::g.sideEjectDrawer}}
+- {{::g.drawerAssistLiftHandle}}
+- {{::g.harvestReadyGreenDoorLight}}
 
-{{c.ModuleAvailability_all}}
+{{::c.ModuleAvailability_all}}
 

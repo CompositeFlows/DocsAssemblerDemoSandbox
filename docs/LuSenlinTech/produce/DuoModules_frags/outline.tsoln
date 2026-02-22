@@ -1,0 +1,251 @@
+{
+    "v": "1",
+    "r": {
+        "i": "wT7eOx01wI",
+        "o": [
+            {
+                "i": "wT7oQ5020i",
+                "c": 1,
+                "d": 0,
+                "o": [
+                    {
+                        "i": "wqTtUe00bd",
+                        "x": "wqTeGi01qL",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            },
+            {
+                "i": "wTGDR001Mc",
+                "c": 3,
+                "d": 2,
+                "o": [
+                    {
+                        "i": "wstnre00Ur",
+                        "x": "wss8h901vX",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            },
+            {
+                "i": "wekFZq023a",
+                "c": 5,
+                "d": 4,
+                "o": [
+                    {
+                        "i": "wtKrKK01Ss",
+                        "x": "wtJUdC01Gg",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            },
+            {
+                "i": "welEZr01uI",
+                "c": 7,
+                "d": 6,
+                "o": [
+                    {
+                        "i": "xCBsWB001z",
+                        "x": "wuSavg1Oe",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            },
+            {
+                "i": "wkPIIc028A",
+                "c": 9,
+                "d": 8,
+                "o": [
+                    {
+                        "i": "wuTPbC00sz",
+                        "x": "wtTsxD00hr",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            },
+            {
+                "i": "welvT500gK",
+                "c": 11,
+                "d": 10,
+                "o": [
+                    {
+                        "i": "wtf2vM00dt",
+                        "x": "wtXSb41kM",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            },
+            {
+                "i": "wkKebh01Bx",
+                "c": 13,
+                "d": 12,
+                "o": [
+                    {
+                        "i": "wthoiv00eJ",
+                        "x": "wtgm5X00HJ",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            },
+            {
+                "i": "wkLQIH01Hl",
+                "c": 15,
+                "d": 14,
+                "o": [
+                    {
+                        "i": "wu2apq02LD",
+                        "x": "wtu3Kb02LO",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            },
+            {
+                "i": "wkMBMl01Vd",
+                "c": 17,
+                "d": 16,
+                "o": [
+                    {
+                        "i": "xCC8nv01QQ",
+                        "x": "wuNsj120p",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            },
+            {
+                "i": "wkMmxr02GP",
+                "c": 19,
+                "d": 18,
+                "o": [
+                    {
+                        "i": "wuRQuA01Sh",
+                        "x": "wuHH6D00FW",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            },
+            {
+                "i": "wkO2mg00id",
+                "c": 21,
+                "d": 20,
+                "o": [
+                    {
+                        "i": "wuaC5m01IT",
+                        "x": "wuZNti02E2",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            },
+            {
+                "i": "wkNT1s00hy",
+                "c": 23,
+                "d": 22,
+                "o": [
+                    {
+                        "i": "wucR5h01rb",
+                        "x": "wubGs202Bw",
+                        "_x": "wTGaAV00qB"
+                    }
+                ]
+            }
+        ]
+    },
+    "c": [
+        {
+            "i": "wT8JrY00Sv",
+            "p": "LuSenlinTech/produce/Pods/Modules/AeroHerb_frags"
+        },
+        {
+            "i": "wqSrAG00n4",
+            "p": "LuSenlinTech/produce/Crops/AromaticHerbsSelect4_frags"
+        },
+        {
+            "i": "wTFT3M01sz",
+            "p": "LuSenlinTech/produce/Pods/Modules/LeafLift_frags"
+        },
+        {
+            "i": "wsqXK702Nl",
+            "p": "LuSenlinTech/produce/Crops/LeafyGreensSelect_frags"
+        },
+        {
+            "i": "wekUww017C",
+            "p": "LuSenlinTech/produce/Pods/Modules/FruitForge_frags"
+        },
+        {
+            "i": "wtF0Ww02Ne",
+            "p": "LuSenlinTech/produce/Crops/FruitingVeg_frags"
+        },
+        {
+            "i": "welO3r01ex",
+            "p": "LuSenlinTech/produce/Pods/Modules/RootVault_frags"
+        },
+        {
+            "i": "wuSavg1yb",
+            "p": "LuSenlinTech/produce/Crops/Roots_frags"
+        },
+        {
+            "i": "wkPL1J00M3",
+            "p": "LuSenlinTech/produce/Pods/Modules/TuberTower_frags"
+        },
+        {
+            "i": "wtRvcU00Xt",
+            "p": "LuSenlinTech/produce/Crops/Tubers_frags"
+        },
+        {
+            "i": "welyCL01D4",
+            "p": "LuSenlinTech/produce/Pods/Modules/StemStack_frags"
+        },
+        {
+            "i": "wtXSb416v",
+            "p": "LuSenlinTech/produce/Crops/Stems_frags"
+        },
+        {
+            "i": "wkKS2O015j",
+            "p": "LuSenlinTech/produce/Pods/Modules/PetalBloom_frags"
+        },
+        {
+            "i": "wtfKcq013p",
+            "p": "LuSenlinTech/produce/Crops/EdibleFlowers_frags"
+        },
+        {
+            "i": "wkLWL000li",
+            "p": "LuSenlinTech/produce/Pods/Modules/AquaGreen_frags"
+        },
+        {
+            "i": "wtiaC602KY",
+            "p": "LuSenlinTech/produce/Crops/AquaticPlants_frags"
+        },
+        {
+            "i": "wkMEfW00lE",
+            "p": "LuSenlinTech/produce/Pods/Modules/MycoNest_frags"
+        },
+        {
+            "i": "wuNsj11BZ",
+            "p": "LuSenlinTech/produce/Crops/MushroomsAndFungi_frags"
+        },
+        {
+            "i": "wkMzSw001H",
+            "p": "LuSenlinTech/produce/Pods/Modules/FungaRoot_frags"
+        },
+        {
+            "i": "wuGYkQ02Xu",
+            "p": "LuSenlinTech/produce/Crops/Truffles_frags"
+        },
+        {
+            "i": "wkO7nN00Y9",
+            "p": "LuSenlinTech/produce/Pods/Modules/ShellWave_frags"
+        },
+        {
+            "i": "wuYugT00Mx",
+            "p": "LuSenlinTech/produce/Crops/EdibleMolluscs_frags"
+        },
+        {
+            "i": "wkNV3B00J5",
+            "p": "LuSenlinTech/produce/Pods/Modules/GasterPod_frags"
+        },
+        {
+            "i": "wuahkg011M",
+            "p": "LuSenlinTech/produce/Crops/Snails_frags"
+        }
+    ],
+    "e": 1
+}

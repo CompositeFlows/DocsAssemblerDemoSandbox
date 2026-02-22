@@ -18,11 +18,65 @@ body {
     color: #e6e6e6;
 }
 
-.sidebar-about {
+.sidebar {
+    width: 350px;
+    padding: 30px 50px 30px 10px;
 
-    h1 {
-        margin-bottom: 2rem;
-        line-height: 1.25;
+    .sidebar-about {
+
+        h1 {
+            margin-bottom: 2rem;
+            line-height: 1.25;
+        }
+
+        h4 {
+            font-size: 18px;
+            margin: 0 0 20px 0;
+            font-weight: 400;
+            color: #8f8f8f;
+        }
+
+        ul {
+            padding: 0 0 0 20px;
+        }
+
+        li {
+            line-height: 2rem;
+            color: #8f8f8f;
+            font-weight: 400;
+        }
+    }
+
+    .sidebar-about-notes {
+        font-style: italic;
+        margin: 150px 0 30px 0;
+        font-size: 13px;
+
+        h6 {
+            font-size: 13px;
+            font-weight: 300;
+            margin: 0;
+            color: #8f8f8f;
+        }
+
+        p {
+            font-size: 13px;
+        }
+
+        a {
+            color: #6c8461;
+            text-decoration: none;
+            display: inline;
+        }
+
+        ul {
+            padding: 0 0 0 20px;
+        }
+
+        li {
+            line-height: unset;
+            font-weight: 300;
+        }
     }
 }
 
@@ -562,5 +616,108 @@ body {
         border: none;
         background-color: transparent;
         vertical-align: top;
+    }
+}
+
+@media (max-width: 1600px) {
+
+    #treeSolve #treeSolveFragments .nt-fr-ancillary-box {
+        margin-right: -100px;
+    }
+}
+
+@media (max-width: 1400px) {
+
+    #treeSolve #treeSolveFragments .nt-fr-ancillary-box {
+        margin-right: -50px;
+    }
+}
+
+@media (max-width: 1300px) {
+
+    #treeSolve #treeSolveFragments .nt-fr-ancillary-box {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 1000px) {
+
+    .sidebar {
+        padding-right: 15px;
+        width: 315px;
+    }
+
+    #treeSolve #treeSolveFragments .nt-fr-ancillary-box {
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 900px) {
+
+    .hamburger {
+        display: block;
+        background-color: #111111;
+    }
+
+    .main-content {
+        padding: 10px 3px 10px 20px;
+    }
+
+    .box-inner .sidebar {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 999;
+        background-color: #111111;
+        transform: translateY(-100%);
+        height: unset;
+        width: 100%;
+
+        p {
+            max-width: unset;
+        }
+
+        .sidebar-about h4 {
+            margin-bottom: 6px;
+        }
+
+        .sidebar-about-notes {
+            margin: 50px 0 0 0;
+
+            P {
+                margin: 0;
+            }
+        }
+    }
+
+    #boxOuter.show-sidebar .sidebar {
+        transform: translateY(0);
+        top: 0;
+        right: unset;
+        height: unset;
+        overflow: hidden;
+    }
+
+    #boxOuter.show-sidebar .hamburger div:nth-child(1) {
+        transform: rotate(-45deg) translate(-5px, 4.5px);
+    }
+
+    #boxOuter.show-sidebar .hamburger div:nth-child(2) {
+        opacity: 0;
+    }
+
+    #boxOuter.show-sidebar .hamburger div:nth-child(3) {
+        transform: rotate(45deg) translate(-5px, -4.5px);
+    }
+    
+    #treeSolve #treeSolveFragments .nt-fr-ancillary-box {
+        margin-left: 100px;
+    }
+}
+
+@media (max-width: 700px) {
+    
+    #treeSolve #treeSolveFragments .nt-fr-ancillary-box {
+        margin-left: 50px;
     }
 }

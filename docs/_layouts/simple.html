@@ -26,19 +26,19 @@
 
         {% if page.isGuide == true %}
         <div class="breadcrumbs">
-          <a href="https://github.com/CompositeFlows/DocsAssemblerDemo/tree/main/docs/{{ breadcrumb }}">
+          <a href="https://github.com/MuddySpud/MuddySpud.github.io/tree/main/docs/{{ breadcrumb }}">
             <span class="breadcrumb-name">guide: </span>
             <span class="breadcrumb-value">docs/{{ breadcrumb }}</span>
           </a>
 
           {% if firstFolder == 'BackToTheFuture' %}
-          <a href="https://github.com/CompositeFlows/DocsAssemblerDemo/tree/main/docs/{{ page.fragsFolderPath }}">
+          <a href="https://github.com/MuddySpud/MuddySpud.github.io/tree/main/docs/{{ page.fragsFolderPath }}">
             <span class="breadcrumb-name">fragments: </span>
             <span class="breadcrumb-value">{{ page.fragsFolderPath }}</span>
           </a>
           {% endif %}
 
-          <a href="https://github.com/CompositeFlows/DocsAssemblerDemo/tree/main/{{ page.mapFolderPath }}">
+          <a href="https://github.com/MuddySpud/MuddySpud.github.io/tree/main/{{ page.mapFolderPath }}">
             <span class="breadcrumb-name">map: </span>
             <span class="breadcrumb-value">{{ page.mapFolderPath }}</span>
           </a>

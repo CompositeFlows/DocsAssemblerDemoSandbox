@@ -17,13 +17,21 @@
   "devDependencies": {
     "@vitejs/plugin-basic-ssl": "^1.0.1",
     "sass": "*",
-    "typescript": "*",
+    "timing-object": "^3.1.96",
+    "typescript": "^5.9.3",
     "vite": "*",
     "vite-plugin-mkcert": "^1.16.0",
-    "vite-plugin-static-copy": "^2.3.0"
+    "vite-plugin-static-copy": "^2.3.0",
+    "yarn": "^1.22.22"
   },
   "dependencies": {
+    "@vimeo/player": "^2.30.2",
     "concurrently": "^9.2.1",
     "jsdom": "^26.1.0"
+  },
+  "volta": {
+    "node": "24.12.0",
+    "yarn": "1.22.22",
+    "typescript": "5.9.3"
   }
 }

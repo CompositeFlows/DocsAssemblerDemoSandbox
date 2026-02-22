@@ -4,23 +4,23 @@
 
 ###### Technologies
   
-- {{g.pureLight_short}}
-- {{g.shallowRacewaySwirlFlowControl}}
-- {{g.bioFloc_short}}
-- {{g.microBubbleColumn}}
-- {{g.uvcOzoneSterilLoop}}
-- {{g.realTimeTurbidityPhSensors}}
-- {{g.rotatingDrumFilter}}
-- {{g.precisionHeatWaterJacket}}
-- {{g.nanoSunBeam_short}}
-- {{g.deepFlowNftTroughInserts}}
-- {{g.hydraPad_short}}
-- {{g.autoRemineraliser}}
-- {{g.proteinSkimmerUvCLoop}}  
+- {{::g.pureLight_short}}
+- {{::g.shallowRacewaySwirlFlowControl}}
+- {{::g.bioFloc_short}}
+- {{::g.microBubbleColumn}}
+- {{::g.uvcOzoneSterilLoop}}
+- {{::g.realTimeTurbidityPhSensors}}
+- {{::g.rotatingDrumFilter}}
+- {{::g.precisionHeatWaterJacket}}
+- {{::g.nanoSunBeam_short}}
+- {{::g.deepFlowNftTroughInserts}}
+- {{::g.hydraPad_short}}
+- {{::g.autoRemineraliser}}
+- {{::g.proteinSkimmerUvCLoop}}  
 
 ###### Harvest Enhancements
   
-- {{g.harvestMeshRoller}}
+- {{::g.harvestMeshRoller}}
 
-{{c.ModuleAvailability_all}}
+{{::c.ModuleAvailability_all}}
 

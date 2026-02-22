@@ -1,0 +1,69 @@
+{
+    "key": "s7SMBI136   ",
+    "token": "Introduction",
+    "name": "Introduction",
+    "created": "2025-04-01T18:07:05.393Z",
+    "list": true,
+    "publishFileName": "Introduction",
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/Ξ Introduction/Introduction.tsmap",
+    "iText": "Link to 'Introduction'",
+    "___rΩΩt___": {
+        "key": "s7SMBI0uZ",
+        "nodes": [
+            {
+                "key": "s7SMBI0ME",
+                "order": 1,
+                "option": "Next",
+                "nodes": [
+                    {
+                        "key": "s7SMBI1Ex",
+                        "order": 1,
+                        "option": "Next",
+                        "nodes": [
+                            {
+                                "key": "s7SMBI2By",
+                                "order": 1,
+                                "option": "Next",
+                                "nodes": [
+                                    {
+                                        "key": "s7SMBI0yd",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "isLeaf": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7SMBI0uZ",
+            "relativePath": "./δ steps/δ-s7SMBI0uZ.tsstp"
+        },
+        {
+            "key": "δ-s7SMBI0ME",
+            "relativePath": "./δ steps/δ-s7SMBI0ME.tsstp"
+        },
+        {
+            "key": "δ-s7SMBI1Ex",
+            "relativePath": "./δ steps/δ-s7SMBI1Ex.tsstp"
+        },
+        {
+            "key": "δ-s7SMBI2By",
+            "relativePath": "./δ steps/δ-s7SMBI2By.tsstp"
+        },
+        {
+            "key": "δ-s7SMBI0yd",
+            "relativePath": "./δ steps/δ-s7SMBI0yd.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "u5YVDz012C",
+        "editorID": "car_de7d500878f247c090911a092e5c3f7e",
+        "ticks": 1758131143455
+    }
+}

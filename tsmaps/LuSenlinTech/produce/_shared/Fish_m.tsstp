@@ -1,5 +1,5 @@
 ¬import tm from "./CategoryTables/soloModulesTable"
 
 
-## {{tm.finWaveName}} - crop
+## {{::tm.finWaveName}} - crop
 

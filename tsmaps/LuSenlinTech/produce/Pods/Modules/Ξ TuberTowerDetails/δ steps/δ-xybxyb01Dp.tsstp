@@ -4,30 +4,30 @@
 
 ###### Technologies  
 
-- {{g.pureLight_short}}
-- {{g.hydraRail_short}}
-- {{g.hydraPad_short}}
-- {{g.hydraRailFogNozzles}}
-- {{g.nanoSunBeam_short}}
-- {{g.rfidSeedPadBayCartridges_short}}
-- {{g.moistureGradientAeratedColumns}}
-- {{g.microBeadCapillarySubstrate}}
-- {{g.sideEjectDrawer}}
-- {{g.precisionHeat_short}}
-- {{g.precisionHeatRootFilm}}
-- {{g.grapheneLateralHeatLoops}}
-- {{g.telescopingTrellisSmartWinch}}
-- {{g.ultrasonicRhizoShield}}
+- {{::g.pureLight_short}}
+- {{::g.hydraRail_short}}
+- {{::g.hydraPad_short}}
+- {{::g.hydraRailFogNozzles}}
+- {{::g.nanoSunBeam_short}}
+- {{::g.rfidSeedPadBayCartridges_short}}
+- {{::g.moistureGradientAeratedColumns}}
+- {{::g.microBeadCapillarySubstrate}}
+- {{::g.sideEjectDrawer}}
+- {{::g.precisionHeat_short}}
+- {{::g.precisionHeatRootFilm}}
+- {{::g.grapheneLateralHeatLoops}}
+- {{::g.telescopingTrellisSmartWinch}}
+- {{::g.ultrasonicRhizoShield}}
 
 ###### Harvest Enhancements
   
-- {{g.endoscopicRootSizer}}
-- {{g.rollOutRhizomeDrawer}}
-- {{g.sideEjectDrawer}}
-- {{g.nearInfraRedDryMatterSensor}}
-- {{g.harvestReadyGreenDoorLight}}  
-- {{g.drawerAssistLiftHandle}}
-- {{g.starchPeakDoorLight}}  
+- {{::g.endoscopicRootSizer}}
+- {{::g.rollOutRhizomeDrawer}}
+- {{::g.sideEjectDrawer}}
+- {{::g.nearInfraRedDryMatterSensor}}
+- {{::g.harvestReadyGreenDoorLight}}  
+- {{::g.drawerAssistLiftHandle}}
+- {{::g.starchPeakDoorLight}}  
 
-{{c.ModuleAvailability_all}}
+{{::c.ModuleAvailability_all}}
 

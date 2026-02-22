@@ -1,5 +1,5 @@
 ¬import tm from "./CategoryTables/soloModulesTable"
 
 
-## {{tm.shellWaveName}} - crops
+## {{::tm.shellWaveName}} - crops
 

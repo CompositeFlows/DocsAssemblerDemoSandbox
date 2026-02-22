@@ -2,9 +2,9 @@
 ¬import euh from "../_shared/ExploreUnderTheHood"
 
 
-### {{euh.howItWorksTitle}}
+### {{::euh.howItWorksTitle}}
 
-{{el.docsAssemblerExtension_link}} introduces key concepts that leverage this philosophy:
+{{::el.docsAssemblerExtension_link}} introduces key concepts that leverage this philosophy:
 
 *   **Maps (.tsmap files):** These are the core building blocks - self-contained documentation modules (JSON files) that can be nested and composed, just like classes. Each Map can encapsulate anything from a simple procedure to an entire troubleshooting tutorial.
 *   **Variables:** Define reusable text snippets for product names, common phrases, or URLs. Change the variable in one place, and that change propagates everywhere it’s referenced, eliminating an entire class of errors.

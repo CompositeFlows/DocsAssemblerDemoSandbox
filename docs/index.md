@@ -6,12 +6,11 @@ fragsFolderPath: index_frags
 
 ---
 
-
-<!-- tsGuideRenderComment {"guide":{"id":"zFvFbi0gW","path":"","fragmentFolderPath":"DocumentationHell_frags"},"fragment":{"id":"zFvFbi0gW","topLevelMapKey":"sIhxfx02EB","mapKeyChain":"sIhxfx02EB","guideID":"zFvFbi2I9","chartKey":"sIhxfx02EB","isLeaf":false,"options":[{"id":"zFvFdG0Qn","option":"Explore a Docs Assembler solution ","order":1},{"id":"zFvFds1F5","option":"Explore a Docs Assembler solution - with tech notes","order":2}]}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"sIi16r00h6","path":"","fragmentFolderPath":"DocumentationHell_frags"},"fragment":{"id":"sIi16r00h6","topLevelMapKey":"sIhxfx02EB","mapKeyChain":"sIhxfx02EB","guideID":"sIhxfx02EB","chartKey":"sIhxfx02EB","isLeaf":false,"options":[{"id":"u4eeh600MG","option":"See the Networks in Action","order":1},{"id":"uqem6A02Wl","option":"See the Networks in Action - with tech notes","order":2}]}} -->
 
 *This is an experimental port from a C# server/database application - to a GitHub repo/VS Code extension. A concept driven by transformational conversations with a robotics firm - [HAL Robotics](https://hal-robotics.com).*
 
-*This site is built with [Docs Assembler](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler) and hosted on [GitHub Pages](https://docs.github.com/en/pages). You can view the documentation structure in the [Docs Assembler Demo repo](https://github.com/CompositeFlows/DocsAssemblerDemo) or the [Docs Assembler Demo Sandbox repo](https://github.com/CompositeFlows/DocsAssemblerDemoSandbox).*
+
 
 # Escape Documentation Hell
 
@@ -23,6 +22,15 @@ There is no lock‑in - it publishes to plain Markdown files, so you can uninsta
 
 This website is a guide built with [Docs Assembler](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler). The 'Vertical Kitchen Garden Planner' below, is a component embedded within it to give an idea of the complexity these guides can manage.
 
+## We think in webs, yet we're sentenced to lines
+
+Human knowledge branches, loops, and layers - a living web of what-ifs, dependencies, and context. Yet we've had no way to pour this networked thinking onto paper. Traditional documents force us to flatten complexity into linear prose, losing the very structure that makes expertise usable.
+
+[Docs Assembler](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler) breaks the sentence.
+
+It applies the principles of software systems that run the clouds to knowledge itself - capturing depth without redundancy or fragility. Networked thinking, made explicit, shareable, and mergeable. So others can understand and learn, or extend and refine.
+
+Its true power, though, lies in what you'll build with it.
 ### The Problem with Traditional Manuals
 
 Most organisations rely on traditional manuals, PDFs, and wikis, yet these static resources cannot capture the branching logic of expert troubleshooting or the situational nuances users face. This gap forces companies to rely on expensive, person-to-person training, creating a fragile system that hinges on a few key people. The result is an organisation perpetually one retirement away from a crisis: a true documentation hell where essential knowledge is unrecorded, scattered, and ultimately unusable when it matters most.

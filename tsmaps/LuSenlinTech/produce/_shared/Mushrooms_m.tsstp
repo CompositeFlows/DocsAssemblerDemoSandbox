@@ -1,5 +1,5 @@
 ¬import tm from "./CategoryTables/soloModulesTable"
 
 
-## {{tm.mycoNestName}} - crops
+## {{::tm.mycoNestName}} - crops
 

@@ -2,11 +2,11 @@
 ¬import euh from "../_shared/ExploreUnderTheHood"
 
 
-### {{euh.exploreUnderTheHood}}
+### {{::euh.exploreUnderTheHood}}
 
-This section, '{{euh.howItWorksTitle}}', is a single step from the documentation's opening map. To see the mechanics behind it, click the ancillary button below-right labelled 'Show this step...'.
+This section, '{{::euh.howItWorksTitle}}', is a single step from the documentation's opening map. To see the mechanics behind it, click the ancillary button below-right labelled 'Show this step...'.
 
-An ancillary is how {{el.docsAssemblerExtension_link}} keeps guides clean. It lets you expand detailed information on demand, keeping the main path focused for readers who don't need the extra detail. These ancillary buttons are anchored to the right margin.
+An ancillary is how {{::el.docsAssemblerExtension_link}} keeps guides clean. It lets you expand detailed information on demand, keeping the main path focused for readers who don't need the extra detail. These ancillary buttons are anchored to the right margin.
 
-Clicking it will open a panel showing a screenshot of this very step open in {{el.vscode_link}}. From there, use the ancillary buttons within the panel to drill down and explore the interconnected structure for yourself.
+Clicking it will open a panel showing a screenshot of this very step open in {{::el.vscode_link}}. From there, use the ancillary buttons within the panel to drill down and explore the interconnected structure for yourself.
 

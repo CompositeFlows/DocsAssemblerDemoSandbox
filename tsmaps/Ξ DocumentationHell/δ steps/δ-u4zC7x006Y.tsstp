@@ -5,19 +5,19 @@
 
 #### The Power of Variables:
 
-The step **"{{euh.exploreUnderTheHood}}"** has an ancillary option **"Show this step..."**. Selecting it reveals the following view in {{el.docsAssemblerExtension_link}}:
+The step **"{{::euh.exploreUnderTheHood}}"** has an ancillary option **"Show this step..."**. Selecting it reveals the following view in {{::el.docsAssemblerExtension_link}}:
 
-{{il.showThisStepAncillary_image}}
+{{::il.showThisStepAncillary_image}}
 
 Notice line 14.  
 It is a **variable**: 
 
-{{il.howItWorksVariable_image}}
+{{::il.howItWorksVariable_image}}
 
 On publish, a variable is automatically replaced with the variable's value.  
 In this case it is markdown for an image link:
 
-{{il.howItWorksImageHtml_image}}
+{{::il.howItWorksImageHtml_image}}
 
 ##### This approach provides two key advantages:
 

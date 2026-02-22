@@ -3,9 +3,9 @@
 
 ###### Key Features:
 
-- {{g.scalableStacking_short}}
-- {{g.integratedUtilities_short}}
-- {{g.pureLight_short}}
-- {{g.harvestSage_short}}
-- {{g.slideLockShelves_short}}
-- {{g.windLock_short}}
+- {{::g.scalableStacking_short}}
+- {{::g.integratedUtilities_short}}
+- {{::g.pureLight_short}}
+- {{::g.harvestSage_short}}
+- {{::g.slideLockShelves_short}}
+- {{::g.windLock_short}}

@@ -3,7 +3,7 @@
 
 Quick Reference
 
-- {{g.harvestSage_short}}
-- {{g.pureLight_short}}
-- {{g.precisionHeat_short}}
+- {{::g.harvestSage_short}}
+- {{::g.pureLight_short}}
+- {{::g.precisionHeat_short}}
 

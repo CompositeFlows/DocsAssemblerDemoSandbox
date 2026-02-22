@@ -1,0 +1,13 @@
+---
+title: null
+isGuide: true
+mapFolderPath: tsmaps/TEST/%CE%9E%20TestMap4
+fragsFolderPath: TEST/TestMap4_frags
+
+---
+
+
+<!-- tsGuideRenderComment {"guide":{"id":"10bcgFn010n","path":"TEST","fragmentFolderPath":"TEST/TestMap4_frags"},"fragment":{"id":"10bcgFn010n","topLevelMapKey":"10bcd6W00Jc","mapKeyChain":"10bcd6W00Jc","guideID":"10bcd6W00Jc","chartKey":"10bcd6W00Jc","isLeaf":false,"options":[{"id":"10bcnA9019O","option":"Next","order":1}]}} -->
+
+Root TestMap4
+

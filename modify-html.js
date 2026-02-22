@@ -3,7 +3,7 @@ import { join } from 'path';
 import { JSDOM } from 'jsdom';
 
 // Configuration
-const folderPath = 'root\\_site'; // Path to Jekyll output
+const folderPath = 'root/_site'; // Path to Jekyll output
 const templatePath = 'template2.html'; // Path to HTML template in repo root
 const treeSolveGuideSelector = '#treeSolveGuide'; // CSS selector for insertion
 
@@ -17,10 +17,10 @@ function isElementEmpty(element) {
 // Recursive function to get all HTML files in directory and subdirectories
 async function getHtmlFiles(dir) {
 
-  if (dir === 'root\\_site\\HAL'
-    || dir === 'root\\_site\\RedDwarf'
-    || dir === 'root\\_site\\BackToTheFuture'
-    || dir === 'root\\_site\\assets'
+  if (dir === 'root/_site/HAL'
+    || dir === 'root/_site/RedDwarf'
+    || dir === 'root/_site/BackToTheFuture'
+    || dir === 'root/_site/assets'
     || dir.endsWith('_frags')) {
 
     return [];
@@ -42,7 +42,7 @@ async function getHtmlFiles(dir) {
     }
     else {
 
-      if (dir === 'root\\_site') {
+      if (dir === 'root/_site') {
         continue;
       }
 
@@ -163,7 +163,7 @@ async function processHtmlFiles() {
         // Write modified HTML back
         await fs.writeFile(file, dom.serialize(), 'utf8');
 
-        console.log(`Modified ${file}`);
+        // console.log(`Modified ${file}`);
       }
     }
 
@@ -180,7 +180,7 @@ async function processFindAndReplaceFiles() {
 
   try {
     // Get all HTML files recursively
-    const htmlFiles = await getFindAndReplaceFiles('root\\_site');
+    const htmlFiles = await getFindAndReplaceFiles('root/_site');
 
     // Process each file
     for (const file of htmlFiles) {
@@ -195,7 +195,7 @@ async function processFindAndReplaceFiles() {
       // Write modified text back
       await fs.writeFile(file, newContent, 'utf8');
 
-      console.log(`Modified ${file}`);
+      // console.log(`Modified ${file}`);
     }
   }
   catch (error) {
@@ -209,7 +209,7 @@ async function processDocumentationHellMap() {
 
   try {
 
-    const documentationHellFilePath = 'root\\_site\\DocumentationHell\\index.html';
+    const documentationHellFilePath = 'root/_site/DocumentationHell/index.html';
 
     const oldContent = await fs.readFile(documentationHellFilePath, 'utf8');
 
@@ -228,7 +228,7 @@ async function processDocumentationHellMap() {
     // Write modified text back
     await fs.writeFile(documentationHellFilePath, newContent, 'utf8');
 
-    console.log(`^^^^^^^^^^^^^^^^^^^^^^^^Modified ${documentationHellFilePath}`);
+    // console.log(`^^^^^^^^^^^^^^^^^^^^^^^^Modified ${documentationHellFilePath}`);
   }
   catch (error) {
 

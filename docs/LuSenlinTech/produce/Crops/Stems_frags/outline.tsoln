@@ -1,0 +1,38 @@
+{
+    "v": "1",
+    "r": {
+        "i": "wtXSb42VK",
+        "o": [
+            {
+                "i": "wtXSb40ZJ",
+                "_x": "wtXSb41kM",
+                "d": 0
+            },
+            {
+                "i": "wtXSb41MR",
+                "_x": "wtXSb41kM",
+                "d": 1
+            },
+            {
+                "i": "wtXSb40Qx",
+                "_x": "wtXSb41kM",
+                "d": 2
+            }
+        ]
+    },
+    "c": [
+        {
+            "i": "yKWUn00188",
+            "p": "LuSenlinTech/produce/Pods/Crops/RootsAndStems/WaterSpinachStemWSLite_frags"
+        },
+        {
+            "i": "yKYTzM02F3",
+            "p": "LuSenlinTech/produce/Pods/Crops/RootsAndStems/BabyKohlrabiMiniStem_frags"
+        },
+        {
+            "i": "yKZ2Ua01tJ",
+            "p": "LuSenlinTech/produce/Pods/Crops/RootsAndStems/CompactCeleryStalkShort_frags"
+        }
+    ],
+    "e": 1
+}

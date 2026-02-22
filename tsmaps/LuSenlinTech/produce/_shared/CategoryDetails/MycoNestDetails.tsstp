@@ -3,21 +3,21 @@
 ¬import tm from "../CategoryTables/soloModulesTable"
 
 
-###### {{tm.mycoNestName}} Technologies  
+###### {{::tm.mycoNestName}} Technologies  
 
-- {{g.darkCycleChamberO2Pulse}}
-- {{g.co2ScrubbingBioFilter}}
-- {{g.uvcOzoneSterilLoop}}
-- {{g.sterileUvCPulse}}
-- {{g.precisionHeat_short}}
-- {{g.precisionHeatWaterJacket}}
-- {{g.hydraRailFogNozzles}}
-- {{g.laminarAirflowCanopy}}
+- {{::g.darkCycleChamberO2Pulse}}
+- {{::g.co2ScrubbingBioFilter}}
+- {{::g.uvcOzoneSterilLoop}}
+- {{::g.sterileUvCPulse}}
+- {{::g.precisionHeat_short}}
+- {{::g.precisionHeatWaterJacket}}
+- {{::g.hydraRailFogNozzles}}
+- {{::g.laminarAirflowCanopy}}
 
 ###### Harvest Enhancements
   
-- {{g.popOutGrowBlockSleeve}}
-- {{g.dehydrationMode}}  
+- {{::g.popOutGrowBlockSleeve}}
+- {{::g.dehydrationMode}}  
 
-{{c.ModuleAvailability_all}}
+{{::c.ModuleAvailability_all}}
 

@@ -1,5 +1,5 @@
 ¬import smt from "./soloModulesTable"
 
 
-{{smt.aeroHerbRow}}
+{{::smt.aeroHerbRow}}
 {: .nt-fr-columns}

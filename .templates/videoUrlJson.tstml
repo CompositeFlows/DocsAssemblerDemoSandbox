@@ -1,0 +1,11 @@
+<div class="nt-tp-video-view">
+    <div class="nt-tp-video-background">
+        <div class="nt-tp-video-case">
+            <div class="nt-tp-video-box">
+                <div class="nt-tp-video">
+                    <div class="nt-tp-vimeo-player" data-vimeo-url="{?::url?}"> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,13 @@
+¬import ll from "../../shared/localLinks"
+¬import c from "../Ω variables/comments"
+
+
+## 1. Simple Guide
+
+The simplest guide, with fixed steps presented as an article - like a manual, book, or essay.
+
+Example: [Holly's Guide To Fix Red Dwarf Food Dispenser]{{::ll.redDwarfFoodDispenserFix_map_link}} 
+
+Map: [RedDwarfFoodDispenserFix.tsmap](https://github.com/MuddySpud/MuddySpud.github.io/blob/main/tsmaps/RedDwarf/%CE%9E%20RedDwarfFoodDispenserFix)   
+*{{::c.cloneAndDownloadExtension}}*
+

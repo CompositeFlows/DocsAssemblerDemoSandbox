@@ -8,8 +8,8 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome localhost",
-            // "url": "https://localhost:1223/_site/LuSenlinTech/FoodGrowingSpacePlan/",
-            "url": "https://localhost:1223/_site/DocumentationHell/",
+            // "url": "https://localhost:1226/_site/LuSenlinTech/FoodGrowingSpacePlan/",
+            "url": "https://localhost:1226/_site/DocumentationHell/",
             "webRoot": "${workspaceFolder}/root"
         },
         {

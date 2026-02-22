@@ -1,0 +1,47 @@
+{
+    "v": "1",
+    "r": {
+        "i": "wtS1WU029T",
+        "o": [
+            {
+                "i": "wtSOzr01VF",
+                "_x": "wtTsxD00hr",
+                "d": 0
+            },
+            {
+                "i": "wtSS5y00HQ",
+                "_x": "wtTsxD00hr",
+                "d": 1
+            },
+            {
+                "i": "wtSTh501sL",
+                "_x": "wtTsxD00hr",
+                "d": 2
+            },
+            {
+                "i": "wtSVLH01Ke",
+                "_x": "wtTsxD00hr",
+                "d": 3
+            }
+        ]
+    },
+    "c": [
+        {
+            "i": "yKVysx01sK",
+            "p": "LuSenlinTech/produce/Pods/Crops/RootsAndStems/BabySweetPotatoPocketYama_frags"
+        },
+        {
+            "i": "yKWya700Ch",
+            "p": "LuSenlinTech/produce/Pods/Crops/RootsAndStems/BabyGingerZingyCore_frags"
+        },
+        {
+            "i": "yKXNWc00FO",
+            "p": "LuSenlinTech/produce/Pods/Crops/RootsAndStems/YoungLotusRootUrbanLotus_frags"
+        },
+        {
+            "i": "yKXx2c01Le",
+            "p": "LuSenlinTech/produce/Pods/Crops/RootsAndStems/DwarfTaroTaroTiny_frags"
+        }
+    ],
+    "e": 1
+}

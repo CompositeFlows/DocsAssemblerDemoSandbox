@@ -2,6 +2,7 @@
 import { defineConfig } from 'vite';
 import mkcert from 'vite-plugin-mkcert';
 import path from 'path';
+import { viteStaticCopy } from 'vite-plugin-static-copy';
 
 
 // https://vitejs.dev/config/
@@ -31,21 +32,23 @@ export default defineConfig({
 
     server: {
 
-        port: 1223,
+        port: 1226,
         strictPort: true,
         https: true
     },
 
     plugins: [
         mkcert(),
-        visualizer(),
+        // visualizer(),
+        viteStaticCopy({
+            targets: [
+                {
+                    src: 'src/modules/components/fragments/scss/fragments.scss',
+                    dest: '../build'
+                }
+            ]
+        })
     ],
-
-    resolve: {
-        alias: {
-            $fonts: path.resolve(__dirname, 'root/src/modules/fonts'),
-        }
-    },
 
     css: {
         preprocessorOptions: {

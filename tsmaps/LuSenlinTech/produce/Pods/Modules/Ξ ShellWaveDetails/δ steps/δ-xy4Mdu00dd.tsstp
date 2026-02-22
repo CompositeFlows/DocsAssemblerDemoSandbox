@@ -4,24 +4,24 @@
 
 ###### Technologies  
 
-- {{g.rotatingDrumFilter}}
-- {{g.precisionHeatWaterJacket}}
-- {{g.realTimeTurbidityPhSensors}}
-- {{g.microBubbleColumn}}
-- {{g.uvcOzoneSterilLoop}}
-- {{g.rotatingDrumFilter}}
-- {{g.proteinSkimmerUvCLoop}}
-- {{g.movingBedNitrificationCartridge}}
-- {{g.laminarFlowOvalTank}}
-- {{g.thermoelectricPlateChiller}}
-- {{g.inSituInsectLarvaeFeeder}}
-- {{g.shallowRacewaySwirlFlowControl}}
+- {{::g.rotatingDrumFilter}}
+- {{::g.precisionHeatWaterJacket}}
+- {{::g.realTimeTurbidityPhSensors}}
+- {{::g.microBubbleColumn}}
+- {{::g.uvcOzoneSterilLoop}}
+- {{::g.rotatingDrumFilter}}
+- {{::g.proteinSkimmerUvCLoop}}
+- {{::g.movingBedNitrificationCartridge}}
+- {{::g.laminarFlowOvalTank}}
+- {{::g.thermoelectricPlateChiller}}
+- {{::g.inSituInsectLarvaeFeeder}}
+- {{::g.shallowRacewaySwirlFlowControl}}
 
 ###### Harvest Enhancements
   
-- {{g.roboticDipNet}}
-- {{g.autoChillTo4C}}
-- {{g.appSelectableHarvestModes}}
-- {{g.smartNetGuide}}
+- {{::g.roboticDipNet}}
+- {{::g.autoChillTo4C}}
+- {{::g.appSelectableHarvestModes}}
+- {{::g.smartNetGuide}}
 
-{{c.ModuleAvailability_all}}
+{{::c.ModuleAvailability_all}}

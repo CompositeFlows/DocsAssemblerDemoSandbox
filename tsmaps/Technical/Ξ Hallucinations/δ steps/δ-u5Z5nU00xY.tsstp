@@ -22,5 +22,5 @@ An LLM does this on a colossal scale. It has analyzed billions of sentences and 
 *   **They are probabilistic, not deterministic.** Give the same prompt twice, and you might get two slightly different answers. The output is a product of statistical probability.
 *   **This is why they "hallucinate."** If the most statistically likely word sequence happens to form an incorrect statement, the LLM will generate it with confidence. It has no mechanism to fact-check itself against reality.
 
-**In short:** An LLM is a powerful tool for generating human-like text, but its output is only as reliable as the information that guides it. This is why it must be grounded in a verifiable source of truth - like the structured knowledge you build with {{el.docsAssemblerExtension_link}}.
+**In short:** An LLM is a powerful tool for generating human-like text, but its output is only as reliable as the information that guides it. This is why it must be grounded in a verifiable source of truth - like the structured knowledge you build with {{::el.docsAssemblerExtension_link}}.
 

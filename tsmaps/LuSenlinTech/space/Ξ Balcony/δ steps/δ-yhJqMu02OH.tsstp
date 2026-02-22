@@ -12,5 +12,5 @@ The survey will analyze:
 *   **Micro-Climate Mapping:** Identifying potential wind tunnels, frost pockets, or heat sinks specific to your balcony.
 *   **Structural Planning:** Ensuring the ideal placement for both plant health and your enjoyment of the space.
 
-This data allows us to fine-tune the schedule of your **{{tm.precisionHeatTM}}** system and other climate controls, guaranteeing your garden thrives in its unique environment. If your system requires off-grid power, this survey will also determine the optimal tilt and placement for **{{tm.hotCarrierTM}}** solar panels.
+This data allows us to fine-tune the schedule of your **{{::tm.precisionHeatTM}}** system and other climate controls, guaranteeing your garden thrives in its unique environment. If your system requires off-grid power, this survey will also determine the optimal tilt and placement for **{{::tm.hotCarrierTM}}** solar panels.
 

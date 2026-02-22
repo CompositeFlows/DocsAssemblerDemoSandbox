@@ -1,5 +1,5 @@
 ¬import g from "../../../_shared/glossary"
 
 
-{{g.solisCell}}
+{{::g.solisCell}}
 

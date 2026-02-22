@@ -1,5 +1,0 @@
-¬import smt from "../../_shared/CategoryTables/soloModulesTable"
-
-
-{{smt.crustaBayRow}}
-{: .nt-fr-columns}
